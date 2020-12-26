@@ -1,0 +1,52 @@
+1	Uzoq muddatli investisiyalar qisqa muddatliga o‘tkazilgan 	5810	0610	O‘tkazish shartnomasi
+2	Qimmatli qog‘ozlar ustav kapitalidagi ulush hisobiga kelib tushgan 	5810	4610	Bildirgi, bank ko‘chirmasi 
+3	Qimmatli qog‘ozlar aksiyalarga to‘lov hisobiga kelib tushgan 	5810	4610	Bildirgi, bank ko‘chirmasi 
+4	Qimmatli qog‘ozlar naqd pulga xarid qilingan 	5810	5010	Oldi-sotdi shartnomasi, chiqim kassa orderi 
+5	Qimmatli qog‘ozlar qiymati hisob-kitob schyotidan to‘lash yo‘li bilan xarid qilingan 	5810	5110	Oldi-sotdi shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+6	Qimmatli qog‘ozlar qiymati valyuta schyotidan to‘lash yo‘li bilan xarid qilingan 	5810	5210, 5220	Oldi-sotdi shartnomasi, valyuta schyotidan bank ko‘chirmasi 
+7	Qimmatli qog‘ozlar qiymati akkreditivlar bilan to‘lash yo‘li bilan xarid qilingan 	5810	5510	Oldi-sotdi shartnomasi, akkreditiv 
+8	Qimmatli qog‘ozlar qiymati cheklar bilan to‘lash yo‘li bilan xarid qilingan 	5810	5520	Oldi-sotdi shartnomasi, chek mili 
+9	Qimmatli qog‘ozlar qiymati maxsus schyotdan to‘lash yo‘li bilan xarid qilingan 	5810	5530	Oldi-sotdi shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+10	Jamg‘arish usuli bo‘yicha, valyutaga xarid qilingan qisqa muddatli qimmatli qog‘ozlar bo‘yicha musbat kurs farqi aks ettirilgan 	5810	6230	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+11	Ustav jamg‘armasiga to‘lov hisobiga qimmatli qog‘ozlarning unitar korxonaga kelib tushishi hisobga olingan 	5810	8310, 8320, 8330	Ustav, ta’sis shartnomasi, yukxat 
+12	Shirkatga hissa sifatida kiritilgan qimmatli qog‘ozlar oddiy shirkat shartnomasi bo‘yicha umumiy ish yuritayotgan ishtirokchi tomonidan olingan 	5810	8330	Ustav, ta’sis shartnomasi, yukxat 
+13	Qisqa muddatli qimmatli qog‘ozlar tayyor mahsulotlarni, tovarlarni sotish, xizmatlarni ko‘rsatish, ishlarni bajarish yo‘li bilan xarid qilingan 	5810	9010, 9020, 9030	Hisobvaraq-faktura, yukxat 
+14	Qisqa muddatli qimmatli qog‘ozlar asosiy vositalarni sotish yo‘li bilan xarid qilingan 	5810	9210	Hisobvaraq-faktura, yukxat 
+15	Qisqa muddatli qimmatli qog‘ozlar materiallarni va boshqa aktivlarni sotish yo‘li bilan xarid qilingan 	5810	9220	Hisobvaraq-faktura, yukxat 
+16	Inventarlash paytida aniqlangan qimmatli qog‘ozlarning ortiqchasi aks ettirilgan 	5810	9390	Inventarlash ro‘yxati, inventarlash dalolatnomasi 
+17	Hisobdan chiqarishning to‘g‘ri usuli bo‘yicha, valyutaga xarid qilingan qimmatli qog‘ozlar bo‘yicha musbat kurs farqi aks ettirilgan 	5810	9540	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+18	Jamg‘arish usuli bo‘yicha, valyutaga xarid qilingan qimmatli qog‘ozlar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	5810	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+19	Inventarlash natijasiga ko‘ra, qimmatli qog‘ozlarning kamomadi aks ettirilgan:			Inventarlash ro‘yxati, inventarlash dalolatnomasi 
+	- tannarxi bo‘yicha 	9220	5810
+	- aybdor shaxs aniqlanmagan taqdirda, kamomad zararga hisobdan chiqarilishi 	9430	5910
+	- kamomad moddiy javobgar shaxs hisobiga o‘tkazilishi 	4730	5910
+20	Aksiyalar majburiyatlar hisobidan garovga berilgan 	6010	5810	Garovga berish dalolatnomasi 
+21	Oddiy shirkat ishtirokchisining ulushi qimmatli qog‘ozlar bilan qaytarilgan 	6620	5810	Ta’sischilar majlisining bayonnomasi, yukxat 
+22	Qisqa muddatli qimmatli qog‘ozlar bozor qiymati bo‘yicha hisobga olinganda, ular qo‘shimcha baholangan 	5810	9560	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+23	Qisqa muddatli qimmatli qog‘ozlar bozor qiymati bo‘yicha hisobga olinganda, ularning qiymati pasaytirilgan 	9690	5810	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+24	Qisqa muddatli qimmatli qog‘ozlar eng kam qiymati bo‘yicha hisobga olinganda, ularning qiymati pasaytirilgan 	9690	5810	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+25	Qimmatli qog‘ozlar boshqa korxonalarga sotilgan: 			Shartnoma, hisobvaraq-faktura, yukxat 
+	- balans qiymatiga 	9220	5810
+	- sotish bahosiga 	4010	9220
+	- sotish bahosi balans qiymatidan ortiq summaga 	9220	9320
+	- balans qiymati sotish bahosidan ortiq summaga 	9430	9220
+26	Hisobdan chiqarishning to‘g‘ri usuli bo‘yicha, valyutaga xarid qilingan qimmatli qog‘ozlar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	5810	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+27	Hisob-kitob schyotidan qisqa muddatli qarz berilgan 	5830	5110	Hisob-kitob schyotidan bank ko‘chirmasi, shartnoma 
+28	Valyuta schyotidan qisqa muddatli qarz berilgan 	5830	5210, 5220	Valyuta schyotidan bank ko‘chirmasi, shartnoma 
+29	Maxsus schyotdan qisqa muddatli qarz berilgan 	5830	5530	Maxsus schyotdan bank ko‘chirmasi, shartnoma 
+30	Jamg‘arish usuli bo‘yicha, valyutada berilgan qisqa muddatli qarzlar bo‘yicha musbat kurs farqi aks ettirilgan 	5830	6230	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+31	Qisqa muddatli qarz tayyor mahsulot ko‘rinishida berilgan 	5830	9010	Qarz berish to‘g‘risida shartnoma, yukxat 
+32	Qisqa muddatli qarz tovarlar sotilishi yo‘li bilan berilgan 	5830	9020	Qarz berish to‘g‘risida shartnoma, yukxat 
+33	Qisqa muddatli qarz xizmatlar ko‘rsatish, ishlarni bajarish yo‘li bilan berilgan 	5830	9030	Qarz berish to‘g‘risida shartnoma, yukxat 
+34	Qisqa muddatli investisiyalar asosiy vositalar berilishi yo‘li bilan amalga oshirilgan 	5830	9210	Asosiy vositalarni qabul qilish-topshirish dalolatnomasi 
+35	Qisqa muddatli investisiyalar (qaytariladigan) yosh hayvonlarni berish yo‘li bilan amalga oshirilgan 	5830	9220	Hayvonlar chiqib ketishi to‘g‘risida dalolatnoma, shartnoma, yillik qaydnoma 
+36	Qisqa muddatli qarz materiallar va boshqa aktivlarni sotish yo‘li bilan berilgan 	5830	9220	Qarz berish to‘g‘risida shartnoma, yukxat 
+37	Hisobdan chiqarishning to‘g‘ri usuli bo‘yicha, valyutada berilgan qisqa muddatli qarzlar bo‘yicha musbat kurs farqi aks ettirilgan 	5830	9540	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+38	Jamg‘arish usuli bo‘yicha, valyutada berilgan qisqa muddatli qarzlar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	5810	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+39	Korxona oldidagi qarz qimmatli qog‘ozlar bilan qoplangan 	6990	5810	Shartnoma, yukxat 
+40	Hisobdan chiqarishning to‘g‘ri usuli bo‘yicha, valyutaga berilgan qisqa muddatli qarzlar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	5830	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+41	Qimmatli qog‘ozlar qaytarilishi milliy valyutada aks ettirilgan 	5110	5830	Yukxat, hisob-kitob schyotidan bank ko‘chirmasi 
+42	Qimmatli qog‘ozlar qaytarilishi chet el valyutasida aks ettirilgan 	5210, 5220	5830	Yukxat, valyuta schyotidan bank ko‘chirmasi 
+43	Qimmatli qog‘ozlar qaytarilishi maxsus schyotda milliy valyutada aks ettirilgan 	5530	5830	Yukxat, maxsus schyotdan bank ko‘chirmasi 
+44	Qisqa muddatli qarzlar summasiga xaridorga da’vo taqdim etilgan 	4860	5830	Tijorat dalolatnomasi 
+45	Da’vo muddati o‘tib ketganligi munosabati bilan qisqa muddatli qarzlar bo‘yicha qarz zararga hisobdan chiqarilgan 	9430	5830	Qarzlar bo‘yicha solishtirma dalolatnoma 

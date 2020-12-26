@@ -1,0 +1,2 @@
+1	Qat’iy hisobot varaqlari hisobga olingan 	006	1	Yukxat
+2	Ishlatilgan qat’iy hisobot varaqlari hisobdan chiqarilgan 	1	006	Yukxat 

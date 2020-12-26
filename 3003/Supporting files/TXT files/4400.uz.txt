@@ -1,0 +1,7 @@
+1	Foyda solig‘i bo‘yicha bo‘naklar o‘tkazilgan 	4410	5110	Buxgalteriya hisob-kitoblari, bank schyotlaridan ko‘chirmalar
+2	Obodonlashtirish va ijtimoiy infratuzilmani rivojlantirish uchun soliq bo‘yicha bo‘nak to‘lovlari o‘tkazilgan 	4411	5110	Buxgalteriya hisob-kitoblari, bank schyotlaridan ko‘chirmalar 
+3	Mulk solig‘i bo‘yicha bo‘naklar o‘tkazilgan 	4412	5110	Buxgalteriya hisob-kitoblari, bank schyotlaridan ko‘chirmalar 
+4	Xarid qilingan moddiy resurslar, tovarlar, ishlar va xizmatlar bo‘yicha QQS summasi aks ettirilgan 	4413	6010, 6990	Hisobvaraq-fakturalar, yukxatlar 
+5	Xarid qilingan moddiy resurslar, tovarlar, ishlar va xizmatlar bo‘yicha QQS summasi o‘zaro hisoblashish deb qabul qilingan 	6410	4410	Buxgalteriya hisob-kitoblari, QQS hisob-kitobi 
+6	Byudjetga bo‘nak to‘lovlari bo‘yicha umidsiz debitorlik qarzi dargumon qarzlar bo‘yicha rezerv hisobiga hisobdan chiqarilgan 	4910	4410	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+7	Byudjetga bo‘nak to‘lovlari bo‘yicha umidsiz debitorlik qarzi zararga hisobdan chiqarilgan 	9430	4410	Solishtirma dalolatnoma, Xo‘jalik sudining qarori

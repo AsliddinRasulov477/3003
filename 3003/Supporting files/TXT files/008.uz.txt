@@ -1,0 +1,5 @@
+1	Olingan ta’minot hisobga olingan 	008	1	Kafolat shartnomasi
+2	Olingan majburiyatning amal qilishi bekor qilingan 	1	008	Kafolat shartnomasi
+3	Kafolat, kafillik bilan ta’minlangan majburiyatning to‘lovi bo‘yicha summalar kelib tushgan 	5010, 5110, 5210 	9390	Kirim kassa orderi, bank hisob-kitob schyotidan ko‘chirma 
+4	Kafolat, kafillik bilan ta’minlangan majburiyat hisobdan chiqarilgan 	1	008	Yukxat
+5	Taqdim etilgan kafolat bo‘yicha to‘lovlar aks ettirilgan 	9430	5110	Bank hisob-kitob schyotidan ko‘chirma 

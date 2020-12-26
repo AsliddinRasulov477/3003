@@ -1,0 +1,31 @@
+1	Xaridorlar va buyurtmachilarga taqdim etilgan schyotlar bo‘yicha tayyor mahsulot sotilishi aks ettirilgan 	4010	9010	Yukxat, hisobvaraq-faktura
+2	Xaridorlarga taqdim etilgan hisobvaraq-fakturalar bo‘yicha QQS summasi aks ettirilgan 	4010	6410	Yukxat, hisobvaraq-faktura 
+3	Xaridorlar va buyurtmachilarga taqdim etilgan schyotlar bo‘yicha tovarlar sotilishi aks ettirilgan 	4010	9020	Yukxat, hisobvaraq-faktura 
+4	Xaridorlar va buyurtmachilarga taqdim etilgan schyotlar bo‘yicha tovarlar, ish va xizmatlar sotilishi aks ettirilgan 	4010	9030	Yukxat, hisobvaraq-faktura, qabul qilishtopshirish dalolatnomasi, bajarilgan ishlar dalolatnomasi 
+5	Asosiy vositalar sotilishi munosabati bilan xaridorlarning qarz summalari aks ettirilgan 	4010	9210	Asosiy vositalarni qabul qilish-topshirish dalolatnomasi 
+6	Xaridorlar va buyurtmachilarga boshqa aktivlar sotilishi munosabati bilan ularning qarz summasi aks ettirilgan 	4010	9220	Qabul qilishtopshirish dalolatnomasi, yukxat 
+7	Kurs farqlarini jamg‘arish usulida olinadigan schyotlar bo‘yicha musbat kurs farqi aks ettirilgan 	4010	6230	Kurs farqining hisob-kitobi 
+8	Kurs farqlarini to‘g‘ri hisobdan chiqarish usulida olinadigan schyotlar bo‘yicha musbat kurs farqi aks ettirilgan 	4010	9540	Kurs farqining hisob-kitobi 
+9	Olinadigan veksellar bo‘yicha musbat kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi 
+	- to‘g‘ri hisobdan chiqarish usuli bo‘yicha 	4020	9540	
+	- jamg‘arish usuli bo‘yicha 	4020	6230	
+10	Mol yetkazib beruvchilar (pudratchilar) bilan xaridorlar o‘rtasidagi o‘zaro qarzlarning hisob-kitobi aks ettirilgan 	6010, 6020	4010	Ayirboshlash (barter) kontrakti 
+11	Korxona bilan ajratilgan bo‘linma o‘rtasidagi qarzlarning o‘zaro hisob-kitobi aks ettirilgan 	6110, 6120	4010	Ayirboshlash (barter) kontrakti 
+12	Xaridorlar va buyurtmachilardan kassaga summalarning kelib tushishi aks ettirilgan 	5010	4010	Kirim kassa orderi 
+13	Xaridorlarga va buyurtmachilarga sotilgan tayyor mahsulot, bajarilgan ishlar va ko‘rsatilgan xizmatlar uchun ulardan hisob-kitob schyotiga to‘lovlar kelib tushgan 	5110	4010	Hisob-kitob schyotidan bank ko‘chirmasi 
+14	Xaridorlarga va buyurtmachilarga sotilgan tayyor mahsulot, bajarilgan ishlar va ko‘rsatilgan xizmatlar uchun ulardan valyuta schyotiga to‘lovlar kelib tushgan 	5210	4010	Valyuta schyotidan bank ko‘chirmasi 
+15	Xaridorlarga va buyurtmachilarga sotilgan tayyor mahsulot, bajarilgan ishlar va ko‘rsatilgan xizmatlar uchun ulardan bankdagi maxsus schyotga to‘lovlar kelib tushgan 	5530	4010	Maxsus schyotdan bank ko‘chirmasi 
+16	Yuklab jo‘natilgan mahsulotlar, bajarilgan ishlar va ko‘rsatilgan xizmatlar uchun xaridorlarga da’volar taqdim etilgan 	4860	4010	Mol yetkazib berish shartnomasi, yukxat, dalolatnoma 
+17	Xaridorlarga schyotlar taqdim etilganda, ularga yetkazib berilgan tayyor mahsulot, tovarlar va bajarilgan ishlar uchun oldindan olingan bo‘naklarning o‘zaro hisob-kitob qoplangan summalari aks ettirilgan 	6310	4010	Kontrakt, buxgalteriyaning ma’lumotnomasi 
+18	Xaridorlar va buyurtmachilarning qoplanmaydigan qarzlari zararga hisobdan chiqarilgan 	9430	4010	Buxgalteriyaning ma’lumotnomasi 
+19	Jamg‘arish usulida olinadigan schyotlar va veksellar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	4010, 4020	Kurs farqining hisob-kitobi 
+20	To‘g‘ri hisobdan chiqarish usulida olinadigan schyotlar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	4010	Kurs farqining hisob-kitobi
+21	Olinadigan veksellar bo‘yicha manfiy kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi 
+	- to‘g‘ri hisobdan chiqarish usuli bo‘yicha 	9620	4020	
+	- jamg‘arish usuli bo‘yicha 	3290	4020	
+22	Xaridorlar va buyurtmachilarning qarzlari dargumon qarzlar bo‘yicha rezervlar hisobiga hisobdan chiqarilgan 	4910	4010	Buxgalteriyaning ma’lumotnomasi 
+23	Debitorlik qarzi hisobiga veksel olingan 	4020	4010	Shartnoma, veksel 
+24	Qoplash davomida foizlar nazarda tutilgan olingan veksellar bo‘yicha qarz qoplangan 	5110, 5210	4020	Bank ko‘chirmasi 
+25	Olingan veksellar bo‘yicha qarzlar dargumon qarzlar bo‘yicha rezerv hisobiga qoplangan 	4910	4020	Buxgalteriyaning ma’lumotnomasi 
+26	Xaridorlar va buyurtmachilardan olingan veksellar bo‘yicha qoplanmaydigan qarzlar zararga hisobdan chiqarilgan 	9430	4020	Buxgalteriyaning ma’lumotnomasi 
+27	Tovarlar va tayyor mahsulotlar uchun olingan veksellarni uzoq muddatli qismidan joriy qismiga o‘tkazish aks ettirilgan 	4020	0910	Hisobvaraq-faktura, tovar-transport yukxati

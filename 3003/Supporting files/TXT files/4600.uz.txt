@@ -1,0 +1,25 @@
+1	Ishtirokchilar ulushlari summasida ustav kapitalining miqdori (oddiy aksiyalarga obuna summasida) e’lon qilingan (korxona davlat ro‘yxatidan o‘tkazilgandan keyin) 	4610	8310	Ustav, ta’sis shartnomasi, aksiyalarga obuna jurnali
+2	Ishtirokchilar ulushlari summasida ustav kapitalining miqdori (imtiyozli aksiyalarga obuna summasida) e’lon qilingan (korxona davlat ro‘yxatidan o‘tkazilgandan keyin) 	4610	8320	Ustav, ta’sis shartnomasi, aksiyalarga obuna jurnali 
+3	Mas’uliyati cheklangan jamiyat yoki qo‘shimcha mas’uliyatli jamiyat va xususiy korxonada ustav kapitalining miqdori davlat ro‘yxatidan o‘tkazilgan 	4610	8330	Ustav, ta’sis shartnomasi 
+4	Ta’sischilar tomonidan korxona egaligiga asosiy vositalar taqdim etilgan 	0110-0190	4610	Ta’sischilarning kelishuv bayonnomasi, asosiy vositalarni qabul qilish dalolatnomasi, inventar kartochkasi 
+5	Ta’sischilar tomonidan aksiyalarga obuna to‘lovlari uchun yoki ustav kapitalidagi ulushiga badal sifatida nomoddiy aktivlar (korxona ustav kapitalidagi ulushlari hisobiga), jumladan yer uchastkalaridan, tabiiy resurslardan foydalanish huquqlari taqdim etilgan 	0410-0430, 0450-0490	4610	Ta’sischilarning kelishuv bayonnomasi, nomoddiy aktivlarni qabul qilish dalolatnomasi 
+6	Aksiyalarga obuna to‘lovlari uchun ta’sischilardan taqdim etilgan uzoq muddatli va qisqa muddatli moliyaviy qo‘yilmalar (korxona ustav kapitaliga ulushlari hisobiga olingan qimmatli qog‘ozlar qiymati) summalari aks ettirilgan 	0610 5810	4610	Ta’sischilarning kelishuv bayonnomasi, aksiyalar to‘plamini qabul qilish dalolatnomasi 
+7	Ta’sischilar tomonidan korxona mulkiga o‘rnatiladigan asbobuskuna taqdim etilgan 	0710, 0720	4610	Ta’sischilarning kelishuv bayonnomasi, o‘rnatiladigan asbob-uskunani qabul qilish dalolatnomasi 
+8	Ta’sischilar tomonidan korxona mulkiga tugallanmagan qurilish taqdim etilgan 	0810	4610	Ta’sischilarning kelishuv bayonnomasi, tugallanmagan qurilishni qabul qilish dalolatnomasi 
+9	Ta’sischilar tomonidan korxona mulkiga moddiy boyliklar taqdim etilgan 	1010	4610	Ta’sischilarning kelishuv bayonnomasi, yukxat 
+10	Ta’sischilar tomonidan korxona mulkiga inventar va xo‘jalik jihozlari taqdim etilgan 	1080	4610	Ta’sischilarning kelishuv bayonnomasi, yukxat 
+11	Ta’sischilar tomonidan korxona mulkiga o‘stirishdagi va bo‘rdoqida boquvdagi hayvonlar taqdim etilgan 	1110, 1120	4610	Ta’sischilarning kelishuv bayonnomasi, yukxat 
+12	Ta’sis badali hisobiga ta’sischilar tomonidan korxona mulkiga tayyor mahsulot taqdim etilgan 	2810	4610	Ta’sischilarning kelishuv bayonnomasi, yukxat 
+13	Ta’sis badali hisobiga ta’sischilar tomonidan korxona mulkiga tovarlar taqdim etilgan 	2910	4610	Ta’sischilarning kelishuv bayonnomasi, yukxat 
+14	Naqd pul ko‘rinishida ta’sischilar ulush summalarining hisob-kitob schyotiga amalda kelib tushishi aks ettirilgan 	5010	4610	Kassir hisoboti, kirim kassa orderi 
+15	Pul mablag‘lari, ta’sischilar ulush summalarining hisob-kitob schyotiga amalda kelib tushishi aks ettirilgan 	5110	4610	Bank hisob-kitob schyotidan ko‘chirma 
+16	Pul mablag‘lari, ta’sischilar ulush summalarining valyuta schyotiga amalda kelib tushishi aks ettirilgan 	5210	4610	Bank valyuta schyotidan ko‘chirma 
+17	Korxona ta’sischilariga badallar qaytarilishini, aksiyalar nominal qiymatining kamaytirilishi aks ettirilgan 	8310, 8320	4610	Ta’sischilarning qarori 
+18	Ta’sischilarning qaroriga asosan kirim qilingan asosiy vositalar ta’sis shartnomasiga mos kelmaganligi uchun omonatchilarga qaytarilgan 	4610	0110-0180	Ta’sischilarning qarori, buxgalteriyaning ma’lumotnomasi 
+19	Ta’sischilarning qaroriga asosan kirim qilingan nomoddiy aktivlar ta’sis shartnomasiga mos kelmaganligi uchun ta’sischilarga qaytarilgan 	4610	0410-0490	Ta’sischilarning qarori, buxgalteriyaning ma’lumotnomasi 
+20	Ta’sischilarning qaroriga asosan kirim qilingan boshqa aktivlar ta’sis shartnomasiga mos kelmaganligi uchun omonatchilarga qaytarilgan 	4610	0600, 0800, 5010, 5110, 5210 	Ta’sischilarning qarori, buxgalteriyaning ma’lumotnomasi 
+21	Korxona ustav kapitaliga badallar ta’sischining mehnat haqidan ushlab qolingan 	6710	4610	Hisob-kitob to‘lov hujjatlari 
+22	Ustav kapitali shakllantirilganda vujudga kelgan musbat kurs farqi aks ettirilgan 	4610	8420	Kurs farqining hisob-kitobi 
+23	Ustav kapitali shakllantirilganda vujudga kelgan manfiy kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi 
+	- mavjud qo‘shilgan kapital chegarasida 	8420	4610
+	- mavjud qo‘shilgan kapitaldan ortiq bo‘lganda 	9430	4610

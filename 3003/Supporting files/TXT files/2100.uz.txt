@@ -1,0 +1,25 @@
+1	Yarim tayyor mahsulotlarni ishlab chiqarish bilan bog‘liq asosiy ishlab chiqarish xarajatlari amaldagi tannarx bo‘yicha hisobga olingan 	2110	2010	Yarim tayyor mahsulotlarni chiqarish bo‘yicha yukxat
+2	Yarim tayyor mahsulotlarni ishlab chiqarish bilan bog‘liq yordamchi ishlab chiqarish xarajatlari amaldagi tannarx bo‘yicha hisobga olingan 	2110	2310	Yarim tayyor mahsulotlarni chiqarish bo‘yicha yukxat 
+3	Umumishlab chiqarish xarajatlari yarim tayyor mahsulotlar tannarxiga kiritilgan 	2110	2510	Umumishlab chiqarish xarajatlarini taqsimlash qaydnomasi 
+4	Yarim tayyor mahsulotlarni ishlab chiqarishda foydalanilgan tayyor mahsulotning amaldagi tannarxi hisobdan chiqarilgan 	2110	2810	Talabnomayukxat 
+5	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar qiymati qayta baholangan: 			Rahbar qarori, buxgalteriyaning hisob-kitoblari 
+	- oshirilgan baho summasiga 	2110	9390
+	- pasaytirilgan baho summasiga 	9430	2110
+6	Inventarlash natijasida aniqlangan yarim tayyor mahsulotlar ortiqchasi kirim qilingan 	2110	9390	Inventarlash dalolatnomasi 
+7	Alohida balansga ajratilgan ichki bo‘linmalardan debitorlik qarzlarini qoplash hisobiga olingan yarim tayyor mahsulotlar kirim qilingan 	2110	4110, 4120	Yukxat
+8	Alohida balansga ajratilgan ichki bo‘linmalardan olingan yarim tayyor mahsulotlar kirim qilingan 	2110	6110	Yukxat
+9	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar asosiy ishlab chiqarish ehtiyojlari uchun berilgan 	2010	2110	Yukxat
+10	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar yordamchi ishlab chiqarish ehtiyojlari uchun berilgan 	2310	2110	Yukxat
+11	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar umumishlab chiqarish ehtiyojlari uchun berilgan 	2510	2110	Yukxat
+12	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar ma’muriy ehtiyojlar uchun berilgan 	9420	2110	Yukxat
+13	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar yaroqsizlikni tuzatish uchun sarf-xarajat qilingan; yarim tayyor mahsulotlar yaroqsizligi natijasida yo‘qotishlar aks ettirilgan 	2610	2110	Yaroqsizlik to‘g‘risida dalolatnoma, yukxat 
+14	Sotish uchun mo‘ljallangan, o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar tayyor mahsulot sifatida aks ettirilgan 	2810	2110	Yukxat, bajarilgan ishlar dalolatnomasi 
+15	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar xaridorlarga yuklab jo‘natilgan 	9110	2110	Yukxat, hisobvaraq-faktura 
+16	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlarning boshqa korxonalarga tekinga berilishi aks ettirilgan 	9430	2110	Berish to‘g‘risida qaror, yukxat, hisobvaraq-faktura
+17	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar alohida balansga ajratilgan bo‘linmalarga berilgan 	4110	2110	Yukxat
+18	Tabiiy ofatlar oqibatida o‘zida ishlab chiqarilgan yarim tayyor mahsulotlarning yo‘qotishlaridan ko‘rilgan zararlar hisobdan chiqarilgan 	9720	2110	Yo‘qotish to‘g‘risida dalolatnoma, buxgalteriyaning hisob-kitoblari 
+19	Tayyor mahsulotlar bermagan yarim tayyor mahsulotlarni ishlab chiqarish bo‘yicha xarajatlar hisobdan chiqarilgan 	9430	2110	Bildirgi, buxgalteriyaning hisob-kitoblari 
+20	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar kamomadi aniqlangan 	5910	2110	Inventarlash dalolatnomasi 
+21	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar yo‘qotish summasi zararga hisobdan chiqarilgan: 			Tabiiy ofat natijasida inventarlash dalolatnomasi 
+	- tabiiy kamayish chegarasida, shuningdek yo‘qotilish aybdorlari aniqlanmagan bo‘lsa 	9430	5910
+	- moddiy javobgar shaxslar aybdorligi bilan bog‘liq bo‘lganda 	4730	5910

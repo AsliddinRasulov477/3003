@@ -1,0 +1,2 @@
+1	Ssuda shartnomasi bo‘yicha olingan mulk hisobga olingan 	011	1	Ssuda shartnomasi
+2	Ssuda shartnomasi bo‘yicha olingan mulkning qoplangan qiymati hisobdan chiqarilgan 	1	011	Ssuda shartnomasi  

@@ -1,0 +1,63 @@
+1	O‘rnatiladigan asbob-uskunani xarid qilish va saqlash bilan bog‘liq operasiyalar bo‘yicha mehnat haqi hisoblangan 	0710, 0720	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+2	Kapital qurilish sohasida band bo‘lgan xodimlarga mehnat haqi hisoblangan 	0810	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+3	Asbob-uskunani o‘rnatish va sozlash bilan band bo‘lgan xodimlarga mehnat haqi hisoblangan 	0820	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+4	Nomoddiy aktivlarni xarid qilish bilan band bo‘lgan xodimlarga mehnat haqi hisoblangan 	0830	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+5	Asosiy podani shakllantirish bilan band bo‘lgan xodimlarga mehnat haqi hisoblangan 	0840	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+6	Materiallarni xarid qilish bilan band bo‘lgan xodimlarga mehnat haqi hisoblangan 	1010-1090	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+7	Hayvonlarni xarid qilish bilan band bo‘lgan xodimlarga mehnat haqi hisoblangan 	1110, 1120	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+8	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalangan holda materiallarni xarid qilish bilan band bo‘lgan xodimlarga mehnat haqi hisoblangan 	1510	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+9	Asosiy ishlab chiqarishda band bo‘lgan xodimlarga mehnat haqi hisoblangan 	2010	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+10	Yordamchi ishlab chiqarishda band bo‘lgan xodimlarga mehnat haqi hisoblangan 	2310	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+11	Syexlar va tarkibiy bo‘linmalar ma’muriyatiga mehnat haqi hisoblangan 	2510	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+12	Yaroqsizlikni tuzatish bilan band bo‘lgan xodimlarga mehnat haqi hisoblangan 	2610	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+13	Xizmat ko‘rsatuvchi xo‘jaliklarda band bo‘lgan xodimlarga mehnat haqi hisoblangan 	2710	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+14	Tovarlarni xarid qilish bilan band bo‘lgan xodimlarga mehnat haqi hisoblangan	2910-2990	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+15	Kelgusi davr xarajatlariga kiritiladigan ishlar uchun mehnat haqi hisoblangan 	3190	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+16	Mehnat haqini to‘lash jamg‘armasi tarkibiga kiritiladigan mukofotlar, taqdirlashlar hisoblangan 	Xarajat- larni hisobga oluvchi schyotlar 	6710	Mukofotlar, qo‘shimcha to‘lovlar, ustama to‘lovlar, taqdirlashlarning hisob-kitobi 
+17	Mehnat ta’tili uchun to‘lovlar hisoblangan 	Xarajat- larni hisobga oluvchi schyotlar 	6710	Mehnat ta’tili haqi bo‘yicha hisob-kitob 
+18	Ijtimoiy sug‘urta mablag‘lari hisobidan vaqtinchalik mehnatga qobiliyatsizlik bo‘yicha nafaqalar, korxonada ishlaydigan pensionerlarga pensiyalar va hokazolar hisoblangan 	4520	6710	Mehnatga qobiliyatsizlik varaqalari, pensiya va nafaqalar bo‘yicha hisob-kitoblar 
+19	Korxonaning o‘z mablag‘lari hisobidan vaqtinchalik mehnatga qobiliyatsizlik bo‘yicha nafaqalar, pensiyalar va hokazolar hisoblangan 	9430	6710	Mehnatga qobiliyatsizlik varaqalari, pensiya va nafaqalar bo‘yicha hisob-kitoblar 
+20	Sug‘urta shartnomasi bo‘yicha korxona xodimlariga tegishli bo‘lgan sug‘urta bo‘yicha qoplash summasi aks ettirilgan 	6510	6710	Bankdagi schyotlardan ko‘chirmalar, sug‘urta summasi qayd etilgan sug‘urta holatlari yuzasidan xabarnomalar 
+21	Notijorat tashkilotlarida yoki maqsadli moliyalashtirish mablag‘lari hisobidan mehnat haqi hisoblangan 	8810-8890	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+22	Kelgusi xarajatlar va to‘lovlar bo‘yicha rezerv hisobidan mehnat ta’tili uchun to‘lovlar hisoblangan 	8910	6710	Mehnat ta’tili bo‘yicha haqning hisob-kitobi 
+23	Asosiy vositalar chiqib ketishi bilan bog‘liq operasiyalar bo‘yicha mehnat haqi hisoblangan 	9210	6710	Mehnat haqini hisoblash qaydnomasi 
+24	Boshqa aktivlar chiqib ketishi bilan bog‘liq operasiyalar bo‘yicha mehnat haqi hisoblangan 	9220	6710	Mehnat haqini hisoblash qaydnomasi 
+25	Mahsulotni yetkazib berish va sotish bilan band bo‘lgan xodimlarga, shuningdek savdo xodimlariga (savdo korxonalari) mehnat haqi hisoblangan 	9410	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+26	Korxonaning ma’muriyboshqaruv xodimlariga mehnat haqi hisoblangan 	9420	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+27	Ishchining aybisiz uzrli ishda bo‘lmagan kunlar uchun xodimlarga mehnat haqi hisoblangan 	9430	6710	Mehnat haqini hisoblash qaydnomasi 
+28	2710 "Xizmat ko‘rsatuvchi xo‘jaliklar" schyotidan foydalanilmagan taqdirda xizmat ko‘rsatuvchi xo‘jaliklarda band bo‘lgan xodimlarga mehnat haqi hisoblangan 	9430	6710	Mehnat haqini ishlab chiqarish bo‘linmalari bo‘yicha taqsimlash qaydnomasi 
+29	Ishdan ajralgan holda o‘qishda bo‘lgan ishchilarga mehnat haqi hisoblangan 	9430	6710	Mehnat haqini hisoblash qaydnomasi 
+30	Yangi ishlab chiqarishlarni o‘zlashtirish, boshqaruv tizimini barpo etish va takomillashtirish bilan band bo‘lgan ishchilarga mehnat haqi hisoblangan 	9440	6710	Mehnat haqini hisoblash qaydnomasi 
+31	Tabiiy ofatlarni, yong‘inlarni oldini olish yoki bartaraf etish bilan bog‘liq xodimlarga mehnat haqi hisoblangan 	9720	6710	Mehnat haqini hisoblash qaydnomasi 
+32	Yaroqsizlikdan yo‘qotishlarning bir qismi ushbu yo‘qotishlarga aybdor bo‘lgan xodimlardan ushlab qolingan 	6710	2610	Yaroqsizlik dalolatnomasi, mehnat haqini hisoblash qaydnomasi 
+33	Xizmat ko‘rsatuvchi ishlab chiqarishlar va xo‘jaliklar tomonidan xodimlarga berilgan mahsulot yoki ko‘rsatilgan xizmatlar qiymati ushlab qolingan 	6710	2710	Me’yoriy vaqtni va mehnat haqini xarajatlar moddalari bo‘yicha taqsimlash qaydnomasi 
+34	Mehnat haqi bo‘yicha berilgan bo‘naklar mehnat haqidan ushlab qolingan 	6710	4210	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+35	Hisobdor shaxslarning qaytarilmagan bo‘naklari ushlab qolingan 	6710	4220-4230	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+36	Xodimlarga berilgan boshqa bo‘naklar mehnat haqidan ushlab qolingan 	6710	4290	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+37	Aksiyalarga obuna bo‘yicha qarz mehnat haqidan ushlab qolingan 	6710	4610	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+38	Kreditga sotilgan tovarlar bo‘yicha xodimlar qarzi mehnat haqidan ushlab qolingan 	6710	4710	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+39	Berilgan qarzlar bo‘yicha xodimlar qarzi mehnat haqidan ushlab qolingan 	6710	4720	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+40	Moddiy zararni qoplash bo‘yicha qarz mehnat haqidan ushlab qolingan 	6710	4730	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+41	Xodimlarning boshqa qarzi mehnat haqidan ushlab qolingan 	6710	4790	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+42	Berilgan qarzlar bo‘yicha hisoblangan foizlarga oid xodimlar qarzi mehnat haqidan ushlab qolingan 	6710	4830	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+43	Xodimlarga hisoblangan summalar (mehnatga haq to‘lash, mukofotlar, qo‘shimcha haqlar, ustama haqlar va hokazolar) kassadan to‘langan 	6710	5010	Chiqim kassa orderlari, kassa hisobotlari 
+44	Xodimlarga mehnat haqi bo‘yicha qarz hisob-kitob schyotidan joriy hisob-kitob schyotlariga, shaxsiy plastik kartochkalarga o‘tkazilgan 	6710	5110	Bankning hisob-kitob schyotidan ko‘chirma 
+45	Xodimlarga mehnat haqi bo‘yicha qarz maxsus hisob-kitob schyotidan joriy hisob-kitob schyotlariga, shaxsiy plastik kartochkalarga o‘tkazilgan 	6710	5530	Bankning maxsus schyotidan ko‘chirma 
+46	Mehnatga haq to‘lash alohida balanslarga ajratilgan ichki bo‘linmalar tomonidan amalga oshirilgan 	6710	6110	Bo‘linmalar bo‘yicha mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+47	Shaxsiy mol-mulk sug‘urtasi uchun xodimlarning mehnat haqidan ushlab qolingan 	6710	6510	Bo‘linmalar bo‘yicha mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+48	Ijtimoiy sug‘urta bo‘yicha hisoblashlar korxona xodimlari hisobidan amalga oshirilgan 	6710	6520	Ijtimoiy sug‘urta ajratmalari bo‘yicha hisob-kitob, mehnatga haq to‘lash bo‘yicha hisob-kitob qaydnomasi 
+49	Muddatida berilmagan mehnat haqi deponentlangan 	6710	6720	Deponentlangan mehnat haqi bo‘yicha qaydnoma 
+50	Deponentlangan mehnat haqi naqd pul bilan berilgan	6720	5010	Deponentlangan summalar bo‘yicha qaydnoma, chiqim kassa orderi 
+51	Deponentlangan mehnat haqi plastik kartochkasiga o‘tkazilgan 	6720	5110	Bankning hisob-kitob schyotidan ko‘chirma 
+52	Korxona xodimiga qisqa muddatli qarz berilgan 	6710	6820	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+53	Alimentlarni, kommunal xizmat uchun, istiqomat qilish uchun va hokazolarni mehnat haqidan ushlab qolish amalga oshirilgan 	6710	6990	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+54	Korxona xodimiga uzoq muddatli qarz berilgan 	6710	7820	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+55	Mehnat intizomini buzganligi uchun jarima ushlab qolingan 	6710	9330	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+56	Korxona oshxonasida ovqatlanganligi uchun mehnat haqidan ushlab qolingan 	6710	9370	Mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi 
+57 	Ishchi ayolga tug'ruqdan oldingi otpuska hisoblandi 	8910	6710	Doktorning bergan kasallik varaqasi, ish haqi hisoblash xujjatlari
+58 	Arizasiga ko'ra ishchilardan komunal to'lovlar ish haqidan ushlandi 	6710	6990	Ishchilarning arizasi, qaydnoma
+59 	Tabiiy ofatlar natijasida ishlagan ishchilarga ish haqi hisoblandi 	9720	6710	Dalolatnoma, akt, ish haqi hisoblash vedomosti
+60 	Nomoddiy aktivlarni sotish xarajatlari 	9220	6710, 1010, 6990	Shartnomalar, dalolatnoma,ish haqi boyicha xujjatlar
+61 	Kelgusi yilga obuna uchun ish haqidan ushlab qolindi 	6710	3120	Shartnomalar, dalolatnoma,ish haqi boyicha xujjatlar
+62 	Yaroqsiz mahsulotlarni tayyor holiga keltirish uchun hisoblangan ish haqiga 	2610	6710	Dalolatnoma , akt , bajarilgan ish hajmi hisob kitobi
+63 	Kreditga sotilgan tayyor mahlot ishchilarning ish haqidan ushlab qolindi 	6710	4710	Schot faktura, ish haqi hisoblash vedomosti

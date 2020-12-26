@@ -1,0 +1,4 @@
+1	Berilgan ta’minlash hisob uchun qabul qilingan 	009	1	Ta’minlash shartnomasi
+2	Berilgan ta’minlash hisobdan chiqarilgan 	1	009	Ta’minlash shartnomasi 
+3	Berilgan ta’minlashlar bo‘yicha to‘lovlar aks ettirilgan 	6960	5010, 5110	Kirim kassa orderi, bank hisob-kitob schyotidan ko‘chirma 
+4	Berilgan ta’minlashlar bo‘yicha majburiyatlarning qoplangan qiymati hisobdan chiqarilgan 	1	009	Shartnoma, bildirgi 

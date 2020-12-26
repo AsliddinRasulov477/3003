@@ -1,0 +1,11 @@
+1	Dargumon qarzlar bo‘yicha rezerv tashkil etilgan (dekabrning yakunlovchi yozuvlari bilan) 	9430	4910	Buxgalteriya ma’lumotnomasi, solishtirma dalolatnoma
+2	Xaridorlar va buyurtmachilar qarzlari dargumon qarzlar rezervlari hisobiga hisobdan chiqarilgan 	4910	4010	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+3	Dargumon qarzlar rezervlari hisobidan olingan veksellar bo‘yicha xaridorlar va buyurtmachilar qarzlari hisobdan chiqarilgan 	4910	4020	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+4	Xodimlarga berilgan bo‘naklar bo‘yicha umidsiz qarzlar hisobdan chiqarilgan 	4910	4210-4290	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+5	Mol yetkazib beruvchilarga berilgan bo‘naklar bo‘yicha umidsiz qarzlar hisobdan chiqarilgan 	4910	4310	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+6	Byudjetga bo‘nak to‘lovlari bo‘yicha umidsiz qarzlar hisobdan chiqarilgan 	4910	4410	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+7	Maqsadli davlat jamg‘armalari va sug‘urta to‘lovlari bo‘yicha bo‘nak to‘lovlari bo‘yicha umidsiz qarzlar hisobdan chiqarilgan 	4910	4510-4520	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+8	Xodimlarning boshqa operasiyalar bo‘yicha umidsiz debitorlik qarzi hisobdan chiqarilgan 	4910	4710-4730	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+9	Ilgari korxona tomonidan dargumon deb tan olingan turli debitorlarning talab qilib olinmagan qarzlari hisobdan chiqarilgan 	4910	4810-4890	Buxgalteriya ma’lumotnomasi 
+10	Agar dargumon qarzlar bo‘yicha rezerv tashkil etilgan yildan keyingi yilning oxirigacha ushbu rezerv qaysidir bir qismida ishlatilmagan taqdirda, dargumon qarzlar bo‘yicha rezervning ishlatilmagan summalarini qo‘shish aks ettirilgan 	4910	8710	Buxgalteriya ma’lumotnomasi 
+11	Bevosita (to‘g‘ri) hisobdan chiqarish usuli bilan dargumon debitorlik qarzlari hisobdan chiqarilgan 	9430	4010, 4890	Buxgalteriya ma’lumotnomasi

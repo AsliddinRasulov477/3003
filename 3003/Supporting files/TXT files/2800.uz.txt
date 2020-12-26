@@ -1,0 +1,33 @@
+1	Asosiy syexlardan omborga topshirilgan tayyor mahsulotning haqiqiy tannarxi hisobdan chiqarilgan 	2810	2010	Qabul qilishtopshirish yukxati 
+2	Yordamchi syexlardan haqiqiy tannarxi bo‘yicha tayyor mahsulot kirim qilingan 	2810	2310	Qabul qilishtopshirish yukxati 
+3	Yarim tayyor mahsulot hisob usuli qo‘llanilganda tayyor mahsulot kirim qilingan 	2810	2110	Qabul qilishtopshirish yukxati 
+4	Xizmat ko‘rsatuvchi ishlab chiqarishlardan tayyor mahsulot kirim qilingan 	2810	2710	Qabul qilishtopshirish yukxati, qayta ishlov berish dalolatnomasi 
+5	Tayyor mahsulot ko‘rgazmadan omborga kirim qilingan 	2810	2820	Kirim va chiqim yukxatlari 
+6	Tayyor mahsulot qayta baholanishi aks ettirilgan: 			Rahbar buyrug‘i, qayta baholash dalolatnomasi 
+	- qo‘shimcha baholanganda 	2810	9390
+	- qiymati pasaytirilganda 	9430	2810
+7	Alohida balansga ajratilgan o‘z bo‘linmalariga tayyor mahsulot berilgan 	9110 4110	2810-2830 9010	Hisobvaraq-faktura, tovar-transport yukxati 
+8	Tayyor mahsulot mulk egalaridan ustav kapitalidagi ulushi hisobiga kirim qilingan 	2810	4610	Ta’sischilarning kelishuv bayonnomalari, yukxatlar 
+9	Tekinga olingan tayyor mahsulot kirim qilingan 	2810	8530	Tekinga berish shartnomasi, yukxat 
+10	Tayyor mahsulot maqsadli foydalanish uchun kelib tushgan 	2810	8810-8890	Maqsadli foydalanish shartnomasi, yukxat 
+11	Inventarlash natijasida aniqlangan ortiqcha tayyor mahsulot kirim qilingan 	2810	9390	Solishtirma qaydnoma, inventarlash dalolatnomalari 
+12	Tayyor mahsulot uzoq muddatli moliyaviy investisiyalar hisobiga yoki qimmatli qog‘ozlar qiymatini qoplash uchun berilgan 	9110 (0610	2810 9010)	Shartnomalar, qimmatli qog‘ozlar bo‘yicha sertifikatlar, hisobvaraq-faktura, tovar-transport yukxati 
+13	O‘z ehtiyojlari uchun mo‘ljallangan tayyor mahsulot materiallar tarkibiga o‘tkazilgan 	1010	2810	Kirim va chiqim yukxatlari, talabnoma 
+14	Tayyor mahsulot asosiy syexlarning ichki ehtiyojlari uchun ishlatilgan; tayyor mahsulot qayta ishlov berish uchun syexlarga qaytarilgan va b. 	2010	2810	Kirim va chiqim yukxatlari, talabnoma, dalolatnomalar 
+15	Tayyor mahsulot yordamchi syexlarning ichki ehtiyojlari uchun ishlatilgan; tayyor mahsulot qayta ishlov berish uchun syexlarga qaytarilgan va b. 	2310	2810	Kirim va chiqim yukxatlari, talabnoma, dalolatnomalar 
+16	Mahsulot tayyor mahsulot omboridan yaroqsizlikni tuzatish uchun berilgan 	2610	2810	Dalolatnomalar, yukxatlar 
+17	Inventarlash paytida aniqlangan tayyor mahsulot kamomadlari, aybdor shaxslar aniqlanmagan taqdirda, hisobdan chiqarilgan 	5910 9430	2810 5910	Solishtirma qaydnoma, tergov va sud organlarining qarorlari 
+18	Tayyor mahsulot umumishlab chiqarish va umumxo‘jalik ehtiyojlari uchun ishlatilgan 	2510, 9420	2810	Kirim va chiqim yukxatlari, talabnoma 
+19	Tayyor mahsulot kelgusi davr xarajatlari tarkibida hisobga olinadigan xarajatlar uchun ishlatilgan 	3190	2810	Kirim va chiqim yukxatlari, talabnoma
+20	Tayyor mahsulot ko‘rgazmaga berilgan 	2820	2810	Kirim va chiqim yukxatlari 
+21	Xaridorlarga tayyor mahsulot sotilgan: 			Hisobvaraq-faktura, tovar-transport yukxati, dalolatnomalar 
+	- tannarxi bo‘yicha 	9110-9130	2810
+	- QQSsiz berilgan bahosi bo‘yicha 	4010	9010
+	- QQS summasi bo‘yicha 	4010	6410
+22	Tayyor mahsulot qisqa muddatli moliyaviy qo‘yilmalar (jumladan, qimmatli qog‘ozlar uchun) hisobiga berilgan: 			Shartnomalar, qimmatli qog‘ozlar bo‘yicha sertifikatlar, hisobvaraq-faktura, tovar-transport yukxati 
+	- tannarxi bo‘yicha 	9110	2810
+	- berilgan bahosi bo‘yicha 	5810-5890	9010
+23	Tayyor mahsulot xarid qiymati bo‘yicha xaridorga yuklab jo‘natilgan 	9110	2810	Hisobvaraq-faktura, tovar-transport yukxati 
+24	Inventarlash paytida aniqlangan kamomadlar hisobdan chiqarilgan, moddiy javobgar shaxs aybdor bo‘lgan taqdirda 	5910 4730	2810 5910	Solishtirma qaydnoma, inventarlash dalolatnomasi 
+25	Tayyor mahsulotlar alohida balansga ajratilgan o‘z bo‘linmalaridan kelib tushgan 	2810	6110	Hisobvaraq-faktura, tovar-transport yukxati 
+26	Tayyor mahsulot tekinga berilgan 	9110 9430	2810 9010	Hisobvaraq-faktura, tovar-transport yukxati 

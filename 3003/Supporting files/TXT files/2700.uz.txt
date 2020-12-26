@@ -1,0 +1,37 @@
+1	Xizmat ko‘rsatuvchi ishlab chiqarishlarda va xo‘jaliklarda foydalanilayotgan asosiy vositalar bo‘yicha amortizasiya hisoblangan 	2710	0210-0290	Asosiy vositalar bo‘yicha amortizasiya hisoblash qaydnomasi
+2	Xizmat ko‘rsatuvchi ishlab chiqarishlarda va xo‘jaliklarda foydalaniladigan moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar bo‘yicha amortizasiya hisoblangan 	2710	0299	Amortizasiya hisoblash qaydnomasi 
+3	Xizmat ko‘rsatuvchi ishlab chiqarishlarda va xo‘jaliklarda foydalanilayotgan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	2710	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiya hisoblash qaydnomasi 
+4	Xizmat ko‘rsatuvchi ishlab chiqarishlarda foydalanish uchun materiallar berilgan 	2710	1010-1050, 1090	Yukxat
+5	Yordamchi qishloq xo‘jaliklarda so‘yish natijasida hayvonlar qiymati hisobdan chiqarilgan 	2710	1110, 1120	Hayvonlarni so‘yish dalolatnomasi, yukxat 
+6	Xizmat ko‘rsatuvchi ishlab chiqarishlarda foydalanilgan inventar va xo‘jalik jihozlari hisobdan chiqarilgan 	2710	1080	Yukxat, buxgalteriyaning hisob-kitobi 
+7	Xizmat ko‘rsatuvchi xo‘jaliklarga sarf-xarajat qilingan materiallar qiymatidagi farqlar hisobdan chiqarilgan (musbat yoki storno) 	2710	1610	Buxgalteriyaning hisob-kitobi
+8	Xizmat ko‘rsatuvchi xo‘jaliklarda foydalanilgan o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar hisobdan chiqarilgan 	2710	2110	Talabnoma, yukxat
+9	Xizmat ko‘rsatuvchi xo‘jaliklarga yordamchi ishlab chiqarishlar tomonidan ko‘rsatilgan xizmatlar hisobdan chiqarilgan 	2710	2310	Bildirgi
+10	Asosiy syexlar mahsulotining bir qismi xizmat ko‘rsatuvchi xo‘jaliklar ehtiyojlari uchun sarf-xarajat qilingan 	2710	2810	Yukxat
+11	Kelgusi davr xarajatlari ulushi navbatdagi hisobot davri kelganda xizmat ko‘rsatuvchi xo‘jaliklar xarajatlariga kiritilgan 	2710	3110-3190	Buxgalteriyaning hisob-kitobi 
+12	Xizmat ko‘rsatuvchi xo‘jaliklar ishchilarining xizmat safari bo‘yicha xarajatlari hisobdan chiqarilgan: 			Hisobdor shaxslarning bo‘nak hisobotlari 
+	- ularga bo‘nak berilgan bo‘lsa 	2710	4220
+	- ular bo‘nak berilmagan bo‘lsa 	2710	6970
+13	Xizmat ko‘rsatuvchi xo‘jaliklar xarajatlari hisobdor shaxslar tomonidan to‘langan 	2710	4230	Hisobdor shaxslarning bo‘nak hisobotlari 
+14	Xizmat ko‘rsatuvchi xo‘jaliklarga ko‘rsatgan xizmatlari uchun mol yetkazib beruvchilardan yoki pudratchilardan schyotlar olingan 	2710	6010	Shartnoma, hisobvaraq-faktura, bajarilgan ishlar, xizmatlar dalolatnomasi 
+15	Alohida bo‘linmalar va shu’ba korxonalardan olingan xizmat ko‘rsatuvchi xo‘jaliklarga tegishli xarajatlar kirim qilingan 	2710	6110, 6120	Shartnoma, hisobvaraq-faktura, bajarilgan ishlar, xizmatlar dalolatnomasi 
+16	Xizmat ko‘rsatuvchi xo‘jaliklarda aniqlangan tugallanmagan ishlab chiqarishning ortiqchasi kirim qilingan 	2710	9390	Inventarlash natijalarining solishtirma qaydnomasi, rahbar buyrug‘i 
+17	Xizmat ko‘rsatuvchi xo‘jaliklarda majburiy, mulkiy va shaxsiy sug‘urta bo‘yicha xarajatlar (hisoblangan badallar bo‘yicha qarz) aks ettirilgan 	2710	6510	Buxgalteriyaning hisob-kitobi 
+18	Xizmat ko‘rsatuvchi xo‘jaliklarda band bo‘lgan xodimlar bo‘yicha ijtimoiy sug‘urta va ta’minotga ajratmalar amalga oshirilgan 	2710	6520	Buxgalteriyaning hisob-kitobi 
+19	Xizmat ko‘rsatuvchi xo‘jaliklarda band bo‘lgan xodimlar bo‘yicha mehnatga haq to‘lash hisoblangan 	2710	6710	Bildirgi, ish vaqti hisobining tabeli, buxgalteriyaning hisob-kitobi 
+20	Xizmat ko‘rsatuvchi xo‘jaliklar uchun boshqa korxona va tashkilotlar tomonidan ko‘rsatilgan xizmatlar bo‘yicha qarzlar aks ettirilgan 	2710	6990	Shartnoma, hisobvaraq-faktura, bajarilgan ishlar, xizmatlar dalolatnomasi 
+21	Xizmat ko‘rsatuvchi xo‘jaliklarning kapital qo‘yilmalar jarayonida amalga oshirgan xarajatlari hisobdan chiqarilgan 	0810, 0820	2710	Hisobdan chiqarish qaydnomasi 
+22	Xizmat ko‘rsatuvchi xo‘jaliklarda foydalanilmagan materiallar kirim qilingan 	1010	2710	Bildirgi, buxgalteriyaning hisob-kitobi 
+23	Xizmat ko‘rsatuvchi xo‘jaliklar xarajatlari o‘stirishdagi va bo‘rdoqiga boquvdagi hayvonlar tannarxiga kiritilgan 	1110, 1120	2710	Hisobdan chiqarish qaydnomasi 
+24	Xizmat ko‘rsatuvchi xo‘jaliklar tomonidan materiallarni xarid qilishda xizmatlar ko‘rsatilgan 	1510	2710	Hisobdan chiqarish qaydnomasi 
+25	Xizmat ko‘rsatuvchi xo‘jaliklarda yakuniy yaroqsiz deb topilgan mahsulotlarning amaldagi qiymati hisobdan chiqarilgan 	2610	2710	Yaroqsizlikni hisobga olish qaydnomasi 
+26	Xizmat ko‘rsatuvchi xo‘jaliklarda yaroqsizlikdan ko‘rilgan yo‘qotishlar hisobdan chiqarilgan 	2710	2610	Yaroqsizlikni hisobga olish qaydnomasi 
+27	Xizmat ko‘rsatuvchi xo‘jaliklarning tayyor mahsulotlari kirim qilingan 	2810	2710	Yukxat
+28	Xizmat ko‘rsatuvchi xo‘jaliklar tovarlari kirim qilingan 	2910	2710	Yukxat 
+29	Tabiiy kamayish me’yorlaridagi kamomad xizmat ko‘rsatuvchi xo‘jaliklar xarajatlariga hisobdan chiqarilgan 	2710	5910	Inventarlash natijalarining solishtirma qaydnomasi, rahbar buyrug‘i 
+30	Xizmat ko‘rsatuvchi xo‘jaliklar xarajatlari kelgusi davr xarajatlariga hisobdan chiqarilgan (mavsumiy sohalarda) 	3190	2710	Hisobdan chiqarish qaydnomasi 
+31	Xizmat ko‘rsatuvchi xo‘jaliklar xarajatlari sotish bo‘yicha xarajatlar, ma’muriy va boshqa xarajatlarga kiritilgan 	9410, 9420, 9430	2710	Xarajatlarni taqsimlash qaydnomasi 
+32	Hisobot davrining oxirida xizmat ko‘rsatuvchi xo‘jaliklarni saqlashdan ko‘rilgan zarar hisobdan chiqarilgan 	9430	2710	Hisobdan chiqarish qaydnomasi 
+33	Xizmat ko‘rsatuvchi xo‘jaliklardagi tugallanmagan ishlab chiqarish qayta baholanishi aks ettirilgan: 			Rahbar buyrug‘i, qayta baholash qaydnomasi 
+	- qiymatini oshirish summasiga 	2710	9390
+	- qiymatini kamaytirish summasiga 	9430	2710

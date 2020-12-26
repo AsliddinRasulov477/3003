@@ -1,0 +1,56 @@
+1	Yosh hayvonlar guruhdan guruhga o‘tkazilganligi aks ettirilgan 	1110	1110	Hayvonlar guruhdan guruhga o‘tkazilganligi dalolatnomasi
+2	Boshqa shaxslardan va aholidan xarid qilingan hayvonlar kirim qilingan (1510 schyotdan foydalanilganda) 	1510	6990	Hisobvaraq-faktura, hayvonlarni kirim qilish dalolatnomasi, oldi-sotdi shartnomasi 
+3	Boshqa shaxslardan va aholidan xarid qilingan hayvonlar kirim qilingan (1510 schyotdan foydalanilmaganda) 	1110	6990	Hisobvaraq-faktura, hayvonlarni kirim qilish dalolatnomasi, oldi-sotdi shartnomasi 
+4	Hayvonlarning ortgan vazni va o‘sishi kirim qilingan 	1110	2010	Hayvonlarni tortish qaydnomasi, dalolatnoma 
+5	Yetkazib berish shartnomasi bo‘yicha mol yetkazib beruvchilardan hayvonlar kelib tushgan 	1110, 1120	6010	Hisobvaraq-faktura, yukxat 
+6	Ilgari aks ettirilgan, biroq undirilishi lozim bo‘lmagan da’vo summasi hisobdan chiqarilgan 	1110	4860	Tijorat dalolatnomasi, rad etish to‘g‘risida bildirgi 
+7	Korxona mol-mulki tarkibida xarid qilingan yosh hayvonlar hisobda aks ettirilgan 	1110	8310-8330	Oldi-sotdi shartnomasi, kirim qilish dalolatnomasi 
+8	Korxonaga podani haydab keluvchi ishchilarga mehnat haqi hisoblangan 	1110	6710	Ish vaqtini hisobga oluvchi tabel, hisob-kitob-to‘lov qaydnomasi 
+9	Hayvonlarni yetkazib berish bo‘yicha hisobdor shaxslar tomonidan amalga oshirilgan xarajatlar aks ettirilgan: 			Bo‘nak hisoboti, ilova qilinadigan asoslovchi hujjatlar 
+	- ularga bo‘nak berilgan bo‘lsa 	1110	4230	
+	- ularga bo‘nak berilmagan bo‘lsa 	1110	6970	
+10	Ta’sischilarning ulushi sifatida olingan yosh hayvonlar kirim qilingan 	1110	4610	Hayvonlarni qabul qilishtopshirish dalolatnomasi, yukxat 
+11	Yirik shoxli qoramollar nasllari kirim qilingan 	1110	2010	Nasllarni kirim qilish dalolatnomasi 
+12	Ishchi otlar nasllari kirim qilingan 	1110	2310	Nasllarni kirim qilish dalolatnomasi 
+13	Boshqa shaxslardan tekinga kelib tushgan yosh hayvonlar kirim qilingan 	1110	8530	Tekinga berish shartnomasi, nasllarni kirim qilish dalolatnomasi 
+14	Mulk huquqi korxonaga tegishli bo‘lmagan hayvonlar kirim qilingan 	006	1	Shartnoma, yukxat 
+15	Inventarlash natijasida aniqlangan o‘stirishdagi va boquvdagi ortiqcha hayvonlar qiymati kirim qilingan 	0110, 0120	9390	Inventarlash ro‘yxati, inventarlash dalolatnomasi 
+16	Yosh hayvonlarning asosiy podaga o‘tkazilishi aks ettirilgan (1510 schyotdan foydalanilganda) 	0840	1110	Hayvonlarni asosiy podaga o‘tkazish dalolatnomasi 
+17	Yosh hayvonlarning chetga sotilishi aks ettirilgan: 			Shartnoma, hisobvaraq-faktura, berish yukxati 
+	- sotish bahosiga 	4890	9220	
+	- tannarxiga 	9220	1110	
+18	Yosh hayvonlarni berish yo‘li bilan qisqa muddatli moliyalashtirish aks ettirilgan: 			Moliyalashtirish shartnomasi, yukxat 
+	- o‘tkazib berish bahosiga 	5810-5890	9220	
+	- tannarxiga 	9220	1110	
+19	Yosh hayvonlarning shu’ba korxonalariga berilishi aks ettirilgan: 			Shartnoma, hayvonlarning chiqib ketish dalolatnomasi, yukxat, hisobvaraq-faktura 
+	- o‘tkazib berish bahosiga 	4120	9220	
+	- tannarxiga 	9220	1110	
+20	Yosh hayvonlarning alohida balansga ajratilgan boshqa bo‘linmalarga berilishi aks ettirilgan: 			Shartnoma, hayvonlarning chiqib ketish dalolatnomasi, yukxat, hisobvaraq-faktura 
+	- o‘tkazib berish bahosiga 	4110	9220	
+	- tannarxiga 	9220	1110	
+21	Inventarlash natijasida aniqlangan yosh hayvonlar kamomadi aks ettirilgan: 			Inventarlash ro‘yxati, inventarlash dalolatnomasi 
+	- amaldagi tannarxiga 	5910	1110	
+	- moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb topilib, bunda baholash natijasida yetishmayotgan tovar-moddiy zaxiralarning bozor qiymati (undirish qiymati) yetishmayotgan hayvonlarning amaldagi (balans) qiymatidan yuqori bo‘lgan taqdirda: (kamomad summasiga) 	4730	5910
+    - moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb topilib, bunda baholash natijasida yetishmayotgan tovar-moddiy zaxiralarning bozor qiymati (undirish qiymati) yetishmayotgan hayvonlarning amaldagi (balans) qiymatidan yuqori bo‘lgan taqdirda: (daromad summasiga) 	4730	9320
+	- moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb topilib, bunda baholash natijasida yetishmayotgan tovarmoddiy zaxiralarning bozor qiymati (undirish qiymati) yetishmayotgan hayvonlarning amaldagi (balans) qiymatidan past bo‘lgan taqdirda: (kamomad summasiga) 	4730	5910
+    - moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb topilib, bunda baholash natijasida yetishmayotgan tovarmoddiy zaxiralarning bozor qiymati (undirish qiymati) yetishmayotgan hayvonlarning amaldagi (balans) qiymatidan past bo‘lgan taqdirda: (zarar summasiga) 	9430	5910
+	- kamomadning aniq aybdorlari aniqlanmagan yoki moddiy javobgar shaxslardan undirish imkoniyati bo‘lmagan taqdirda: (moddiy zaxiralar kamomadidan ko‘rilgan zarar summasiga) 	9430	5910
+22	Epizootiya natijasida nobud bo‘lgan yosh hayvonlar hisobdan chiqarilgan 	9720	1110	Hayvonlarning chiqib ketish dalolatnomasi, mol doktori xulosasi 
+23	Ayirboshlash natijasida chiqib ketgan yosh hayvonlar hisobdan chiqarilgan 	9220	1110	Hayvonlarning chiqib ketish dalolatnomasi, oldi-sotdi shartnomasi 
+24	Yaroqsiz deb topilib asosiy podadan chiqarilgan va bo‘rdoqiga boqish uchun o‘tkazilgan hayvonlar balans qiymati bo‘yicha hisobga olingan 	1120	0170	Yaroqsiz deb topish dalolatnomasi, yukxat 
+25	Yuqumli kasallik ommaviy tarqalishi yoki tabiiy ofatlar natijasida nobud bo‘lgan yoki so‘yilgan hayvonlar qiymati hisobdan chiqarilgan 	9720	1110, 1120	Yuqumli kasallik ommaviy tarqalishi yoki tabiiy ofatlar natijasida hisobdan chiqarish dalolatnomasi 
+26	Xodimlar aybi bilan hayvonlarning nobud bo‘lishi qayd etilgan 	9220, 4730	1110, 1120 9220	Hayvonlarni hisobdan chiqarish dalolatnomasi, xodimlardan ko‘rilgan zararni undirish to‘g‘risida rahbar buyrug‘i 
+27	Boquvda bo‘lgan va ssuda uchun garovga qo‘yilgan hayvonlar hisobdan chiqarilgan, agar ssudani qoplash imkoniyati bo‘lmagan taqdirda 	6820, 6950	1120	Hayvonlarni hisobdan chiqarish dalolatnomasi, yukxat 
+28	Hayvonlar uzoq muddatli va qisqa muddatli qimmatli qog‘ozlar xarid qilish yo‘li bilan berilgan: 			Hayvonlarni qabul qilishtopshirish dalolatnomasi, yukxat, hisobvaraq-faktura 
+	- haqiqiy qiymatiga 	9220	1110	
+	- berish bahosiga 	0610, 5810	1120	
+	- berish bahosi haqiqiy qiymatidan yuqori bo‘lgan bo‘lsa 	9220	9320	
+	- berish bahosi haqiqiy qiymatidan past bo‘lgan bo‘lsa 	9430	9220	
+29	Hayvonlarni chetga, jumladan, ayirboshlash va hadya qilish shartnomasi bo‘yicha sotish aks ettirilgan 	9220	1110, 1120	Sotish, ayirboshlash, tekinga berish shartnomalari, hisobvaraq-faktura, yukxat 
+30	Qishloq xo‘jaligi yordamchi xo‘jaliklarida so‘yilgan hayvonlar va unga tegishli xarajatlar hisobdan chiqarilgan 	2810	1110, 1120	Hayvonlarni so‘yish dalolatnomasi, yukxat 
+31	Bosh korxonadan o‘stirish va bo‘rdoqiga boqish uchun kelib tushgan hayvonlar alohida balansga ajratib chiqarilgan bo‘linma tomonidan kirim qilingan 	1120	6110	Hayvonlarni qabul qilishtopshirish dalolatnomasi, yukxat, hisobvaraq-faktura 
+32	Maqsadli moliyalashtirish doirasida olingan o‘stirishdagi va boquvdagi hayvonlar kirim qilingan 	1110, 1120	8810-8890	Maqsadli moliyalashtirish shartnomasi, yukxat 
+33	Yil oxirida asosiy ishlab chiqarishning xarajat moddalari bo‘yicha hayvonlar ko‘payishining haqiqiy tannarxi ortgan 	1110	2010	Hayvonlar vaznini tortish dalolatnomasi 
+34	Yil oxirida asosiy ishlab chiqarishning xarajat moddalari bo‘yicha hayvonlar ko‘payishining haqiqiy tannarxi kamaygan 	9430	1110	Hayvonlar vaznini tortish dalolatnomasi 
+35	Xarid qilinishi bankning kredit shartnomasi yoki boshqa korxona bilan qarz shartnomasiga muvofiq to‘langan hayvonlar hisobga olingan 	1110, 1120	6810, 7810, 6820, 7820 	Qarz shartnomasi, yukxat 
+36	Mulk huquqi korxonaga tegishli bo‘lmagan hayvonlar qaytarilgan 	1	006	Yukxat

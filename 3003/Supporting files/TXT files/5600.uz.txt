@@ -1,0 +1,17 @@
+1	Pul ekvivalentlari naqd pulga xarid qilingan 	5610	5010	Schyot, chek, chiqim kassa orderi
+2	Pul ekvivalentlari valyuta kassasi orqali naqd pulga xarid qilingan 	5610	5020	Schyot, chek, chiqim kassa orderi 
+3	Pul ekvivalentlari hisobdor shaxslar orqali xarid qilingan: 			Bo‘nak hisoboti
+	- ularga bo‘nak berilgan bo‘lsa 	5610	4220, 4230
+	- ularga bo‘nak berilmagan bo‘lsa 	5610	6970
+4	Pul ekvivalentlari pul mablag‘larini hisob-kitob schyotidan o‘tkazish yo‘li bilan xarid qilingan 	5610	5110	Hisobvaraq-faktura yoki yukxat, bank ko‘chirmasi 
+5	Pul ekvivalentlari pul mablag‘larini valyuta schyotidan o‘tkazish yo‘li bilan xarid qilingan 	5610	5210, 5220	Hisobvaraq-faktura yoki yukxat, valyuta schyotidan bank ko‘chirmasi 
+6	Pul ekvivalentlari mol yetkazib beruvchilardan xarid qilingan 	5610	6010	Hisobvaraq-fakturalar, yukxatlar 
+7	Pul ekvivalentlari turli shaxslardan xarid qilingan 	5610	6990	Hisobvaraq-fakturalar, yukxatlar 
+8	Pul ekvivalentlari asosiy ishlab chiqarishga sarf-xarajat qilingan 	2010	5610	Yukxatlar, talabnomalar 
+9	Pul ekvivalentlari yordamchi ishlab chiqarishga sarf-xarajat qilingan 	2310	5610	Yukxatlar, talabnomalar 
+10	Pul ekvivalentlari sotish bo‘yicha xarajatlarga sarf-xarajat qilingan 	9410	5610	Yukxatlar, talabnomalar 
+11	Pul ekvivalentlari ma’muriy xarajatlarga sarf-xarajat qilingan 	9420	5610	Yukxatlar, talabnomalar 
+12	Inventarlash natijasida pul ekvivalentlari kamomadi aniqlangan 	5910	5610	Inventarlash dalolatnomasi 
+13	Pul ekvivalentlari kamomadi aybdor shaxslar zimmasiga yuklangan 	4730	5910	Inventarlash dalolatnomasi 
+14	Aybdor shaxslar aniqlanmagan taqdirda, pul ekvivalentlari kamomadi zararga hisobdan chiqarilgan 	9430	5910	Inventarlash dalolatnomasi 
+15	Pul ekvivalentlari mehnatga haq to‘lash hisobiga berilgan 	6710	5610	Hisob-kitob to‘lov hujjatlari

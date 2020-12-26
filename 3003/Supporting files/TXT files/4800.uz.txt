@@ -1,0 +1,63 @@
+1	Asosiy vositalar moliyaviy ijara shartnomasi bo‘yicha ijaraga oluvchi bilan kelishilgan bahoda berilgan 	0920, 4810	9210	Moliyaviy ijara shartnomasi
+2	Ijara to‘lovlari jadvali (tartibi)ga muvofiq, moliyaviy ijara shartnomasi bo‘yicha olinadigan uzoq muddatli to‘lovlar joriy qismiga o‘tkazilishi aks ettirilgan 	4810	0920	Moliyaviy ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+3	Moliyaviy ijara shartnomasiga muvofiq, moliyaviy ijara bo‘yicha qarzni qoplash hisobiga ijarachilardan kassaga pul mablag‘lari kelib tushgan 	5010	4810	Moliyaviy ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+4	Moliyaviy ijara shartnomasiga muvofiq, moliyaviy ijara bo‘yicha qarzni qoplash hisobiga ijarachilardan hisob-kitob schyotiga pul mablag‘lari kelib tushgan 	5110	4810	Moliyaviy ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+5	Moliyaviy ijara shartnomasiga muvofiq, moliyaviy ijara bo‘yicha qarzni qoplash hisobiga ijarachilardan valyuta schyotiga pul mablag‘lari kelib tushgan 	5210	4810	Moliyaviy ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+6	Ijara to‘lovlari jadvali (tartibi)ga muvofiq, to‘lov muddati kelganda ijaraga oluvchidan ilgari olingan bo‘naklar o‘zaro hisob-kitob qilingan 	6390	4810	Moliyaviy ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+7	Moliyaviy ijara shartnomasi tugagandan keyin ijaraga oluvchi tomonidan, moliyaviy ijara shartnomasiga muvofiq, ob’yektning qoplanmagan qiymati summasiga ijara ob’yekti qaytarilishi aks ettirilgan 	0820	4810	Moliyaviy ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+8	Moliyaviy ijara shartnomasiga muvofiq, ijaraga oluvchi tomonidan ijara bekor qilingan sana holatiga ijara ob’yektining qoplanmagan qiymati summasiga ijara ob’yektining muddatdan oldin qaytarilishi aks ettirilgan 	0820	4810	Moliyaviy ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+9	Mol-mulkni operativ ijaraga berish asosiy faoliyat hisoblanmagan korxonalarda hisobot davriga taalluqli ijara to‘lovlari hisoblangan (ijara to‘lovlari jadvali (tartibi)ga yoki operativ ijara shartnomasiga muvofiq) 	4820	9350	Operativ ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+10	Operativ ijara bo‘yicha QQS aks ettirilgan 	4820	6410	Ijara shartnomasi, QQSning hisob-kitobi 
+11	Mol-mulkni operativ ijaraga berish asosiy faoliyat hisoblanmagan korxonalarda ijara to‘lovlari kelib tushgan 	5110	4820	Operativ ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+12	Mol-mulkni operativ ijaraga berish asosiy faoliyat hisoblanmagan korxonalarda, ijara to‘lovi jadvali (tartibi)ga yoki operativ ijara shartnomasiga muvofiq, to‘lov muddati kelgandan keyin ijarachidan ilgari olingan bo‘naklar o‘zaro hisob-kitob qilingan 	6390	4820	Operativ ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+13	Berilgan kreditlar bo‘yicha olinadigan foizlar aks ettirilgan 	4830	9530	Shartnomalar, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+14	Olingan veksellar bo‘yicha foizlar hisoblangan 	4830	9530	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+15	Hisoblangan foizlar bo‘yicha musbat kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi 
+	- hisobdan chiqarishning to‘g‘ri usuli bo‘yicha 	4830	9540
+	- jamg‘arish usuli bo‘yicha 	4830	6230
+16	Hisob-kitob schyotiga foizlar kelib tushgan 	5110	4830	Bank hisob-kitob schyotidan ko‘chirma 
+17	Valyuta schyotiga foizlar kelib tushgan 	5210	4830	Bank valyuta schyotidan ko‘chirma 
+18	Olinadigan foizlar bo‘yicha manfiy kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi 
+	- hisobdan chiqarishning to‘g‘ri usuli bo‘yicha 	9620	4830
+	- jamg‘arish usuli bo‘yicha 	3290	4830
+19	Olinadigan dividendlar aks ettirilgan 	4840	9520	Ta’sischilar majlisining bayonnomasi, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+20	Hisoblangan dividendlar bo‘yicha musbat kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi 
+	- hisobdan chiqarishning to‘g‘ri usuli bo‘yicha 	4840	9540
+	- jamg‘arish usuli bo‘yicha 	4840	6230
+21	Boshqa korxonalarda ulushli ishtirok etganligi uchun daromadlar summasi hisoblangan 	4840	9520	Ta’sischilar majlisining bayonnomasi 
+22	Hisob-kitob schyotiga dividendlar kelib tushgan 	5110	4840	Bank hisob-kitob schyotidan ko‘chirma 
+23	Valyuta schyotiga dividendlar kelib tushgan 	5210	4840	Bank valyuta schyotidan ko‘chirma 
+24	To‘lanadigan dividendlar bo‘yicha manfiy kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi 
+	- hisobdan chiqarishning to‘g‘ri usuli bo‘yicha 	9620	4840
+	- jamg‘arish usuli bo‘yicha 	3290	4840
+25	Mijozlardan to‘lanadigan royalti aks ettirilgan 	4850	9510	Shartnomalar, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+26	Hisoblangan dividendlar bo‘yicha musbat kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi 
+	- hisobdan chiqarishning to‘g‘ri usuli bo‘yicha 	4850	9540
+	- jamg‘arish usuli bo‘yicha 	4850	6230
+27	Hisob-kitob schyotiga royalti kelib tushgan 	5110	4850	Bank hisob-kitob schyotidan ko‘chirma 
+28	Valyuta schyotiga royalti kelib tushgan 	5210	4850	Shartnomalar, buxgalteriyaning hisob-kitob ma’lumotnomasi, bank valyuta schyotidan ko‘chirma 
+29	To‘lanadigan royalti bo‘yicha manfiy kurs farqi aks ettirilgan: 			Kurs farqining hisob-kitobi
+	- hisobdan chiqarishning to‘g‘ri usuli bo‘yicha 	9620	4850
+	- jamg‘arish usuli bo‘yicha 	3290	4850
+30	Aniqlangan baholar, tariflar nomutanosibligi, o‘rnatiladigan asbob-uskunalarga oid schyotlardagi xatolar bo‘yicha da’volar taqdim etilgan 	4860	0710, 0720	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+31	Hajmlar oshirilganligi, baholar nomutanosibligi va kapital qo‘yilmalar uchun ilgari to‘langan schyotlardagi xatolar bo‘yicha da’volar taqdim etilgan 	4860	0810-0890	Shartnoma, loyiha-smeta hujjatlari, da’vo xati, hajmlar oshirilganligi to‘g‘risida dalolatnoma, solishtirma dalolatnoma 
+32	Baholardagi nomutanosiblik, arifmetik xatolar va materiallar kamomadi bo‘yicha da’volar taqdim etilgan 	4860	1010	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+33	Kamomadlar, schyotlardagi xatolar, sifat bo‘yicha da’volar taqdim etilgan (1510 schyot qo‘llanilganda) 	4860	1510	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+34	Buyurtmachi buyurtmadan voz kechganligi munosabati bilan unga bajarilgan ishlar summasiga da’vo taqdim etilgan 	4860	2010	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+35	Baholardagi nomutanosiblik, arifmetik xatolar va tovarlar kamomadi bo‘yicha da’volar taqdim etilgan 	4860	2910	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+36	Korxonaning hisob-kitob schyotidan yanglish hisobdan chiqarilgan summalar bo‘yicha bankka da’volar taqdim etilgan 	4860	5110	Da’vo xati, solishtirma dalolatnoma
+37	Korxonaning valyuta schyotidan yanglish hisobdan chiqarilgan summalar bo‘yicha bankka da’volar taqdim etilgan 	4860	5210	Da’vo xati, solishtirma dalolatnoma 
+38	Bankning maxsus schyotidan yanglish hisobdan chiqarilgan summalar bo‘yicha bankka da’volar taqdim etilgan 	4860	5510-5530	Da’vo xati, solishtirma dalolatnoma 
+39	Kelib tushgan moddiy qiymatliklar kirim qilinishida mol yetkazib beruvchilarga da’volar taqdim etilgan 	4860	6010	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+40	Kelib tushgan asosiy vositalar kirim qilinishida mol yetkazib beruvchilarga da’volar taqdim etilgan 	4860	0820	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+41	Kelib tushgan moddiy va boshqa aktivlar kirim qilinishida mol yetkazib beruvchilarga da’volar taqdim etilgan 	4860	0830	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+42	Shartnomaviy majburiyatlarga rioya qilinmaganligi uchun jarima, penya va boqimondalar boshqa korxonalar tomonidan tan olingan 	4860	9330	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+43	Da’voni to‘lash hisobiga asosiy vositalar olingan 	0110-0190	4860	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+44	Da’voni to‘lash hisobiga nomoddiy aktivlar olingan 	0410-0490	4860	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+45	Da’voni to‘lash hisobiga materiallar olingan 	1010-1090	4860	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+46	Da’voni to‘lash hisobiga tovarlar olingan 	2910	4860	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma 
+47	Qondirilmagan da’volar summasi zararga hisobdan chiqarilgan 	9430	4860	Da’vo xati, tijorat dalolatnomasi, solishtirma dalolatnoma, rahbar buyrug‘i 
+48	Alohida balanslarga ajratilgan ichki bo‘linmalar turli korxona va tashkilotlarga xizmat ko‘rsatishgan 	4890	6110	Ko‘rsatilgan xizmatlar schyotlari, qabul qilish dalolatnomasi 
+49	Xodimlarga boshqa korxonalar, uchinchi shaxslar va boshqalar hisobidan summalar aks ettirilgan 	4890	6710	Yukxat, bajarilgan ishlar dalolatnomasi 
+50	Operativ ijara shartnomasiga muvofiq olingan asosiy vositalarni yaxshilash bo‘yicha kapital qo‘yilmalar qiymatini qoplash hisobiga ijaraga beruvchining qarzi aks ettirilgan 	4890	9220	Ijara shartnomasi, qabul qilish-topshirish dalolatnomasi 
+51	Operativ ijara shartnomasiga muvofiq olingan asosiy vositalarni yaxshilash bo‘yicha kapital qo‘yilmalarni qoplash hisobiga ijaraga beruvchidan pul mablag‘lari kelib tushgan 	5110	4890	Ijara shartnomasi, qabul qilish-topshirish dalolatnomasi

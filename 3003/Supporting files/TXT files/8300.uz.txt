@@ -1,0 +1,34 @@
+1	Ustav kapitali ta’sis hujjatlari bilan ko‘zda tutilgan ishtirokchilarning ulushlari summasida, oddiy aksiyalarga obuna summasida tasdiqlangan (xo‘jalik sub’yekti davlat ro‘yxatidan o‘tkazilgan kunga) 	4610	8310	Ta’sis hujjatlari, aksiyadorlarni ro‘yxatga olish jurnali
+2	Ustav kapitali ta’sis hujjatlari bilan ko‘zda tutilgan ishtirokchilarning ulushlari summasida, imtiyozli aksiyalarga obuna summasida tasdiqlangan (xo‘jalik sub’yekti davlat ro‘yxatidan o‘tkazilgan kunga) 	4610	8320	Ta’sis hujjatlari, aksiyadorlarni ro‘yxatga olish jurnali 
+3	Ustav kapitali ta’sis hujjatlari bilan ko‘zda tutilgan ishtirokchilarning ulushlari summasida tasdiqlangan (MChJ, QMJ, XK, DK davlat ro‘yxatidan o‘tkazilgan kunga) 	4610	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi 
+4	Ustav kapitali ta’sis hujjatlari bilan ko‘zda tutilgan ishtirokchilarning ulushlari summasida, oddiy aksiyalarga obuna summasida oshirilgan (oshirilishi davlat ro‘yxatidan o‘tkazilgan kundan keyin) 	4610	8310	Ta’sis hujjatlari 
+5	Aksiyadorlik jamiyatining ustav kapitali qo‘shimcha imtiyozli aksiyalarni chiqarish yo‘li bilan oshirilgan (oshirilishi davlat ro‘yxatidan o‘tkazilgan kundan keyin) 	4610	8320	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi 
+6	Ustav kapitali oshirilgan (MChJ, QMJ, XK, DK davlat ro‘yxatidan o‘tkazilgan kunga) 	4610	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi 
+7	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha asosiy vositalar kiritilgan 	0110-0190	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+8	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha nomoddiy aktivlar kiritilgan 	0400	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+9	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha uzoq muddatli qimmatli qog‘ozlar kiritilgan 	0610	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+10	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha o‘rnatiladigan asbob-uskunalar kiritilgan 	0710, 0720	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+11	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha tugallanmagan qurilish ob’yekti kiritilgan 	0810	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+12	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha materiallar kiritilgan 	1000	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+13	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha o‘stirishdagi va bo‘rdoqiga boquvdagi hayvonlar kiritilgan 	1110, 1120	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+14	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalanilgan holda, davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha materiallar kiritilgan 	1510	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+15	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha tayyor mahsulot kiritilgan 	2810	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+16	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha tovarlar kiritilgan 	2910	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+17	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan pul mablag‘lari kiritilgan 	5010, 5110, 5210, 5220	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+18	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan bankdagi maxsus hisob-kitob raqamiga pul mablag‘lari kiritilgan 	5530	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+19	Davlat ro‘yxatidan o‘tkazilgan paytda MChJ ta’sischilari tomonidan kelishilgan qiymat bo‘yicha qisqa muddatli qimmatli qog‘ozlar kiritilgan 	5810	8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi, guvohnoma 
+20	Rezerv kapitalining mablag‘lari ustav kapitalini oshirishga yo‘naltirilgan 	8520	8310-8330	Ta’sis hujjatlari, ta’sischilar majlisining bayonnomasi 
+21	Foydaning bir qismi ustav kapitalini oshirishga yo‘naltirilgan: 			Ta’sischilar majlisining bayonnomasi 
+	- hisoblangan dividendlar miqdorida 	8710	6610
+	- ustav kapitalini oshirishga yo‘naltiriladigan foyda miqdorida 	6610	8310-8330
+22	Ustav kapitali to‘langan kapital miqdorigacha pasaytirilgan 	8310-8330	4610	Ta’sischilarning qarori, buxgalteriyaning hisob-kitobi 
+23	Korxona ta’sischilariga ulushlari qaytarilganligi aks ettirilgan; aksiyalarning nominal qiymati pasaytirilgan; ustav kapitali (jamg‘armasi) pasaytirilgan 	8310-8330	6620	Ta’sischilarning qarori 
+24	Sotib olingan va bekor qilingan aksiyalar ustav kapitalini kamaytirishga hisobdan chiqarilgan: 			Ta’sischilarning qarori, buxgalteriyaning hisob-kitobi 
+	- ular nominal qiymatidan yuqori bahoda sotib olinganda: (nominal qiymatiga) 	8310, 8320	8610, 8620
+    - ular nominal qiymatidan yuqori bahoda sotib olinganda: (nominal qiymatidan ortiq bo‘lgan summaga) 	8410, 9690	8610, 8620
+	- ular nominal qiymatidan past bahoda sotib olinganda: (sotib olish qiymatiga) 	8310, 8320	8610, 8620
+    - ular nominal qiymatidan past bahoda sotib olinganda: (nominal qiymatidan past bo‘lgan summaga) 	8310, 8320	9590
+25	Korxona foydasi hisobidan mehnat jamoasi a’zolariga tekinga berilgan aksiyalar qiymati aks ettirilgan 	4610 8710	8310, 8320 4610	Aksiyalarni berish qaydnomasi 
+26	Maqsadli moliyalashtirish mablag‘lari (maqsadli dasturlarni moliyalashtirish uchun olinganlaridan tashqari) ustav kapitalini oshirishga yo‘naltirilgan 	8810-8890	8310-8330	Ta’sischilarning qarori 
+27	Xususiy sotib olingan aksiyalar aksiyadorlik jamiyati tomonidan bekor qilingan 	8310, 8320	8610	Ta’sischilarning qarori 
+28	Imtiyozli aksiyalarning oddiy aksiyalarga almashtirilishi (konvertasiya qilinishi) aks ettirilgan 	8320	8310	Ta’sischilarning qarori 

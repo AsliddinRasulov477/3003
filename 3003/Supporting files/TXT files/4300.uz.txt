@@ -1,0 +1,32 @@
+1	Hisob-kitob schyotidan bo‘naklar o‘tkazilgan (mahsulot yetkazib berish, qisman tayyor bo‘lgan bajarilgan ishlar va boshqalar uchun) 	4310	5110	Hisob-kitob schyotidan bank ko‘chirmasi, kontrakt, hisobvaraq-faktura
+2	Valyuta schyotidan bo‘naklar o‘tkazilgan (mahsulot yetkazib berish, qisman tayyor bo‘lgan bajarilgan ishlar va boshqalar uchun) 	4310	5210	Valyuta schyotidan bank ko‘chirmasi, kontrakt, hisobvaraq-faktura 
+3	Bankdagi maxsus schyotlardan bo‘naklar o‘tkazilgan (mahsulot yetkazib berish, qisman tayyor bo‘lgan bajarilgan ishlar va boshqalar uchun) 	4310	5510-5530	Maxsus schyotlardan bank ko‘chirmasi, kontrakt, hisobvaraq-faktura 
+4	Qishloq xo‘jaligi mahsulotlarini tayyorlash uchun naqd pulda bo‘nak berilgan 	4310	5010	Chiqim kassa orderi, kontrakt 
+5	Hisob-kitob schyotidan bo‘naklar o‘tkazilgan (uzoq muddatli aktivlar uchun) 	4320	5110	Hisob-kitob schyotidan bank ko‘chirmasi, kontrakt, hisobvaraq-faktura 
+6	Valyuta schyotidan bo‘naklar o‘tkazilgan (uzoq muddatli aktivlarni yetkazib berish uchun oldindan to‘lov) 	4320	5210	Valyuta schyotidan bank ko‘chirmasi, kontrakt 
+7	Bankdagi maxsus schyotlardan bo‘naklar o‘tkazilgan; uzoq muddatli aktivlarning qisman tayyor buyurtmalari bo‘yicha oraliq schyotlar to‘lovi 	4320	5510-5530	Maxsus schyotlardan bank ko‘chirmasi, kontraktlar 
+8	To‘lanadigan qisqa muddatli veksellar hisobidan bo‘naklar o‘tkazilishi aks ettirilgan 	4310	6020	Ssuda schyotining ko‘chirmasi, kontraktlar 
+9	To‘lanadigan uzoq muddatli veksellar hisobidan bo‘naklar o‘tkazilishi aks ettirilgan 	4310	7020	Ssuda schyotining ko‘chirmasi, kontraktlar 
+10	Bankning qisqa muddatli kreditlari olinganligi hisobidan bo‘naklar o‘tkazilishi aks ettirilgan 	4310	6810	Ssuda schyotining ko‘chirmasi, kontraktlar 
+11	Boshqa tashkilotlardan qisqa muddatli kreditlar olinganligi hisobidan bo‘naklar o‘tkazilishi aks ettirilgan 	4310	6820	Ssuda schyotining ko‘chirmasi, kontraktlar 
+12	To‘lanadigan qisqa muddatli obligasiyalar hisobidan bo‘naklar o‘tkazilishi aks ettirilgan 	4310	6830	Ssuda schyotining ko‘chirmasi, kontraktlar 
+13	Bankning uzoq muddatli kreditlari hisobidan bo‘naklar o‘tkazilishi aks ettirilgan 	4310	7810	Ssuda schyotining ko‘chirmasi, kontraktlar 
+14	Boshqa tashkilotlardan olingan uzoq muddatli kreditlar hisobidan bo‘naklar o‘tkazilishi aks ettirilgan 	4310	7820	Ssuda schyotining ko‘chirmasi, kontraktlar 
+15	Kontrakt bekor qilinishi munosabati bilan berilgan bo‘naklarni kassaga qaytarish aks ettirilgan 	5010	4310	Kirim kassa orderi
+16	Berilgan bo‘naklarni hisob-kitob schyotiga qaytarish aks ettirilgan 	5110	4310	Bank hisob-kitob schyotidan ko‘chirma 
+17	Berilgan bo‘naklarni valyuta schyotiga qaytarish aks ettirilgan 	5210	4310	Bank valyuta schyotidan ko‘chirma 
+18	Mol yetkazib beruvchilarga yoki pudratchilarga qarzni qoplash uchun berilgan bo‘naklar bilan o‘zaro hisob-kitob qilish aks ettirilgan 	6010, 6950	4310	Kontraktlar, bajarilgan ishlar, xizmatlar dalolatnomasi 
+19	Ilgari korxona tomonidan dargumon deb tan olingan va talab qilib olinmagan qarzlar bo‘naklar hisobidan hisobdan chiqarilgan 	4910	4310	Qarzlarni hisobdan chiqarish dalolatnomasi 
+20	Debitorning to‘lovga noqobilligi natijasida da’vo taqdim etish muddati o‘tib ketgan mol yetkazib beruvchilarga berilgan va talab qilib olinmagan bo‘naklar belgilangan tartibda hisobdan chiqarilgan (bunday qarzlar summasi bo‘yicha hisobot davrida rezerv barpo qilinmagan bo‘lsa) 	9430	4310	Xo‘jalik sudining qarori
+21	Bajarilgan ishlar bo‘yicha berilgan bo‘naklarning tegishli summasini har yilning boshida uzoq muddatli qismidan joriy qismiga o‘tkazish aks ettirilgan 	4310	0940	Hisob-kitob bo‘yicha
+22	Mol yetkazib beruvchilardan bo‘nak summasi chegarasida tugallanmagan qurilish ob’yekti kelib tushgan 	0810	4310	Yukxat
+23	Mol yetkazib beruvchilardan bo‘nak summasi chegarasida asosiy vositalar kelib tushgan 	0820	4310	Yukxat
+24	Mol yetkazib beruvchilardan bo‘nak summasi chegarasida nomoddiy aktivlar kelib tushgan 	0830	4310	Yukxat
+25	Mol yetkazib beruvchilardan bo‘nak summasi chegarasida materiallar kelib tushgan 	1010-1090	4310	Yukxat
+26	Mol yetkazib beruvchilardan bo‘nak summasi chegarasida inventar va xo‘jalik jihozlari kelib tushgan 	1080	4310	Yukxat
+27	Mol yetkazib beruvchilardan bo‘nak summasi chegarasida hayvonlar kelib tushgan 	0840	4310	Yukxat
+28	Mol yetkazib beruvchilardan bo‘nak summasi chegarasida tovarlar kelib tushgan 	2910	4310	Yukxat
+29	Jamg‘arish usulida, mol yetkazib beruvchilarga va pudratchilarga chet el valyutasida berilgan bo‘naklar summasi bo‘yicha musbat kurs farqi aks ettirilgan 	4310-4390	6230	Kurs farqining hisob-kitobi
+30	Hisobdan chiqarishning to‘g‘ri usulida, mol yetkazib beruvchilarga va pudratchilarga chet el valyutasida berilgan bo‘naklar summasi bo‘yicha musbat kurs farqi aks ettirilgan 	4310-4390	9540	Kurs farqining hisob-kitobi
+31	Jamg‘arish usulida, mol yetkazib beruvchilarga va pudratchilarga chet el valyutasida berilgan bo‘naklar summasi bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	4310-4390	Kurs farqining hisob-kitobi
+32	Hisobdan chiqarishning to‘g‘ri usulida, mol yetkazib beruvchilarga va pudratchilarga chet el valyutasida berilgan bo‘naklar summasi bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	4310-4390	Kurs farqining hisob-kitobi

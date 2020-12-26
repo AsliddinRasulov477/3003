@@ -1,0 +1,376 @@
+//MARK: Tab Titles
+"home" = "Bosh sahifa";
+"bookmarks" = "Xatcho‘plar";
+"settings" = "Sozlamalar";
+
+
+
+//MARK: Buttons
+
+"button1" = "Aktiv schetlar";
+"button2" = "Passiv schetlar";
+"button3" = "Tranzit schetlar";
+"button4" = "Balansdan tashqari schetlar";
+"button5" = "Qonunlar";
+"button6" = "Qo'shimcha ma’lumot";
+
+
+
+//MARK: Segment buttons
+
+"activeSegment1" = "Uzoq muddatli aktivlar";
+"activeSegment2" = "Joriy aktivlar";
+
+"passiveSegment1" = "Joriy majburiyatlar";
+"passiveSegment2" = "Xususiy kapital";
+
+
+
+//MARK: Titles
+
+"activeTitle" = "Aktiv schetlar";
+"passiveTitle" = "Passiv schetlar";
+"transitTitle" = "Tranzit schetlar";
+"outOfBalanceTitle" = "Balansdan tashqari schetlar";
+
+
+//MARK: Poisk
+"qidiruv" = " Qidirish";
+
+
+//MARK: Aktiv schetlar
+
+"0100" = "0100 ASOSIY VOSITALARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"0200" = "0200 ASOSIY VOSITALARNING ESKIRISHINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"0300" = "0300 UZOQ MUDDATLI IJARA SHARTNOMASI BO‘YICHA OLINGAN ASOSIY VOSITALARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"0400" = "0400 NOMODDIY AKTIVLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"0500" = "0500 NOMODDIY AKTIVLAR AMORTIZASIYASINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"0600" = "0600 UZOQ MUDDATLI INVESTISIYALARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"0700" = "0700 O‘RNATILADIGAN ASBOB-USKUNALARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"0800" = "0800 KAPITAL QO‘YILMALARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"0900" = "0900 UZOQ MUDDATLI DEBITOR QARZLARI VA KECHIKTIRILGAN XARAJATLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"1000" = "1000 MATERIALLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"1100" = "1100 O‘STIRISHDAGI VA BOQUVDAGI HAYVONLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"1500" = "1500 MATERIALLARNI TAYYORLASH VA XARID QILISHNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"1600" = "1600 MATERIALLAR QIYMATIDAGI FARQLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"2000" = "2000 ASOSIY ISHLAB ChIQARISHNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"2100" = "2100 O‘ZIDA ISHLAB CHIQARILGAN YARIM TAYYOR MAHSULOTLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"2300" = "2300 YORDAMCHI ISHLAB CHIQARISHNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"2500" = "2500 UMUMISHLAB CHIQARISH XARAJATLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"2600" = "2600 ISHLAB CHIQARISHDAGI YAROQSIZ MAHSULOTLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"2700" = "2700 XIZMAT KO‘RSATUVCHI XO‘JALIKLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"2800" = "2800 TAYYOR MAHSULOTLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"2900" = "2900 TOVARLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"3100" = "3100 KELGUSI DAVR XARAJATLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"3200" = "3200 KECHIKTIRILGAN XARAJATLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"4000" = "4000 OLINADIGAN SCHYOTLAR";
+
+"4100" = "4100 AJRATILGAN BO‘LINMALAR, SHU’BA VA QARAM XO‘JALIK JAMIYATLARIDAN OLINADIGAN SCHYOTLAR";
+
+"4200" = "4200 XODIMLARGA BERILGAN BO‘NAKLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"4300" = "4300 MOL YETKAZIB BERUVCHILAR VA PUDRATCHILARGA BERILGAN BO‘NAKLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"4400" = "4400 BYUDJETGA BO‘NAK TO‘LOVLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"4500" = "4500 MAQSADLI DAVLAT JAMGʻARMALARIGA VA SUGʻURTALAR BO‘YICHA BO‘NAK TO‘LOVLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"4600" = "4600 USTAV KAPITALIGA TA’SISCHILARNING ULUSHLARI BO‘YICHA QARZINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"4700" = "4700 XODIMLARNING BOSHQA OPERASIYALAR BO‘YICHA QARZINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"4800" = "4800 TURLI DEBITORLAR QARZLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"4900" = "4900 DARGUMON QARZLAR BO‘YICHA REZERVNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"5000" = "5000 KASSADAGI PUL MABLAGʻLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"5100" = "5100 HISOB-KITOB SCHYOTIDAGI PUL MABLAGʻLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"5200" = "5200 CHET EL VALYUTASIDAGI PUL MABLAGʻLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"5220" = "5220 Chet eldagi valyuta schyotlari";
+
+"5500" = "5500 BANKDAGI MAXSUS SCHYOTLARDAGI PUL MABLAGʻLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"5600" = "5600 PUL EKVIVALENTLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"5700" = "5700 YO‘LDAGI PUL MABLAGʻ (O‘TKAZMA)LARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"5800" = "5800 QISQA MUDDATLI INVESTISIYALARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"5900" = "5900 KAMOMADLAR VA QIYMATLIKLARNING BUZILISHIDAN YO‘QOTISHLAR VA BOSHQA JORIY AKTIVLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+
+//MARK: Passiv schetlar
+
+"6000" = "6000 MOL YETKAZIB BERUVCHILAR VA PUDRATCHILARGA TO‘LANADIGAN SCHYOTLAR";
+
+"6100" = "6100 AJRATILGAN BO‘LINMALAR, SHU’BA VA QARAM XO‘JALIK JAMIYATLARIGA TO‘LANADIGAN SCHYOTLAR";
+
+"6200" = "6200 KECHIKTIRILGAN MAJBURIYATLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"6300" = "6300 OLINGAN BO‘NAKLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"6400" = "6400 BYUDJETGA TO‘LOVLAR BO‘YICHA QARZNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"6500" = "6500 SUGʻURTA VA MAQSADLI DAVLAT JAMGʻARMALARIGA TO‘LOVLAR BO‘YICHA QARZNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"6600" = "6600 TA’SISCHILARGA BO‘LGAN QARZNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"6700" = "6700 MEHNAT HAQI BO‘YICHA XODIM BILAN HISOBLASHISHLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"6800" = "6800 QISQA MUDDATLI KREDITLAR VA QARZLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"6900" = "6900 TURLI KREDITORLARGA BO‘LGAN QARZLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"7000" = "7000 MOL YETKAZIB BERUVCHILAR VA PUDRATCHILARGA TO‘LANADIGAN UZOQ MUDDATLI SCHYOTLAR";
+
+"7100" = "7100 AJRATILGAN BO‘LINMALAR, SHU’BA VA QARAM XO‘JALIK JAMIYATLARIGA BO‘LGAN UZOQ MUDDATLI QARZ";
+
+"7200" = "7200 KECHIKTIRILGAN UZOQ MUDDATLI MAJBURIYATLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"7300" = "7300 XARIDORLAR VA BUYURTMACHILARDAN OLINGAN BO‘NAKLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"7800" = "7800 UZOQ MUDDATLI KREDITLAR VA QARZLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"7900" = "7900 TURLI KREDITORLARGA BO‘LGAN UZOQ MUDDATLI QARZLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"8300" = "8300 USTAV KAPITALINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"8400" = "8400 QO‘SHILGAN KAPITALNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"8500" = "8500 REZERV KAPITALINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"8600" = "8600 SOTIB OLINGAN XUSUSIY AKSIYALARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"8700" = "8700 TAQSIMLANMAGAN FOYDA (QOPLANMAGAN ZARAR)NI HISOBGA OLUVCHI SCHYOTLAR";
+
+"8800" = "8800 MAQSADLI TUSHUMLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"8900" = "8900 KELGUSI XARAJATLAR VA TO‘LOVLAR REZERVLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+
+
+//MARK: Tranzit schetlar
+
+"9000" = "9000 ASOSIY (OPERASION) FAOLIYATNING DAROMADLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9100" = "9100 SOTILGAN MAHSULOT (TOVAR, ISH, XIZMAT)LARNING TANNARXINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9200" = "9200 ASOSIY VOSITALAR VA BOSHQA AKTIVLARNING CHIQIB KETISHINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9300" = "9300 ASOSIY FAOLIYATNING BOSHQA DAROMADLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9400" = "9400 DAVR XARAJATLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9500" = "9500 MOLIYAVIY FAOLIYAT DAROMADLARINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9600" = "9600 MOLIYAVIY FAOLIYAT BO‘YICHA XARAJATLARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9700" = "9700 FAVQULODDAGI FOYDA (ZARAR)LARNI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9800" = "9800 SOLIQLAR VA YIGʻIMLARNI TO‘LASH UCHUN FOYDANING ISHLATILISHINI HISOBGA OLUVCHI SCHYOTLAR";
+
+"9900" = "9900 YAKUNIY MOLIYAVIY NATIJANI HISOBGA OLUVCHI SCHYOTLAR";
+
+
+
+//MARK: Balansdan tashkari schetlar
+
+"001" = "001 Qisqa muddatli ijaraga olingan asosiy vositalar";
+"002" = "002 Mas’ul saqlashga qabul qilingan tovar-moddiy qiymatliklar";
+"003" = "003 Qayta ishlovga qabul qilingan materiallar";
+"004" = "004 Komissiyaga qabul qilingan tovarlar";
+"005" = "005 O‘rnatish uchun qabul qilingan uskunalar";
+"006" = "006 Qat’iy hisobot varaqlari";
+"007" = "007 To‘lashga qobiliyatsiz debitorlarning zararga o‘tkazilib hisobdan chiqarilgan qarzi";
+"008" = "008 Majburiyatlar va to‘lovlarni ta’minlash - olingan";
+"009" = "009 Majburiyatlar va to‘lovlarni ta’minlash - berilgan";
+"010" = "010 Uzoq muddatli ijara shartnomasi bo‘yicha berilgan asosiy vositalar";
+"011" = "011 Ssuda shartnomasi bo‘yicha olingan mulk";
+"012" = "012 Kelgusi davrlarda soliq solinadigan bazadan chiqariladigan xarajatlar";
+"013" = "013 Vaqtinchalik soliq imtiyozlari (turlari bo‘yicha)";
+"014" = "014 Foydalanishdagi inventar va xo‘jalik jihozlari";
+
+//MARK: PDF files
+
+"0100file" = "0100.uz";
+"0200file" = "0200.uz";
+"0300file" = "0300.uz";
+"0400file" = "0400.uz";
+"0500file" = "0500.uz";
+"0600file" = "0600.uz";
+"0700file" = "0700.uz";
+"0800file" = "0800.uz";
+"0900file" = "0900.uz";
+
+"1000file" = "1000.uz";
+"1100file" = "1100.uz";
+"1200file" = "1200.uz";
+"1300file" = "1300.uz";
+"1400file" = "1400.uz";
+"1500file" = "1500.uz";
+"1600file" = "1600.uz";
+"1700file" = "1700.uz";
+"1800file" = "1800.uz";
+"1900file" = "1900.uz";
+
+"2000file" = "2000.uz";
+"2100file" = "2100.uz";
+"2200file" = "2200.uz";
+"2300file" = "2300.uz";
+"2400file" = "2400.uz";
+"2500file" = "2500.uz";
+"2600file" = "2600.uz";
+"2700file" = "2700.uz";
+"2800file" = "2800.uz";
+"2900file" = "2900.uz";
+
+"3000file" = "3000.uz";
+"3100file" = "3100.uz";
+"3200file" = "3200.uz";
+"3300file" = "3300.uz";
+"3400file" = "3400.uz";
+"3500file" = "3500.uz";
+"3600file" = "3600.uz";
+"3700file" = "3700.uz";
+"3800file" = "3800.uz";
+"3900file" = "3900.uz";
+
+"4000file" = "4000.uz";
+"4100file" = "4100.uz";
+"4200file" = "4200.uz";
+"4300file" = "4300.uz";
+"4400file" = "4400.uz";
+"4500file" = "4500.uz";
+"4600file" = "4600.uz";
+"4700file" = "4700.uz";
+"4800file" = "4800.uz";
+"4900file" = "4900.uz";
+
+"5000file" = "5000.uz";
+"5100file" = "5100.uz";
+"5200file" = "5200.uz";
+"5300file" = "5300.uz";
+"5400file" = "5400.uz";
+"5500file" = "5500.uz";
+"5600file" = "5600.uz";
+"5700file" = "5700.uz";
+"5800file" = "5800.uz";
+"5900file" = "5900.uz";
+
+"6000file" = "6000.uz";
+"6100file" = "6100.uz";
+"6200file" = "6200.uz";
+"6300file" = "6300.uz";
+"6400file" = "6400.uz";
+"6500file" = "6500.uz";
+"6600file" = "6600.uz";
+"6700file" = "6700.uz";
+"6800file" = "6800.uz";
+"6900file" = "6900.uz";
+
+"7000file" = "7000.uz";
+"7100file" = "7100.uz";
+"7200file" = "7200.uz";
+"7300file" = "7300.uz";
+"7400file" = "7400.uz";
+"7500file" = "7500.uz";
+"7600file" = "7600.uz";
+"7700file" = "7700.uz";
+"7800file" = "7800.uz";
+"7900file" = "7900.uz";
+
+"8000file" = "8000.uz";
+"8100file" = "8100.uz";
+"8200file" = "8200.uz";
+"8300file" = "8300.uz";
+"8400file" = "8400.uz";
+"8500file" = "8500.uz";
+"8600file" = "8600.uz";
+"8700file" = "8700.uz";
+"8800file" = "8800.uz";
+"8900file" = "8900.uz";
+
+"9000file" = "9000.uz";
+"9100file" = "9100.uz";
+"9200file" = "9200.uz";
+"9300file" = "9300.uz";
+"9400file" = "9400.uz";
+"9500file" = "9500.uz";
+"9600file" = "9600.uz";
+"9700file" = "9700.uz";
+"9800file" = "9800.uz";
+"9900file" = "9900.uz";
+
+"001file" = "001.uz";
+"002file" = "002.uz";
+"003file" = "003.uz";
+"004file" = "004.uz";
+"005file" = "005.uz";
+"006file" = "006.uz";
+"007file" = "007.uz";
+"008file" = "008.uz";
+"009file" = "009.uz";
+"010file" = "010.uz";
+"011file" = "011.uz";
+"012file" = "012.uz";
+"013file" = "013.uz";
+"014file" = "014.uz";
+"015file" = "015.uz";
+"016file" = "016.uz";
+
+
+//Design Table Titles
+"designTableTitle0" = "Xo'jalik operatsiyasining mazmuni";
+"designTableTitle1" = "Bog'lanuvchi schyotlar";
+"designTableTitle2" = "debet";
+"designTableTitle3" = "kredit";
+"designTableTitle4" = "Yozuvlarni tasdiqlovchi hujjatlar";
+
+
+// 5 6 buttons PDF files
+"qonun" = "qonun.uz";
+"konseptual" = "konseptual.uz";
+
+
+// settings
+"til" = "Tilni o'zgartirish";
+"tun" = "Tungi rejim";
+"bolishish" = "Bo'lishish";
+"bizbaho" = "Bizni baholang";
+"bizhaqim" = "Biz haqimizda";
+"bizilova" = "Bizning ilovalar";
+
+
+// another apps
+
+"plan_schotov" = "План счетов";
+"bxms" = "НСБУ";
+"svod_zakonov" = "Свод законов";
+"buxgalterskiy_pravodki" = "Бухгалтерские проводки";
+"ekzaminator_buxgaltera" = "Экзаменатор для Бухгалтера";

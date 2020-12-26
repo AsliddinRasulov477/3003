@@ -1,0 +1,22 @@
+1	Uzoq muddatli obligasiyalar chegirma bilan xarid qilinganda diskont summasi aks ettirilgan 	0610	7210, 5110-5530	Obligasiya kelishuvi, buxgalteriyaning hisob-kitob ma’lumotnomasi
+2	Qisqa muddatli obligasiyalar chegirma bilan xarid qilinganda diskont summasi aks ettirilgan 	5810	6210	Obligasiya kelishuvi, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+3	Kechiktirilgan diskontning uzoq muddatli qismdan joriy qismga o‘tkazilishi aks ettirilgan 	7210	6210	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+4	Obligasiyalar mukofot bilan sotilganda mukofot summasi aks ettirilgan 	5110-5530	7220	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+5	Kechiktirilgan mukofotning uzoq muddatli qismi joriy qismga hisobdan chiqarilgan 	7220	6220	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+6	Kurs farqini hisobga olishning jamlash usuli bilan chet el valyutasida ifodalangan boshqa kechiktirilgan uzoq muddatli daromadlar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	7230	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+7	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasida ifodalangan boshqa kechiktirilgan daromadlar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	7230	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+8	Kelgusida tovar-moddiy qiymatliklarni yetkazib berish, xizmatlarni ko‘rsatish va ishlarni bajarish uchun pul mablag‘larining kelib tushishi 	5110	7230	Bank hisob-kitob schyotlaridan ko‘chirmalar, shartnoma 
+9	Kelgusida tovar-moddiy qiymatliklarni yetkazib berish, xizmatlarni ko‘rsatish va ishlarni bajarish uchun valyuta mablag‘larining kelib tushishi 	5210, 5220	7230	Bank hisob-kitob schyotlaridan ko‘chirmalar, shartnoma 
+10	Kelgusida tovar-moddiy qiymatliklarni yetkazib berish, xizmatlarni ko‘rsatish va ishlarni bajarish uchun banklardagi maxsus hisob-kitob schyotlariga pul mablag‘larining kelib tushishi 	5530	7230	Bank hisob-kitob schyotlaridan ko‘chirmalar, shartnoma 
+11	Kurs farqini hisobga olishning jamlash usuli bilan chet el valyutasida ifodalangan boshqa kechiktirilgan daromadlar bo‘yicha valyutadagi musbat kurs farqi aks ettirilgan 	7230	7231	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+12	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasida ifodalangan boshqa kechiktirilgan daromadlar bo‘yicha valyutadagi musbat kurs farqi aks ettirilgan 	7230	9540	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+13	Tayyor mahsulot sotilishi davomida kechiktirilgan daromad daromadlar tarkibiga kiritilgan 	7230	9010	Hisobvaraq-faktura, yukxat 
+14	Kechiktirilgan daromadlar uzoq muddatli qismining joriy qismga o‘tkazilishi aks ettirilgan 	7230	6230	Buxgalteriyaning hisob-kitobi 
+15	Tovarlar sotilishi davomida kechiktirilgan daromad daromadlar tarkibiga kiritilgan 	7230	9020	Hisobvaraq-faktura, yukxat 
+16	Ishlar bajarilishi va xizmatlar ko‘rsatilishi davomida kechiktirilgan daromad daromadlar tarkibiga kiritilgan 	7230	9030	Hisobvaraq-faktura, ishlar bajarilganligi va xizmatlar ko‘rsatilganligi dalolatnomasi 
+17	Kurs farqini hisobga olishning jamlash usuli bilan chet el valyutasida ifodalangan kechiktirilgan daromadlar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	7290	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+18	Qonun hujjatlariga muvofiq vakolatli hokimiyat organlarining qaroriga binoan to‘lash muddatini kechiktirishga ruxsat etilgan muddati kechiktirilgan soliqlar bo‘yicha majburiyatlar aks ettirilgan 	6410	7240	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+19	Qonun hujjatlariga muvofiq vakolatli hokimiyat organlarining qaroriga binoan to‘lash muddatini kechiktirishga ruxsat etilgan maqsadli davlat jamg‘armalariga to‘lovlar bo‘yicha kechiktirilgan majburiyatlar aks ettirilgan 	6520	7240	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+20	Hisobot davrida byudjetga to‘lanadigan soliqlar va majburiy to‘lovlar bo‘yicha uzoq muddatli kechiktirilgan majburiyatlarning joriy qismi hisobdan chiqarilgan 	7240	6240	Hisobdan chiqarishning hisob-kitobi 
+21	Vaqtinchalik farqlar bo‘yicha kechiktirilgan foyda solig‘i bo‘yicha majburiyatlar aks ettirilgan 	9810	7250	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+22	Vaqtinchalik farqlar bo‘yicha kechiktirilgan foyda solig‘i bo‘yicha uzoq muddatli majburiyatlarning joriy qismga o‘tkazilishi aks ettirilgan 	7250	6250	Buxgalteriyaning hisob-kitob ma’lumotnomasi 

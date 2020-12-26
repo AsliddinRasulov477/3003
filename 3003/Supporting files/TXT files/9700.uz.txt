@@ -1,0 +1,22 @@
+1	Tabiiy ofatlar oqibatlarini bartaraf etishda asbob-uskunalar kirim qilingan 	0710-0720	9710	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi
+2	Tabiiy ofatlar oqibatlarini bartaraf etishda yaroqli materiallar kirim qilingan 	1010-1090	9710	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+3	Ilgari tabiiy ofatlar, yong‘inlar va hokazolar oqibatida hisobdan chiqarilgan tovarlar kirim qilingan (savdo, vositachi va hokazo korxonalarda) 	2910	9710	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+4	Tabiiy ofatlardan keyin inventarlash natijasida asbob-uskuna va yakunlanmagan qurilish bo‘yicha aniqlangan kamomadlar aks ettirilgan	9720	0710-0720, 0810	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+5	Tabiiy ofatlar paytida yo‘qotilgan yoki ularning oqibatlarini bartaraf etishda sarfxarajat qilingan turli moddiy qiymatliklar hisobdan chiqarilgan 	9720	1010-1090, 1110 va b. 	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+6	Tabiiy ofatlar, yong‘inlar va h.k. oqibatida tugallanmagan ishlab chiqarish bo‘yicha yo‘qotishlar aks ettirilgan 	9720	2010, 2110, 2310	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+7	Tabiiy ofatlar oqibatida xizmat ko‘rsatuvchi ishlab chiqarishlar tomonidan ko‘rilgan zararlar hisobdan chiqarilgan 	9720	2710	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+8	Tabiiy ofatlar paytida kelgusi davr xarajatlari hisobdan chiqarilgan 	9720	3110-3190	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+9	Tabiiy ofatlar, yong‘inlar, halokatlar va hokazolar oqibatida tayyor mahsulot yoki tovarlar yo‘qotilishi aks ettirilgan 	9720	2810, 2910-2990 	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+10	Tabiiy ofatlar bo‘yicha xarajatlar to‘langan 	9720 	5010, 5110, 5210 	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+11	Tabiiy ofatlar, yong‘inlar va hokazolarning oldini olish yoki bartaraf etish bilan bog‘liq xodimlarga mehnat haqi hisoblangan 	9720	6710	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi, mehnat haqini hisoblash qaydnomasi 
+12	Tabiiy ofatlar, yong‘inlar, halokatlar va hokazolar bilan bog‘liq turli xarajatlar uchun to‘lovni amalga oshirgan hisobdor shaxslar oldidagi qarz aks ettirilgan 	9720	6970	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi, bo‘nak hisoboti 
+13	Yong‘in natijasida nobud bo‘lgan hamda sug‘urta va boshqa tashkilotlar tomonidan qoplanmagan tovar-moddiy zaxiralarning qiymati aks ettirilgan 	9720	9220	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+14	Tabiiy ofatlar, yong‘inlar va hokazolar oqibatida alohida balansga ajratilgan ichki bo‘linmalarning foydasi hisobidan turli zararlar summasi aks ettirilgan 	9720	4110	Tabiiy ofat oqibatlarini bartaraf etish dalolatnomasi, inventarlash dalolatnomasi 
+15	Hisobot davri yakunlangandan keyin 9710 "Favquloddagi foydalar" schyoti yopilgan 	9710	9910	Buxgalteriyaning hisob-kitobi 
+16	Hisobot davri yakunlangandan keyin 9720 "Favquloddagi zararlar" schyoti yopilgan 	9910	9720	Buxgalteriyaning hisob-kitobi 
+17 	Tabiiy ofatlar natijasida favqulodda foyda olindi 	1010	9710	Dalolatnoma, akt
+18 	Tabiiy ofatlar natijasida ishlab chiq rish bo'yicha yo'qotishlar hisobga olindi 	2010	9720	Dalolatnoma, akt
+19 	Hisobot yilining oxirida favqulodda foyda schyoti yopilganda 	9710	9910	Foyda hisob-kitobi , buxgalteriya xujjatlari
+20 	Hisobot yilining oxirida favqulodda zarar schyoti yopilganda 	9910	9720	foyda hisob-kitobi, buxgalteriya xujjatlari
+21 	Tabiiy ofatlar natijasida materiallar zarar korgan 	9720	1010	Shartnomalar, dalolatnoma
+22 	Tabiiy ofatlar natijasida materiallar zarar moliyaviy natijaga o'tkazildi 	9910	9720	Shartnomalar, dalolatnoma 

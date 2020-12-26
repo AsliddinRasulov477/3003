@@ -1,0 +1,19 @@
+1	Foyda solig‘i hisoblangan 	9810	6410	Foyda solig‘ini hisoblash shakli
+2	Obodonlashtirish va ijtimoiy infratuzilmani rivojlantirish solig‘i hisoblangan 	9820	6410	Obodonlashtirish va ijtimoiy infratuzilmani rivojlantirish uchun soliqni hisoblash shakli 
+3	Mikrofirma va kichik korxona tomonidan yagona soliq to‘lovi hisoblangan 	9820	6410	Yagona soliq to‘lovini hisoblash shakli 
+4	Savdo korxonasi tomonidan yagona soliq to‘lovi hisoblangan 	9820	6410	Yagona soliq to‘lovini hisoblash shakli 
+5	To‘lanishi bir necha yilga kechiktirilgan foyda solig‘i bo‘yicha kechiktirilgan majburiyat summasi aks ettirilgan: 			Foyda solig‘ini hisoblash shakli 
+	- joriy qismiga 	9810	6240	
+	- uzoq muddatli qismiga 	9810	7240	
+6	Soliq bo‘yicha xarajatlar foyda solig‘i bo‘yicha majburiyatlardan ortiq bo‘lganda vaqtinchalik farqlar bo‘yicha kechiktirilgan soliq summasi aks ettirilgan: 			Foyda solig‘ini hisoblash shakli
+	- foyda solig‘i bo‘yicha xarajatlar summasiga 	9810	6410	
+	- soliq bo‘yicha kechiktirilgan majburiyatlar summasiga 	9810	6250, 7250	
+7	Soliq bo‘yicha xarajatlar foyda solig‘i bo‘yicha majburiyatlardan kam bo‘lganda vaqtinchalik farqlar bo‘yicha kechiktirilgan soliq summasi aks ettirilgan: 			Foyda solig‘ini hisoblash shakli
+	- foyda solig‘i bo‘yicha xarajatlar summasiga 	9810	6410	
+	- kechiktirilgan soliq summasiga 	0950, 3210	6410	
+8	Har yili foyda solig‘i bo‘yicha kechiktirilgan majburiyatlar hisobdan chiqarilgan 	6250	6410	Foyda solig‘ini hisoblash shakli 
+9	Har yili vaqtinchalik farqlar bo‘yicha kechiktirilgan soliq summasi hisobdan chiqarilgan 	6410	3210	Buxgalteriyaning hisob-kitobi 
+10	Hisobot yilining oxirida soliq va boshqa majburiy to‘lovlarni to‘lash uchun foydadan foydalanishni hisobga oluvchi schyotlar yopilgan 	9910	9810, 9820	Buxgalteriyaning hisob-kitobi 
+11 	Yer solig'i hisoblandi 	9810	6410	Foyda solig'ni hisoblash vedomosti
+12 	Foyda solig'i hisoblandi 	9810	6410	Foyda solig'ni hisoblash vedomosti
+13 	Foyda solig'i bo'yicha kechiktirilgan xarajatlar aks ettirildi 	9810	6250	Foyda solig'ni hisoblash vedomosti

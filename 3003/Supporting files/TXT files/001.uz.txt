@@ -1,0 +1,4 @@
+1	Asosiy vositalar ob’yekti operativ ijaraga olingan 	001	1	Asosiy vositalar ob’yektini qabul qilish-topshirish dalolatnomasi
+2	Ijara haqi hisoblangan 	2010, 2310, 2510, 9400 	6910	Shartnoma, hisobvaraq-faktura, buxgalteriyaning hisob-kitobi 
+3	Ijaraga beruvchiga ijara to‘lovi o‘tkazilgan 	6910	5110	Bank hisob-kitob schyotidan ko‘chirma 
+4	Ijaraga olingan asosiy vositalar ob’yekti ijaraga beruvchiga qaytarilganda, u hisobdan chiqarilgan 	1	001	Asosiy vositalar ob’yektini qabul qilish-topshirish dalolatnomasi 

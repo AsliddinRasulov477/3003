@@ -1,0 +1,26 @@
+1	Asosiy vositalar sotilishidan va boshqa chiqib ketishidan olingan foyda aks ettirilgan 	9210	9310	Buxgalteriyaning hisob-kitobi
+2	Boshqa aktivlar sotilishidan va boshqa chiqib ketishidan olingan foyda aks ettirilgan 	9220	9320	Buxgalteriyaning hisob-kitobi 
+3	Shartnomaviy majburiyatlarga rioya qilmaganligi uchun boshqa korxonalarga taqdim etilgan jarima, penya va neustoykalar summasi aks ettirilgan (tan olingan yoki hukm qilingan) 	4860	9330	Xo‘jalik sudining qarori, inkasso talabnomasi 
+4	Oldingi yillar operasiyalari bo‘yicha xaridorlar bilan o‘zaro hisob-kitoblar aks ettirilgan 	4010-4890	9340	O‘zaro hisob-kitoblar bo‘yicha solishtirma dalolatnoma 
+5	Oldingi yillarda xodimlar tomonidan olingan va sarf-xarajat qilingan xizmatlar va moddiy qiymatliklar uchun qayta hisob-kitoblar bo‘yicha debitorlik qarzi summalari aks ettirilgan 	4710-4790	9340	Kirim kassa orderi 
+6	Operativ ijara bo‘yicha ijara to‘lovi hisoblangan 	4820	9350	Ijara shartnomasi, hisobvaraq-faktura 
+7	Da’vo muddati o‘tib ketganligi sababli kreditorlik qarzi hisobdan chiqarilganligidan olingan daromad aks ettirilgan 	6010-6990	9360	O‘zaro hisob-kitoblar solishtirma dalolatnomasi 
+8	Ilgari hisobdan chiqarilgan debitorlik qarzlaridan olingan daromadlar aks ettirilgan 	4010-4890	9360	Inventarlash komissiyasining dalolatnomasi, o‘zaro hisob-kitoblar solishtirma dalolatnomasi 
+9	Xizmat ko‘rsatuvchi xo‘jaliklardan daromad olingan 	4890, 5010, 5110	9370	Kirim kassa orderi, hisobvaraq-faktura, chipta 
+10	Tekinga moliyaviy yordam olingan 	5010, 5110	9380	Tekinga yordam shartnomasi, kirim kassa orderi, bank hisob-kitob schyotidan ko‘chirma 
+11	Inventarlash paytida aniqlangan ortiqcha asosiy vositalar kirim qilingan 	0110-0190	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+12	Inventarlash paytida aniqlangan ortiqcha nomoddiy aktivlar kirim qilingan 	0410-0490	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+13	Inventarlash paytida aniqlangan ortiqcha qimmatli qog‘ozlar kirim qilingan 	0610	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+14	Inventarlash paytida aniqlangan kapital qurilish ortiqchasi kirim qilingan 	0810-0890	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+15	Inventarlash paytida aniqlangan ortiqcha materiallar kirim qilingan 	1010-1090	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+16	Inventarlash paytida aniqlangan ortiqcha o‘stirishdagi va bo‘rdoqiga boquvdagi hayvonlar kirim qilingan 	1110, 1120	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+17	Asosiy va yordamchi syexlarda, xizmat ko‘rsatuvchi ishlab chiqarishlarda va xo‘jaliklarda tugallanmagan ishlab chiqarish ortiqchasi, umumishlab chiqarish omborlarida, xizmat ko‘rsatuvchi xo‘jaliklarda ortiqcha materiallar kirim qilingan (kamomaddan ortiq summada) 	2010, 2310, 2510, 2710	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+18	Inventarlash paytida aniqlangan ortiqcha tovarlar kirim qilingan 	2910-2990	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+19	Kassani inventarlash paytida aniqlangan ortiqcha pul mablag‘lari kirim qilingan 	5010	9390	Inventarlash komissiyasining dalolatnomasi, solishtirma qaydnoma 
+20	Aylanmadagi mablag‘larga taalluqli tovar-moddiy qiymatliklarning oshirilgan baho summalari moliyaviy natijaga hisobdan chiqarilgan 	6230	9390	Tovar-moddiy qiymatliklarni qayta baholash dalolatnomasi 
+21	Mol-mulk sug‘urtasi bo‘yicha sug‘urta idoralaridan olinadigan sug‘urta to‘lovlari aks ettirilgan 	4510	9390	Sug‘urta to‘lovlari qayd etilgan sug‘urta holatlari bo‘yicha bildirgi 
+22	Sug‘urta kompaniyalaridan hisob-kitob schyotiga qoplash summalari kelib tushgan 	5110	9390	Bank hisob-kitob schyotidan ko‘chirma, sug‘urta to‘lovlari qayd etilgan sug‘urta holatlari bo‘yicha bildirgi 
+23	Sug‘urta kompaniyalaridan valyuta hisob-kitob schyotiga qoplash summalari kelib tushgan 	5210, 5220	9390	Bank valyuta hisob-kitob schyotidan ko‘chirma, sug‘urta to‘lovlari qayd etilgan sug‘urta holatlari bo‘yicha bildirgi 
+24	Sug‘urta kompaniyalaridan bankdagi maxsus hisob-kitob schyotiga qoplash summalari kelib tushgan 	5530	9390	Bank maxsus hisob-kitob schyotidan ko‘chirma, sug‘urta to‘lovlari qayd etilgan sug‘urta holatlari bo‘yicha bildirgi 
+25	Dargumon qarzlar bo‘yicha ishlatilmagan rezervlar summalarining ular tashkil etilgan yildan keyingi yil foydasiga kiritilishi aks ettirilgan 	4910	9390	Schyotni inventarlash va tahlili 
+26	Hisobot davrining oxirida asosiy faoliyatning boshqa daromadlarini hisobga oluvchi schyotlarda aniqlangan kredit aylanmalarining yig‘indisi 9910 "Yakuniy moliyaviy natija" schyotiga hisobdan chiqarilgan 	9310, 9320, 9330, 9340, 9350, 9360, 9370, 9380, 9390 	9910	Buxgalteriyaning hisob-kitob ma’lumotnomasi 

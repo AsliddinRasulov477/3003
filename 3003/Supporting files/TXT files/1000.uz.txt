@@ -1,0 +1,66 @@
+1	Tayyor mahsulotlar materiallar sifatida o‘z ehtiyojlari uchun omborga kirim qilingan 	1010-1090 (9110	9010 2810)	Materiallarni kirim qilish yukxati
+2	Korxona QQS to‘lovchi bo‘lgan taqdirda, mol yetkazib beruvchilardan xarid qilingan materiallar uchun schyotlar olingan: 			Shartnoma, tovar-transport yukxati, hisobvaraq-faktura, kirim orderi, materiallarni kirim qilish yukxati 
+	- QQSsiz materiallarning qiymatiga 	1010-1090	6010	
+	- hisobvaraq-faktura bo‘yicha QQSga 	4410	6010	
+3	Korxona QQS to‘lovchi bo‘lmagan taqdirda, mol yetkazib beruvchilardan xarid qilingan materiallar uchun materiallar qiymatiga QQS bilan birga schyotlar olingan 	1010-1090	6010	Shartnoma, tovar-transport yukxati, hisobvaraq-faktura, kirim orderi, materiallarni kirim qilish yukxati 
+4	Materiallar tashib berilganligi uchun transport tashkilotidan schyotlar olingan 	1010-1090	6990	Shartnoma, tovar-transport yukxati, hisobvaraq-faktura, kirim orderi, materiallarni kirim qilish yukxati 
+5	Xarid qilingan materiallar bo‘yicha bojxona boji summasi aks ettirilgan 	1010-1090	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+6	Bojxona yuk deklarasiyasi rasmiylashtirilganligi uchun yig‘im summasi aks ettirilgan 	1010-1090	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+7	Materiallarni xarid qilishda vositachilik qilgan savdo va ta’minot korxonalariga to‘lanadigan komissiya haqi aks ettirilgan 	1010-1090	6990	Shartnoma, hisobvaraq-faktura
+8	TMZlarni xarid qilish bilan bog‘liq sertifikasiyalash va sinov bo‘yicha xarajatlar aks ettirilgan 	1010-1090	6990	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+9	TMZlarni foydalanish uchun yaroqli holga keltirish bilan bog‘liq xarajatlar aks ettirilgan 	1010-1090	6990, 2310	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+10	Asosiy vositalar tugatilishi munosabati bilan kelib tushgan materiallar qiymati aks ettirilgan 	1090	9210	Asosiy vositalarning chiqib ketishi to‘g‘risida dalolatnoma, materiallarni kirim qilish yukxati 
+11	Tovarlarni ayirboshlash operasiyalari bo‘yicha ehtiyot qismlar kelib tushgan 	1040	4010	Tovarlarni ayirboshlash kontrakti 
+12	Ta’sischilardan ularning ulushi hisobiga kelib tushgan turli materiallar kirim qilingan 	1010-1090	4610	Ta’sis shartnomasi, kelishuv bayonnomasi, yukxat 
+13	Shu’ba korxonalardan debitorlik qarzini to‘lash hisobiga butlovchi materiallar kelib tushgan 	1020	4110	Hisobvaraq-fakturalar, yukxatlar 
+14	Boshqa bo‘linmalardan materiallar kelib tushgan 	1010-1090	6110, 7110	Ichki harakat bo‘yicha yukxatlar 
+15	Mol-mulk tarkibida xarid qilingan yoqilg‘i hisobga olingan 	1030	6010	Oldi-sotdi shartnomasi, yukxat 
+16	Boshqa shaxslardan tekinga materiallar olingan 	1010-1090	8530	Yukxat, shartnoma 
+17	Material kamomadi bo‘yicha mol yetkazib beruvchilarga da’volar taqdim qilingan 	4860	6010	Tijorat dalolatnomasi 
+18	Transport-tayyorlov xarajatlari materiallar tannarxiga kiritilgan 	1010-1090	1510	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+19	Yaroqsiz deb topilgan buyumlardan qolgan materiallar kirim qilingan 	1090	2610	Yaroqsiz buyumlar tuzatilganligi dalolatnomasi va yukxat 
+20	Qurilish materiallari amaldagi tannarxi bo‘yicha kirim qilingan (1510 schyot qo‘llanilganda) 	1050	1510	Materiallar kirim qilinganligi to‘g‘risida yukxat 
+21	Korxonaning o‘zida ishlab chiqarilgan materiallar kirim qilingan 	1010	2010, 2310	Materiallar kirim qilinganligi to‘g‘risida yukxat 
+22	Tog‘-kon ishlari tugallangandan keyin materiallar qaytarilganligi aks ettirilgan 	1090	3190	Materiallar kirim qilinganligi to‘g‘risida yukxat 
+23	Hisobdor shaxslardan materiallar kelib tushgan: 			Materiallar kirim qilinganligi to‘g‘risida yukxat 
+	- agar ularga bo‘nak berilgan bo‘lsa 	1010-1090	4230
+	- agar ularga bo‘nak berilmagan bo‘lsa 	1010-1090	6970
+24	Ilgari taqdim etilgan, biroq to‘lanishi rad etilgan da’volar summasi hisobdan chiqarilgan 	1010-1090	4860	Rad etishning asoslanishi va tijorat dalolatnomasi 
+25	Da’volar bo‘yicha qarzlar aks ettirilgan (hisob-kitob hujjatlaridan ko‘ra amalda ko‘p yetkazib berilgan) 	1010-1090	6960	Tijorat dalolatnomasi, yukxat, da’vo xati 
+26	Materiallarga ayirboshlash yo‘li bilan qimmatli qog‘ozlar olingan 	9220 0610	1010 9220	Oldi-sotdi shartnomasi, yukxat 
+27	Asosiy ishlab chiqarishga sarflangan materiallar hisobdan chiqarilgan 	2010	1010	Cheklab olish xaritasi, materiallarni berish yukxati, talabnoma 
+28	Materiallar chegirma bilan xarid qilingan: 			Shartnoma, hisobvaraq-faktura 
+	- chegirmasiz materiallar summasiga 	1010	6010	
+	- chegirma summasiga 	1010	9390	
+29	Korporativ kartochka bo‘yicha materiallar xarid qilingan: 			Tovar schyotlari ilova qilingan terminallar chiptalari asl nusxasi 
+	- korporativ kartochka ochilishi 	5540	5110	
+	- materiallar xarid qilinishi 	1010-1090	5540	
+30	Hisobga olinmagan tovar-moddiy zaxiralar (ortiqchalar)ning inventarlash natijasida aniqlangan, aniqlangan sanada shunga o‘xshash tovar-moddiy zaxiralarning bozor qiymati bo‘yicha (keyinchalik ortiqchalarning vujudga kelishi va aybdor shaxslarni aniqlash sharti bilan) baholangan summasi aks ettirilgan 	1010-1090	9390	Inventarlash ro‘yxati, solishtirma dalolatnoma, rahbar buyrug‘i 
+31	Qurilish materiallari ma’muriy va umumxo‘jalik ehtiyojlari uchun berilgan 	9420, 9430	1050	Materiallarni berish yukxati, talabnoma 
+32	Yaroqsizlikni tuzatish uchun materiallar sarfxarajati aks ettirilgan 	2610	1010	Talabnoma, yukxat
+33	Xizmat qiluvchi xo‘jaliklar uchun materiallar sarf-xarajati aks ettirilgan 	2710	1010	Talabnoma, yukxat
+34	Mahsulot sotilishi uchun idishlar sarf-xarajati aks ettirilgan 	9410	1060	Talabnoma, yukxat
+35	Chet tashkilotlarga berilgan materiallar tannarxi hisobdan chiqarilgan 	9220	1010-1090	Oldi-sotdi shartnomasi, yukxat 
+36	Alohida balansga ajratilgan bo‘linmalarga ehtiyot qismlar berilgan 	4110	1040	Materiallarni berish yukxati, talabnoma 
+37	Materiallar tekinga boshqa shaxslarga berilgan 	9220 9430	1010-1090 9220 	Ma’muriy organ qarori, buyruq, yukxat 
+38	Tabiiy ofat paytida yo‘qotilgan materiallar hisobdan chiqarilgan 	9720	1010	Materiallarni hisobdan chiqarish dalolatnomasi 
+39	Inventarlash paytida yoqilg‘i kamomadi aniqlangan 	9220	1030	Inventarlash ro‘yxati, materiallarni hisobdan chiqarish dalolatnomasi 
+40	Tog‘-kon tayyorlov ishlarini amalga oshirish uchun qurilish materiallari hisobdan chiqarilgan 	9440	1050	Talabnoma va materiallarni berish yukxati 
+41	Kirim qilingandan keyin yaroqsizlik aniqlanishi munosabati bilan butlovchi buyumlar mol yetkazib beruvchiga qaytarilgan 	4860	1020	Tijorat dalolatnomasi, hisobvaraq-faktura 
+42	Tovarlar buzilishi natijasida hisobdan chiqarilganligi munosabati bilan olingan materiallar kirim qilingan 	1010	2910	Tovarlar buzilganligi dalolatnomasi, yukxat 
+43	Ilova qilinishi lozim bo‘lgan hujjatlarsiz kelib tushgan moddiy zaxiralar shartli ravishda hisobga olingan (fakturalanmagan mol yetkazib berilishi) 	002	1	Yukxat, rahbar buyrug‘i 
+44	Qisqa muddatli qarz shartnomasi bo‘yicha kelib tushgan materiallar tabiiy ko‘rinishda omborga qabul qilingan 	1010	6820	Qarz shartnomasi, hisobvaraq-faktura, yukxat 
+45	Xodimlarga qisqa muddatga foydalanish uchun mo‘ljallangan formali kiyim berilgan 	2010, 9420	1080	Rahbar buyrug‘i, formali kiyim berish qaydnomasi 
+46	Aholiga maishiy xizmat ko‘rsatish korxonasida qat’iy hisobotda bo‘lgan blankalar moddiy javobgar shaxsga hisobot berish sharti bilan berilgan paytida amaldagi tannarxi (bir vaqtning o‘zida balansdan tashqari 006 schyotda aks ettirilgan holda) hisobdan chiqarilgan 	9430	1090	Blankalarni berish qaydnomasi, yukxat 
+47	Tabiiy ofatlarning oldini olish yoki ular oqibatlarini bartaraf etish natijasida olingan materiallar hisobga olingan 	1010	9710	Hisobdan chiqarish dalolatnomasi, yukxat 
+48	Materiallar qayta ishlash uchun berilgan 	1070	1010	Yukxat, berish qaydnomasi 
+49	Inventarlash paytida tovar-moddiy zaxiralarning kamomadi aniqlangan: 	5910	1010-1090	Inventarlash ro‘yxati, solishtirma qaydnoma, inventarlash dalolatnomasi 
+	- moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb topilgan taqdirda 	4730	5910
+	- baholash natijasida yetishmayotgan tovar-moddiy zaxiralarning bozor qiymati (undirish summasi) yetishmayotgan tovar-moddiy zaxiralarning amaldagi (balans) qiymatidan ko‘proq bo‘lgan taqdirda, daromad summasiga 	4730	9390
+	- baholash natijasida yetishmayotgan tovar-moddiy zaxiralarning bozor qiymati (undirish summasi) yetishmayotgan tovar-moddiy zaxiralarning amaldagi (balans) qiymatidan kamroq bo‘lgan taqdirda, zarar summasiga 	9430	5910
+50	Tovar-moddiy qiymatliklar qayta baholangan: 			Qayta baholashni o‘tkazish to‘g‘risida buyruq, qayta baholash dalolatnomasi, yukxatlar, hisobvaraq-fakturalar 
+	- qiymati kamaytirilgan summaga 	9430	1000	
+	- qo‘shimcha baholangan summaga 	1000	9390	
+51	Agrosanoat majmuasi korxonasi tomonidan qishloq xo‘jaligi mahsulotining kamomadi va yo‘qotilishi qayd etilgan 	9430	1010-1090	Hisobdan chiqarish dalolatnomasi 
+52	Garovga beruvchi tomonidan boshqa tashkilotdan olingan, ssudaga asosan garovga berilgan xom ashyo va materiallar ssudani qoplash imkoniyati yo‘qligi munosabati bilan sotilishi natijasida hisobdan chiqarilgan 	6820	1010-1090	Qarz shartnomasi, yukxat 
+53	Konservasiya qilingan quvvatlarni ushlab turish uchun sarf-xarajat qilingan materiallar hisobdan chiqarilgan 	9220 9430	1010 9220	Rahbar buyrug‘i, hisobdan chiqarish dalolatnomasi 

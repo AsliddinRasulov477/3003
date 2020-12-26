@@ -1,0 +1,33 @@
+1	Moliyaviy ijara ob’yektlarini belgilangan vazifasi bo‘yicha foydalanish uchun yaroqli holatga keltirish bilan bog‘liq xarajatlar mavjud bo‘lmagan taqdirda, moliyaviy ijara (lizing) shartnomasi bo‘yicha asosiy vositalarning kelib tushishi aks ettirilgan: 			Moliyaviy ijara (lizing) shartnomasi, asosiy vositalarni qabul qilish-topshirish dalolatnomasi
+	- uzoq muddatli majburiyatlarning joriy qismiga 	0310	6950
+	- moliyaviy ijara bo‘yicha uzoq muddatli majburiyatlar summasiga 	0310	7910
+2	Moliyaviy ijara ob’yektlarini belgilangan vazifasi bo‘yicha foydalanish uchun yaroqli holatga keltirish bilan bog‘liq xarajatlar mavjud bo‘lgan taqdirda, moliyaviy ijara ob’yektlari ijarachi (lizing oluvchi)ning buxgalterlik hisobida aktiv va majburiyat sifatida tan olinadigan qiymat bo‘yicha kirim qilingan 	0800	7910	Moliyaviy ijara shartnomasi, qabul qilish-topshirish dalolatnomasi 
+3	Moliyaviy ijara ob’yektlarini belgilangan vazifasi bo‘yicha foydalanish uchun yaroqli holatga keltirish bilan bog‘liq xarajatlar summasi aks ettirilgan 	0800	1000, 6700, 6500 va b.	Yukxatlar, mehnat haqi bo‘yicha qaydnomalar va b. 
+4	Moliyaviy ijara ob’yektlarini boshlang‘ich qiymati bo‘yicha foydalanishga tushirish (ularni asosiy vositalar tarkibiga o‘tkazish) aks ettirilgan 	0310	0800	Moliyaviy ijara shartnomasi, qabul qilish-topshirish dalolatnomasi 
+5	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarga doir eskirish hisobga olingan (moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarning belgilangan vazifasiga bog‘liq holda) 	2000, 2100, 2300, 2500, 2600, 2700, 9400 va b. 	0299	Amortizasiyani hisobga olish qaydnomasi 
+6	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarni ishga yaroqli holatda saqlash (joriy, o‘rtacha yoki to‘liq ta’mirlov va b.) bilan bog‘liq xarajatlar summasi aks ettirilgan 	2000, 2100, 2300, 2500, 2600, 2700, 9400 va b. 	1000, 6700, 6500 va b. 	Yukxatlar, mehnat haqi bo‘yicha qaydnomalar va b. 
+7	Ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, moliyaviy ijara bo‘yicha uzoq muddatli majburiyatlarning har yili joriy qismga o‘tkazilishi 	7910	6950	Moliyaviy ijara shartnomasi, joriy qism hisob-kitobi 
+8	Ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, moliyaviy ijara bo‘yicha hisoblangan foizlar summasi aks ettirilgan 	9610	6920	Ijara to‘lovlari jadvali, foizlar hisob-kitobi 
+9	Ijara (lizing) to‘lovi joriy qismining ijaraga beruvchi (lizingga beruvchi)ga to‘lanishi aks ettirilgan 	6950	5110, 5210	Ijara to‘lovlari jadvali, foizlar hisob-kitobi 
+10	Moliyaviy ijara bo‘yicha foizlar to‘lovi aks ettirilgan 	6920	5110	Ijara to‘lovlari jadvali, foizlar hisob-kitobi 
+11	Boshqa shaxslardan uzoq muddatli qimmatli qog‘ozlar xarid qilingan 	0610	7920	Yukxat 
+12	O‘rnatiladigan asbobuskunani yetkazib berish bo‘yicha ko‘rsatilgan xizmatlar uchun turli kreditorlarga bo‘lgan qarz aks ettirilgan 	0710, 0720	7920	Hisobvaraq-faktura, yukxat 
+13	Turli tashkilotlar va korxonalar tomonidan kapital qurilish bilan bog‘liq ko‘rsatilgan xizmatlar aks ettirilgan 	0810	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+14	Asosiy vositalarni xarid qilishda turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	0820	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+15	Nomoddiy aktivlarni xarid qilish bo‘yicha ko‘rsatilgan xizmatlar uchun turli kreditorlarga bo‘lgan qarz aks ettirilgan 	0830	7920	Hisobvaraq-faktura, yukxat 
+16	Materiallarni xarid qilishda turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	1010-1090	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+17	Hayvonlarni xarid qilishda turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	1110, 1120	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+18	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalanilgan holda, materiallarni xarid qilishda turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	1510	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+19	Asosiy ishlab chiqarish uchun turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	2010	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+20	Yordamchi ishlab chiqarish uchun turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va hokazo xizmatlar) aks ettirilgan 	2310	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+21	Umumishlab chiqarish ehtiyojlari uchun turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	2510	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+22	Tovarlarni xarid qilishda turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	2910, 2990	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+23	Tovarlarni xarid qilishda, kelgusi davr xarajatlariga kiritiladigan, turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	3190	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+24	Boshqa shaxslardan pul ekvivalentlari kelib tushgan 	5610	7920	Yukxat
+25	Boshqa shaxslardan pul o‘tkazmalari kelib tushgan 	5710	7920	Yukxat
+26	Boshqa shaxslardan qisqa muddatli qimmatli qog‘ozlar xarid qilingan 	5810	7920	Yukxat
+27	Asosiy vositalar chiqib ketishida turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	9210	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+28	Boshqa aktivlar chiqib ketishida turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	9220	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+29	Tayyor mahsulot va tovarlarni sotishda turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	9410	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+30	Ma’muriy maqsadlarda turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar (transport va h.k. xizmatlar) aks ettirilgan 	9420	7920	Hisobvaraq-faktura, tovar-transport yukxati 
+31	Madaniy-ma’rifiy muassasalari va sog‘lomlashtirish oromgohlari ta’minoti bo‘yicha turli tashkilotlar va korxonalar tomonidan ko‘rsatilgan xizmatlar aks ettirilgan 	9430	7920	Hisobvaraq-faktura, yukxat 

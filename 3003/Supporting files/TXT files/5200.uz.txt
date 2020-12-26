@@ -1,0 +1,86 @@
+1	Uzoq muddatli qimmatli qog‘ozlar sotilishidan valyuta kelib tushgan 	5210, 5220	0610	Valyuta schyotidan bank ko‘chirmasi
+2	Tayyor mahsulot, tovarlar, xizmatlar va ishlar sotilishidan valyuta schyotiga tushum kelib tushgan 	5210, 5220	4010	Valyuta schyotidan bank ko‘chirmasi 
+3	Asosiy vositalar va boshqa aktivlar sotilishidan valyuta schyotiga tushum kelib tushgan 	5210, 5220	4010, 4890	Valyuta schyotidan bank ko‘chirmasi 
+4	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan asosiy vositalar sotilishidan valyuta schyotiga tushum kelib tushgan 	5210, 5220	4110, 4120	Valyuta schyotidan bank ko‘chirmasi 
+5	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan boshqa aktivlar sotilishidan valyuta schyotiga tushum kelib tushgan 	5210, 5220	4110, 4120	Valyuta schyotidan bank ko‘chirmasi 
+6	Boshqa tashkilotlarda ulushli ishtirok etganlikdan daromadlar summasi kelib tushgan 	5210, 5220	4840	Valyuta schyotidan bank ko‘chirmasi 
+7	Ishlatilmagan summalar hisobdor shaxslar tomonidan qaytarilgan 	5210, 5220	4220, 4230	Pul topshirish to‘g‘risida e’lon, valyuta schyotidan bank ko‘chirmasi 
+8	Mol yetkazib beruvchiga ilgari berilgan bo‘nak qaytarilgan 	5210, 5220	4310-4330	Valyuta schyotidan bank ko‘chirmasi 
+9	Yanglish hisoblangan summalar sug‘urta idoralari tomonidan qaytarilgan 	5210, 5220	4510	Valyuta schyotidan bank ko‘chirmasi 
+10	Ta’sischilardan ustav kapitaliga ulushlar summasi olingan 	5210, 5220	4610	Valyuta schyotidan bank ko‘chirmasi 
+11	Berilgan kreditlar va qarzlar bilan bog‘liq foizlar bo‘yicha qarzlarni qoplash summalari kelib tushgan 	5210, 5220	4830	Valyuta schyotidan bank ko‘chirmasi 
+12	Olinadigan dividendlar bo‘yicha qarzni qoplash summalari kelib tushgan 	5210, 5220	4840	Valyuta schyotidan bank ko‘chirmasi 
+13	Royalti bo‘yicha qarzni qoplash summalari kelib tushgan 	5210, 5220	4850	Valyuta schyotidan bank ko‘chirmasi 
+14	Mol yetkazib beruvchilar va pudratchilarga taqdim etilgan da’volar bo‘yicha qarzni qoplash summalari kelib tushgan 	5210, 5220	4860	Valyuta schyotidan bank ko‘chirmasi 
+15	Yanglish olingan summa valyuta schyotiga qaytarilgan 	5210, 5220	4860	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+16	Qarzni qoplash uchun boshqa debitorlardan summalar kelib tushgan 	5210, 5220	4890	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+17	Pul mablag‘lari kassadan valyuta schyotiga topshirilgan 	5210, 5220	5020	Chiqim kassa orderi, valyuta schyotidan bank ko‘chirmasi 
+18	Ishlatilmagan akkreditivning qoldig‘i qaytarilgan 	5210, 5220	5510	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+19	Ishlatilmagan chek daftarchalarining qoldiqlari qaytarilgan 	5210, 5220	5520	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+20	Sotilgan chet el valyutasining so‘mdagi ekvivalenti valyuta schyotiga kiritilgan: 			To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi, kurs farqining hisob-kitobi 
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan valyutaning qiymatiga 	5210, 5220	5530
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti bilan Markaziy bank kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti o‘rtasidagi musbat farq summasiga 	5210, 5220	9540
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti bilan Markaziy bank kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti o‘rtasidagi manfiy farq summasiga 	9620	5530
+21	Bankdagi maxsus schyot yopilganda valyuta schyotiga summalar kelib tushgan 	5210, 5220	5530	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+22	Yo‘ldagi pul mablag‘lari hisobga olingan 	5210, 5220	5710	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+23	Qisqa muddatli qimmatli qog‘ozlar sotilgan 	5210, 5220	5810	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+24	Ilgari qisqa muddatli investisiyalar kabi taqdim etilgan qarz qaytarilgan 	5210, 5220	5830	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+25	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan valyuta schyotiga summalar kelib tushgan 	5210, 5220	6110, 6120	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+26	Kechiktirilgan daromadlar (kelgusi davr daromadlari) tarkibidagi summalar valyuta schyotiga kelib tushgan 	5210, 5220	6230	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+27	Olingan bo‘naklar summasi, shuningdek mahsulot qisman tayyor bo‘lganda olingan to‘lov summalari aks ettirilgan 	5210, 5220	6310	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+28	Bankning qisqa muddatli ssudasi olingan 	5210, 5220	6810	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+29	Boshqa korxonadan qisqa muddatli ssuda olingan 	5210, 5220	6820	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+30	Qisqa muddatli obligasiyalar sotilishidan summalar olingan 	5210, 5220	6830	Obligasiya kelishuvi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+31	Qisqa muddatli veksel bo‘yicha pul mablag‘lari olingan 	5210, 5220	6840	Veksel, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+32	Mablag‘lar valyuta schyotiga yanglish kelib tushgan 	5210, 5220	6960	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+33	Bankning uzoq muddatli ssudasi olingan 	5210, 5220	7810	Kredit shartnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+34	Boshqa korxonadan uzoq muddatli ssuda olingan 	5210, 5220	7820	Kredit shartnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+35	Uzoq muddatli obligasiyalar sotilishidan summalar olingan 	5210, 5220	7830	Obligasiyalar kelishuvi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+36	Uzoq muddatli to‘lanadigan veksel bilan pul mablag‘lari olingan 	5210, 5220	7840	Veksel, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+37	Ustav kapitaliga ulush hisobidan ta’sischilardan hisob-kitob schyotiga pul mablag‘lari kelib tushgan 	5210, 5220	8310-8330	Ta’sischilarning kelishuv bayonnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+38	Aksiyalarning nominal bahosidan yuqori sotilganligidan emission daromad kelib tushgan 	5210, 5220	8410	Ta’sischilarning kelishuv bayonnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+39	Ta’sischilardan valyuta kelib tushganda kurs farqi aks ettirilgan 	5210, 5220	8420	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+40	Xususiy sotib olingan aksiyalardan pul mablag‘lari kelib tushishi aks ettirilgan 	5210, 5220	8610	Ta’sischilarning kelishuv bayonnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+41	Maqsadli moliyalashtirish mablag‘lari kelib tushgan 	5210, 5220	8810-8890	Maqsadli moliyalashtirish shartnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirm 
+42	Tekin qaytarilmaydigan moliyaviy yordam kelib tushgan 	5210, 5220	9390	Hadya shartnomasi, valyuta schyotidan bank ko‘chirmasi 
+43	Jamg‘arish usuli bo‘yicha valyuta schyoti bo‘yicha musbat kurs farqi aks ettirilgan 	5210, 5220	6230	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+44	Hisobdan chiqarishning to‘g‘ri usuli bo‘yicha valyuta schyoti bo‘yicha musbat kurs farqi aks ettirilgan 	5210, 5220	9540	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+45	Uzoq muddatli qimmatli qog‘ozlar xarid qilingan 	0610	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+46	Shu’ba xo‘jalik jamiyatlariga investisiyalar aks ettirilgan 	0620	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+47	Qaram xo‘jalik jamiyatlariga investisiyalar aks ettirilgan 	0630	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+48	Chet el kapitali ishtirokidagi korxonalarga investisiyalar aks ettirilgan 	0640	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+49	Kapital qo‘yilmalar bo‘yicha turli xarajatlar naqd pulsiz yo‘l bilan to‘langan 	0810-0890	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+50	Xodimlarga va boshqa korxonalarga uzoq muddatli kreditlar berilgan 	0930, 0940	5210, 5220	Kredit shartnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+51	Xizmatlar uchun oldindan to‘lov o‘tkazilgan 	3120	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+52	Boshqa oldindan to‘langan xizmatlar uchun summa o‘tkazilgan 	3190	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+53	Jamg‘arish usuli bo‘yicha valyuta schyoti bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	5210, 5220	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+54	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlariga summa o‘tkazilgan 	4110-4120	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan ko‘chirma 
+55	Hisobdor shaxslarga bo‘naklar o‘tkazilgan 	4220, 4230	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+56	Moddiy qiymatliklarni yetkazib berish, qisman tayyor bo‘lgan mahsulot uchun to‘lov va hokazolar uchun berilgan bo‘naklar aks ettirilgan 	4310	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan ko‘chirma 
+57	Sug‘urta firmasiga sug‘urta bo‘yicha bo‘nak to‘lovlari o‘tkazilgan 	4510	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan ko‘chirma 
+58	Bank tomonidan valyuta schyotidan pul mablag‘lari yanglish olingan 	4860	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan ko‘chirma 
+59	Xizmat safari xarajatlarini to‘lash uchun bankdan kassaga pul mablag‘lari kelib tushgan 	5020	5210	Valyuta schyotidan ko‘chirma, kirim kassa orderi 
+60	Akkreditiv ochish uchun valyuta schyotidan summa o‘tkazilgan 	5510	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+61	Chek daftarchasi ochish uchun valyuta schyotidan summa o‘tkazilgan 	5520	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+62	Maxsus schyotni ochish uchun valyuta schyotidan summa o‘tkazilgan 	5530	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+63	Milliy valyuta xarid qilish uchun mablag‘lar o‘tkazilgan 	5530	5210	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+64	Bajarilgan ishlar uchun mol yetkazib beruvchilar va pudratchilar oldidagi qarz qoplangan 	6010	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+65	Bajarilgan ishlar uchun mol yetkazib beruvchilar va pudratchilarga berilgan veksellar bo‘yicha qarz qoplangan 	6020	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+66	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlari oldidagi qarz qoplangan 	6110, 6120	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+67	Ilgari xaridorlardan olingan bo‘naklar ularga qaytarilgan 	6310	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+68	Mol-mulk sug‘urtasi bo‘yicha sug‘urta kompaniyasi oldidagi qarz qoplangan 	6510	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+69	Korxonada ishtirok etganligi uchun ta’sischilarga hisoblangan daromadlar (dividendlar) summasi to‘lovi aks ettirilgan 	6610	5210, 5220	Ta’sischilar majlisining bayonnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+70	Ta’sischining ulushi pul mablag‘lari bilan qaytarilgan 	6620	5210, 5220	Ta’sischilar majlisining bayonnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+71	Banklarning qisqa muddatli kreditlari qoplangan 	6810	5210, 5220	Kredit shartnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+72	Boshqa korxonalarning qisqa muddatli kreditlari qoplangan 	6820	5210, 5220	Kredit shartnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+73	Qisqa muddatli obligasiyalar qoplangan 	6830	5210, 5220	Obligasiya kelishuvi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+74	To‘lanadigan veksellar bo‘yicha qarz qoplangan 	6840	5210, 5220	Veksel, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+75	Hisoblangan foizlar bo‘yicha qarz qoplangan 	6920	5210, 5220	Buxgalteriyaning hisob-kitob ma’lumotnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+76	Hisoblangan royalti bo‘yicha qarz qoplangan 	6930	5210, 5220	Buxgalteriyaning hisob-kitob ma’lumotnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+77	Kafolatlar bo‘yicha qarz qoplangan 	6940	5210, 5220	Buxgalteriyaning hisob-kitob ma’lumotnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+78	Bankning uzoq muddatli krediti va boshqa korxonalardan olingan kreditlar joriy qismi qoplangan 	6950	5210, 5220	Kredit shartnomasi, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+79	Turli kreditorlar oldidagi qarzlarni qoplash uchun valyuta schyotidan summa to‘langan 	6990	5210, 5220	Shartnoma, to‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+80	Yanglish hisobga olingan summalar valyuta schyotidan qaytarilgan 	6990	5210, 5220	To‘lov topshiriqnomasi, valyuta schyotidan bank ko‘chirmasi 
+81	Maqsadli moliyalashtirishdan foydalanganlik aks ettirilgan 	8810-8890	5210, 5220	Maqsadli moliyalashtirish shartnomasi, valyuta schyotidan bank ko‘chirmasi 
+82	Bank xizmati uchun valyuta schyotidan summa o‘tkazilgan 	9430	5210, 5220	Valyuta schyotidan bank ko‘chirmasi 
+83	Hisobdan chiqarishning to‘g‘ri usuli bo‘yicha valyuta schyoti bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	5210, 5220	Buxgalteriyaning hisob-kitob ma’lumotnomasi 

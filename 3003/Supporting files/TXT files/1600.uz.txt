@@ -1,0 +1,12 @@
+1	Kelib tushgan moddiy qiymatliklarning haqiqiy tannarxidagi farqlar summasi hisobdan chiqarilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi
+	- hisob bahosidan past bo‘lganda 	1510	1610
+	- hisob bahosidan yuqori bo‘lganida 	1610	1510
+2	Materiallar qiymatidagi farqlar (hisoblangan ulushda) ishlab chiqarish schyotlariga hisobdan chiqarilgan 	2010	1610	Buxgalteriyaning hisob-kitobi 
+3	Materiallar qiymatidagi farqlar (hisoblangan ulushda) yordamchi ishlab chiqarish schyotlariga hisobdan chiqarilgan 	2310	1610	Buxgalteriyaning hisob-kitobi 
+4	Materiallar qiymatidagi farqlar (hisoblangan ulushda) umumishlab chiqarish xarajatlarini hisobga oluvchi schyotlarga hisobdan chiqarilgan 	2510	1610	Buxgalteriyaning hisob-kitobi 
+5	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan olingan materiallar bo‘yicha farqlar summasi hisobdan chiqarilgan 	4110, 4120	1610	Buxgalteriyaning hisob-kitobi 
+6	Materiallar qiymatidagi farqlar (hisoblangan ulushda) davr xarajatlari schyotlariga hisobdan chiqarilgan 	9410-9430	1610	Buxgalteriyaning hisob-kitobi 
+7	Materiallar qiymatidagi farqlar (hisoblangan ulushda) xizmat ko‘rsatuvchi xo‘jaliklarning schyotlariga hisobdan chiqarilgan 	2710	1610	Buxgalteriyaning hisob-kitobi 
+8	Farqlar tegishli ulushi inventar va xo‘jalik jihozlari qiymatiga kiritilgan 	1080	1610	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+9	Materiallar qiymatidagi farqlarning bir qismi berilgan materiallar bo‘yicha ichki bo‘linmalar schyotlariga hisobdan chiqarilgan 	4110	1610	Buxgalteriyaning hisob-kitob ma’lumotnomasi
+10	Umumishlab chiqarish xarajatlari materiallar qiymatidagi manfiy farq ko‘rsatkichiga kamaytirilgan (storno yozuvi) 	2510	1610	Buxgalteriyaning hisob-kitob ma’lumotnomasi

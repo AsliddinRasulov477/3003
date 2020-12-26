@@ -1,0 +1,112 @@
+1	Uzoq muddatli qimmatli qog‘ozlar sotilishidan pul mablag‘lari kelib tushgan 	5110	0610	Hisob-kitob schyotidan bank ko‘chirmasi
+2	Tayyor mahsulot, tovarlar, xizmatlar va ishlar sotilganligidan hisob-kitob schyotiga tushum kelib tushgan 	5110	4010	Hisob-kitob schyotidan bank ko‘chirmasi 
+3	Asosiy vositalar va boshqa aktivlar sotilganligidan hisob-kitob schyotiga tushum kelib tushgan 	5110	4010, 4890	Hisob-kitob schyotidan bank ko‘chirmasi 
+4	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan debitorlik qarzini to‘lash hisobiga hisob-kitob schyotiga pul mablag‘lari kelib tushgan 	5110	4110, 4120	Hisob-kitob schyotidan bank ko‘chirmasi 
+5	Boshqa tashkilotlarda ulushli ishtirok etganligidan daromadlar summasi kelib tushgan 	5110	4840	Hisob-kitob schyotidan bank ko‘chirmasi 
+6	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan hisob-kitob schyotiga sotishdan tushum kelib tushgan 	5110	4110, 4120	Hisob-kitob schyotidan bank ko‘chirmasi 
+7	Mehnat haqi bo‘yicha yanglish hisoblangan summalar xodimlar tomonidan qaytarilgan 	5110	4210	Hisob-kitob schyotidan bank ko‘chirmasi 
+8	Bo‘naklarning ishlatilmagan summalari hisobdor shaxslar tomonidan qaytarilgan 	5110	4220, 4230	Hisob-kitob schyotidan bank ko‘chirmasi 
+9	Mol yetkazib beruvchilarga ilgari berilgan bo‘nak qaytarilgan 	5110	4310	Hisob-kitob schyotidan bank ko‘chirmasi 
+10	Yanglish hisoblangan soliqlar byudjetdan qaytarilgan 	5110	4410	Hisob-kitob schyotidan bank ko‘chirmasi, to‘lov topshiriqnomasi 
+11	Yanglish hisoblangan summalar sug‘urta idoralari tomonidan qaytarilgan 	5110	4510, 4520	Hisob-kitob schyotidan bank ko‘chirmasi, to‘lov topshiriqnomasi 
+12	Pensiya, nafaqalarni to‘lash uchun summalar Pensiya jamg‘armasidan hisob-kitob schyotiga kelib tushgan 	5110	4520	Hisob-kitob schyotidan bank ko‘chirmasi, hisob-kitob ma’lumotnomasi 
+13	Ta’sischilardan ustav kapitaliga ulushlar summasi olingan 	5110	4610	Ta’sischilar majlisining bayonnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+14	Tovarlar kreditga sotilganligidan pul mablag‘lari kelib tushgan 	5110	4710	Hisob-kitob schyotidan bank ko‘chirmasi 
+15	Xodimlarga berilgan ssuda qaytarilgan 	5110	4720	Hisob-kitob schyotidan bank ko‘chirmasi 
+16	Xodimlarning moddiy zarar yetkazganligini qoplash bo‘yicha qarzi hisob-kitob schyotiga kelib tushgan 	5110	4730	Hisob-kitob schyotidan bank ko‘chirmasi 
+17	Moliyaviy ijara (lizing) sharti bilan berilgan asosiy vositalar bo‘yicha ijara to‘lovi ijaraga oluvchidan kelib tushgan 	5110	4810	Hisob-kitob schyotidan bank ko‘chirmasi, moliyaviy ijara shartnomasi 
+18	Operativ ijara bo‘yicha qarz qoplangan	5110	4820	Hisob-kitob schyotidan bank ko‘chirmasi 
+19	Berilgan kreditlar va qarzlar bilan bog‘liq foizlar bo‘yicha qarz qoplangan 	5110	4830	Hisob-kitob schyotidan bank ko‘chirmasi 
+20	Olinadigan dividendlar bo‘yicha qarz qoplangan 	5110	4840	Hisob-kitob schyotidan bank ko‘chirmasi 
+21	Royalti bo‘yicha qarz qoplangan 	5110	4850	Hisob-kitob schyotidan bank ko‘chirmasi 
+22	Mol yetkazib beruvchilar va pudratchilarga taqdim etilgan da’volar bo‘yicha qarz qoplangan 	5110	4860	Hisob-kitob schyotidan bank ko‘chirmasi 
+23	Yanglish olingan summa hisob-kitob schyotiga qaytarilgan 	5110	4860	Hisob-kitob schyotidan bank ko‘chirmasi 
+24	Qarzni qoplash uchun boshqa debitorlardan pul mablag‘lari kelib tushgan 	5110	4890	Hisob-kitob schyotidan bank ko‘chirmasi 
+25	Pul mablag‘lari kassadan hisob-kitob schyotiga topshirilgan (jumladan, deponent summalari, sotishdan tushum va b.) 	5110	5010	Chiqim kassa orderi, kassir hisoboti, hisob-kitob schyotidan bank ko‘chirmasi 
+26	Ishlatilmagan akkreditiv qoldig‘i qaytarilgan 	5110	5510	Hisob-kitob schyotidan bank ko‘chirmasi 
+27	Ishlatilmagan chek daftarchalari qoldig‘i qaytarilgan 	5110	5520	Hisob-kitob schyotidan bank ko‘chirmasi
+28	Sotilgan chet el valyutasining so‘mdagi ekvivalenti hisob-kitob schyotiga kiritilgan: 			Hisob-kitob schyotidan bank ko‘chirmasi, kurs farqining hisob-kitobi 
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan valyutaning qiymatiga 	5110	5530	
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti bilan Markaziy bank kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti o‘rtasidagi musbat farq summasiga 	5110	9540	
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti bilan Markaziy bank kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti o‘rtasidagi manfiy farq summasiga 	9620	5530	
+29	Bankdagi maxsus schyot yopilganda pul mablag‘i hisob-kitob schyotiga kelib tushgan 	5110	5530	Hisob-kitob schyotidan bank ko‘chirmasi 
+30	Yo‘ldagi pul mablag‘lari kelib tushgan 	5110	5710	Hisob-kitob schyotidan bank ko‘chirmasi 
+31	Qisqa muddatli qimmatli qog‘ozlar sotilgan 	5110	5810	Hisob-kitob schyotidan bank ko‘chirmasi 
+32	Ilgari qisqa muddatli investisiyalar tartibida taqdim etilgan qarz qaytarilgan 	5110	5830	Hisob-kitob schyotidan bank ko‘chirmasi 
+33	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan hisob-kitob schyotiga pul mablag‘lari kelib tushgan 	5110	6110, 6120	Hisob-kitob schyotidan bank ko‘chirmasi, to‘lov topshiriqnomasi 
+34	Muddati kechiktirilgan daromadlar (kelgusi davr daromadlari) tarkibidagi summalar hisob-kitob schyotiga kelib tushgan 	5110	6230	Hisob-kitob schyotidan bank ko‘chirmasi, to‘lov topshiriqnomasi 
+35	Olingan bo‘naklar summasi, shuningdek mahsulot qisman tayyor bo‘lganda olingan to‘lov summasi aks ettirilgan 	5110	6310	Hisob-kitob schyotidan bank ko‘chirmasi 
+36	Bankning qisqa muddatli ssudasi olingan	5110	6810	Kredit shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+37	Boshqa korxonadan qisqa muddatli ssuda olingan 	5110	6820	Kredit shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+38	Qisqa muddatli obligasiyalar sotilishidan summalar olingan 	5110	6830	Obligasiya kelishuvi, hisob-kitob schyotidan bank ko‘chirmasi 
+39	Qisqa muddatli veksellar bo‘yicha pul mablag‘lari olingan 	5110	6840	Kredit shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+40	Hisob-kitob schyotiga mablag‘lar yanglish kelib tushgan 	5110	6960	Hisob-kitob schyotidan bank ko‘chirmasi 
+41	Bankning uzoq muddatli ssudasi olingan 	5110	7810	Kredit shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+42	Boshqa korxonadan uzoq muddatli ssuda olingan 	5110	7820	Kredit shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+43	Uzoq muddatli obligasiyalar sotilishidan summalar olingan 	5110	7830	Obligasiya kelishuvi, hisob-kitob schyotidan bank ko‘chirmasi 
+44	Uzoq muddatli veksel hisobiga pul mablag‘lari olingan 	5110	7840	Uzoq muddatli veksel, hisob-kitob schyotidan bank ko‘chirmasi 
+45	Ustav kapitaliga ulushi hisobiga ta’sischilardan hisob-kitob schyotiga pul mablag‘lari olingan 	5110	8310-8330	Aksiyalarga obuna daftari, hisob-kitob schyotidan bank ko‘chirmasi 
+46	Aksiyalar nominal qiymatidan yuqori bahoda sotilganligi uchun emission daromad kelib tushgan 	5110	8410	Hisob-kitob schyotidan bank ko‘chirmasi 
+47	Xususiy sotib olingan aksiyalarning sotilishida pul mablag‘lari kelib tushgan 	5110	8610	Hisob-kitob schyotidan bank ko‘chirmasi 
+48	Maqsadli moliyalashtirish bo‘yicha mablag‘lar kelib tushgan 	5110	8810-8890	Hisob-kitob schyotidan bank ko‘chirmasi 
+49	Tekin moliyaviy yordam kelib tushgan 	5110	9390	Hisob-kitob schyotidan bank ko‘chirmasi 
+50	Uzoq muddatli qimmatli qog‘ozlar xarid qilingan 	0610	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+51	Shu’ba xo‘jalik jamiyatlariga investisiyalar aks ettirilgan 	0620	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+52	Qaram xo‘jalik jamiyatlariga investisiyalar aks ettirilgan 	0630	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+53	Chet el kapitaliga ega korxonalarga investisiyalar aks ettirilgan 	0640	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+54	Kapital qo‘yilmalar bo‘yicha turli xarajatlar naqd pulsiz yo‘l bilan to‘langan 	0810-0890	5110	Bildirgi, hisob-kitob schyotidan bank ko‘chirmasi, to‘lov topshiriqnomasi 
+55	Xodimlarga va boshqa korxonalarga uzoq muddatli kreditlar berilgan 	0930, 0940	5110	Kredit shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+56	Operativ ijara bo‘yicha oldindan to‘lov o‘tkazilgan 	3110	5110	Ijara shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+57	Xizmatlar uchun oldindan to‘lov o‘tkazilgan 	3120	5110	Shartnoma, hisob-kitob schyotidan bank ko‘chirmasi 
+58	Boshqa xizmatlar uchun oldindan to‘lov o‘tkazilgan 	3190	5110	Ijara shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+59	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlariga pul mablag‘lari o‘tkazilgan 	4110-4120	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+60	Mehnat haqi bo‘yicha bo‘nak plastik kartochkaga o‘tkazilgan 	4210	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+61	Hisobdor shaxslarga bo‘naklar o‘tkazilgan 	4220, 4230	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+62	Moddiy qiymatliklarni yetkazib berish, qisman tayyor bo‘lgan mahsulot uchun to‘lov va hokazolar uchun berilgan bo‘naklar aks ettirilgan 	4310	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+63	Soliqlar bo‘yicha bo‘nak to‘lovlari o‘tkazilgan 	4410	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+64	Sug‘urta firmasiga sug‘urta bo‘yicha bo‘nak to‘lovlari o‘tkazilgan 	4510	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+65	Maqsadli davlat jamg‘armalariga bo‘nak to‘lovlari o‘tkazilgan 	4520	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+66	Xodimlar kreditga xarid qilgan tovarlar uchun hisob-kitob schyotidan pul mablag‘lari o‘tkazilgan 	4710	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+67	Xodimlarga berilgan qisqa muddatli qarzlar hisob-kitob schyotidan o‘tkazilgan 	4720	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+68	Bank tomonidan hisob-kitob schyotidan summalar yanglish olingan 	4860	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+69	Pul mablag‘lari bankdan kassaga kelib tushgan (mehnat haqi, pensiyalar, nafaqalar, mukofotlar va hokazolarni to‘lash uchun) 	5010	5110	Bildirgi, hisob-kitob schyotidan bank ko‘chirmasi, pul cheklari 
+70	Akkreditiv ochish uchun hisob-kitob schyotidan pul mablag‘i o‘tkazilgan 	5510	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+71	Chek daftarchasini ochish uchun hisob-kitob schyotidan pul mablag‘i o‘tkazilgan 	5520	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+72	Maxsus schyot yoki korporativ kartochka ochish uchun hisob-kitob schyotidan pul mablag‘i o‘tkazilgan 	5530	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+73	Chet el valyutasini xarid qilish uchun pul mablag‘lari o‘tkazilgan 	5530	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+74	Bajarilgan ishlar uchun mol yetkazib beruvchilar va pudratchilar oldidagi qarz qoplangan 	6010	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+75	Bajarilgan ishlar uchun mol yetkazib beruvchilar va pudratchilarga berilgan veksellar bo‘yicha qarz qoplangan 	6020	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+76	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlari oldidagi qarz qoplangan 	6110, 6120	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+77	Ilgari xaridorlardan olingan bo‘naklar ularga qaytarilgan 	6310	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+78	Byudjetga ajratmalar va to‘lovlar bo‘yicha qarz summalari o‘tkazilgan (yil davomida va qo‘shimcha) 	6410	5110	To‘lov topshiriqnomasi, inkasso, hisob-kitob schyotidan bank ko‘chirmasi 
+79	Mol-mulk sug‘urtasi bo‘yicha sug‘urta kompaniyasi oldidagi qarz qoplangan 	6510	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+80	Maqsadli davlat jamg‘armalariga ajratmalar bo‘yicha qarz qoplangan 	6520	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+81	Korxonada ishtirok etganligi uchun hisoblangan daromadlar summasining (dividendlar) ta’sischilarga to‘lanishi aks ettirilgan 	6610	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi, ta’sischilar majlisining bayonnomasi 
+82	Ta’sischining badali pul mablag‘lari bilan qaytarilgan 	6620	5110	Ta’sischilar majlisining bayonnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+83	Mehnat haqi plastik kartochkaga o‘tkazilgan 	6710	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+84	Banklarning qisqa muddatli kreditlari qoplangan 	6810	5110	Kredit shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+85	Boshqa korxonalarning qisqa muddatli kreditlari qoplangan 	6820	5110	Kredit shartnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+86	Qisqa muddatli obligasiyalar qoplangan 	6830	5110	Obligasiya kelishuvi, hisob-kitob schyotidan bank ko‘chirmasi 
+87	To‘lanadigan veksellar bo‘yicha qarz qoplangan 	6840	5110	To‘lanadigan veksel, hisob-kitob schyotidan bank ko‘chirmasi 
+88	To‘lanadigan operativ ijara bo‘yicha qarz qoplangan 	6910	5110	To‘lanadigan veksel, hisob-kitob schyotidan bank ko‘chirmasi 
+89	Hisoblangan foizlar bo‘yicha qarz qoplangan 	6920	5110	Buxgalteriya hisob-kitob ma’lumotnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+90	Moliyaviy ijara (lizing) shartnomasiga muvofiq ijara to‘lovi bo‘yicha qarz qoplangan 	6950	5110	Buxgalteriya hisob-kitob ma’lumotnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+91	Hisoblangan royalti bo‘yicha qarz qoplangan 	6930	5110	Buxgalteriya hisob-kitob ma’lumotnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+92	Kafolatlar bo‘yicha qarz qoplangan 	6940	5110	Buxgalteriya hisob-kitob ma’lumotnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+93	Bankning uzoq muddatli kreditlari va boshqa korxonalardan olingan kreditlar joriy qismi qoplangan 	6950	5110	Hisob-kitob schyotidan bank ko‘chirmasi
+94	Moliyaviy ijara (lizing) shartnomasi bo‘yicha ijaraga beruvchiga tegishli to‘lovlar ijaraga oluvchi tomonidan to‘langan 	6950	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+95	Turli kreditorlarga qarzlarni qoplash uchun hisob-kitob schyotidan to‘langan 	6990	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+96	Yanglish kirim qilingan summalar hisob-kitob schyotidan qaytarilgan 	6960	5110	Hisob-kitob schyotidan bank ko‘chirmasi 
+97	Aksiyador (ishtirokchi)dan unga tegishli bo‘lgan aksiyalar (ulush)ning sotib olinishi aks ettirilgan 	8610	5110	Bildirgi, hisob-kitob schyotidan bank ko‘chirmasi, to‘lov topshiriqnomasi 
+98	Maqsadli moliyalashtirishdan foydalanilganligi aks ettirilgan 	8810-8890	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+99	Tekin moliyaviy yordam hisob-kitob schyotidan o‘tkazilgan 	9430	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+100	Bank xizmatlari uchun hisob-kitob schyotidan pul o‘tkazilgan 	9430	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+101	Qimmatli qog‘ozlarni chiqarish va tarqatish bo‘yicha xarajatlarga mablag‘ hisob-kitob schyotidan o‘tkazilgan 	9630	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+102 	Xaridorlardan bo'naklar kelib tushgan 	5110	6310	Bank ko'chirmasi va shartnomalar
+103	Boshqa majburiyatlarga pul o'tkazildi 	6990	5110	Bank ko'chirmasi va shartnomalar
+104 Olinadigan dvidentlar hisob kitob schotiga tushgan 	5110	4840	Bank ko'chirmasi va shartnomalar
+105	Yer solig'i to'landi 	6410	5110	Bank ko'chirmasi va shartnomalar
+106	Foyda solig'i to'landi 	6410	5110	Foyda solig'ni hisoblash vedomosti
+107 Mahalliy transportdan foydalangani uchun yo’l haqi to’landi 	9430	5110	Bank ko'chirmasi va shartnomalar
+108 Kelgusi yilga obuna uchun pul to’landi 	3120	5110	Bank ko'chirmasi va shartnomalar
+109 Taqsimlanmagan foydadan dividend to'landi 	6610	5110	Bank ko'chirmasi

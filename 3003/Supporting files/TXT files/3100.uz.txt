@@ -1,0 +1,29 @@
+1	Oldindan to‘langan ijara haqi o‘tkazilgan 	3110	5110	Ijara shartnomasi, to‘lov topshiriqnomasi
+2	Kelgusi davr xarajatlarida hisobga olinadigan ishlarni amalga oshirish uchun materiallar berilgan 	3120, 3190	1010	Hisobvaraq-faktura, yukxatlar, talabnoma 
+3	Kelgusi davr xarajatlarida hisobga olinadigan ishlarni amalga oshirish uchun inventar va xo‘jalik jihozlari sarf-xarajat qilingan 	3120, 3190	1080	Hisobvaraq-faktura, yukxatlar, talabnoma 
+4	Kelgusi davr xarajatlariga tegishli bo‘lgan ishlarni amalga oshirishda yordamchi ishlab chiqarishning ko‘rsatgan xizmatlari aks ettirilgan 	3120, 3190	2310	Hisobvaraq-faktura, yukxatlar, talabnoma 
+5	Kelgusi davrlar ishlariga taalluqli bo‘lgan umumishlab chiqarish xarajatlari ulushi hisobdan chiqarilgan 	3120, 3190	2510	Umumishlab chiqarish xarajatlarini taqsimlash qaydnomasi 
+6	Xizmat ko‘rsatuvchi ishlab chiqarishlarning kelgusi davrlar bilan bog‘liq ishlariga taalluqli xarajatlari hisobdan chiqarilgan 	3120, 3190	2710	Xizmat ko‘rsatuvchi ishlab chiqarishlar xarajatlarini taqsimlash qaydnomasi 
+7	Kelgusi davr xarajatlarida hisobga olinadigan ishlarni amalga oshirish uchun tayyor mahsulotlar sarf-xarajat qilingan 	3120, 3190	2810	Hisobvaraq-faktura, yukxatlar, talabnoma
+8	Kelgusi davr xarajatlarida hisobga olinadigan ishlarni amalga oshirish uchun tovarlar sarf-xarajat qilingan 	3120, 3190	2910	Hisobvaraq-faktura, yukxatlar, talabnoma 
+9	Kelgusi davr xarajatlariga taalluqli xizmat safari bo‘yicha xarajatlar hisobdan chiqarilgan: 			Bo‘nak hisoboti va unga ilova qilingan hujjatlar 
+	- hisobdor shaxsga bo‘nak berilgan bo‘lsa 	3190	4220
+	- hisobdor shaxsga bo‘nak berilmagan bo‘lsa 	3190	6970
+10	Kelgusi yilga obuna bo‘yicha xarajatlar amalga oshirilgan 	3120	5110	Obuna shartnomasi, to‘lov topshiriqnomasi 
+11	Korxona xodimlari uchun uzoq muddatga yo‘l haqi kartochkalari xarid qilingan 	3120	5110	Yo‘l haqi kartochkalarini xarid qilish shartnomasi, korxona buyrug‘i, yo‘l haqi kartochkalariga ehtiyojning hisob-kitobi, to‘lov topshiriqnomasi 
+12	Kelgusi davr xarajatlariga tegishli bo‘lgan moddiy qiymatliklar yoki ishlar uchun mol yetkazib beruvchilar yoki pudratchilar oldidagi qarzlar aks ettirilgan 	3120, 3190	6010, 7010	Hisobvaraq-faktura, tovar-transport yukxati 
+13	Kelgusi davr xarajatlarida hisobga olinadigan ishlar va xizmatlar uchun shu’ba va qaram xo‘jaliklarga qarz aks ettirilgan 	3120, 3190	6110, 6120, 7110, 7120	Hisobvaraq-faktura, tovar-transport yukxati 
+14	Kelgusi davr xarajatlarida hisobga olinadigan ishlar bo‘yicha byudjetga qarz aks ettirilgan 	3190	6410	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+15	Kelgusi davr xarajatlarida hisobga olinadigan ishlar bo‘yicha ijtimoiy sug‘urta idoralariga qarz aks ettirilgan 	3190	6510, 6520	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+16	Kelgusi davr xarajatlarida hisobga olinadigan ishlarda band bo‘lgan ishchilarning mehnat haqi bo‘yicha qarz aks ettirilgan 	3190	6710	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+17	Kelgusi davr xarajatlarida hisobga olinadigan moddiy qiymatliklar yoki ishlar uchun boshqa kreditorlarga qarz aks ettirilgan 	3190	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+18	Kapital qo‘yilmalarga taalluqli kelgusi davr xarajatlari ulushi hisobdan chiqarilgan 	0810-0890	3190	Kelgusi davr xarajatlarini hisobdan chiqarish hisob-kitobi, hisobvaraq-faktura, yukxatlar, bajarilgan ishlar dalolatnomalari 
+19	Navbatdagi hisobot davri kelganda kelgusi davr xarajatlari ulushi asosiy ishlab chiqarish xarajatlariga kiritilgan 	2010	3110-3190	Kelgusi davr xarajatlarini hisobdan chiqarish hisob-kitobi, hisobvaraq-faktura, yukxatlar, bajarilgan ishlar dalolatnomalari 
+20	Navbatdagi hisobot davri kelganda kelgusi davr xarajatlari ulushi yordamchi ishlab chiqarish xarajatlariga kiritilgan 	2310	3110-3190	Kelgusi davr xarajatlarini hisobdan chiqarish hisob-kitobi, hisobvaraq-faktura, yukxatlar, bajarilgan ishlar dalolatnomalari 
+21	Navbatdagi hisobot davri kelganda kelgusi davr xarajatlari ulushi asosiy umumishlab chiqarish xarajatlariga kiritilgan 	2510	3110-3190	Kelgusi davr xarajatlarini hisobdan chiqarish hisob-kitobi, hisobvaraq-faktura, yukxatlar, bajarilgan ishlar dalolatnomalari 
+22	Kelgusi davr xarajatlari ulushi xizmat ko‘rsatuvchi ishlab chiqarishlar xarajatlariga kiritilgan 	2710	3190	Kelgusi davr xarajatlarini hisobdan chiqarish hisob-kitobi, hisobvaraq-faktura, yukxatlar, bajarilgan ishlar dalolatnomalari 
+23	Sotish bilan bog‘liq kelgusi xarajatlarning bir qismi joriy hisobot davrida hisobdan chiqarilgan 	9410	3110, 3120, 3190	Kelgusi davr xarajatlarini hisobdan chiqarish hisob-kitobi 
+24	Kelgusi davr xarajatlarining har oyda hisobot davri bo‘yicha ma’muriy xarajatlarga kiritilishi aks ettirilgan 	9420	3110-3190	Davr xarajatlarini hisobdan chiqarish hisob-kitobi 
+25	Kelgusi davr xarajatlarining har oyda umumxo‘jalik xarajatlariga kiritilishi aks ettirilgan 	9430	3120	Xarajatlarni hisobdan chiqarish hisob-kitobi 
+26	Kelgusi davr xarajatlari zararlarga hisobdan chiqarilgan 	9430	3190	Kelgusi davr xarajatlarini hisobdan chiqarish hisob-kitobi, hisobdan chiqarish dalolatnomalari 
+27	Tabiiy ofatlar va ko‘zda tutilmagan vaziyatlar oqibatida ko‘rilgan zararga doir kelgusi davr xarajatlari hisobdan chiqarilgan 	9720	3190	Kelgusi davr xarajatlarini hisobdan chiqarish hisob-kitobi, hisobdan chiqarish dalolatnomalari

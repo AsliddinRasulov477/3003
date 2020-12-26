@@ -1,0 +1,2 @@
+1	Moliyaviy ijaraga berilgan asosiy vositalarning qiymati hisob uchun qabul qilingan 	010	1	Moliyaviy ijara shartnomasi
+2	Moliyaviy ijaraga berilgan mol-mulkning qoplangan qiymati hisobdan chiqarilgan 	1	010	Moliyaviy ijara shartnomasi  

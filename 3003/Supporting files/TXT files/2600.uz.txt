@@ -1,0 +1,20 @@
+1	Yaroqsiz mahsulotlarni tuzatish bo‘yicha materiallar sarflanishi aks ettirilgan 	2610	1010-1050, 1090	Yaroqsizlik to‘g‘risida dalolatnoma, yukxat
+2	Asosiy va yordamchi ishlab chiqarishda aniqlangan tuzatib bo‘lmaydigan yaroqsiz mahsulotdan ko‘rilgan yo‘qotishlar hisobdan chiqarilgan 	2610	2010, 2310	Yaroqsizlik to‘g‘risida dalolatnoma 
+3	O‘zida ishlab chiqarilgan yaroqsiz yarim tayyor mahsulotlar aniqlangan va hisobdan chiqarilgan 	2610	2110	Inventarlash dalolatnomasi
+4	Umumishlab chiqarish xarajatlarining ulushi tuzatib bo‘ladigan va tuzatib bo‘lmaydigan yaroqsiz mahsulotlar tannarxiga kiritilgan 	2610	2510	Buxgalteriyaning hisob-kitobi
+5	Xaridorga yaroqsiz mahsulot o‘rniga berilgan mahsulot tannarxi aks ettirilgan 	2610	2810	Yaroqsizlik to‘g‘risida dalolatnoma, yukxat 
+6	Yaroqsizlik bilan bog‘liq turli xarajatlar (yaroqsiz mahsulotni almashtirishda, qaytarishda tashish va boshqa xarajatlar) banklardagi hisob-kitob, valyuta yoki maxsus varaqlardan to‘langan 	2610	5110, 5210, 5510-5530	Shartnoma, yaroqsizlik to‘g‘risida dalolatnoma 
+7	Yaroqsizlikni tuzatishda va kafolatli ta’mirlashda mol yetkazib beruvchilarning ko‘rsatgan xizmatlari bo‘yicha schyotlari qabul qilingan 	2610	6010	Shartnoma, hisobvaraq-faktura, bajarilgan ishlar, xizmatlar dalolatnomasi 
+8	Yaroqsizlikni tuzatish uchun ijtimoiy sug‘urta va mehnat haqi summalari bo‘yicha ta’minotiga ajratmalar hisoblangan 	2610	6520	Buxgalteriyaning hisob-kitobi 
+9	Yaroqsiz mahsulotlarni tuzatish bo‘yicha mehnat haqi summasi hisoblangan 	2610	6710	Bildirgi, ish vaqti hisobining tabeli, buxgalteriyaning hisob-kitobi 
+10	Yaroqsiz mahsulotlarni qaytarish, tashish va boshqalar bilan bog‘liq summalar hisobdor shaxslar hisobidan chiqarilgan 	2610	4220 4320	Hisobdor shaxslarning hisobotlari 
+11	Iste’molchilar tomonidan olingan yaroqsiz mahsulotlarni tuzatish uchun qilingan xarajatlar bo‘yicha ular oldidagi qarz hisoblangan 	2610	6990	Yaroqsizlik to‘g‘risida dalolatnoma, iste’molchilar tomonidan taqdim etilgan schyotlar 
+12	Yaroqsiz mahsulotni tuzatishdan qolgan va yakuniy yaroqsiz mahsulotlarni hisobdan chiqarishdan olingan moddiy qiymatliklar (foydalanish mumkin bo‘lgan bahosida) kirim qilingan 	1010	2610	Bildirgi, hisobdan chiqarish dalolatnomasi 
+13	Yaroqsiz mahsulotdan ko‘rilgan yo‘qotishlar asosiy ishlab chiqarish mahsulotlari, ish va xizmatlar tannarxiga kiritilgan; qaytarilgan yaroqsiz mahsulot tannarxi hisobdan chiqarilgan 	2010	2610	Yaroqsizlik to‘g‘risida dalolatnoma, buxgalteriyaning hisob-kitobi 
+14	Yaroqsiz mahsulotdan ko‘rilgan yo‘qotishlar yordamchi ishlab chiqarish mahsulotlari, ish va xizmatlar tannarxiga kiritilgan; qaytarilgan yaroqsiz mahsulot tannarxi hisobdan chiqarilgan 	2310	2610	Yaroqsizlik to‘g‘risida dalolatnoma, buxgalteriyaning hisob-kitobi 
+15	Yaroqsiz mahsulotdan ko‘rilgan yo‘qotishlar aybdor ishchilarning mehnat haqidan ushlab qolish hisobiga kamaytirilgan (joriy oy bo‘yicha) 	6710	2610	Mehnat shartnomasi, yaroqsizlik to‘g‘risida dalolatnoma, bildirgi, buxgalteriyaning hisob-kitobi 
+16	Yaroqsizlik oqibatida kelib chiqqan yo‘qotishlardan ko‘rilgan moddiy zarar aybdor ishchilar hisobidan hisobdan chiqarilgan (ijro varaqalari va boshqalar bo‘yicha) 	4730	2610	Sud qarori, buxgalteriyaning hisob-kitobi 
+17	Oldingi yillar bo‘yicha aniqlangan qoplanmaydigan yaroqsizlikdan yo‘qotishlar zararlarga hisobdan chiqarilgan (jumladan, tashqi yaroqsizlikdan ham) 	9430	2610	Buxgalteriyaning hisob-kitobi
+18	Oldingi yillar bo‘yicha aniqlangan qoplanmaydigan yaroqsizlikdan yo‘qotishlar foydani kamaytirishga hisobdan chiqarilgan 	8710	2610	Buxgalteriyaning hisob-kitobi 
+19	Aniqlangan yaroqsizlik bo‘yicha aybdor tashkilotga da’vo taqdim etilgan 	4860	2610	Tijorat dalolatnomasi, da’vo hujjatlari 
+20	Yaroqsizlikni tuzatish bilan bog‘liq xarajatlar bo‘yicha hisobdor shaxslarning bo‘nak hisobotlari tasdiqlangan 	2610	6970	Bo‘nak hisobotlari

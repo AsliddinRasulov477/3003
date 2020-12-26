@@ -1,0 +1,29 @@
+1	O‘rnatiladigan asbobuskunani xarid qilishda uning sotib olish qiymatiga kiritiladigan soliqlar va bojxona to‘lovlari hisobga olingan 	0710, 0720	6410	Soliqlar summasini aniqlash bo‘yicha hisob-kitoblar
+2	Asosiy vositalarni xarid qilishda uning sotib olish qiymatiga kiritiladigan soliqlar va bojxona to‘lovlari hisobga olingan 	0820	6410	Soliqlar summasini aniqlash bo‘yicha hisob-kitoblar 
+3	Nomoddiy aktivlarni xarid qilishda uning sotib olish qiymatiga kiritiladigan soliqlar va bojxona to‘lovlari hisobga olingan 	0830	6410	Soliqlar summasini aniqlash bo‘yicha hisob-kitoblar 
+4	Hayvonlarni xarid qilishda uning sotib olish qiymatiga kiritiladigan soliqlar va bojxona to‘lovlari hisobga olingan 	0840	6410	Soliqlar summasini aniqlash bo‘yicha hisob-kitoblar 
+5	Materiallarni xarid qilishda uning sotib olish qiymatiga kiritiladigan soliqlar va bojxona to‘lovlari hisobga olingan (QQS to‘lovchilari uchun QQSdan, shuningdek qonunchilikka muvofiq o‘zaro hisob-kitob qilinadigan aksiz solig‘idan tashqari) 	1010-1090	6410	Soliqlar summasini aniqlash bo‘yicha hisob-kitoblar, hisobvaraq-faktura 
+6	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalangan holda materiallarni xarid qilishda uning sotib olish qiymatiga kiritiladigan soliqlar va bojxona to‘lovlari hisobga olingan (QQS to‘lovchilari uchun QQSdan, shuningdek qonunchilikka muvofiq o‘zaro hisob-kitob qilinadigan aksiz solig‘idan tashqari) 	1510	6410	Soliqlar summasini aniqlash bo‘yicha hisob-kitoblar, hisobvaraq-faktura 
+7	Tovarlarni xarid qilishda uning sotib olish qiymatiga kiritiladigan soliqlar va bojxona to‘lovlari hisobga olingan 	2910	6410	Soliqlar summasini aniqlash bo‘yicha hisob-kitoblar 
+8	Tayyor mahsulotni, tovarlarni sotishda, ishlarni bajarishda va xizmatlarni ko‘rsatishda QQS va aksiz summasi hisobga olingan 	4010	6410	Hisobvaraq-faktura, yukxat 
+9	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlariga tayyor mahsulotni, tovarlarni sotishda, ishlarni bajarishda va xizmatlarni ko‘rsatishda QQS va aksiz summasi hisobga olingan 	4110	6410	Hisobvaraq-faktura, yukxat 
+10	Ortiqcha to‘langan soliqlar hisobiga byudjetdan mablag‘lar qaytarilgan (yakuniy hisob-kitoblarda va hokazolarda) 	5110, 5210, 5530	4410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+11	Jismoniy shaxslarning mehnat haqidan daromad solig‘ini ushlab qolish bo‘yicha summalar hisobga olingan 	6710	6410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+12	Hisoblangan dividendlardan foyda solig‘i summalari hisobga olingan 	6610	6410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+13	Asosiy vositalar sotilishida va chiqib ketishida QQS va aksiz summalari hisobga olingan 	9210	6410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+14	Boshqa aktivlar sotilishida va chiqib ketishida QQS va aksiz summalari hisobga olingan 	9220	6410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+15	Davr xarajatlariga kiritiladigan turli ajratmalar, soliqlar va yig‘imlar bo‘yicha byudjet oldidagi qarz aks ettirilgan 	9430	6410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+16	Foyda solig‘i hisobga olingan 	9810	6410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+17	Obodonlashtirish va ijtimoiy infratuzilmani rivojlantirish uchun soliq hisobga olingan 	9820	6410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+18	Yagona soliq to‘lovi, yagona yer solig‘i hisobga olingan 	9820	6410	Soliq va yig‘imlar summasini aniqlash bo‘yicha hisob-kitob jadvallari 
+19	Yil davomida amalda byudjetga to‘lovlar o‘tkazilishi; to‘lovlar qo‘shimcha ravishda o‘tkazilishi aks ettirilgan 	6410	5010, 5110	To‘lov topshiriqnomasi, bank schyotlaridan ko‘chirmalar 
+20	Soliqqa tortishning qabul qilingan tizimidan kelib chiqqan holda, moddiy resurslar ishlab chiqarish (ishlar, xizmatlar)ga hisobdan chiqarilib borilishiga qarab, ularga taalluqli QQS summalari aks ettirilgan 	6410	4410	Joriy oyda QQSni hisobga olish qaydnomasi 
+21	Banklardan qisqa muddatli qarz olish yo‘li bilan byudjet oldidagi qarz qoplangan 	6410	6810	Kredit shartnomasi, bank schyotlaridan ko‘chirmalar 
+22	Banklardan uzoq muddatli qarz olish yo‘li bilan byudjet oldidagi qarz qoplangan 	6410	7810	Kredit shartnomasi, bank schyotlaridan ko‘chirmalar 
+23	Boshqa korxonalardan qisqa muddatli qarz olish yo‘li bilan byudjet oldidagi qarz qoplangan 	6410	6820	Kredit shartnomasi, bank schyotlaridan ko‘chirmalar 
+24	Boshqa korxonalardan uzoq muddatli qarz olish yo‘li bilan byudjet oldidagi qarz qoplangan 	6410	7820	Kredit shartnomasi, bank schyotlaridan ko‘chirmalar 
+25	Imtiyozni qo‘llash natijasida bo‘shagan mablag‘lar aks ettirilgan 	6410	8840	Buxgalteriyaning hisob-kitob qaydnomasi 
+26 	Buyudjetga qazlar qisqa muddatli qarz hisobidan qaytarilgan 	6410	6810	Bank ko'chirmasi va shartnomalar
+27 	Buyudjetga qazlar uzoq muddatli qarz hisobidan qaytarilgan 	6410	7810	Bank ko'chirmasi va shartnomalar
+28 	Chiqib ketayotgan asosiy vositalarga QQS hisoblandi 	9210	6410	Asosiy vositani chiqib ketish akti, qilish dalolatnomasi, eskirish normalari
+29 	Nomoddiy aktivlar QQS hisoblandi 	0830	6410	Nomoddiy aktivga doir buxgalteriya xujjatlari, eskirish normalari

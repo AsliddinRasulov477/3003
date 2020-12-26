@@ -1,0 +1,21 @@
+1	Yetishmayotgan asosiy vositaning chiqib ketishidan ko‘rilgan zarar summasi aks ettirilgan 	5910 9210	9210 0100	Asosiy vositalarni tugatish dalolatnomasi, inventarlash dalolatnomasi
+2	O‘rnatilmagan asbobuskuna chiqib ketishidan ko‘rilgan zarar summasi aks ettirilgan 	5910 9220	9220 0700	O‘rnatilmagan asbob-uskunani tugatish dalolatnomasi, inventarlash dalolatnomasi 
+3	Tugallanmagan qurilish chiqib ketishidan ko‘rilgan zarar summasi aks ettirilgan 	5910 9220	9220 0810	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+4	Yetishmayotgan nomoddiy aktivning chiqib ketishidan (qoldiq qiymati) ko‘rilgan zarar summasi aks ettirilgan 	5910 9220	9220 0400	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+5	Uzoq muddatli va qisqa muddatli investisiyalar kamomadidan ko‘rilgan zarar summasi aks ettirilgan 	5910 9220	9220 0600, 5800	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+6	Inventarlash jarayonida moddiy zaxiralar bo‘yicha aniqlangan kamomadning amaldagi (balans) qiymati aks ettirilgan 	5910	1010-1090	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+7	Inventarlash jarayonida o‘stirishdagi hayvonlar bo‘yicha aniqlangan kamomadning amaldagi (balans) qiymati aks ettirilgan 	5910	1110	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+8	Inventarlash jarayonida bo‘rdoqiga boquvdagi hayvonlar bo‘yicha aniqlangan kamomadning haqiqiy (balans) qiymati hisobdan chiqarilgan 	5910	1120	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+9	Inventarlash jarayonida tugallanmagan ishlab chiqarish xarajatlari bo‘yicha aniqlangan kamomadning haqiqiy qiymati hisobdan chiqarilgan 	5910	2010	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+10	Inventarlash jarayonida o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar bo‘yicha aniqlangan kamomadning haqiqiy qiymati hisobdan chiqarilgan 	5910	2110	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+11	Inventarlash jarayonida yordamchi ishlab chiqarish xarajatlari bo‘yicha aniqlangan kamomadning haqiqiy qiymati aks ettirilgan 	5910	2310	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+12	Inventarlash jarayonida tayyor mahsulotlar bo‘yicha aniqlangan kamomadning haqiqiy qiymati aks ettirilgan 	5910	2810	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+13	Inventarlash jarayonida tovarlar bo‘yicha aniqlangan kamomadning haqiqiy qiymati aks ettirilgan 	5910	2910-2990	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+14	Aybdorlardan yoki moddiy javobgar shaxslardan undirilishi lozim bo‘lgan yetishmayotgan tovar-moddiy zaxiralarning bozor qiymati aks ettirilgan, moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb topilgan taqdirda 	4730	5910	Inventarlash dalolatnomasi, solishtirma qaydnoma, rahbar buyrug‘i 
+15	Yetishmayotgan aktivlarning chiqib ketishidan ko‘rilgan zarar summasi aks ettirilgan, kamomadning aniq aybdorlari aniqlanmagan yoki moddiy javobgar shaxslardan undirish imkoniyati bo‘lmagan taqdirda 	9430	5910	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+16	Yetishmayotgan aktivlarning aybdor yoki moddiy javobgar shaxslardan undirilishi lozim bo‘lgan bozor qiymati bilan yetishmayotgan aktivlarning chiqib ketishidan ko‘rilgan zarar summasi o‘rtasidagi farq aks ettirilgan, baholash natijasiga ko‘ra, yetishmayotgan aktivlarning bozor qiymati (undirish summasi) yetishmayotgan aktivlarning haqiqiy qiymatidan past bo‘lgan taqdirda 	9430	5910	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+17	Turli boshqa aktivlar naqd pulga xarid qilingan 	5920	5010	Chiqim kassa orderi 
+18	Turli boshqa aktivlar pul o‘tkazish yo‘li bilan xarid qilingan 	5910	5110	Bank schyotlaridan ko‘chirmalar, hisobvaraq-faktura 
+19	Turli boshqa aktivlar hisobdor shaxslar orqali xarid qilingan 	5920	6970	Bo‘nak hisoboti
+20	Turli boshqa aktivlar qisqa muddatli kredit mablag‘lari hisobiga xarid qilingan 	5920	6810	Bank schyotlaridan ko‘chirmalar 
+21	Boshqa joriy aktivlar sarf-xarajat qilingan	xarajatlarni hisobga oluvchi schyotlar 	5920	Yukxat, buxgalteriyaning hisob-kitoblari

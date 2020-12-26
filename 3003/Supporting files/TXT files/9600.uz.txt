@@ -1,0 +1,19 @@
+1	Qisqa (uzoq) muddatli bank krediti bo‘yicha foizlar hisoblangan 	9610	6920	Shartnoma, foiz to‘lovlari bo‘yicha hisob-kitob jadvali
+2	Qisqa (uzoq) muddatli qarzlar bo‘yicha foizlar hisoblangan 	9610	6920	Shartnoma, foiz to‘lovlari bo‘yicha hisob-kitob jadvali 
+3	Moliyaviy ijara shartnomasi bo‘yicha hisoblangan to‘lanadigan foizlar summasi aks ettirilgan 	9610	6920	Shartnoma, foiz to‘lovlari bo‘yicha hisob-kitob jadvali 
+4	Valyuta kassasi va valyuta hisob-kitob schyotidagi mablag‘lar qoldig‘ini qaytadan sanash natijasida O‘zR MB kursi bo‘yicha vujudga kelgan manfiy kurs farqi aks ettirilgan 	9620	5020, 5210, 5220	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+5	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasida olingan qisqa muddatli bank krediti bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	6810	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+6	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasida olingan uzoq muddatli bank krediti bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	7810	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+7	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasida olingan qisqa muddatli qarz bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	6820	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+8	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasida olingan uzoq muddatli qarz bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	7820	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+9	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasida ifodalangan qisqa muddatli va uzoq muddatli qimmatli qog‘ozlar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	0610, 5810	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+10	Kurs farqini hisobga olishning to‘g‘ri usuli bilan ilgari hisobdorlik asosida berilgan chet el valyutasida ifodalangan debitorlik qarzi bo‘yicha manfiy kurs farqlari aks ettirilgan 	9620	4010-4890	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+11	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasidagi qisqa muddatli kreditorlik qarzi bo‘yicha manfiy kurs farqlari aks ettirilgan 	9620	6010-6990	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+12	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasidagi uzoq muddatli kreditorlik qarzi bo‘yicha manfiy kurs farqlari aks ettirilgan 	9620	7010-7920	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+13	Kurs farqini hisobga olishning jamlash usuli bilan manfiy kurs farqlari xarajatlarga kiritilgan 	9620	3290	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+14	Qo‘yilgan mablag‘lar (qimmatli qog‘ozlarga, shu’ba korxonalarga va hokazolar) qayta baholangandan keyin zararlar olingan 	9690	0610-0690, 5810-5890 	Valyutalarning amaldagi kursi bo‘yicha hisob-kitob 
+15	Hisobot davrining oxirida moliyaviy faoliyat bo‘yicha xarajatlarni hisobga oluvchi schyotlarda hisobga olingan xarajatlar 9910 "Yakuniy moliyaviy natija" schyotiga hisobdan chiqarilgan 	9910	9610, 9620, 9630, 9690 	Buxgalteriyaning hisob-kitobi 
+16 	Valyuta kursidan zararlar hisobga olindi 	9620	6010	Valyuta kursi bo'yicha hisob kitoblar
+17 	Valyuta kursidan zararlar moliyaviy natijaga o'tkazildi 	9910	9620	Buxgalteriya hisob- kitoblari
+18 	Qimmatli qog'ozlar qayta baholanganda zarar hisobga olingan 	9610	5810	Buxgalteriyaning hisob kitob ma'lumotnomasi
+19 	Qimmatli qog'ozlar qayta baholanganda zarar moliyaviy natijaga o'tkazildi 	9910	9610	Buxgalteriyaning hisob kitob ma'lumotnomasi

@@ -1,0 +1,18 @@
+1	Olinadigan royalti ko‘rinishidagi daromadlar summasi aks ettirilgan 	4850	9510	Buxgalteriyaning hisob-kitob ma’lumotnomasi
+2	Boshqa korxonalarda ulushli ishtirok etganligidan olingan dividend ko‘rinishidagi daromadlar; hisob-kitob va boshqa hisob-kitob schyotlaridagi mablag‘lardan foydalanganligi uchun banklardan olingan daromadlar; korxonaga tegishli aksiyalar va boshqa qimmatli qog‘ozlar bo‘yicha dividendlar aks ettirilgan 	4840	9520	E’lon, bildirgi
+3	Olingan kreditlar va qarzlar bo‘yicha hisoblangan foizlar summalari aks ettirilgan 	4830	9530	Shartnoma, foiz to‘lovlari bo‘yicha hisob-kitob jadvali 
+4	Hisobdan chiqarishning to‘g‘ri usuli bilan chet el valyutasidagi uzoq muddatli moliyaviy qo‘yilmalarga oid operasiyalar bo‘yicha musbat kurs farqlari moliyaviy natijalarga hisobdan chiqarilgan 	0610-0690	9540	Valyutalarning amaldagi kursi asosida hisob-kitob 
+5	Hisobdan chiqarishning to‘g‘ri usuli bilan chet el valyutasidagi qisqa muddatli moliyaviy qo‘yilmalarga oid operasiyalar bo‘yicha musbat kurs farqlari moliyaviy natijalarga hisobdan chiqarilgan 	5810-5890	9540	Valyutalarning amaldagi kursi asosida hisob-kitob 
+6	Hisobdan chiqarishning to‘g‘ri usuli bilan chet el valyutasidagi uzoq muddatli debitorlik qarziga oid operasiyalar bo‘yicha musbat kurs farqlari moliyaviy natijalarga hisobdan chiqarilgan 	0910-0990	9540	Valyutalarning amaldagi kursi asosida hisob-kitob 
+7	Hisobdan chiqarishning to‘g‘ri usuli bilan chet el valyutasidagi joriy debitorlik qarziga oid operasiyalar bo‘yicha musbat kurs farqlari moliyaviy natijalarga hisobdan chiqarilgan 	4010-4890	9540	Valyutalarning amaldagi kursi asosida hisob-kitob 
+8	Hisobdan chiqarishning to‘g‘ri usuli bilan chet el valyutasidagi pul mablag‘larining qoldig‘i bo‘yicha musbat kurs farqlari moliyaviy natijalarga hisobdan chiqarilgan 	5020-5210, 5220 	9540	Valyutalarning amaldagi kursi asosida hisob-kitob 
+9	Hisobdan chiqarishning to‘g‘ri usuli bilan chet el valyutasidagi joriy kreditorlik qarzi bo‘yicha musbat kurs farqlari moliyaviy natijalarga hisobdan chiqarilgan 	6010-6990	9540	Valyutalarning amaldagi kursi asosida hisob-kitob 
+10	Hisobdan chiqarishning to‘g‘ri usuli bilan chet el valyutasidagi uzoq muddatli kreditorlik qarzi bo‘yicha musbat kurs farqlari moliyaviy natijalarga hisobdan chiqarilgan 	7010-7920	9540	Valyutalarning amaldagi kursi asosida hisob-kitob 
+11	Hisobdan chiqarishning jamlash usuli bilan chet el valyutasiga oid operasiyalar bo‘yicha musbat kurs farqlari moliyaviy natijalarga hisobdan chiqarilgan 	6230	9540	Valyutalarning amaldagi kursi asosida hisob-kitob 
+12	Moliyaviy ijara shartnomasi bo‘yicha hisoblangan foizlar summalari aks ettirilgan 	4810	9550	Shartnoma, foiz to‘lovlari bo‘yicha hisob-kitob jadvali 
+13	Qimmatli qog‘ozlarning xarid qilish va nominal qiymati o‘rtasidagi farq (xarid qilish qiymati past) aks ettirilgan (qo‘shimcha hisoblangan) 	0610, 5810	9560	Buxgalteriyaning hisob-kitobi 
+14	Hisobot davrining oxirida moliyaviy faoliyatdan daromadlarni hisobga oluvchi schyotlarda hisobga olingan natijalar 9910 "Yakuniy moliyaviy natija" schyotiga hisobdan chiqarilgan 	9510, 9520, 9530, 9540, 9550, 9560, 9590 	9910	Buxgalteriyaning hisob-kitobi 
+15 	Olinadigan dvidentlar summasi moliyaviy natijaga o'tkazildi 	9520	9910	Buxgalteriya hisob kitob xujjatlari
+16 	Musbat kurs farqi hisobga olindi 	6010	9540	Shartnomalar, valyutalarning amaldagi kursi
+17 	Musbat kurs farqi moliyaviy natijalarga o'tkazildi 	9540	9910	Shartnomalar, valyutalarning amaldagi kursi
+18 	Kreditga berilgan summaga foiz hisoblandi 	4830	9530	Bank ko'chirmasi va shartnomalar

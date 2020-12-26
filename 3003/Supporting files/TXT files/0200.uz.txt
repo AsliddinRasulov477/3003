@@ -1,0 +1,41 @@
+1	Qurilish-montaj ishlarini bajarishda qo‘llaniladigan ob’yektlar bo‘yicha har oydagi eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	0810	0211-0299	Amortizasiyani hisoblash qaydnomasi
+2	Asosiy ishlab chiqarishda qo‘llaniladigan o‘zining asosiy vositalari bo‘yicha har oyda eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	2010	0211-0299	Amortizasiyani hisoblash qaydnomasi
+3	Ishchi hayvonlar bo‘yicha har oyda amortizasiyani hisoblash aks ettirilgan 	2010	0270	Amortizasiyani hisoblash qaydnomasi
+4	Yordamchi ishlab chiqarishlarda qo‘llaniladigan o‘ziga tegishli asosiy vositalar bo‘yicha har oyda eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	2310	0211-0299	Amortizasiyani hisoblash qaydnomasi
+5	O‘ziga tegishli umumishlab chiqarishda qo‘llaniladigan asosiy vositalar bo‘yicha har oyda eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	2510	0211-0299	Amortizasiyani hisoblash qaydnomasi
+6	Xizmat ko‘rsatuvchi xo‘jaliklarda qo‘llaniladigan o‘ziga tegishli asosiy vositalar bo‘yicha har oyda eskirish (amortizasiya) summasini hisoblash aks ettirilgan: 			Amortizasiyani hisoblash qaydnomasi
+	- birinchi variant 	2710	0211-0299
+	- ikkinchi variant 	9430	0211-0299
+7	Mahsulot yoki tovarlarni sotish maqsadida qo‘llaniladigan asosiy vositalar bo‘yicha har oyda eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	9410	0211-0299	Amortizasiyani hisoblash qaydnomasi
+8	O‘ziga tegishli ma’muriy asosiy vositalar bo‘yicha har oyda eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	9420	0211-0299	Amortizasiyani hisoblash qaydnomasi
+9	Buyumlarning yangi turlarini ishlab chiqarishga mo‘ljallangan ishga tushirish ishlarida; turkum yoki ommaviy ishlab chiqarishga mo‘ljallanmagan yangi texnologik jarayonlarni o‘zlashtirishda xizmat ko‘rsatish vaqtida; kon sanoati sohalarida tayyorlov ishlarida ishlatiladigan o‘ziga tegishli asosiy vositalar bo‘yicha har oyda eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	9440	0211-0299	Amortizasiyani hisoblash qaydnomasi
+10	Maqsadli moliyalashtirish ko‘rinishida olingan asosiy vositalar bo‘yicha amortizasiyani hisoblash aks ettirilgan: 			Amortizasiyani hisoblash qaydnomasi
+	- birinchi variant 	8810-8890	0210-0299
+	- ikkinchi variant	Xarajat- larni hisobga oluvchi schyotlar 	0210-0299
+	- hisobot davrining oxirida xarajatlarni hisobdan chiqarish 	8810-8890	Xarajat- larni hisobga oluvchi schyotlar
+11	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar eskirishini hisoblash aks ettirilgan 	Xarajat- larni hisobga oluvchi schyotlar 	0299	Amortizasiyani hisoblash qaydnomasi
+12	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar obodonlashtirilishi bo‘yicha eskirishni hisoblash aks ettirilgan 	Xarajat- larni hisobga oluvchi schyotlar 	0212	Amortizasiyani hisoblash qaydnomasi
+13	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarni qayta baholash natijasida eskirish summasining qo‘shimcha baholanishi aks ettirilgan: 			Moliyaviy ijara shartnomasi, qayta baholashni o‘tkazish to‘g‘risida rahbarning buyrug‘i 
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarni obodonlashtirish qismida 	8510	0212	
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar qismida 	8510	0299	
+14	Foydalanish muddati kamaytirilganligi munosabati bilan ko‘p yillik o‘simliklarning eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	2010	0280	Amortizasiyani hisoblash qaydnomasi
+15	Operativ ijaraga berilgan asosiy vositalarning eskirish (amortizasiya) summasini hisoblash aks ettirilgan 	9430	0220-0290	Amortizasiyani hisoblash qaydnomasi
+16	Hisobot davrida aniqlangan oldingi yillardagi xatolarni to‘g‘rilash natijasida asosiy vositalarning eskirish summasini qo‘shimcha hisoblash aks ettirilgan 	8710	0210-0290	Qo‘shimcha hisoblash hisob-kitobi, rahbar buyrug‘i
+17	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar moliyaviy ijara shartnomasiga yoki taraflarning qo‘shimcha kelishuviga muvofiq ijaraga beruvchining o‘ziga qarashli asosiy vositalar tarkibiga o‘tkazilganda, ular bo‘yicha hisoblangan eskirish summasi aks ettirilgan 	0299	0211-0290	Moliyaviy ijara shartnomasi, sotib olish to‘g‘risidagi kelishuv, amortizasiyani hisoblash qaydnomasi 
+18	Moliyaviy ijara shartnomasining muddati tugagandan keyin ijaraga beruvchiga qaytariladigan asosiy vositalar haqiqatda eskirishining hisobdan chiqarilishi aks ettirilgan 	0299	0310	Moliyaviy ijara shartnomasi, qaytarish to‘g‘risidagi kelishuv 
+19	Eskirish summasining quyidagilar oqibatida indeksasiyalanishi aks ettirilgan: 			Rahbar buyrug‘i, eskirishning qayta hisob-kitob qilinishi
+	a) qo‘shimcha baholanganda 	8510	0211-0290	
+	b) qiymati arzonlashtirilganda 	0211-0290	8510	
+20	Sotilishi, tekinga berilishi, ustav kapitaliga ulush sifatida berilishi va boshqa sabablarga ko‘ra chiqib ketgan asosiy vositalarning jamlangan eskirishi summasi hisobdan chiqarilgan 	0210-0290	9210	Asosiy vositalarning chiqib ketishi to‘g‘risida dalolatnoma, rahbar buyrug‘i
+21	Moliyaviy ijaraga olingan asosiy vositalar lizing oluvchining mulkiga o‘tkazilishida: 			Moliyaviy ijara shartnomasi, asosiy vositalarni qabul qilishtopshirish dalolatnomasi, amortizasiyani hisoblash qaydnomasi 
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositaning jamlangan eskirish summasi aks ettirilgan 	0299	0210-0290	
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarni obodonlashtirish bo‘yicha jamlangan eskirish summasi aks ettirilgan 	0212	0210-0290	
+22	Tabiiy ofatlar, yong‘inlar va halokatlar natijasida chiqib ketgan asosiy vositalar bo‘yicha eskirish summasi hisobdan chiqarilgan 	0210-0290	9210	Tabiiy ofatlar sababli yo‘qotishlar to‘g‘risida dalolatnoma, asosiy vositalarni tugatish dalolatnomasi 
+23	Ijaraga beruvchidan sotib olingan asosiy vositalar eskirishi summasi ijarachi tomonidan o‘z asosiy vositalari umumiy eskirishi summasiga kiritilgan (unga ushbu ob’yektlarga egalik huquqi o‘tishi paytida) 	0299	0210-0290	Moliyaviy ijara shartnomasi, asosiy vositalarni qabul qilishtopshirish dalolatnomasi, amortizasiyani hisoblash qaydnomasi 
+24	Korxona ichida ko‘chiriladigan asosiy vositalarning ob’yektlari bo‘yicha eskirish summalarining bir bo‘linmadan ikkinchi bo‘linmaga o‘tkazilishi amalga oshirilgan 	0210-0290	0210-0290	Yukxat
+25	Oldingi yilda asosiy vositalar bo‘yicha ortiqcha hisoblangan eskirish summasi taqsimlanmagan foydaga o‘tkazilgan 	0210-0290	8710	Ma’lumotnomahisob-kitob
+26	Oldingi yillardagi xatolarni tuzatish natijasida hisobot yilida asosiy vositalar bo‘yicha eskirish summasi oshirilgan 	8710	0210-0290	Ma’lumotnomahisob-kitob
+27	Ijaraga beruvchi tomonidan unga qaytarilishi sharti bilan ijaraga berilgan asosiy vositalar bo‘yicha eskirish hisoblangan 	9430	0210-0290	Amortizasiyani hisoblash qaydnomasi
+28	Sanoatning mavsumiy tarmoqlari korxonalarida tashkil etilgan rezerv hisobidan asosiy vositalar bo‘yicha amortizasiya hisoblangan 	8910	0210-0290	Amortizasiyani hisoblash qaydnomasi
+29	Asosiy vositalar ob’yekti sifatida foydalanish uchun ishga tushirilganda vaqtinchalik titul inshootlari bo‘yicha to‘liq eskirish hisoblangan 	0810	0220	Amortizasiyani hisoblash qaydnomasi
+30	Foydali ishlatish muddati uch yildan ortiq bo‘lgan asosiy vositalar bo‘yicha kichik korxona tomonidan ishlatishning birinchi yilida balans qiymatining 50% miqdorida qo‘shimcha eskirish hisobdan chiqarilgan 	Xarajat- larni hisobga oluvchi schyotlar 	0210-0290	Amortizasiyani hisoblash qaydnomasi

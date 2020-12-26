@@ -1,0 +1,40 @@
+1	Ortib jo‘natilgan tayyor mahsulot tannarxi aks ettirilgan 	9110	2810	Hisobvaraq-faktura, tannarxning hisob-kitobi
+2	Hayvonlarning chetga yoki ayrim ichki bo‘linmalarga chiqib ketishi aks ettirilgan 	9110	1110	Qabul qilish-topshirish dalolatnomasi, yukxat 
+3	Chetga ortib jo‘natilgan o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar hisobdan chiqarilgan 	9110	2110	Yukxat
+4	Tayyor mahsulot uzoq muddatli investisiyalar tartibida boshqa korxonalarga berilgan (sotib olingan qimmatli qog‘ozlar qiymati qoplangan) 	9110 (0610	2810 9010)	Shartnoma, hisobvaraq-faktura, yukxat 
+5	Tayyor mahsulot qisqa muddatli moliyaviy qo‘yilmalar tartibida boshqa korxonalarga berilgan (jumladan, sotib olingan qimmatli qog‘ozlar) 	9110 (5810	2810 9010)	Shartnoma, hisobvaraq-faktura, yukxat 
+6	Boshqa korxonalarga, maktablarga, o‘quv muassasalariga va hokazolarga QQS, aksiz summasiga tekinga berilgan mahsulot qiymati aks ettirilgan 	9110 (9430 9430	2810 9110) 6410	Shartnoma, hisobvaraq-faktura, yukxat 
+7	Tovarlar boshqa korxonalarga uzoq muddatli moliyaviy investisiyalar tartibida berilgan (sotib olingan qimmatli qog‘ozlar qiymati qoplangan) 	9120 (0610- 0690	2910 9020)	Qabul qilish-topshirish dalolatnomasi, yukxat 
+8	Tovarlar boshqa korxonalarga qisqa muddatli moliyaviy qo‘yilmalar tartibida berilgan (ulardan sotib olingan qimmatli qog‘ozlar qiymati qoplangan) 	9120 (5810	2910 9020)	Qabul qilish-topshirish dalolatnomasi, yukxat 
+9	Oy yakunlangandan keyin 9110 "Sotilgan tayyor mahsulotlarning tannarxi" schyotining yopilishi 	9910	9110	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+10	Oy yakunlangandan keyin 9120 "Sotilgan tovarlarning tannarxi" schyotining yopilishi 	9910	9120	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+11	Oy yakunlangandan keyin 9130 "Bajarilgan ishlar va ko‘rsatilgan xizmatlarning tannarxi" schyotining yopilishi 	9910	9130	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+12	Asosiy, yordamchi ishlab chiqarishlarning va xizmat ko‘rsatuvchi xo‘jaliklarning turli xizmatlari sotilgan (2810 "Ombordagi tayyor mahsulotlar" schyotidan foydalanmasdan hisobga olingan holda) 	9130	2010, 2310, 2710	Bajarilgan ishlar dalolatnomasi, yukxat 
+13	Ko‘rsatilgan xizmatlarning tannarxi hisobdan chiqarilgan 	9130	2010	Bajarilgan ishlar dalolatnomasi, yukxat 
+14	Ishlarning bajarilgan bosqichlari bo‘yicha xarajatlar hisobdan chiqarilgan 	9130	2010	Bajarilgan ishlar dalolatnomasi 
+15	Tovar-moddiy zaxiralar TMZlarni davriy hisobga olish usuli bo‘yicha naqd pulga sotib olingan 	9140	5010	Chiqim kassa orderi, hisobvaraq-faktura, yukxat 
+16	Tovar-moddiy zaxiralar TMZlarni davriy hisobga olish usuli bo‘yicha mol yetkazib beruvchilar va pudratchilardan sotib olingan 	9140	6010	Hisobvaraq-faktura, yukxat 
+17	Tovar-moddiy zaxiralar TMZlarni davriy hisobga olish usuli bo‘yicha hisobdor shaxslar orqali mol yetkazib beruvchilar va pudratchilardan sotib olingan 	9140	4220, 4230	Bo‘nak hisoboti, hisobvaraq-faktura, yukxat 
+18	Boshqa kreditorlardan tovar-moddiy zaxiralar sotib olish bo‘yicha xarajatlar, yetkazib berish bo‘yicha xarajatlar TMZlarni davriy hisobga olish usuli orqali hisobga olingan 	9140	6990	Hisobvaraq-faktura, yukxat 
+19	Materiallarni o‘z kuchi bilan olib kelish bo‘yicha xarajatlar hisobga olingan 	9140	2310	Bajarilgan ishlar dalolatnomasi 
+20	Materiallarni ortib tushiruvchi ishchilarga mehnat haqi hisoblangan 	9140	6710	Mehnat haqini hisoblash qaydnomasi 
+21	Ortib tushiruvchi ishchilarning mehnat haqidan yagona ijtimoiy to‘lov hisoblangan 	9140	6520	Buxgalteriyaning hisob-kitobi 
+22	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan tovarmoddiy qiymatliklar kirim qilingan 	9140	6110, 6120	Yukxat
+23	Hisobot davrining oxirida asosiy moddiy zaxiralarni inventarlash natijalariga ko‘ra, TMZlarning schyotlari bo‘yicha qoldiqlar tuzatilishi amalga oshirilgan: 			Buxgalteriyaning hisob-kitobi 
+	- zaxiralarning ko‘payishi 	1010-1090	9150	
+	- zaxiralarning kamayishi 	9150	1010-1090	
+24	Hisobot davrining oxirida inventarlash natijalariga ko‘ra, yakunlanmagan ishlab chiqarish qoldiqlari tuzatilishi amalga oshirilgan: 			Buxgalteriyaning hisob-kitobi
+	- ko‘payishi 	2010	9150	
+	- kamayishi 	9150	2010	
+25	Hisobot davrining oxirida inventarlash natijalariga ko‘ra, tayyor mahsulot qoldiqlari tuzatilishi amalga oshirilgan: 			Buxgalteriyaning hisob-kitobi
+	- ko‘payishi 	2810	9150	
+	- kamayishi 	9150	2810	
+26	Hisobot davrining oxirida inventarlash natijalariga ko‘ra, tovarlar qoldiqlari tuzatilishi amalga oshirilgan: 			Buxgalteriyaning hisob-kitobi 
+	- ko‘payishi 	2910-2990	9150	
+	- kamayishi 	9150	2910-2990	
+27	Hisobot davrining oxirida 9140 "Davriy hisobda TMZ sotib olish/ xarid qilish" schyotining yopilishi 	9910	9140	Buxgalteriyaning hisob-kitobi 
+28	Hisobot davrining oxirida 9150 "Davriy hisobda TMZ bo‘yicha tuzatishlar" schyotining yopilishi 	9910 (9150	9150 9910)	Buxgalteriyaning hisob-kitobi 
+29	Chetga ortib jo‘natilgan o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar hisobdan chiqarilgan 	9110	2110	Yukxat
+30	Tayyor mahsulot uzoq muddatli investisiyalar tartibida boshqa korxonalarga berilgan (sotib olingan qimmatli qog‘ozlar qiymati qoplangan) 	9110 (0610	2810 9010)	Shartnoma, hisobvaraq-faktura, yukxat 
+31	Tayyor mahsulot qisqa muddatli moliyaviy qo‘yilmalar tartibida boshqa korxonalarga berilgan (jumladan, sotib olingan qimmatli qog‘ozlar) 	9110 (5810	2810 9010)	Shartnoma, hisobvaraq-faktura, yukxat 
+32	Boshqa korxonalarga, maktablarga, o‘quv muassasalariga va hokazolarga QQS, aksiz summasiga tekinga berilgan mahsulot qiymati aks ettirilgan 	9110 (9430 9430	2810 9110) 6410	Shartnoma, hisobvaraq-faktura, yukxat 

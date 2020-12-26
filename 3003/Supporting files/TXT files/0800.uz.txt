@@ -1,0 +1,82 @@
+1	Ob’yektlarni qurishda foydalaniladigan asosiy vositalarning eskirishi kapital qo‘yilmalar bo‘yicha xarajatlarga kiritilgan 	0810	0210-0290	Asosiy vositalar eskirishining hisob-kitobi 
+2	Ob’yektlarni qurishda foydalaniladigan nomoddiy aktivlarning amortizasiyasi xarajatlarga kiritilgan 	0810	0510-0590	Nomoddiy aktivlar amortizasiyasi hisob-kitobi 
+3	O‘rnatish talab etiladigan asbob-uskuna yig‘ish (montaj) qilish uchun berilgan (yig‘ishga tayyorgarlik boshlanishi paytidan) 	0810, 0820	0710-0720	O‘rnatish uchun berish yukxati
+4	Sarflangan materiallar qiymati kapital qo‘yilmalar bo‘yicha xarajatlarga kiritilgan 	0810	1010-1090	Materiallarni berish yukxati, moddiy hisobot 
+5	Sarflangan inventar va xo‘jalik jihozlarining qiymati kapital qo‘yilmalar bo‘yicha xarajatlarga o‘tkazilgan 	0810	1080	Inventar va xo‘jalik jihozlarini berish yukxati, moddiy hisobot 
+6	Asosiy vositalarni tashish bo‘yicha transport korxonasining schyoti olingan 	0820	6990	Shartnoma, tovar-transport yukxati, hisobvaraq-faktura 
+7	Xarid qilingan asosiy vositalar bo‘yicha bojxona bojining summasi aks ettirilgan 	0820	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+8	Kelib tushgan asosiy vositalar bo‘yicha bojxona yuk deklarasiyasini rasmiylashtirish uchun yig‘im summasi aks ettirilgan 	0820	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+9	Asosiy vositalar xarid qilinganligi uchun savdo va ta’minot tashkilotlariga to‘lanadigan komissiya haqi aks ettirilgan 	0820	6990	Shartnoma, hisobvaraq-faktura 
+10	Asosiy vositalarni xarid qilish bilan bog‘liq bo‘lgan sertifikasiya va sinov xarajatlari aks ettirilgan 	0820	6990	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+11	Xarid qilingan nomoddiy aktivlar bo‘yicha bojxona boji summasi aks ettirilgan 	0830	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+12	Kelib tushgan nomoddiy aktivlar bo‘yicha bojxona yuk deklarasiyasini rasmiylashtirish uchun yig‘im summasi aks ettirilgan 	0830	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+13	Nomoddiy aktivlar xarid qilinganligi uchun savdo va ta’minot tashkilotlariga to‘lanadigan komissiya haqi aks ettirilgan 	0830	6990	Shartnoma, hisobvaraq-faktura
+14	Nomoddiy aktivlarni xarid qilish bilan bog‘liq bo‘lgan sertifikasiya va sinov xarajatlari aks ettirilgan 	0830	6990	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+15	Yosh hayvonlarni asosiy podaga o‘tkazish aks ettirilgan 	0840	1110	Yosh hayvonlarni asosiy podaga o‘tkazish dalolatnomasi 
+16	Quruvchi korxona tomonidan moddiy boyliklarning musbat farqi ob’yektlarni bunyod qilish va asbob-uskunalarni o‘rnatish bo‘yicha xarajatlarga hisobdan chiqarilgan 	0810	1610	Materiallarni berish yukxati, moddiy hisobot 
+17	Kapital qurilish bilan bog‘liq bo‘lgan kelgusi davr xarajatlari hisobdan chiqarilgan 	0810	3190	Kelgusi davr xarajatlari hisobdan chiqarilishining hisob-kitobi 
+18	Kapital qurilish yoki asosiy vositalarni xarid qilish bilan bog‘liq bo‘lgan xodimlarning xizmat safari bo‘yicha xarajatlari hisobdan chiqarilgan 	0810, 0820	4220	Rahbar buyrug‘i, xizmat safari bo‘yicha bo‘nak hisoboti 
+19	Hisobdor shaxslarga berilgan bo‘naklar hisobidan kapital qurilish bo‘yicha xarajatlar amalga oshirilgan 	0810	4230	Xizmat safari bo‘yicha bo‘nak hisoboti, yukxat 
+20	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarga kapital qo‘yilmalar amalga oshirilgan, moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar qiymatini oshiruvchi kapital qo‘yilmalar sifatida, moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarni yaxshilash (obodonlashtirish, qurib bitkazish, jihozlashni nihoyasiga yetkazish, qayta tiklash, zamonaviylashtirish, texnik jihatdan qayta jihozlash va h.k.) uchun xarajatlar summasiga 	0860	6010, 1010, 6710, 6520 va b. 	Bajarilgan ishlar dalolatnomasi, yukxatlar, qaydnomalar 
+21	Kapital qo‘yilmalar asosiy vositalar tarkibiga o‘tkazilgan 	0112	0860	Foydalanishga topshirish dalolatnomasi 
+22	Kapital qo‘yilmalarga yordamchi ishlab chiqarish tomonidan ko‘rsatilgan xizmatlar hisobdan chiqarilgan 	0810	2310	Yordamchi ishlab chiqarish xizmati tannarxining kalkulyasiyasi 
+23	Ta’sischilar tomonidan korxonaning ustav kapitalidagi ulushi hisobiga berilgan asosiy vositalarning tugallanmagan ob’yektlari (shu jumladan, yer maydonlari va tabiatdan foydalanish ob’yektlari) qabul qilingan 	0810	4610	Ustav, ta’sis shartnomasi, qabul qilishtopshirish dalolatnomasi 
+24	Ta’sischilar tomonidan ustav kapitalidagi ulushi hisobiga berilgan va o‘rnatish talab etilmaydigan asbob-uskuna kelib tushgan 	0820	4610	Ustav, ta’sis shartnomasi, qabul qilishtopshirish dalolatnomasi 
+25	Kapital qo‘yilmalar bilan bog‘liq bo‘lgan summalar bo‘yicha qondirilmagan da’volar hisobdan chiqarilgan 	0810	4860	Xo‘jalik sudining qarori 
+26	Yerni obodonlashtirishga kapital qo‘yilmalar amalga oshirilgan 	0850	6010, 1010, 6710 va b. 	Bajarilgan ishlar dalolatnomasi, hisobvaraq-fakturalar, topshiriqnomalar, moddiy hisobotlar 
+27	Qurilish bo‘yicha loyiha-smeta ishlari bajarilganligi munosabati bilan loyihalash tashkilotidan schyotlar to‘lovga qabul qilingan 	0810	6010	Bajarilgan ishlarni qabul qilish dalolatnomasi, hisobvaraq-faktura 
+28	Mol yetkazib beruvchilar va pudratchilardan kapital qurilish (shu jumladan, o‘rnatilmaydigan asbob-uskunalar) bo‘yicha bajarilgan ishlar va ko‘rsatilgan xizmatlar uchun schyotlar to‘lovga qabul qilingan 	0810-0820	6010-7010	Bajarilgan ishlarni qabul qilish dalolatnomasi (2, 3-shakllar), hisobvaraq-faktura, tovar-transport yukxati 
+29	Qurilishga yer maydoni ajratib berilganligi uchun schyot olingan 	0820	6010	Yer maydonini qabul qilishtopshirish dalolatnomasi, kadastr, hisobvaraq-fakturalar 
+30	Asosiy vositalarni xarid qilish bo‘yicha mol yetkazib beruvchilardan schyotlar to‘lovga qabul qilingan 	0820	6010	Mol yetkazib berish shartnomasi, hisobvaraq-fakturalar, asosiy vositalarni qabul qilish-topshirish dalolatnomasi 
+31	Nomoddiy aktivlarni xarid qilish bo‘yicha mol yetkazib beruvchilardan schyotlar to‘lovga qabul qilingan 	0830	6010 yoki 6990	Mol yetkazib berish shartnomasi, hisobvaraq-fakturalar, nomoddiy aktivlarni qabul qilish-topshirish dalolatnomasi 
+32	Hayvonlarni xarid qilish bo‘yicha mol yetkazib beruvchilardan schyotlar to‘lovga qabul qilingan 	0840	6010 yoki 6990	Mol yetkazib berish shartnomasi, hisobvaraq-fakturalar, hayvonlarni qabul qilishtopshirish dalolatnomasi 
+33	Kapital qo‘yilmalar bilan bog‘liq mol-mulk sug‘urtasi bo‘yicha qarz aks ettirilgan 	0810-0890	6510	Sug‘urta shartnomasi, loyiha-smeta hujjatlari 
+34	Kapital qo‘yilmalarni o‘zlashtirish bilan bog‘liq ishchi va xodimlarning mehnat haqidan ijtimoiy sug‘urtaga ajratmalarni hisoblash amalga oshirilgan 	0810-0820	6520	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+35	Kapital qo‘yilmalarni o‘zlashtirish bilan bog‘liq ishchi va xodimlarga mehnat haqi hisoblangan 	0810-0820	6710	Tabellar, topshiriqnomalar, ish haqi bo‘yicha hisob-kitoblar 
+36	Qurilish davrida kapital qo‘yilmalar uchun foydalaniladigan banklar krediti va boshqa qarz majburiyatlari bo‘yicha foizlar hisoblangan 	0810	6920	Kredit shartnomasi, foizlar hisob-kitobi, to‘lov topshiriqnomasi (talabnomasi), bank ko‘chirmasi 
+37	Ijaraga oluvchining buxgalteriya hisobida aktiv va majburiyat sifatida tan olinadigan moliyaviy ijara ob’yektlari qiymati bo‘yicha kirim qilingan 	0810-0820	7910, 6950	Ijara shartnomasi, hisobvaraq-fakturalar, yukxatlar 
+38	Davlat hokimiyati organi tomonidan biriktirilgan mol-mulk tarkibidagi tugallanmagan kapital qurilishi unitar korxona tomonidan olingan 	0810	8330	Ustav, ta’sis shartnomasi, qabul qilishtopshirish dalolatnomasi 
+39	Tugallanmagan qurilish ob’yektlarining qayta baholanishi amalga oshirilgan: 			Qayta baholash to‘g‘risida rahbar buyrug‘i, qayta baholash natijalarining hisob-kitobi 
+	- qo‘shimcha baholanganda 	0810	8510
+	- qiymati pasaytirilganda: (oldingi qayta baholash chegarasida) 	8510	0810
+    - qiymati pasaytirilganda: (oldingi qo‘shimcha baholangandan yuqori bo‘lgan summaga) 	9430	0810
+40	Tugallanmagan qurilish ob’yektlari va o‘rnatishni talab etmaydigan asbobuskuna bepul olingan 	0810-0820	8530	Tekinga berish qarori, qabul qilishtopshirish dalolatnomasi 
+41	Maqsadli moliyalashtirish tartibida kapital qurilish ob’yekti olingan 	0810	8810-8890	Maqsadli moliyalashtirish shartnomasi, moliyalashtirish smetalari, qabul qilishtopshirish dalolatnomasi 
+42	Qurilish ishlarini amalga oshirish uchun ombordan tayyor mahsulot berilgan 	0810 9110	9010 2810	Hisobvaraq-faktura, yukxat, moddiy hisobot 
+43	Qurilish ishlarini amalga oshirish uchun ombordan tovarlar berilgan 	0810 9120	9020 2910	Hisobvaraq-faktura, yukxat, moddiy hisobot 
+44	Yer maydoni boshlang‘ich qiymati bo‘yicha asosiy vositalar tarkibiga kiritilgan 	0110	0820	Yer maydonini qabul qilishtopshirish dalolatnomasi, kadastr, hisobvaraq-fakturalar 
+45	Asosiy vositalar ob’yektlari qurilishi yoki xarid qilinishi (ishga tushirilishi) munosabati bilan ularning boshlang‘ich qiymati aks ettirilgan 	0110-0190	0810-0820	Qabul qilishtopshirish dalolatnomasi, hisobvaraq-faktura, loyiha-smeta hujjatlari 
+46	Ishlar tugallangandan keyin kapital tusga ega bo‘lgan (ob’yekt qurilishini yakunlash, jihozlanishini yakunlash, qayta jihozlash va zamonaviylashtirish) xarajatlar hisobga olingan 	0120-0190	0820	Loyiha-smeta hujjatlari, bajarilgan ishlar dalolatnomasi, hisobvaraq-fakturalar, asosiy vositalarni qabul qilishtopshirish dalolatnomasi 
+47	Moliyaviy ijara ob’yektlarining boshlang‘ich qiymati bo‘yicha ishga tushirilishi (asosiy vositalar tarkibiga kiritilishi) aks ettirilgan 	0310	0820	Moliyaviy ijara ob’yektlarini ishga tushirish dalolatnomasi 
+48	Qurilish va asosiy vositalarni xarid qilish jarayonida vujudga kelgan va ob’yektlarning qiymatiga kiritilmaydigan zararlar va turli yo‘qotishlar hisobdan chiqarilgan 	9430	0810-0820	Kapital qo‘yilmalarning inventarlanishi, asosiy vositalarni qabul qilish-topshirish dalolatnomasi, solishtirma qaydnoma 
+49	Qurilish va asosiy vositalarni xarid qilish bilan bog‘liq, biroq ob’yektlarning boshlang‘ich qiymatiga kiritilmaydigan xarajatlar korxona mablag‘lari hisobiga hisobdan chiqarilgan 	9430	0810-0820	Kapital qo‘yilmalarning inventarlanishi, asosiy vositalarni qabul qilish-topshirish dalolatnomasi, solishtirma qaydnoma 
+50	Inventarlashda tugallanmagan qurilish ob’yektlarining kamomadi aniqlangan: 			Tugallanmagan qurilishning inventarlash natijalarining va inventarlash natijalari hisobining solishtirma qaydnomasi, rahbar buyrug‘i 
+	- qurilishi tugallanmagan yetishmayotgan ob’yektlarni balans qiymati bo‘yicha hisobdan chiqarishda 	9220	0810
+	- qurilishi tugallanmagan yetishmayotgan ob’yekt bo‘yicha rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan qo‘shimcha baholash natijalari (saldosi) summasiga 	8510	9220
+	- yetishmayotgan o‘rnatilmagan asbob-uskunaning chiqib ketishidan ko‘rilgan zarar summasiga 	5910	9220
+	- moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb topilgan taqdirda 	4730	5910
+	- kamomadning aniq belgilangan aybdorlari aniqlanmagan taqdirda 	9430	5910
+51	Yosh hayvonlar asosiy podaga o‘tkazilgan 	0170	0840	Yosh hayvonlarni ishchi va mahsuldor hayvonlar tarkibiga o‘tkazish dalolatnomasi 
+52	Yerni obodonlashtirish bo‘yicha kapital qo‘yilmalar asosiy vositalar qiymatiga kiritilgan 	0111	0850	Asosiy vositalarni qabul qilishtopshirish dalolatnomasi 
+53	Xarid qilingan nomoddiy aktivlar boshlang‘ich qiymati (amaldagi tannarxi) bo‘yicha balansga olingan 	0410-0490	0830	Oldi-sotdi shartnomasi, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+54	Tugallanmagan qurilish ob’yektlari sotilgan: 			Oldi-sotdi shartnomasi, hisobvaraq-fakturalar, tugallanmagan qurilish ob’yektini tugatish dalolatnomasi 
+	- tugallanmagan qurilishning boshlang‘ich qiymati bo‘yicha 	9220	0810
+	- kelishilgan o‘tkazish qiymati bo‘yicha 	4010	9220
+	- boshlang‘ich qiymat bilan kelishilgan qiymat o‘rtasidagi farq summasiga: (agar kelishilgan qiymat ko‘proq bo‘lsa) 	9220	9320
+    - boshlang‘ich qiymat bilan kelishilgan qiymat o‘rtasidagi farq summasiga: (agar kelishilgan qiymat kamroq bo‘lsa) 	9430	9220
+55	Tugallanmagan qurilish ob’yektlari alohida ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlariga berilgan: 			Oldi-sotdi shartnomasi, hisobvaraq-fakturalar, tugallanmagan qurilish ob’yektini tugatish dalolatnomasi 
+	- tugallanmagan qurilishning boshlang‘ich qiymati bo‘yicha 	9220	0810
+	- kelishilgan o‘tkazish qiymati bo‘yicha 	4110	9220
+	- boshlang‘ich qiymat bilan kelishilgan o‘tkazish qiymati o‘rtasidagi farq summasiga: (agar kelishilgan qiymat ko‘proq bo‘lsa) 	9220	9320
+    - boshlang‘ich qiymat bilan kelishilgan o‘tkazish qiymati o‘rtasidagi farq summasiga: (agar kelishilgan qiymat kamroq bo‘lsa) 	9430	9220
+56	Favquloddagi vaziyatlar (tabiiy ofatlar, yong‘inlar, halokatlar va h.k.) natijasida tugallanmagan qurilish yo‘qotilishlari hisobdan chiqarilgan 	9720	0810	Rahbar buyrug‘i, tabiiy ofatlar natijasida asosiy vositalarning chiqib ketishi to‘g‘risida dalolatnoma 
+57	Korxonaning o‘z kuchi bilan amalga oshirilgan asbob-uskuna o‘rnatilishi bo‘yicha xarajatlar aks ettirilgan 	0820	1000, 6710, 6520 va b. 	Yukxatlar, hisob-kitob qaydnomalari, ma’lumotnomalar 
+58	Xo‘jalik usuli bilan amalga oshiriladigan kapital qurilishda ustama xarajatlar ulushi aks ettirilgan 	0810	2510	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+59	Kapital qurilish (ob’yekt ishga tushirilgunga qadar) bilan bog‘liq bank kreditlari va boshqa qarz majburiyatlari bo‘yicha foizlar summalari hisoblangan 	0810	6920	Bank krediti bo‘yicha foizlar hisob-kitobi 
+60	Nomoddiy aktivlar ishlab chiqish davrida ularni xarid qilish uchun olingan kredit bo‘yicha foizlar hisoblangan 	0830	6920	Bank krediti bo‘yicha foizlar hisob-kitobi 
+61	Xarid qilingan yer maydoni egasi tomonidan buzilgan qurilmalar va o‘simliklar qiymatini qoplash uchun hisob-kitob schyotidan to‘lovlar amalga oshirilgan 	0810	5110	Qoplashning hisob-kitobi, hisob-kitob schyotidan bank ko‘chirmasi 
+62	Kapital qo‘yilmalar bo‘yicha xarajatlar valyuta schyotidan to‘langan 	0810	5210	Valyuta schyotidan bank ko‘chirmasi 
+63	Shu’ba (qaram) jamiyati tomonidan bosh tashkilotdan ustav kapitaliga ulush bilan bog‘liq bo‘lmagan tugallanmagan kapital qurilishi olingan 	0810	6110, 6120	Tugallanmagan qurilishni qabul qilishtopshirish dalolatnomasi 
+64	Kapital qurilishida hisob siyosati bilan belgilangan tabiiy yo‘qotish me’yori chegarasida sarf-xarajat qilinadigan moddiy boyliklarning kamomad summasi hisobdan chiqarilgan 	9430	0810	Inventarlash ro‘yxati, solishtirma qaydnomasi, inventarlash dalolatnomasi, rahbar buyrug‘i 
+65	Kapital qo‘yilmalar hisobiga o‘tkaziladigan xarajatlar rezervi tashkil etilgan 	0810	8910	Rezerv summasining hisob-kitobi 
+66	Kamomadlar aybdor shaxslardan undirilishi rad etilgan yoki ular korxona hisobiga qabul qilingan taqdirda, kapital qurilishidagi moddiy boyliklar kamomadidan ko‘rilgan zararlar davr xarajatlariga kiritilgan 	9430	0810	Inventarlash ro‘yxati, solishtirma qaydnomasi, inventarlash dalolatnomasi, rahbar buyrug‘i

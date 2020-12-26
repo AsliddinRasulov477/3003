@@ -1,0 +1,50 @@
+1	Ajratilgan grantlar va subsidiyalar to‘g‘risida bildirgi olingan 	4890	8810-8890	Grantlar berilishi to‘g‘risida qaror 
+2	Ajratilgan grantlar va subsidiyalar bo‘yicha mablag‘lar hisob-kitob schyotiga olingan 	5110	4890	Bank hisob-kitob schyotlaridan ko‘chirmalar 
+3	Ajratilgan grantlar va subsidiyalar bo‘yicha mablag‘lar valyuta hisob-kitob schyotiga olingan 	5210-5220	4890	Bank valyuta hisob-kitob schyotlaridan ko‘chirmalar 
+4	Ajratilgan grantlar va subsidiyalar bo‘yicha mablag‘lar maxsus hisob-kitob schyotiga olingan 	5530	4890	Bank maxsus hisob-kitob schyotlaridan ko‘chirmalar 
+5	A’zolik badallari kelib tushgan 	5010-5530	8830	Bankdagi schyotlardan ko‘chirmalar, kirim kassa orderi 
+6	Tegishli tuzilmalarning qaroriga muvofiq ilgari olingan grantlar va subsidiyalar summalari rezerv kapitalini oshirishga kiritilgan 	8810	8530	Ustav kapitalini oshirish to‘g‘risida qaror 
+7	Maqsadli foydalanish uchun olingan asosiy vositalar kirim qilingan 	0110-0190	8810-8890	Maqsadli foydalanishga berish shartnomasi, asosiy vositalarni qabul qilish-topshirish dalolatnomasi 
+8	Grant yoki boshqa maqsadli tushumlar bo‘yicha olingan nomoddiy aktivlar balansga hisobga olingan 	0410-0490	8810-8890	Grant yoki maqsadli foydalanishga berish shartnomasi, qabul qilish-topshirish dalolatnomasi 
+9	Grant yoki boshqa maqsadli tushumlar bo‘yicha olingan o‘rnatiladigan asbob-uskuna balansga hisobga olingan 	0710-0720	8810-8890	Grant yoki maqsadli foydalanishga berish shartnomasi, qabul qilish-topshirish dalolatnomasi 
+10	Grant yoki boshqa maqsadli tushumlar bo‘yicha olingan kapital qo‘yilmalar balansga hisobga olingan 	0810-0890	8810-8890	Grant yoki maqsadli foydalanishga berish shartnomasi, qabul qilish-topshirish dalolatnomasi 
+11	Grant yoki boshqa maqsadli tushumlar bo‘yicha olingan materiallar balansga hisobga olingan 	1010-1090	8810-8890	Grant yoki maqsadli foydalanishga berish shartnomasi, qabul qilish-topshirish dalolatnomasi 
+12	Grant yoki boshqa maqsadli tushumlar bo‘yicha olingan hayvonlar balansga hisobga olingan 	1110-1120	8810-8890	Grant yoki maqsadli foydalanishga berish shartnomasi, qabul qilish-topshirish dalolatnomasi 
+13	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalanilgan holda, grant yoki boshqa maqsadli tushumlar bo‘yicha olingan materiallar balansga hisobga olingan 	1510	8810-8890	Grant yoki maqsadli foydalanishga berish shartnomasi, qabul qilish-topshirish dalolatnomasi 
+14	Grant yoki boshqa maqsadli tushumlar bo‘yicha olingan tovarlar balansga hisobga olingan 	2910-2990	8810-8890	Grant yoki maqsadli foydalanishga berish shartnomasi, qabul qilish-topshirish dalolatnomasi 
+15	Materiallarni xarid qilish smetasiga muvofiq maqsadli moliyalashtirish mablag‘laridan foydalanilgan: 			Shartnomalar, hisobvaraq-fakturalar, yukxatlar 
+	- birinchi variant 	8810-8890	1010-1090
+	- ikkinchi variant 	2210	1010-1090
+16	Mehnat haqi smetasiga muvofiq maqsadli moliyalashtirish mablag‘laridan foydalanilgan: 			Mehnat haqi hisob-kitobi
+	- birinchi variant 	8810-8890	6710
+	- ikkinchi variant 	2210	6710
+17	Yagona ijtimoiy to‘lovni hisoblash smetasiga muvofiq maqsadli moliyalashtirish mablag‘laridan foydalanilgan: 			Buxgalteriyaning hisob-kitobi
+	- birinchi variant 	8810-8890	6520
+	- ikkinchi variant 	2210	6520
+18	Mehnat safari va umumxo‘jalik xarajatlari smetasiga muvofiq maqsadli moliyalashtirish mablag‘laridan foydalanilgan: 			Hisobvaraq-fakturalar, yukxatlar, bo‘nak hisobotlari 
+	- birinchi variant 	8810-8890	4220, 4230
+	- ikkinchi variant 	2200	4220, 4230
+19	Byudjetga soliqlarni hisoblash smetasiga muvofiq maqsadli moliyalashtirish mablag‘laridan foydalanilgan: 			Buxgalteriyaning hisob-kitobi 
+	- birinchi variant 	8810-8890	6410
+	- ikkinchi variant 	2210	6410
+20	Maqsadli moliyalashtirish yuzasidan olingan asosiy vositalar bo‘yicha amortizasiya hisoblangan: 			Asosiy vositalar bo‘yicha amortizasiyani hisoblash qaydnomasi 
+	- birinchi variant 	8810-8890	0210-0299
+	- ikkinchi variant 	2210	0210-0290
+21	Maqsadli moliyalashtirish yuzasidan olingan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan: 			Nomoddiy aktivlar bo‘yicha amortizasiyani hisoblash qaydnomasi 
+	- birinchi variant 	8810-8890	0510-0590
+	- ikkinchi variant 	2210	0510-0590
+22	Maqsadli moliyalashtirish bo‘yicha xarajatlar hisobdan chiqarilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- asosiy xarajatlar summasiga 	8810-8890	2210
+	- ma’muriy xarajatlar summasiga 	8810-8890	9420
+23	8200 "NNTning asosiy vositalar va nomoddiy aktivlardagi jamg‘armasi" schyotidan foydalanilgan holda, asosiy vositalar bo‘yicha eskirish hisoblangan 	8200	0210-0299	Asosiy vositalar bo‘yicha amortizasiyani hisoblash qaydnomasi 
+24	8200 "NNTning asosiy vositalar va nomoddiy aktivlardagi jamg‘armasi" schyotidan foydalanilgan holda, nomoddiy aktivlar bo‘yicha eskirish hisoblangan 	8200	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyani hisoblash qaydnomasi 
+25	Tovar-moddiy zaxiralarni import qilishda va mahsulotni sotishda QQS va aksiz solig‘idan ozod qilish natijasida vujudga kelgan mablag‘lar aks ettirilgan 	6410	8840	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+26	Soliq va bojxona imtiyozlari berilishi munosabati bilan vujudga kelgan mablag‘lar summalari evaziga asosiy vositalarni, nomoddiy aktivlarni, tovar-moddiy qiymatliklarni xarid qilish, kredit va qarzlarni qoplash, asosiy vositalarni qayta tiklash (rekonstruksiyalash) va zamonaviylashtirish uchun yo‘naltirilganda, imtiyozli muddat belgilangan taqdirda - imtiyozli muddatning eng kam davri yoki amalda foydalanish muddati o‘tganda, imtiyozli muddat belgilanmagan taqdirda esa - har yili hisobdan chiqarilgan 	8840	8530	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+27	Soliq va bojxona imtiyozlari berilishi munosabati bilan vujudga kelgan mablag‘lar summalari mol yetkazib beruvchilar va pudratchilar oldidagi qarzni hisob-kitob qilish uchun yo‘naltirilganda ular hisobdan chiqarilgan 	8840	6010	Shartnoma, hisobvaraq-faktura, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+28	Soliq va bojxona imtiyozlari berilishi munosabati bilan vujudga kelgan mablag‘lar summalari ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlari oldidagi qarzni hisob-kitob qilish uchun yo‘naltirilganda ular hisobdan chiqarilgan 	8840	6110, 6120	Shartnoma, hisobvaraq-faktura, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+29	Soliq va bojxona imtiyozlari berilishi munosabati bilan vujudga kelgan mablag‘lar summalari tezkor ijara bo‘yicha qarzni so‘ndirish uchun yo‘naltirilganda ular hisobdan chiqarilgan 	8840	6910	Shartnoma, hisobvaraq-faktura, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+30	Soliq va bojxona imtiyozlari berilishi munosabati bilan vujudga kelgan mablag‘lar summalari boshqa kreditorlar oldidagi qarzni so‘ndirish uchun yo‘naltirilganda ular hisobdan chiqarilgan 	8840	6990	Shartnoma, hisobvaraq-faktura, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+31	Soliq va bojxona imtiyozlari berilishi munosabati bilan vujudga kelgan mablag‘lar summalari mehnat haqini hisoblash uchun yo‘naltirilganda ular hisobdan chiqarilgan 	8840	6710	Buxgalteriyaning hisob-kitob ma’lumotnomasi, hisob-kitobto‘lov qaydnomasi 
+32	Soliq va bojxona imtiyozlari berilishi munosabati bilan vujudga kelgan mablag‘lar summalari yagona ijtimoiy to‘lovni hisoblash uchun yo‘naltirilganda ular hisobdan chiqarilgan 	8840	6520	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+33	Boshqa maqsadli tushumlar kelib tushgan 	5010-5530	8890	Kirim kassa orderi, bankdagi hisob-kitob schyotlaridan ko‘chirma 
+34	Boshqa maqsadli tushumlar sarf-xarajat qilingan 	8890	1000 6710 6520 va b. 	Yukxatlar, qaydnomalar 

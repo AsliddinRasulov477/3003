@@ -1,0 +1,38 @@
+1	Haqiqiy qiymat hisob bahosidan past bo‘lgan taqdirda, haqiqiy tannarx bilan hisob bahosi o‘rtasidagi farq hisobdan chiqarilgan 	1510	1610	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+2	Haqiqiy qiymat hisob bahosidan yuqori bo‘lgan taqdirda, haqiqiy tannarx bilan hisob bahosi o‘rtasidagi farq hisobdan chiqarilgan 	1610	1510	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+3	Korxonaning o‘zida ishlab chiqarilgan tovar-moddiy zaxiralar, mahsulotni ishlab chiqarish jarayonida materiallarning hosil bo‘lgan chiqindilari kirim qilingan, materiallar ishlab chiqarishdan qaytarilgan 	1510	2010	Yukxatlar, kirim orderlari 
+4	Tovar-moddiy qiymatliklarni ishlab chiqarish va yetkazib berish jarayonida yordamchi va boshqa ishlab chiqarishlar xizmatlari hisobdan chiqarilgan 	1510	2310	Yordamchi ishlab chiqarishning hisoboti 
+5	Ilgari umumishlab chiqarish xarajatlariga yoki xizmat ko‘rsatuvchi xo‘jaliklarning xarajatlariga yoki davr xarajatlariga hisobdan chiqarilgan qaytarilgan materiallar kirim qilingan 	1510	2510, 2710, 9420, 9430	Qabul qilishtopshirish yukxatlari, kirim orderi 
+6	Kelgusi davr xarajatlariga taalluqli ishlarni amalga oshirishda hosil bo‘lgan chiqindilar yoki yo‘ldosh materiallar kirim qilingan 	1510	3190	Qabul qilishtopshirish yukxatlari, kirim orderi 
+7	Yaroqsiz deb topilgan tayyor mahsulotdan hosil bo‘lgan materiallar kirim qilingan 	1510	2610	Qabul qilishtopshirish yukxatlari, kirim orderi 
+8	Tayyor mahsulot tovarmoddiy zaxira sifatida omborga kirim qilingan 	1510	2810	Qabul qilishtopshirish yukxatlari, kirim orderi 
+9	Ilgari xarid qilingan tovarlar materiallar tarkibiga o‘tkazilgan; buzilish natijasida hisobdan chiqarilgan tovarlardan materiallar kirim qilingan 	1510	2910	Qabul qilishtopshirish yukxatlari, kirim orderi 
+10	Ilgari xarid qilingan materiallar tovarlar tarkibiga o‘tkazilgan; buzilish natijasida hisobdan chiqarilgan materiallardan tovarlar kirim qilingan 	2910	1510	Qabul qilishtopshirish yukxatlari, kirim orderi 
+11	Hisobdor shaxslar tomonidan xarid qilingan materiallar kirim qilingan, ular bo‘nak olmagan taqdirda 	1510	4230	Materiallarni kirim qilish to‘g‘risida yukxat 
+12	Debitorlik qarzlarini to‘lash uchun shu’ba korxonalardan butlash buyumlari kelib tushgan 	1510	4110	Hisobvaraq-fakturalar, yukxatlar 
+13	Undirib bo‘lmaydigan ilgari taqdim etilgan da’volar bo‘yicha materiallar qiymati oshirilgan 	1510	4860	Mol yetkazib beruvchilarning hisobvaraq-fakturalari, yukxatlar, taqdim etilgan da’volar, buxgalteriyaning ma’lumotnomasi 
+14	Boshqa bo‘linmalardan materiallar kelib tushgan 	1010-1090	6110, 7110	Ichki harakat bo‘yicha yukxatlar 
+15	Ushbu maqsadlar uchun bo‘nak berilmagan hisobdor shaxslardan materiallar kelib tushgan 	1510	6970	Materiallarni kirim qilish yukxati 
+16	Ta’sischilarning ustav kapitaliga ulushlari bo‘yicha qarzlarini qoplash uchun ulardan kelib tushgan materiallar kirim qilingan 	1510	4610	Ta’sischilarning kelishuv bayonnomasi, materiallarni qabul qilishtopshirish dalolatnomasi, kirim orderi 
+17	Xarid qilingan materiallar uchun mol yetkazib beruvchilarning hisobvaraq-fakturalari akseptlangan 	1510	6010	Hisobvaraq-faktura, yukxat 
+18	Qisqa muddatli qarz shartnomasi bo‘yicha tabiiy ko‘rinishda kelib tushgan materiallar omborga qabul qilingan 	1510	6820	Qarz shartnomasi, hisobvaraq-faktura, yukxat 
+19	Materiallarni tashib berganligi uchun transport tashkilotidan schyotlar olingan 	1510	6990	Shartnoma, tovar-transport yukxati, hisobvaraq-faktura, kirim orderi, materiallarni kirim qilish yukxati 
+20	Xarid qilingan materiallar bo‘yicha bojxona boji summasi aks ettirilgan 	1510	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+21	Bojxona yuk deklarasiyasini rasmiylashtirish uchun yig‘im summasi aks ettirilgan 	1510	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+22	Xarid qilingan materiallar bo‘yicha savdo va ta’minot muassasalariga to‘lanadigan komissiya haqi aks ettirilgan 	1510	6990	Shartnoma, hisobvaraq-faktura 
+23	Tovar-moddiy zaxiralarni xarid qilish bilan bog‘liq sertifikatlash va sinov xarajatlari aks ettirilgan 	1510	6990	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+24	Tovar-moddiy zaxiralarni foydalanish uchun yaroqli holga keltirish bo‘yicha xarajatlar aks ettirilgan 	1510	6990, 2310	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+25	Oddiy shirkat (qo‘shma faoliyat) shartnomasi bo‘yicha umumiy faoliyat ko‘rsatayotgan ishtirokchi tomonidan shartnoma bo‘yicha ulush sifatida berilgan materiallar kirim qilingan 	1510	8330	Kirim orderi, yukxatlar 
+26	Oddiy shirkat (qo‘shma faoliyat) shartnomasi bo‘yicha umumiy faoliyat ko‘rsatayotgan ishtirokchi tomonidan shartnoma bekor qilingandan keyin qaytarilgan materiallar kirim qilingan 	1510	0610	Kirim orderi, yukxatlar
+27	Umumiy faoliyat ko‘rsatayotgan ishtirokchidan olingan materiallarning qiymati qaytarilgan materiallar qiymati bilan oddiy shirkat (umumiy faoliyat) shartnomasi bo‘yicha ishtirokchi ulushi boshlang‘ich qiymati o‘rtasidagi farqiga oshirilgan 	1510	6230	Kirim orderi, yukxatlar
+28	Boshqa shaxslardan tekinga materiallar olingan 	1510	8530	Yukxat, moliyaviy yordam ko‘rsatish shartnomasi 
+29	Maqsadli moliyalashtirish doirasida olingan materiallar kirim qilingan 	1510	8810-8890	Yukxat, moliyaviy yordam ko‘rsatish shartnomasi 
+30	Asosiy vositalar hisobdan chiqarilishi natijasida olingan materiallar kirim qilingan 	1510	9210	Asosiy vositalarni bo‘laklarga ajratish va demontaj qilishdan hosil bo‘lgan materiallarni kirim qilish dalolatnomasi 
+31	Materiallar kamomadi summasi bo‘yicha mol yetkazib beruvchilarga da’volar taqdim qilingan 	4860	1510	Tijorat dalolatnomasi va schyot 
+32	O‘rnatiladigan jihoz kirim qilingan 	0710	1510	Kirim orderi, yukxat
+33	Omborga kelib tushgan moddiy qiymatliklar kirim qilingan 	1010-1070 1090 	1510	Kirim orderi, yukxat
+34	O‘stirish va bo‘rdoqiga boqish uchun kelib tushgan hayvonlar kirim qilingan 	1110	1510	Kirim orderi, yukxat
+35	Inventar va xo‘jalik jihozlari kirim qilingan 	1080	1510	Kirim orderi, yukxat
+36	Materiallar haqiqiy xarajatlar summasi bo‘yicha kirim qilingan 	1010-1090	1510	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+37	Qiymatliklarni omborga kirim qilish paytida tabiiy yo‘qotish me’yorlari chegarasidagi kamomad zararlarga hisobdan chiqarilgan 	9430	1510	Tabiiy yo‘qotish chegarasida hisobdan chiqarish dalolatnomasi 
+38	Tovarlar haqiqiy tannarxi bo‘yicha kirim qilingan 	2910	1510	Kirim orderi, yukxat 

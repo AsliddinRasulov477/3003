@@ -1,0 +1,23 @@
+1	Moliyaviy ijara shartnomasi bo‘yicha asosiy vositalar kelib tushgan:			Moliyaviy ijara shartnomasi, asosiy vositalarni qabul qilishtopshirish dalolatnomasi
+	- uzoq muddatli majburiyatlarning joriy qismiga	0310	6950
+	- ijara bo‘yicha uzoq muddatli majburiyatlarga	0310	7910
+2	Moliyaviy ijara bo‘yicha uzoq muddatli majburiyatlarning har yili joriy qismiga o‘tkazilishi aks ettirilgan	7910	6950	Moliyaviy ijara shartnomasi, lizing to‘lovining hisob-kitobi
+3	Moliyaviy ijara ob’yektlaridan maqsadga ko‘ra foydalanish uchun yaroqli holga keltirish bilan bog‘liq xarajatlar mavjud bo‘lgan taqdirda, moliyaviy ijara ob’yektlarini boshlang‘ich qiymati bo‘yicha foydalanishga tushirilishi (asosiy vositalar tarkibiga o‘tkazilishi) aks ettirilgan	0310	0860	Moliyaviy ijara shartnomasi, asosiy vositalarni qabul qilishtopshirish dalolatnomasi
+4	Moliyaviy ijara shartnomasi bo‘yicha ustav kapitaliga ulush hisobidan kelib tushgan asosiy vositalar qo‘shimcha baholangan	0310	8310-8330	Ta’sis shartnomasi, moliyaviy ijara shartnomasi, qiymatini oshirish to‘g‘risida kelishuv
+5	Qayta baholash (qo‘shimcha baholash) natijasida moliyaviy ijara shartnomasi bo‘yicha kelib tushgan asosiy vositalar qo‘shimcha baholangan	0310	8510	Moliyaviy ijara shartnomasi, rahbarning qayta baholashni o‘tkazish to‘g‘risidagi buyrug‘i
+6	Qayta baholash (qiymatning arzonlashtirilishi) natijasida moliyaviy ijara shartnomasi bo‘yicha kelib tushgan asosiy vositalar qiymati kamaytirilgan:			Moliyaviy ijara shartnomasi, rahbarning qayta baholashni o‘tkazish to‘g‘risidagi buyrug‘i
+	- oldingi qayta baholash (qo‘shimcha baholash) chegarasidagi summaga	8510	0310
+	- oldingi qayta baholash (qo‘shimcha baholash) chegarasidan yuqori bo‘lgan summaga	9430	0310
+7	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar ob’yektlarining xususiy asosiy vositalar tarkibiga o‘tkazilishi aks ettirilgan	0110-0190	0310	Moliyaviy ijara shartnomasi, sotib olish to‘g‘risida kelishuv
+	Bir vaqtning o‘zida jamg‘arilgan eskirish o‘tkazilishi aks ettirilgan	0299	0211-0290	
+8	Moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarning lizingga beruvchiga qaytarilishi aks ettirilgan:			Moliyaviy ijara shartnomasi, qaytarish to‘g‘risida kelishuv, asosiy vositalarni qabul qilishtopshirish dalolatnomasi
+	- boshlang‘ich (tiklash) qiymatiga	9210	0310
+	- jamg‘arilgan eskirish summasiga	0299-0212	9210
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar obodonlashtirilganligi uchun lizingga beruvchi tomonidan qoplanadigan summaga	4890	9210
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar ob’yektini qayta baholash natijasi (saldo)ning summasiga	8510	9210
+	- lizing to‘lovlari jadvali (tartibi) bo‘yicha asosiy qarzning to‘lanmagan qoldig‘i summasiga:	(joriy qismi)	6950	9210
+    - lizing to‘lovlari jadvali (tartibi) bo‘yicha asosiy qarzning to‘lanmagan qoldig‘i summasiga: (uzoq muddatli qismi (moliyaviy ijara shartnomasi muddati tugamagunga qadar qaytarilganda))	7910	9210
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarni qaytarish (demontaj, tashish xarajatlari va h.k.) bo‘yicha xarajatlar summasiga, ular moliyaviy ijara shartnomasiga muvofiq lizingga oluvchi tomonidan amalga oshirilgan taqdirda	9210	6710, 6520, 6990 va b.
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar qaytarilishidan olingan foyda	9210	9310
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalar qaytarilishidan ko‘rilgan zarar	9430	9210
+	- moliyaviy ijara shartnomasi bo‘yicha olingan asosiy vositalarni obodonlashtirish bo‘yicha xarajatlarni qoplash hisobiga lizingga beruvchidan kelib tushgan pul mablag‘lari	Pul mablag‘-larini hisobga oluvchi schyotlar	4890	

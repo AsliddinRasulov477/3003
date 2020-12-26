@@ -1,0 +1,36 @@
+1	Hisobot davrining sof foydasi yakuniy aylanmalar bilan hisobdan chiqarilgan 	9910	8710	Buxgalteriyaning hisob-kitobi 
+2	Hisobot davrining sof zarari yakuniy aylanmalar bilan hisobdan chiqarilgan 	8710	9910	Buxgalteriyaning hisob-kitobi 
+3	Hisobot yilining taqsimlanmagan foydasi korxona ta’sischilariga dividend (daromad)larni to‘lash uchun yo‘naltirilgan 	8710	6610, 6620	Ta’sischilarning qarori, dividendlarni hisoblash qaydnomasi 
+4	Taqsimlanmagan foyda rezerv kapitalini barpo etish uchun yo‘naltirilgan: 			Ta’sischilarning qarori, buxgalteriyaning hisob-kitobi 
+	- hisobot yilining foydasi hisobidan 	8710	8520
+	- jamlangan foyda hisobidan 	8720	8520
+5	Mol yetkazib beruvchilarga berilgan bo‘naklar xarajatlar kabi aks ettirilganda xatolar aniqlangan taqdirda, taqsimlanmagan foyda qoldig‘i (saldo) bo‘yicha kiritilgan tuzatishlar aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- foydaning oshirilgan summasiga 	4310-4330	8710
+	- soliqning kam to‘langan summasiga 	4310-4330	6410
+6	Xaridorlardan olingan bo‘naklar daromadlar kabi aks ettirilganda xatolar aniqlangan taqdirda, taqsimlanmagan foyda qoldig‘i (saldo) bo‘yicha kiritilgan tuzatishlar aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- foydaning kamaytirilgan summasiga 	8720	6310-6390
+	- soliqning ko‘p to‘langan summasiga 	4410	6310-6390
+7	Hisob siyosatiga o‘zgartirishlar kiritilishi natijasida asosiy vositalar bo‘yicha amortizasiya kam hisoblanganda yoki xatolar aniqlangan taqdirda, taqsimlanmagan foyda qoldig‘i (saldo) bo‘yicha kiritilgan tuzatishlar aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- foydaning kamaytirilgan summasiga 	8720	0210-0299
+	- soliqning ko‘p to‘langan summasiga 	4410	0210-0299
+8	Hisob siyosatiga o‘zgartirishlar kiritilishi natijasida asosiy vositalar bo‘yicha amortizasiya ko‘p hisoblanganda yoki xatolar aniqlangan taqdirda, taqsimlanmagan foyda qoldig‘i (saldo) bo‘yicha kiritilgan tuzatishlar aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi
+	- foydaning oshirilgan summasiga 	0210-0299	8720
+	- soliqning kam to‘langan summasiga 	0210-0299	6410
+9	Hisob siyosatiga o‘zgartirishlar kiritilishi natijasida nomoddiy aktivlar bo‘yicha amortizasiya kam hisoblanganda yoki xatolar aniqlangan taqdirda, taqsimlanmagan foyda qoldig‘i (saldo) bo‘yicha kiritilgan tuzatishlar aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- foydaning kamaytirilgan summasiga 	8720	0510-0590
+	- soliqning ko‘p to‘langan summasiga 	4410	0510-0590
+10	Hisob siyosatiga o‘zgartirishlar kiritilishi natijasida nomoddiy aktivlar bo‘yicha amortizasiya ko‘p hisoblanganda yoki xatolar aniqlangan taqdirda, taqsimlanmagan foyda qoldig‘i (saldo) bo‘yicha kiritilgan tuzatishlar aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- foydaning oshirilgan summasiga 	0510-0590	8720
+	- soliqning kam to‘langan summasiga 	0510-0590	6410
+11	Sotilgan mahsulotning tannarxini ortiq summada aks ettirish bilan bog‘liq xatolar aniqlangan taqdirda, taqsimlanmagan foyda qoldig‘i (saldo) bo‘yicha kiritilgan tuzatishlar aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- foydaning oshirilgan summasiga 	2810, 2910	8720
+	- soliqning kam to‘langan summasiga 	2810, 2910	6410
+12	Sotilgan mahsulotning tannarxini kam summada aks ettirish bilan bog‘liq xatolar aniqlangan taqdirda, taqsimlanmagan foyda qoldig‘i (saldo) bo‘yicha kiritilgan tuzatishlar aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- foydaning kamaytirilgan summasiga 	8720	2810, 2910
+	- soliqning ko‘p to‘langan summasiga 	4410	2810, 2910
+13	Hisobot yili bo‘yicha taqsimlanmagan foyda qoldig‘i quyidagi holatlarda jamlangan foydaga kiritilgan: 			Ta’sischilarning qarori, buxgalteriyaning hisob-kitobi 
+	- foyda olingan 	8710	8720
+	- zarar ko‘rilgan 	8720	8710
+14	Ustav kapitalining miqdori sof aktivlarning miqdoriga qadar yetkazilishida hisobot yili bo‘yicha ko‘rilgan zararlar hisobdan chiqarilgan 	8310-8330	8710	Ta’sischilarning qarori, buxgalteriyaning hisob-kitobi 
+15	Zararlarni hisobdan chiqarish hisobiga rezerv kapitali kamaytirilgan 	8520	8710	Aksiyadorlar umumiy majlisining qarori, buxgalteriyaning hisob-kitobi 
+16	Ta’sischilarning maqsadli badallari hisobiga zararlar qoplangan 	8890	8710	Ta’sischilarning qarori, buxgalteriyaning hisob-kitobi 

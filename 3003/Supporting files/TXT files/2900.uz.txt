@@ -1,0 +1,54 @@
+1	1510 va 1610 schyotlardan foydalanilganda tovarlar hisob bahosi bo‘yicha kirim qilingan 	2910	1510	Yukxat
+2	Asosiy vositalar tarkibidan o‘tkazilgan tovarlar kirim qilingan 	9210 2910	0110-0190 9210	O‘tkazish dalolatnomasi, yukxat 
+3	Savdo korxonalarining asosiy ishlab chiqarishida qayta ishlov berish jarayonida olingan tovarlar kirim qilingan 	2910-2920	2010	Hisobvaraq-faktura, tovar-transport yukxati, qayta ishlov berish dalolatnomasi 
+4	Savdo korxonalarining yordamchi ishlab chiqarishida qayta ishlov berish jarayonida olingan tovarlar kirim qilingan 	2910-2920	2310	Hisobvaraq-faktura, tovar-transport yukxati, qayta ishlov berish dalolatnomasi 
+5	Chakana savdoda kelib tushgan tovarlar bo‘yicha savdo ustamasi hisoblangan 	2920	2980	Savdo ustamasining hisob-kitobi 
+6	Korporativ kartochka bo‘yicha olingan tovarlar uchun to‘lov aks ettirilgan 	2910-2930	5510	To‘lov topshiriqnomalari, bank ko‘chirmalari 
+7	Taqdim etilgan, biroq qondirilmagan da’volar summasi tovarlar va prokat buyumlari qiymatiga kiritilgan 	2910-2940	4860	Solishtirma dalolatnomalari, Xo‘jalik sudining qarorlari 
+8	Tovarlar hisobdor shaxslar hisobidan olingan: 			Bo‘nak hisobotlari, hisobvaraq-faktura, tovar-transport yukxati, topshirish dalolatnomasi, kassa cheklari 
+	- ularga bo‘nak berilgan bo‘lsa 	2910-2990	4230
+	- ularga bo‘nak berilmagan bo‘lsa 	2910	6970
+9	Tovarlarni xarid qilish bilan bog‘liq xodimlarning xizmat safarlari bo‘yicha bo‘nak hisobotlari qabul qilingan: 			Bo‘nak hisobotlari, hisobvaraq-faktura, tovar-transport yukxati, topshirish dalolatnomasi, kassa cheklari 
+	- ularga bo‘nak berilgan bo‘lsa 	2910-2940	4220
+	- ularga bo‘nak berilmagan bo‘lsa 	2910	6970
+10	Tovarlar mol yetkazib beruvchilardan olingan 	2910-2990	6010, 7010	Hisobvaraq-faktura, tovar-transport yukxati 
+11	Xarid qilingan tovarlarni ortish, tushirish bilan band bo‘lgan ishchilarga mehnat haqi hisoblangan 	2910	6710	Hisob-kitobto‘lov qaydnomasi 
+12	Yuk ortish va tushirishda band bo‘lgan ishchilarning mehnat haqi bo‘yicha yagona ijtimoiy to‘lov hisoblangan 	2910	6520	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+13	Tovarlarni tashib berganligi uchun transport tashkilotining schyotlari olingan 	2910	6990	Shartnoma, tovar-transport yukxati, hisobvaraq-faktura, kirim orderi, materiallarni kirim qilish yukxati 
+14	Xarid qilingan tovarlar bo‘yicha bojxona boji summasi aks ettirilgan 	2910	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+15	Xarid qilingan tovarlar bo‘yicha bojxona yuk deklarasiyasini rasmiylashtirish uchun yig‘im summasi aks ettirilgan 	2910	6990	Shartnoma, bojxona yuk deklarasiyasi, hisobvaraq-faktura 
+16	Tovarlar xarid qilingan savdo va ta’minotchi tashkilotlarga to‘lanadigan komissiya haqi aks ettirilgan 	2910	6990	Shartnoma, hisobvaraq-faktura 
+17	Tovarlarni xarid qilish bilan bog‘liq tovar-moddiy zaxiralarni sertifikatlash va ularni sinash bo‘yicha xarajatlar aks ettirilgan 	2910	6990	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+18	Tovarlarni sotish uchun yaroqli holatga keltirish bo‘yicha xarajatlar aks ettirilgan 	2910	6990, 2310	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+19	Yo‘ldagi tovarlarning sug‘urtasi bo‘yicha xarajatlar aks ettirilgan 	2910	6510	Sug‘urta shartnomasi 
+20	Alohida balansga ajratilgan o‘z bo‘linmalaridan tovarlar va prokat buyumlari kelib tushgan 	2910-2940	6110, 7110	Hisobvaraq-faktura, tovar-transport yukxati 
+21	Tovarlar mulk egalaridan ustav kapitaliga ulush sifatida kirim qilingan 	2910-2990	4610	Ta’sischilarning kelishuv bayonnomalari, ta’sis hujjatlari, korxona ustavi, hisobvaraq-faktura 
+22	Tovarlar va prokat buyumlarining qayta baholanishi aks ettirilgan: 			Qayta baholash dalolatnomasi, rahbar buyrug‘i 
+	- qo‘shimcha baholanganda 	2910-2990	9390
+	- qiymati pasaytirilganda 	9430	2910-2990
+23	Tekinga olingan tovarlar kirim qilingan 	2910-2920	8530	Tekinga berish shartnomasi, yukxat 
+24	Maqsadli moliyalashtirish doirasida olingan tovarlar kirim qilingan 	2910	8810-8890	Tovarlarni qabul qilishtopshirish dalolatnomasi, tovar-transport yukxati 
+25	Ishchilardan kamomadni, buzilishlarni va boshqalarni qoplash hisobiga kelib tushgan tovarlar kirim qilingan 	2910	4730	Yukxat, materiallarni qabul qilish dalolatnomasi 
+26	Inventarlash natijasida aniqlangan ortiqcha tovarlar va idishlar korxona foydasiga kirim qilingan 	2910-2950	9390	Inventarlash dalolatnomasi, solishtirma qaydnoma 
+27	Ilgari tovarlar sifatida kirim qilingan moddiy qiymatliklar materiallar tarkibiga kiritilgan yoki tovarlar o‘z ehtiyojlari uchun materiallar sifatida kirim qilingan 	1010	2910	Kirim va chiqim yukxatlari, talabnoma 
+28	Yaroqsiz holga kelgan prokat buyumlari hisobdan chiqarilgan 	9430	2940	Hisobdan chiqarish dalolatnomasi 
+29	Tovarlar qayta ishlov berish uchun taqdim etilgan 	2010	2910	Kirim va chiqim yukxatlari, talabnoma, dalolatnomalar 
+30	Tayyor mahsulotlarni va boshqalarni sotishda tovarlardan va idishlardan foydalanilgan 	9410	2910-2930, 2950-2990 	Kirim va chiqim yukxatlari, qabul qilishtopshirish dalolatnomalari 
+31	Inventarlash natijasida aniqlangan tovarlar kamomadi hisobdan chiqarilgan, aybdor shaxslar aniqlanmagan taqdirda 	5910 9430	2910-2990, 5910 	Solishtirma dalolatnoma, tergov va sud organlarining qarorlari 
+32	Tovarlarning qisqa muddatli moliyaviy qo‘yilmalar (jumladan, qimmatli qog‘ozlar to‘lovi uchun) hisobiga berilishi aks ettirilgan: 			Shartnomalar, qimmatli qog‘ozlar bo‘yicha sertifikatlar, hisobvaraq-faktura, tovar-transport yukxati 
+	- tannarxi bo‘yicha 	9220	2910
+	- berish qiymati bo‘yicha 	5810	9220
+33	Tovarlarni xaridorlarga kreditga sotish, ayirbosh qilish va boshqalar aks ettirilgan: 			Shartnomalar, hisobvaraq-faktura, tovar-transport yukxati 
+	- tannarxi bo‘yicha 	9220	2910
+	- sotish qiymatiga 	0910-0990	9220
+34	Tovarlarni uzoq muddatli moliyaviy qo‘yilmalar hisobiga berish yoki qimmatli qog‘ozlar qiymatini qoplash aks ettirilgan: 			Shartnomalar, qimmatli qog‘ozlar bo‘yicha sertifikatlar, hisobvaraq-faktura, tovar-transport yukxati 
+	- tannarxi bo‘yicha 	9220	2910
+	- berilgan qiymati bo‘yicha 	0610	9220
+35	Tovarlarni xaridorga yuklab jo‘natish aks ettirilgan: 			Hisobvaraq-faktura, tovar-transport yukxati 
+	- tovarning tannarxi bo‘yicha 	9120	2910-2990
+	- tovarning xarid qiymati bo‘yicha 	4010	9020
+36	Yo‘ldagi tovarlarning xarid qiymati bo‘yicha kamomadi aks ettirilgan 	4860	2910, 2920, 2950	Hisobvaraq-faktura, tovar-transport yukxati, inventarlash dalolatnomasi 
+37	Inventarlash paytida kamomadlar aniqlanishi aks ettirilgan, moddiy javobgar shaxs aybdor bo‘lgan taqdirda 	5910 4730	2910-2990 5910	Solishtirma qaydnoma, inventarlash dalolatnomasi 
+38	Alohida balansga ajratilgan o‘z bo‘linmalaridan tovarlar debitorlik qarzlari hisobiga kelib tushgan 	2910	4110	Hisobvaraq-faktura, tovar-transport yukxati 
+39	Alohida balansga ajratilgan o‘z bo‘linmalariga tovarlar berilgan 	9120 4110	2910 9020	Hisobvaraq-faktura, tovar-transport yukxati 
+40	Idishlar bilan bog‘liq operasiyalar bo‘yicha daromad aks ettirilgan 	2950	9390	Hisobvaraq-faktura, tovar-transport yukxati 

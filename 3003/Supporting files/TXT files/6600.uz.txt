@@ -1,0 +1,22 @@
+1	Aksiyadorlarga dividendlar hisoblangan	8710	6610	Boshqaruv majlisi bayonnomasidan ko‘chirma yoki korxona bo‘yicha farmoyish, dividendlar hisob-kitobi
+2	Dividendlardan soliq hisoblangan 	6610	6410	Dividendlardan soliq hisob-kitobi 
+3	Kurs farqini hisobdan chiqarishning jamlash usuli bilan valyutada hisoblangan dividendlar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	6610	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+4	Kurs farqini hisobdan chiqarishning to‘g‘ri usuli bilan valyutada hisoblangan dividendlar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	6610	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+5	Hisoblangan dividendlarning naqd pul bilan to‘lanishi aks ettirilgan 	6610	5010	Kassa hisobotlari, bank schyotlaridan ko‘chirmalar 
+6	Hisoblangan dividendlarning hisob-kitob schyoti orqali to‘lanishi aks ettirilgan 	6610	5110	Bank hisob-kitob schyotlaridan ko‘chirmalar 
+7	Hisoblangan dividendlarning valyuta schyoti orqali to‘lanishi aks ettirilgan 	6610	5210, 5220	Bank valyuta schyotlaridan ko‘chirmalar 
+8	Kurs farqini hisobdan chiqarishning jamlash usuli bilan valyutada hisoblangan dividendlar bo‘yicha musbat kurs farqi aks ettirilgan 	6610	6230	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+9	Kurs farqini hisobdan chiqarishning to‘g‘ri usuli bilan valyutada hisoblangan dividendlar bo‘yicha musbat kurs farqi aks ettirilgan 	6610	9540	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+10	Ustav kapitalini oshirish uchun yo‘naltirilgan dividendlar hisoblangan 	6610	8310-8330	Ta’sischilar majlisining bayonnomasi 
+11	Tayyor mahsulot bilan to‘lanadigan dividendlar hisoblangan 	6610	9010	Ta’sischilar majlisining bayonnomasi, hisobvaraq-fakturalar 
+12	Ko‘rsatilgan xizmatlar, bajarilgan ishlar bilan to‘lanadigan dividendlar hisoblangan 	6610	9030	Ta’sischilar majlisining bayonnomasi, hisobvaraq-fakturalar 
+13	Tovarlar bilan to‘lanadigan dividendlar hisoblangan 	6610	9020	Ta’sischilar majlisining bayonnomasi, hisobvaraq-fakturalar 
+14	Chiqib ketayotgan ta’sischilarga ulushlari bo‘yicha qarz hisoblangan 	8310-8330, 8720	6620	Ta’sischilar majlisi bayonnomasidan ko‘chirma, korxona rahbarining farmoyishi 
+15	Korxona ta’sischilariga ulushlari qaytarilishi aks ettirilgan 	8310-8330	6620	Ta’sischilar majlisi bayonnomasidan ko‘chirma, korxona rahbarining farmoyishi 
+16	Chiqib ketayotgan ta’sischilarning ulushlari bo‘yicha qarzi asosiy vositalarni berish yo‘li bilan qoplangan 	6620	9210	Ta’sischilar majlisi bayonnomasidan ko‘chirma, korxona rahbarining farmoyishi, yukxatlar 
+17	Chiqib ketayotgan ta’sischilarning ulushlari bo‘yicha qarzi boshqa aktivlarni berish yo‘li bilan qoplangan 	6620	9220	Ta’sischilar majlisi bayonnomasidan ko‘chirma, korxona rahbarining farmoyishi, yukxatlar 
+18	Chiqib ketayotgan ta’sischilarning ulushlari bo‘yicha qarzi naqd pul mablag‘larini berish yo‘li bilan qoplangan 	6620	5010	Kassa hisobotlari, bank schyotlaridan ko‘chirmalar 
+19	Chiqib ketayotgan ta’sischilarning ulushlari bo‘yicha qarzi hisob-kitob schyoti orqali qoplangan 	6620	5110	Bank hisob-kitob schyotlaridan ko‘chirmalar 
+20	Chiqib ketayotgan ta’sischilarning ulushlari bo‘yicha qarzi valyuta schyoti orqali qoplangan 	6620	5210, 5220	Bank valyuta schyotlaridan ko‘chirmalar 
+21 	Aktsiadorlarga taqsimlanmagan foydadan dividend hisoblandi 	8710	6610	Boshqaruv kengashi majlisi bayonnomasidan ko'chirma,farmoyish, dvidentlar hisob- kitobi
+22 	Hisoblangan dividendlar valyuta schotidan to'landi 	6610	5210	Bank ko'chirmasi

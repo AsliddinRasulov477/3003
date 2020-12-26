@@ -1,0 +1,31 @@
+1	Asosiy vositalarning qiymatini oshirish natijasida rezerv kapitali oshirilgan 	0110-0199	8510	Qiymatni oshirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi
+2	Moliyaviy ijara (lizing) shartnomasi bo‘yicha olingan asosiy vositalarning qiymatini oshirish natijasida rezerv kapitali oshirilgan 	0310	8510	Qiymatni oshirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi
+3	Nomoddiy aktivlarning qiymatini oshirish natijasida rezerv kapitali oshirilgan 	0410-0490	8510	Qiymatni oshirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+4	Uzoq muddatli investisiyalarning qiymatini oshirish natijasida rezerv kapitali oshirilgan 	0610-0690	8510	Qiymatni oshirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+5	O‘rnatiladigan asbob-uskunaning qiymatini oshirish natijasida rezerv kapitali oshirilgan 	0710-0720	8510	Qiymatni oshirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi
+6	Tugallanmagan qurilish va kapital qo‘yilmalarning qiymatini oshirish natijasida rezerv kapitali oshirilgan 	0810-0890	8510	Qiymatni oshirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+7	Ilgari qayta baholashdan qo‘shimcha baholangan summa chegarasida asosiy vositalarning qiymati pasaytirilishi natijasida rezerv kapitali kamaytirilgan 	8510	0110-0199	Qiymatni oshirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+8	Ilgari qayta baholashdan qo‘shimcha baholangan summa chegarasida moliyaviy ijara (lizing) shartnomasi bo‘yicha olingan asosiy vositalarning qiymati pasaytirilishi natijasida rezerv kapitali kamaytirilgan 	8510	0310	Qiymatni pasaytirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+9	Ilgari qayta baholashdan qo‘shimcha baholangan summa chegarasida nomoddiy aktivlarning qiymati pasaytirilishi natijasida rezerv kapitali kamaytirilgan 	8510	0410-0490	Qiymatni pasaytirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+10	Ilgari qayta baholashdan qo‘shimcha baholangan summa chegarasida uzoq muddatli investisiyalarning qiymati pasaytirilishi natijasida rezerv kapitali kamaytirilgan 	8510	0610-0690	Qiymatni pasaytirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+11	Ilgari qayta baholashdan qo‘shimcha baholangan summa chegarasida o‘rnatiladigan asbob-uskunalarning qiymati pasaytirilishi natijasida rezerv kapitali kamaytirilgan 	8510	0710-0720	Qiymatni pasaytirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+12	Ilgari qayta baholashdan qo‘shimcha baholangan summa chegarasida tugallanmagan qurilish va kapital qo‘yilmalarning qiymati pasaytirilishi natijasida rezerv kapitali kamaytirilgan 	8510	0810-0890	Qiymatni pasaytirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+13	Korxona tugatilishida mol-mulkni qayta baholash bo‘yicha jamlangan summaning ta’sischilar o‘rtasida taqsimlanishi aks ettirilgan 	8510	6620	Asosiy vositalarni tugatish dalolatnomasi 
+14	Ilgari bozor qiymati bo‘yicha qayta baholangan va qo‘shimcha baholangan summa qimmatli qog‘ozlarga yo‘naltirilgan mablag‘larni qayta baholash bo‘yicha tuzatishlar kiritish schyotiga kiritilgan qimmatli qog‘ozlar sotilishi natijasida rezerv kapitali kamaytirilgan 	8510	9560	Bank hisob-kitob schyotidan ko‘chirma, buxgalteriyaning hisob-kitobi 
+15	Quyidagilarga asosan eskirish summasini indeksasiyalash aks ettirilgan: 			Qiymatni oshirish va pasaytirish to‘g‘risida qaror, buxgalteriyaning hisob-kitobi 
+	- qo‘shimcha baholangan 	8510	0211-0299
+	- qiymati pasaytirilganda 	0211-0299	8510
+16	Rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan asosiy vositalar ob’yektlari chiqib ketishida qayta baholash natijalari (saldo)ning hisobdan chiqarilishi (ushbu asosiy vosita ob’yekti bo‘yicha ilgari qo‘shimcha baholangan summalar ilgari qiymati pasaytirilgan summalardan ortig‘i) aks ettirilgan 	8510	9210	Asosiy vositalarni tugatish dalolatnomasi, buxgalteriyaning hisob-kitobi 
+17	Rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan nomoddiy aktivlar ob’yektlari chiqib ketishida qayta baholash natijalari (saldo)ning hisobdan chiqarilishi (ushbu nomoddiy aktiv ob’yekti bo‘yicha ilgari qo‘shimcha baholangan summalar ilgari qiymati pasaytirilgan summalardan ortig‘i) aks ettirilgan 	8510	9220	Nomoddiy aktivlarni tugatish dalolatnomasi, buxgalteriyaning hisob-kitobi 
+18	Ta’sis hujjatlari va amaldagi qonunchilik bilan belgilangan tartibga muvofiq rezerv kapitaliga yo‘naltiriladigan joriy yil bo‘yicha taqsimlanmagan foydaning hisobdan chiqarilishi aks ettirilgan 	8710	8520	Ta’sis hujjatlari, buxgalteriyaning hisob-kitobi 
+19	Zararlarni hisobdan chiqarish hisobiga rezerv kapitali kamaytirilgan 	8520	8710	Aksiyadorlar umumiy majlisining qarori, buxgalteriyaning hisob-kitobi 
+20	Korxona tugatilishida turli debitorlar qarzlarini hisobdan chiqarish hisobiga rezerv kapitali kamaytirilgan 	8520	Turli debitor- larning schyotlari 	Tugatish komissiyasining qarori, buxgalteriyaning hisob-kitobi 
+21	Korxona tugatilishida rezerv kapitali hisobidan ta’sischilarga daromad (dividend)lar hisoblangan 	8520	6610, 6620	Dividendlarni hisoblash qaydnomasi 
+22	Ishtirokchilarga dividendlar to‘lash uchun joriy yil bo‘yicha foyda yetishmagan taqdirda ushbu maqsadlar uchun yo‘naltirilgan rezerv kapitali summalari aks ettirilgan 	8520	6610	Ta’sischilar qarori, buxgalteriyaning hisob-kitobi 
+23	Asosiy vositalar tekinga olingan 	0110-0190	8530	Tekinga (bepul) berish shartnomasi, qabul qilish-topshirish dalolatnomasi, yukxat 
+24	Nomoddiy aktivlar tekinga olingan 	0410-0490	8530	Tekinga (bepul) berish shartnomasi, qabul qilish-topshirish dalolatnomasi, yukxat 
+25	Uzoq muddatli qimmatli qog‘ozlar tekinga olingan 	0610	8530	Tekinga (bepul) berish shartnomasi, qabul qilish-topshirish dalolatnomasi, yukxat 
+26	O‘rnatiladigan asbobuskunalar tekinga olingan 	0710, 0720	8530	Tekinga (bepul) berish shartnomasi, qabul qilish-topshirish dalolatnomasi, yukxat 
+27	Kapital qo‘yilmalar tekinga olingan 	0810-0890	8530	Tekinga (bepul) berish shartnomasi, qabul qilish-topshirish dalolatnomasi, yukxat 
+28	Tovarlar tekinga olingan 	2910, 2990	8530	Tekinga (bepul) berish shartnomasi, qabul qilish-topshirish dalolatnomasi, yukxat 
+29	Korxona tugatilishida tekinga olingan molmulk hisobidan ishtirokchilarga daromad (dividend)lar hisoblangan 	8530	6610, 6620	Dividendlarni hisoblash qaydnomasi 

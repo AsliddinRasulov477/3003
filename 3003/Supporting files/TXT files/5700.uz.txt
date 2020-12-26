@@ -1,0 +1,15 @@
+1	Xaridorlar qarzlari kelib tushgan pul o‘tkazmalari bilan qoplangan 	5710	4010	Jamg‘arma bankining, pochta bo‘linmasining kvitansiyalari
+2	Ajratilgan bo‘linmalardan pul o‘tkazmalari olingan 	5710	4110	Jamg‘arma bankining, pochta bo‘linmasining kvitansiyalari 
+3	Boshqa debitorlardan pul o‘tkazmalari olingan 	5710	4890	Jamg‘arma bankining, pochta bo‘linmasining kvitansiyalari 
+4	Bankdagi hisob-kitob schyotiga kiritish uchun kassadan naqd pullar inkassatorlarga topshirilgan 	5710	5010	Ilova qaydnomalar, chiqim kassa orderi 
+5	Bankdagi valyuta schyotiga kiritish uchun kassadan naqd pullar inkassatorlarga topshirilgan 	5710	5020	Ilova qaydnomalar, chiqim kassa orderi 
+6	Jamg‘arish usuli bo‘yicha, "Yo‘ldagi o‘tkazmalar" turkumidagi valyuta pul mablag‘lari bo‘yicha musbat kurs farqi aks ettirilgan 	5710	6230	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+7	Hali bankka kelib tushmagan pul mablag‘larini o‘tkazish yo‘li bilan qisqa muddatli bo‘nak olingan 	5710	6310	Jamg‘arma bankining, pochtaning kvitansiyalari 
+8	To‘g‘ri hisobdan chiqarish usuli bo‘yicha "Yo‘ldagi o‘tkazmalar" turkumidagi valyuta pul mablag‘lari bo‘yicha musbat kurs farqi aks ettirilgan 	5710	9540	Buxgalteriyaning hisob-kitob ma’lumotnomasi
+9	Jamg‘arish usuli bo‘yicha, "Yo‘ldagi o‘tkazmalar" turkumidagi valyuta pul mablag‘lari bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	5710	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+10	Korxonaning ayrim toifadagi xodimlariga o‘tkazmalar amalga oshirilgan 	4790	5710	Jamg‘arma bankining, pochta bo‘linmasining kvitansiyalari 
+11	Yo‘ldagi pul mablag‘lari kassaga kelib tushgan 	5010-5020	5710	Kirim kassa orderi, kvitansiya 
+12	Yo‘ldagi pul mablag‘lari hisob-kitob schyotiga kelib tushgan 	5110	5710	Hisob-kitob schyotidan bank ko‘chirmasi 
+13	Yo‘ldagi pul mablag‘lari valyuta schyotiga kelib tushgan 	5210, 5220	5710	Valyuta schyotidan bank ko‘chirmasi 
+14	Yo‘ldagi pul mablag‘lari bankdagi maxsus schyotga kelib tushgan	5530	5710	Maxsus schyotdan bank ko‘chirmasi 
+15	Hisobdan chiqarishning to‘g‘ri usuli bo‘yicha, "Yo‘ldagi o‘tkazmalar" turkumidagi valyuta pul mablag‘lari bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	5710	Buxgalteriyaning hisob-kitob ma’lumotnomasi 

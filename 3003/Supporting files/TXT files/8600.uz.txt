@@ -1,0 +1,21 @@
+1	Aksiyadorlarga tegishli aksiyalar sotib olish bahosi bo‘yicha naqd pulga sotib olingan 	8610, 8620	5010	Ta’sischilar qarori, to‘lov hujjatlari
+2	Aksiyadorlarga tegishli aksiyalarni sotib olish uchun hisob-kitob raqamidan sotib olish bahosi bo‘yicha pul o‘tkazilgan 	8610, 8620	5110	Ta’sischilar qarori, to‘lov hujjatlari 
+3	Aksiyadorlarga tegishli aksiyalarni sotib olish uchun valyuta hisob-kitob raqamidan sotib olish bahosi bo‘yicha pul o‘tkazilgan 	8610, 8620	5210, 5220	Ta’sischilar qarori, to‘lov hujjatlari 
+4	Aksiyadorlarga tegishli aksiyalarni sotib olish uchun maxsus hisob-kitob raqamidan sotib olish bahosi bo‘yicha pul o‘tkazilgan 	8610, 8620	5530	Ta’sischilar qarori, to‘lov hujjatlari
+5	Ta’sischilar chiqib ketishida xususiy sotib olingan aksiyalar aks ettirilgan 	8610, 8620	6620	Ta’sischilar qarori, to‘lov hujjatlari 
+6	Xo‘jalik yurituvchi sub’yekt ishtirokchisining ulushi sotib olish bahosida sotib olingan 	8610, 8620	5110, 5210, 5220, 6620 	Ta’sischilar qarori, to‘lov hujjatlari 
+7	Sotib olingan xususiy aksiyalarning sotib olish qiymatidan yuqori bahoda qaytadan sotilishi aks ettirilgan: 			Ta’sischilar qarori, qabul qilish-topshirish dalolatnomasi, yukxat 
+	- sotish qiymatiga 	5010-5530	8610, 8620
+	- sotib olish qiymatidan ortiq farq summasiga 	5010-5530	9590
+8	Ishtirokchilarning ustav kapitalidagi sotib olingan ulushini sotib olish qiymatidan past bahoda qaytadan sotish aks ettirilgan: 			Ta’sischilar qarori, qabul qilish-topshirish dalolatnomasi, yukxat 
+	- sotish qiymatiga 	5010-5530	8610, 8620
+	- sotib olish qiymatidan past farq summasiga 	9690	8610, 8620
+9	Nominal qiymatidan past bahoda sotib olingan xususiy aksiyalarning bekor qilinishi aks ettirilgan: 			Ta’sischilar qarori, qabul qilish-topshirish dalolatnomasi, yukxat 
+	- sotib olish qiymatiga 	8310, 8320	8610, 8620
+	- nominal qiymatidan past farq summasiga 	8310, 8320	9590
+10	Nominal qiymatidan yuqori bahoda sotib olingan xususiy aksiya (pay)larning bekor qilinishi aks ettirilgan: 			Ta’sischilar qarori, qabul qilish-topshirish dalolatnomasi, yukxat 
+	- nominal qiymatiga 	8310, 8320	8610, 8620
+	- nominal qiymatidan ortiq farq summasiga 	8410, 9690	8610, 8620
+11	Ustav kapitalining miqdori kamaytirilganda xususiy aksiya (ulush)larni sotib olish bo‘yicha amaldagi xarajatlar bilan ularning nominal qiymati o‘rtasidagi farq hisobdan chiqarilgan: 	8310, 8320	8610	Ta’sischilarning qarori, bekor qilish dalolatnomasi 
+	- amaldagi xarajatlar nominal qiymatidan ortiq bo‘lgan taqdirda 	9690	8610
+	- amaldagi xarajatlar nominal qiymatidan past bo‘lgan taqdirda 	8610	9590

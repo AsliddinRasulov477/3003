@@ -1,0 +1,26 @@
+1	Vaqtinchalik farqlarga tegishli bo‘lgan xarajatlar bo‘yicha soliqlarni hisoblash aks ettirilgan: 			Buxgalteriya hisob-kitoblari
+	- uzoq muddatli qismi bo‘yicha 	0950	6410
+	- joriy qismi bo‘yicha 	3210	6410
+2	Vaqtinchalik farqlar bo‘yicha kechiktirilgan soliqni uzoq muddatli qismidan joriy qismiga o‘tkazish aks ettirilgan 	3210	0950	Buxgalteriya hisob-kitoblari 
+3	Har oyda debitorlik qarzining jamg‘arish usulida qayta baholanishi bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	4010, 4020, 4110, 4120, 4220, 4310, 4800 	Buxgalteriya hisob-kitoblari 
+4	Har oyda valyuta schyoti jamg‘arish usulida qayta baholanishi bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	5210, 5220	Buxgalteriya hisob-kitoblari 
+5	Import qilingan konsignasiya tovarlari bo‘yicha bojxona to‘lovlari, jumladan QQS hisoblangan 	3290	6410	Shartnoma, bojxona yuk deklarasiyasi, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+6	Sotilgan konsignasiya tovarlarining ulushiga to‘g‘ri keladigan import qilingan konsignasiya tovarlari bo‘yicha bojxona to‘lovlari, jumladan QQS bo‘yicha xarajatlar ushbu tovarlar sotilgan paytda moliyaviy natijalarga hisobdan chiqarilgan 	9430	3290	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+7	Uzoq muddatli kechiktirilgan xarajatlar joriy qismining manfiy kurs farqi bo‘yicha o‘tkazilishi aks ettirilgan 	3290	0990	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+8	Jamlangan manfiy kurs farqlari moliyaviyxo‘jalik faoliyat natijalariga o‘tkazilgan 	9620	3290	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+9	O‘tgan hisobot davrida kechiktirilgan tegishli soliq summasiga joriy hisobot davrida byudjetga to‘lanadigan soliqlar kamaytirilgan 	6410	3210	Buxgalteriya hisob-kitoblari
+10	Boshqa kechiktirilgan xarajatlar joriy davrda aks ettirilgan: 			Buxgalteriya hisob-kitoblari 
+	- uzoq muddatli qismi bo‘yicha 	0940	6010, 6110, 6510, 6520, 6710, 7010, 7110
+	- joriy qismi bo‘yicha 	3290	6010, 6110, 6510, 6520, 6710, 7010, 7110
+11	Boshqa kechiktirilgan xarajatlarning uzoq muddatli qismidan joriy qismiga o‘tkazilishi aks ettirilgan 	3290	0940	Buxgalteriya hisob-kitoblari 
+12	Kechiktirilgan xarajatlar tegishli qismi asosiy ishlab chiqarish xarajatlari tarkibiga kiritilgan 	2010	3290	Buxgalteriya hisob-kitoblari 
+13	Kechiktirilgan xarajatlar tegishli qismi yordamchi ishlab chiqarish xarajatlari tarkibiga kiritilgan 	2310	3290	Buxgalteriya hisob-kitoblari 
+14	Kechiktirilgan xarajatlar tegishli qismi umumishlab chiqarish xarajatlari tarkibiga kiritilgan 	2510	3290	Buxgalteriya hisob-kitoblari 
+15	Kechiktirilgan xarajatlar tegishli qismi tayyor mahsulotlar xarajatlari tarkibiga kiritilgan 	2810	3290	Buxgalteriya hisob-kitoblari 
+16	Kechiktirilgan xarajatlar tegishli qismi sotish bo‘yicha xarajatlar tarkibiga kiritilgan 	9410	3290	Buxgalteriya hisob-kitoblari 
+17	Kechiktirilgan xarajatlar tegishli qismi ma’muriy xarajatlar tarkibiga kiritilgan 	9420	3290	Buxgalteriya hisob-kitoblari 
+18	Kechiktirilgan xarajatlar tegishli qismi zararlar tarkibiga kiritilgan 	9430	3290	Buxgalteriya hisob-kitoblari 
+19	Obligasiyalarning chegirma bilan sotilishi aks ettirilgan 	3220	7830, 6830	Buxgalteriya hisob-kitoblari 
+20	Joriy obligasiya chegirmasining hisobdan chiqarilishi aks ettirilgan 	9610	3220	Buxgalteriya hisob-kitoblari 
+21	Boshqa kechiktirilgan xarajatlarning joriy qismi o‘tkazilishi aks ettirilgan 	3290	Majbu- riyatlarni hisobga oluvchi schyotlar 	Buxgalteriya hisob-kitoblari 
+22	Kechiktirilgan xarajatlar tegishli qismi joriy xarajatlar tarkibiga kiritilgan 	Xarajat- larni hisobga oluvchi schyotlar 	3290	Buxgalteriya hisob-kitoblari 

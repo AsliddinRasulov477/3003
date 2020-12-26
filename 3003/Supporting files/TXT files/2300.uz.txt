@@ -1,0 +1,63 @@
+1	Yordamchi va boshqa ishlab chiqarish syexlarida foydalaniladigan asosiy vositalar eskirishi aks ettirilgan 	2310	0211-0290	Asosiy vositalar eskirishining hisob-kitobi
+2	Yordamchi va boshqa ishlab chiqarish xarajatlariga taalluqli nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	2310	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+3	Yordamchi va boshqa ishlab chiqarish ehtiyojlari uchun materiallar sarfxarajat qilingan 	2310	1010-1070 1090	Yukxat
+4	Mahsulot olish uchun hayvonlar so‘yilganligi aks ettirilgan 	2310	1110	Hayvonlarni so‘yish dalolatnomasi 
+5	Yordamchi va boshqa ishlab chiqarish ehtiyojlari uchun inventar va xo‘jalik jihozlari hisobdan chiqarilgan 	2310	1080	Yukxat
+6	Yordamchi va boshqa xizmat ko‘rsatuvchi syexlarda tugallanmagan ishlab chiqarish summalari oshirish yuzasidan qayta baholangan (bahosini oshirish) 	2310	9390	Korxona rahbariyatining qarori, buxgalteriya hisob-kitoblari 
+7	Materiallarning qiymatidagi farqlar hisoblangan ulush bo‘yicha yordamchi va boshqa ishlab chiqarish schyotlariga hisobdan chiqarilgan (musbat son bilan yoki storno) 	2310	1610	Buxgalteriya hisob-kitoblari 
+8	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar yordamchi va boshqa ishlab chiqarish ehtiyojlari uchun sarf-xarajat qilingan 	2310	2110	Yukxat
+9	Umumishlab chiqarish xarajatlarining tegishli ulushi yordamchi va boshqa ishlab chiqarish xarajatlariga taalluqli mahsulotlar, ishlar va xizmatlarning tannarxiga kiritilgan 	2310	2510	Buxgalteriya hisob-kitoblari 
+10	Ishlab chiqarishdagi yaroqsizlikdan yo‘qotishlar yordamchi va boshqa ishlab chiqarish mahsulotlarining tannarxiga kiritilgan 	2310	2610	Yaroqsizlik dalolatnomasi, buxgalteriya hisob-kitoblari 
+11	Kelgusi davr xarajatlari ulushi yordamchi va boshqa ishlab chiqarish mahsulotlari, ishlar va xizmatlarning tannarxi hisobiga kiritilgan 	2310	3110-3190	Buxgalteriyaning hisob-kitobi 
+12	Asosiy syexlar mahsulotlarining bir qismi yordamchi va boshqa ishlab chiqarish ehtiyojlari uchun foydalanilgan 	9110, 2310	2810, 9010	Yukxat 
+13	Yordamchi va boshqa ishlab chiqarishlarga taalluqli turli xarajatlarga naqd pul to‘langan 	2310	5010	Xarajatlar uchun mas’ul shaxslarning hisobotlari 
+14	Mol yetkazib beruvchilarning moddiy qiymatliklar hamda yordamchi va boshqa syexlarga yetkazib berilgan xizmatlar (suv, bug‘, energiya, aloqa va h.k.) bo‘yicha schyotlari qabul qilingan 	2310	6010, 6990	Shartnoma, hisobvaraq-faktura 
+15	Yordamchi syexlarga taalluqli qondirilmagan da’volar summasi ular mahsulotlari, ishlari va xizmatlari tannarxiga hisobdan chiqarilgan 	2310	4860	Sud qarori, korxona rahbarining qarori, buxgalteriyaning hisob-kitobi 
+16	Yordamchi va boshqa syexlar xodimlarining majburiy mulkiy va shaxsiy sug‘urta bo‘yicha xarajatlari (sug‘urta tashkilotlariga qarzlar) aks ettirilgan 	2310	6510	Buxgalteriyaning hisob-kitobi 
+17	Yordamchi syexlar xodimlariga to‘lanadigan ijtimoiy sug‘urta va mehnat haqi summalaridan ta’minotga ajratmalar aks ettirilgan 	2310	6520	Buxgalteriyaning hisob-kitobi 
+18	Byudjetdan tashqari jamg‘armalarga kiritiladigan summalar hisoblangan (yordamchi va boshqa ishlab chiqarish xarajatlari bo‘yicha) 	2310	6520	Buxgalteriyaning hisob-kitobi 
+19	Yordamchi ishlab chiqarish xodimlariga mehnat haqi to‘lash bo‘yicha summalar hisoblangan 	2310	6710	Bajarilgan ishlar dalolatnomasi, hisob olish tabeli, buxgalteriyaning hisob-kitobi 
+20	Yordamchi va boshqa ishlab chiqarish syexlariga ko‘rsatilgan xizmatlari uchun turli korxonalar oldidagi qarzlar aks ettirilgan 	2310	6990	Shartnoma, bajarilgan ishlar, xizmatlar dalolatnomasi 
+21	Hisobdor shaxslar tomonidan olingan summalardan ortiq sarflangan xarajatlar bo‘yicha qarzlar aks ettirilgan 	2310	6970	Yukxat, hisobdor shaxslarning hisobotlari, buxgalteriyaning hisob-kitobi 
+22	Yordamchi syexlar xodimlarining xizmat safarlari bo‘yicha xarajatlar aks ettirilgan: 			Bo‘nak hisoboti va unga ilova qilingan boshlang‘ich hujjatlar 
+	- ularga bo‘nak berilgan bo‘lsa 	2310	4220
+	- bo‘nak berilmagan bo‘lsa 	2310	6970
+23	Alohida balansga ajratilgan ichki bo‘linmalar tomonidan yordamchi va boshqa ishlab chiqarishlarga ko‘rsatilgan xizmatlar aks ettirilgan 	2310	6110	Shartnoma, yukxat, hisobvaraq-faktura 
+24	Yordamchi va boshqa syexlardagi tugallanmagan ishlab chiqarishning ortig‘i kirim qilingan (kamomaddan yuqori bo‘lgan summada) 	2310	9390	Inventarlash dalolatnomasi, buxgalteriyaning hisob-kitobi 
+25	Yetishmayotgan moddiy qiymatliklar qiymati yordamchi va boshqa ishlab chiqarish mahsulotlari, ishlar va xizmatlarning tannarxiga hisobdan chiqarilgan 	2310	5910	Inventarlash dalolatnomasi, buxgalteriyaning hisob-kitobi 
+26	Uzoq muddatli investisiyalar tartibida boshqa korxonalarga yordamchi syexlar tomonidan ishlar va xizmatlarning bir qismi ko‘rsatilgan (xarid qilingan qimmatli qog‘ozlar qiymati qoplangan) 	9110 0610	2310 9010-9030 	Shartnoma, yukxat, hisobvaraq-faktura, bajarilgan ishlar dalolatnomasi 
+27	O‘rnatiladigan asbobuskunalarni xarid qilishda yordamchi ishlab chiqarishlar tomonidan amalga oshirilgan xarajatlar (shu jumladan, transport xarajatlari) asbobuskunalar qiymatiga kiritilgan 	0710-0720	2310	Transport tashkilotlarining schyotlari, bildirgi, bajarilgan ishlar dalolatnomasi, buxgalteriyaning hisob-kitobi 
+28	Yordamchi syexlar tomonidan o‘z kapital qurilishi uchun ishlab chiqargan mahsulotlarining haqiqiy tannarxi hisobdan chiqarilgan 	0810	2310	Yukxat, bajarilgan ishlar dalolatnomasi 
+29	Yordamchi va boshqa syexlar tomonidan kapital qo‘yilmalarga amalga oshirilgan xarajatlar va xizmatlar hisobdan chiqarilgan 	0810-0890	2310	Yukxat, bajarilgan ishlar dalolatnomasi 
+30	Ilgari yordamchi va boshqa ishlab chiqarishlar ehtiyojlari uchun hisobdan chiqarilgan materiallar va chiqindilarning qaytarilishi aks ettirilgan; yordamchi va boshqa ishlab chiqarishlar tomonidan ishlab chiqarilgan ehtiyot qismlari kirim qilingan 	1010-1090	2310	Bildirgi, buxgalteriyaning hisob-kitobi 
+31	Yordamchi va boshqa syexlar xarajatlari o‘stirishdagi va bo‘rdoqiga boquvdagi hayvonlar tannarxiga kiritilgan 	1110	2310	Tannarx hisob-kitobi 
+32	Ilgari yordamchi ishlab chiqarish xarajatlariga hisobdan chiqarilgan inventar va xo‘jalik jihozlari qaytarilishi aks ettirilgan; yordamchi va boshqa syexlar tomonidan ishlab chiqarilgan inventar va xo‘jalik jihozlari kirim qilingan 	1080	2310	Bildirgi, buxgalteriyaning hisob-kitobi 
+33	Yordamchi syexlardagi tugallanmagan ishlab chiqarishni qayta baholash natijasida (bahosi kamaytirilganda) ular qiymati kamaytirilgan 	9430	2310	Korxona rahbarining qarori, buxgalteriyaning hisob-kitobi 
+34	Yordamchi syexlarning materiallarni tayyorlash va xarid qilishda ko‘rsatilgan xizmatlari va xarajatlari ushbu materiallar tannarxiga kiritilgan 	1510	2310	Yukxat, bajarilgan ishlar, xizmatlar dalolatnomasi, buxgalteriyaning hisob-kitobi 
+35	Ijaraga olingan asosiy vositalarni kapital ta’mirlash bo‘yicha xarajatlar hisobdan chiqarilgan (ijarachi hisobidan) 	6990	2310	Bajarilgan ishlar, xizmatlar dalolatnomasi, buxgalteriyaning hisob-kitobi 
+36	Yordamchi syexlarning xarajatlari va xizmatlari o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar tannarxiga kiritilgan 	2110	2310	Yukxat, bajarilgan ishlar, xizmatlar dalolatnomasi, buxgalteriyaning hisob-kitobi 
+37	Yaroqsizlikni tuzatish bo‘yicha yordamchi va boshqa syexlarning xarajatlari asosiy syexlarning yaroqsizlikdan yo‘qotishlari tarkibiga kiritilgan 	2610	2310	Yaroqsizlik dalolatnomasi, buxgalteriyaning hisob-kitobi 
+38	Yordamchi syexlar xarajatlarining ulushi ularni taqsimlash paytida boshqa yordamchi syexlar xarajatlariga kiritilgan 	2311	2310	Buxgalteriyaning hisob-kitobi 
+39	Yordamchi syexlar xarajatlarining ulushi ularni taqsimlash paytida umumishlab chiqarish xarajatlariga kiritilgan 	2510	2310	Buxgalteriyaning hisob-kitobi 
+40	Yordamchi syexlar xarajatlarining ulushi ularni taqsimlash paytida xizmat ko‘rsatuvchi xo‘jaliklar xarajatlariga kiritilgan 	2710	2310	Buxgalteriyaning hisob-kitobi 
+41	Yordamchi syexlar xarajatlarining ulushi ularni taqsimlash paytida ma’muriy xarajatlarga kiritilgan 	9420	2310	Buxgalteriyaning hisob-kitobi 
+42	Yordamchi va boshqa ishlab chiqarishlarning tegishli xarajatlari va xizmatlari kelgusi davr xarajatlariga kiritilgan (mavsumiy sohalarda) 	3110-3190	2310	Buxgalteriyaning hisob-kitobi
+43	Yordamchi va boshqa ishlab chiqarishlarning tayyor mahsulotlari kirim qilingan 	2810	2310	Yukxat, qabul qilish-topshirish dalolatnomasi 
+44	Yordamchi va boshqa ishlab chiqarishlar mahsulotlari tovar sifatida kirim qilingan (ushbu schyot savdo sohasining qayta ishlov berish korxonalarida va hokazolarda qo‘llanilganda) 	2910	2310	Yukxat, qabul qilish-topshirish dalolatnomasi 
+45	Mahsulotni yetkazib berish va sotish paytida yordamchi va boshqa ishlab chiqarishlar xizmatlari hisobdan chiqarilgan 	9410	2310	Bildirgi, bajarilgan ishlar, xizmatlar dalolatnomasi, buxgalteriyaning hisob-kitobi 
+46	Yordamchi va boshqa ishlab chiqarish syexlari tomonidan boshqalarga yuklab jo‘natilgan mahsulotlar hamda buyurtmachilarga bajarilgan ishlar va xizmatlar haqiqiy tannarxi bo‘yicha aks ettirilgan 	9130	2310	Shartnoma, hisobvaraq-faktura 
+47	Yordamchi syexlar xarajatlarining ulushi boshqa operasion xarajatlarga kiritilgan 	9430	2310	Buxgalteriyaning hisob-kitobi 
+48	Sotish va boshqa chiqib ketish paytida yordamchi va boshqa syexlar xarajatlari hisobdan chiqarilgan: 			Bildirgi, buxgalteriyaning hisob-kitobi 
+	- asosiy vositalar bo‘yicha 	9210	2310
+	- nomoddiy va boshqa aktivlar bo‘yicha 	9220	2310
+49	Qisqa muddatli investisiyalar tartibida yordamchi va boshqa syexlar tomonidan boshqa korxonalarga mahsulotlar berish va xizmatlar ko‘rsatish aks ettirilgan 	9130 (5810	2310 9030)	Shartnoma, hisobvaraq-faktura, yukxat 
+50	Yordamchi va boshqa syexlar tomonidan xodimlarga ko‘rsatilgan xizmatlar qiymati ularning mehnat haqidan ushlab qolingan 	6710	2310	Shartnoma, xizmatlar qiymatining hisob-kitobi 
+51	Yordamchi syexlar xarajatlarining ulushi qonunchilikka muvofiq aybdor shaxslar tomonidan undiriladigan moddiy zarar summasiga kiritilgan 	4730	2310	Keltirilgan zarar to‘g‘risida dalolatnoma, buxgalteriya hisob-kitoblari 
+52	Yordamchi va boshqa syexlarning shu’ba korxonalariga ko‘rsatgan xizmatlari sarf-xarajatlari hisobdan chiqarilgan 	4110	2310	Shartnoma, hisobvaraq-faktura, yukxat 
+53	Alohida balansga ajratilgan bo‘linmalarga yordamchi va boshqa ishlab chiqarishlar xarajatlari hisobdan chiqarilgan yoki mahsulot berilgan 	4110	2310	Shartnoma, hisobvaraq-faktura, yukxat
+54	Bekor qilingan buyurtmalar xarajatlariga kiritilgan yordamchi va boshqa syexlar xarajatlari hisobdan chiqarilgan 	9430	2310	Korxona rahbarining qarori, buxgalteriyaning hisob-kitobi 
+55	Yordamchi va boshqa syexlarning tabiiy ofat, yong‘inlar va hokazolar oqibatidagi yo‘qotishlari hisobdan chiqarilgan 	9720	2310	Yo‘qotishlar to‘g‘risidagi dalolatnoma 
+56	Inventarlash natijasida yordamchi va boshqa ishlab chiqarishlar syexlarida aniqlangan kamomadlar va moddiy qiymatliklar buzilishi aks ettirilgan 	5910	2310	Inventarlash dalolatnomasi 
+57	Ijaraga olingan asosiy vositalarning ijaraga beruvchi tomonidan amalga oshiriladigan kapital ta’mirlanishi bo‘yicha xarajatlari aks ettirilgan 	4890	2310	Shartnoma, bajarilgan ishlar, xizmatlar dalolatnomasi 
+58	Qaytariladigan va ko‘p marotaba aylanadigan idishlar bo‘yicha xarajatlar va yo‘qotishlar aks ettirilgan 	9430	2310	Bildirgi 
+59	Yordamchi syexlar tomonidan kelgusi xarajatlarning ilgari barpo etilgan rezervlar hisobidan asosiy vositalarni ta’mirlash qiymati hisobdan chiqarilgan 	8910	2310	Ta’mirlash ishlari bajarilganligi dalolatnomasi, yukxat

@@ -1,0 +1,53 @@
+1	Korxonada ishlab chiqarilgan tayyor mahsulot xodimlarga kreditga sotilgan 	4710	9010	Yukxat, hisobvaraq-faktura
+2	Xodimlarga tovarlar kreditga sotilgan 	4710	9020	Yukxat, hisobvaraq-faktura 
+3	Xodimlarga kreditga xizmatlar ko‘rsatilgan 	4710	9030	Hisobvaraq-faktura, bajarilgan ishlar dalolatnomasi 
+4	Xodimlarning alohida toifasiga to‘lov muddati kechiktirilib, maxsus kiyim-bosh va poyabzal berilgan 	4710	1080	Yukxat, tarqatish qaydnomasi 
+5	Xodimlarga kreditga sotilgan tovarlar uchun savdo tashkilotlariga pul mablag‘lari o‘tkazilgan 	4710	5110	Bank schyotlaridan ko‘chirmalar 
+6	Kreditga xarid qilingan tovarlar uchun xodimlardan kassaga kelib tushgan naqd pul to‘lovlarining navbatdagi summalari aks ettirilgan 	5010	4710	Kirim kassa orderi 
+7	Kreditga xarid qilingan tovarlar uchun xodimlardan hisobraqamiga kelib tushgan naqd pul to‘lovlarining navbatdagi summalari aks ettirilgan 	5110	4710	Hisob-kitob raqamidan bank ko‘chirmasi 
+8	Kreditga xarid qilingan tovarlar bo‘yicha umidsiz debitorlik qarzi dargumon qarzlar bo‘yicha rezerv hisobiga hisobdan chiqarilgan 	4910	4710	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+9	Kreditga xarid qilingan tovarlar bo‘yicha umidsiz debitorlik qarzi zararga hisobdan chiqarilgan 	9430	4710	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+10	Kreditga tovarlarni xarid qilgan xodimlarning qarzi uchun banklarning qisqa muddatli kreditlari olingan 	4710	6810	Kredit shartnomasi
+11	Kreditga tovarlarni xarid qilgan xodimlarning qarzi uchun banklarning uzoq muddatli kreditlari olingan 	4710	7810	Kredit shartnomasi
+12	Kreditga xarid qilingan tovarlar uchun xodimlar mehnat haqidan navbatdagi ushlab qolishlar aks ettirilgan 	6710	4710	Schyot-ma’lumotnoma
+13	Banklarning krediti bo‘yicha qarzlar korxona xodimlari tomonidan qisman qoplanishi aks ettirilgan 	6810, 7810	4710	Kredit shartnomasi
+14	Xodimlarga berilgan qarz (naqd pul ko‘rinishida) summasi aks ettirilgan 	4720	5010	Rahbariyatning qarori, chiqim kassa orderi 
+15	Xodimlarga taqdim etilgan qarz hisob-kitob schyotidan berilgan 	4720	5110	Rahbariyatning qarori, hisob-kitob schyotidan bank ko‘chirmasi 
+16	Xodimlarga taqdim etilgan qarz maxsus schyotdan berilgan 	4720	5530	Rahbariyatning qarori, maxsus schyotdan bank ko‘chirmasi 
+17	Xodimga berilgan qarz kassaga qaytarilgan 	5010	4720	Kirim kassa orderi 
+18	Xodimga berilgan qarz hisob-kitob schyotiga qaytarilgan 	5110	4720	Hisob-kitob schyotidan bank ko‘chirmasi 
+19	Xodimlarga berilgan qarz mehnat haqidan ushlab qolingan 	6710	4720	Mehnat haqining hisob-kitob qaydnomasi 
+20	Xodimlarga dargumon qarzlar bo‘yicha rezerv hisobidan berilgan qarz bo‘yicha umidsiz debitorlik qarzi hisobdan chiqarilgan 	4910	4720	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+21	Xodimlarga berilgan qarz bo‘yicha umidsiz debitorlik qarzi zararga hisobdan chiqarilgan 	9430	4720	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+22	Yaroqsizlikdan yo‘qotishlar moddiy zarar yetkazishda aybdor bo‘lgan xodimlar hisobiga hisobdan chiqarilgan 	4730	2610	Yaroqsizlik to‘g‘risida dalolatnoma 
+23	Kassada naqd pul kamomadi aks ettirilgan: 			Kassani inventarlash dalolatnomasi 
+	- kamomad summasiga 	5910	5010	
+	- kamomad moddiy javobgar shaxs hisobiga o‘tkazilgan 	4730	5910	
+24	Pul hujjatlarining kamomadi aks ettirilgan 	4730	5610	Inventarlash dalolatnomasi 
+25	Yo‘ldagi pul mablag‘lari kamomadi aks ettirilgan: 			Bank schyotlaridan ko‘chirmalar 
+	- kamomad summasiga 	5910	5710	
+	- kamomad moddiy javobgar shaxs hisobiga o‘tkazilgan 	4730	5910	
+26	Asosiy vositalar kamomadiga aybdor shaxslardan undirilishi lozim bo‘lgan summalar aks ettirilgan 	4730	9210	Asosiy vositalarning chiqib ketishi to‘g‘risida dalolatnoma 
+27	Boshqa aktivlar kamomadiga aybdor shaxslardan undirilishi lozim bo‘lgan summalar aks ettirilgan 	4730	9220	Boshqa aktivlarning chiqib ketishi to‘g‘risida dalolatnoma, inventarlash dalolatnomasi 
+28	Moddiy javobgar shaxs yoki boshqa xodim aybdor deb topilgan taqdirda, aktivlar kamomadining hisobdan chiqarilishi aks ettirilgan 	4730	5910	Inventarlash dalolatnomasi 
+29	Tovar-moddiy qiymatliklar qabul qilinib kirim qilinganda, tabiiy kamayish me’yoridan ortiq bo‘lgan kamomadi va xodimning mehnat haqidan ushlab qolinishi aks ettirilgan 	6710	4730	Yukxat, materiallarni qabul qilish dalolatnomasi 
+30	Yetishmayotgan asosiy vositani baholash natijasida, uning bozor qiymati (undirish summasi) daromad summasiga yetishmayotgan aktivning chiqib ketishidan ko‘rilgan zarar summasidan yuqori bo‘lgan taqdirda, kamomad aks ettirilgan 	4730	9310	Inventarlash dalolatnomasi 
+31	Yetishmayotgan boshqa aktivlarni baholash natijasida, uning bozor qiymati (undirish summasi) daromad summasiga yetishmayotgan aktivning chiqib ketishidan ko‘rilgan zarar summasidan yuqori bo‘lgan taqdirda, kamomad aks ettirilgan 	4730	9320	Inventarlash dalolatnomasi 
+32	Kapital qo‘yilmalarda yetishmayotgan va buzilgan qiymatlikning summasini, agar aybdor shaxslardan undirish rad etilgan taqdirda, kapital qo‘yilmalar bo‘yicha xarajatlarga olib borish aks ettirilgan 	0810	4730	Xo‘jalik sudining qarori 
+33	Aybdor shaxslardan undirilgan kamomadlar kassaga kelib tushgan 	5010	4730	Kirim kassa orderi 
+34	Aybdor shaxslardan undirilgan kamomadlar valyuta kassasiga kelib tushgan 	5020	4730	Kirim kassa orderi 
+35	Aybdor shaxslardan undirilgan kamomadlar hisob-kitob schyotiga kelib tushgan 	5110	4730	Hisob-kitob schyotidan bank ko‘chirmasi 
+36	Mas’ul shaxslar aybi bilan vujudga kelgan kamomadlar mehnat haqidan ushlab qolingan 	6710	4730	Hisob-kitob to‘lov qaydnomasi 
+37	Aybdor shaxslardan undirish rad etilgan taqdirda, kamomadlar zararga hisobdan chiqarilgan 	9430	4730	Rahbar buyrug‘i 
+38	Xodimlarning moddiy zararni qoplash bo‘yicha umidsiz debitorlik qarzi dargumon qarzlar bo‘yicha rezerv hisobiga hisobdan chiqarilgan 	4910	4730	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+39	Xodimlarning moddiy zararni qoplash bo‘yicha umidsiz debitorlik qarzi zararga hisobdan chiqarilgan 	9430	4730	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+40	Xodimlarga pul hujjatlari (yo‘llanmalar va hokazolar) berilgan 	4790	5610	Kassa hisoboti 
+41	Aksiyaga obuna ishtirokchilariga mehnat haqi bo‘yicha qarzini kamaytirib o‘zaro hisoblashish amalga oshirilgan 	6710	4790	Aksiyaga obuna qaydnomasi 
+42	Undirish sud tomonidan rad etilgan taqdirda, xodimlarning boshqa operasiyalar bo‘yicha qarzi zararga hisobdan chiqarilgan 	9430	4790	Xo‘jalik sudining qarori 
+43	Boshqa korxona va tashkilotlar bilan hisob-kitob qilish uchun hisobdor shaxslarga cheklangan chek daftarchalari berilgan 	4220, 4230	4790	Chek daftarchalarini biriktirib qo‘yish to‘g‘risida buyruq 
+44	Cheklangan chek daftarchalarining ishlatilmagan qismi qaytarilgan 	4790	4220, 4230	Bo‘nak hisoboti 
+45	Xodimlarning boshqa umidsiz debitorlik qarzi dargumon qarzlar bo‘yicha rezerv hisobiga hisobdan chiqarilgan 	4910	4790	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+46	Xodimlarning boshqa umidsiz debitorlik qarzi zararga hisobdan chiqarilgan 	9430	4790	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+47 	Oldingi yillar uchun xodimlarning debitorlik karzlari bo'yicha foyda hisoblandi 	4710	9340	Kassa kirim orderi,buxgalteriyaning hisob kitob ma'lumotnomasi 
+48 	Korxonada ishlab chiqarilgan tayyor mahlot ishchilarga kreditga sotilgan 	4710	9010	Yukxati, schot faktura
+49 	Kreditga sotilgan tayyor mahlot naqd to'langan 	5010	4710	Kassa kirim orderi

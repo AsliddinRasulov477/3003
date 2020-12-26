@@ -1,0 +1,81 @@
+1	Yaroqsizlikdan yo‘qotishlar qiymati aybdor tomonidan qoplangan 	5010	2610	Kassir hisoboti, kirim kassa orderi
+2	Sotilgan mahsulot, ishlar va xizmatlar uchun xaridorlarning qarzi ular tomonidan naqd pul bilan qoplangan 	5010	4010	Kassir hisoboti, kirim kassa orderi 
+3	Shu’ba korxonalaridan summalar kelib tushgan 	5010	4110, 4120	Kelib tushish to‘g‘risida xabarnoma, kirim kassa orderi, kassir hisoboti 
+4	Hisobdor shaxslar tomonidan ilgari olingan ishlatilmagan bo‘naklar qaytarilgan 	5010	4220, 4230	Bo‘nak hisoboti, kirim kassa orderi, kassir hisoboti 
+5	Tovar-moddiy qimmatliklar yetkazib berish uchun ilgari mol yetkazib beruvchilar va pudratchilarga berilgan bo‘naklar qaytarilgan 	5010	4310	Qaytarish to‘g‘risida xabarnoma, kirim kassa orderi, kassir hisoboti 
+6	Ta’sischilar tomonidan korxona ustav kapitalidagi ulushi hisobiga naqd pul mablag‘lari berilgan 	5010	4610	Ta’sis hujjatlari, berish to‘g‘risida ariza 
+7	Xodimlardan kreditga olingan tovarlar uchun to‘lov hisobiga kassaga kelib tushgan naqd pul ko‘rinishidagi navbatdagi to‘lov summalari aks ettirilgan 	5010	4710	Kirim kassa orderi, kassir hisoboti 
+8	Xodimga berilgan qarz kassaga qaytarilgan 	5010	4720	Kirim kassa orderi, kassir hisoboti 
+9	Aybdor shaxslardan undirilgan kamomadlar kassaga kelib tushgan 	5010	4730	Kirim kassa orderi, kassir hisoboti 
+10	Aybdor shaxslardan undirilgan kamomadlar valyuta kassasiga kelib tushgan 	5020	4730	Kirim kassa orderi, kassir hisoboti 
+11	Mehnatga ortiqcha to‘langan summalar naqd pul ko‘rinishida qaytarilgan 	5010	4790	Buxgalteriyaning qayta hisob-kitobi, kirim kassa orderi, kassir hisoboti 
+12	Moliyaviy ijara shartnomasiga muvofiq moliyaviy ijara bo‘yicha qarzlarni qoplash hisobiga ijarachilardan kassaga pul mablag‘lari kelib tushgan 	5010	4810	Moliyaviy ijara shartnomasi, ijara to‘lovining hisob-kitobi, hisobvaraq-faktura 
+13	Veksellar bo‘yicha foizlar summasi, boshqa korxonalarda ulushli ishtirok etganligidan daromadlar kelib tushgan 	5010	4830	Kirim kassa orderi, kassir hisoboti 
+14	Qimmatli qog‘ozlar bo‘yicha dividendlar summasi kelib tushgan 	5010	4840	Kirim kassa orderi, kassir hisoboti 
+15	Ilgari taqdim etilgan da’volar bo‘yicha naqd pul kelib tushgan 	5010	4860	Solishtirma dalolatnoma, Xo‘jalik sudining qarori, kassir hisoboti, kirim kassa orderi 
+16	Xonadonlar ijarachilaridan qarz summalari kelib tushgan 	5010	4890	Kirim kassa orderi, kassir hisoboti 
+17	Kommunal xizmatlar, aloqa xizmati va boshqalar uchun turli to‘lovlar kelib tushgan 	5010	4890	Kirim kassa orderi, kassir hisoboti 
+18	Bankdagi hisob-kitob schyotidan pul mablag‘lari kelib tushgan (mehnat haqini, pensiyalarni, nafaqalarni, mukofotlarni va boshqalarni berish uchun) 	5010	5110	Pul chekining chiptalari, bank schyotlari ko‘chirmasi, kirim kassa orderi, kassa kitobi 
+19	Xizmat safari bo‘yicha bo‘naklar berish uchun bankdagi valyuta schyotidan pul mablag‘lari kelib tushgan 	5020	5210	Pul chekining chiptalari, bank schyotlari ko‘chirmasi, kirim kassa orderi, kassa kitobi 
+20	Banklardagi maxsus schyotdan pul mablag‘lari kelib tushgan (mehnat haqini, pensiyalarni, nafaqalarni, mukofotlarni va boshqalarni berish uchun) 	5010	5530	Pul chekining chiptalari, bank schyotlari ko‘chirmasi, kirim kassa orderi, kassa kitobi 
+21	Yo‘lda deb hisoblangan pul mablag‘lari kelib tushgan 	5010	5710	Kelib tushish to‘g‘risida xabarnoma, kassir hisoboti, kirim kassa orderi 
+22	Kassaga to‘lovlar kelgusi davr daromadlari hisobiga kirim qilingan (kommunal, aloqa xizmatlari va boshqalar uchun) 	5010	6230	Kirim kassa orderi, kassir hisoboti 
+23	Tovarlar uchun xaridorlardan va buyurtmachilardan kelib tushgan bo‘naklar summasi aks ettirilgan 	5010	6310	Shartnoma, kirim kassa orderi, kassir hisoboti 
+24	Yakka tartibda uy-joy qurish uchun xodimlarga qarzga beriladigan qisqa muddatli kredit summalari olingan 	5010	6810	Pul cheki, kirim kassa orderi, kassir hisoboti 
+25	Korxonaning sotilgan qisqa muddatli obligasiyalari uchun naqd pul tushumi olingan 	5010	6830	Obligasiya kelishuvi, kassir hisoboti, kirim kassa orderi 
+26	Yakka tartibda uy-joy qurish uchun xodimlarga qarzga beriladigan uzoq muddatli kredit summalari olingan 	5010	7810	Pul cheki, kirim kassa orderi, kassir hisoboti 
+27	Oddiy aksiyalar naqd pulga sotilganligi aks ettirilgan 	5010	8310	Sotish to‘g‘risida dalolatnoma, kirim kassa orderi, kassir hisoboti 
+28	Imtiyozli aksiyalar naqd pulga sotilganligi aks ettirilgan 	5010	8320	Sotish to‘g‘risida dalolatnoma, kirim kassa orderi, kassir hisoboti 
+29	Ustav kapitaliga naqd pul berilganligi aks ettirilgan 	5010	8330	Sotish to‘g‘risida dalolatnoma, kirim kassa orderi, kassir hisoboti 
+30	Aksiyalar nominaldan yuqori bahoda sotilganligi natijasida olingan emissiya daromadi aks ettirilgan 	5010	8410	Sotish to‘g‘risida dalolatnoma, kirim kassa orderi, kassir hisoboti 
+31	Mablag‘lar, jumladan maqsadli tushumlar kassaga kelib tushganligi munosabati bilan maqsadli moliyalashtirish tashkil etilgan 	5010	8810-8890	Kirim kassa orderi, kassir hisoboti 
+32	Tayyor mahsulot sotilganligi uchun naqd pul tushumi kelib tushgan 	5010	9010	Kirim kassa orderi, kassir hisoboti, yukxat 
+33	Tovarlar sotilganligi uchun naqd pul tushumi kelib tushgan 	5010	9020	Nazorat-kassa mashinasining ko‘rsatkichlari, kassir hisoboti 
+34	Ko‘rsatilgan xizmatlar, bajarilgan ishlar uchun naqd pul tushumi kassaga kelib tushgan 	5010	9030	Kassir hisoboti, kirim kassa orderi, bajarilgan ishlar (xizmatlar) dalolatnomasi 
+35	Asosiy vositalar sotilganligi uchun naqd pul tushumi kelib tushgan 	5010	9210	Xarid qilish to‘g‘risida ariza, kirim kassa orderi 
+36	Boshqa aktivlar sotilganligi uchun naqd pul tushumi olingan 	5010	9220	Kirim kassa orderi, chipta 
+37	Tekinga moliyaviy yordam sifatida kelib tushgan pul mablag‘lari (hadya shartnomasi bo‘yicha) kirim qilingan 	5010	9380	Hadya shartnomasi, kirim kassa orderi, kassir hisoboti 
+38	Inventarlash paytida aniqlangan ortiqcha pul mablag‘lari kirim qilingan 	5010	9390	Inventarlash dalolatnomasi, kirim kassa orderi, kassir hisoboti 
+39	Valyuta kassasi bo‘yicha musbat kurs farqi aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- hisobdan chiqarishning to‘g‘ri usuli bo‘yicha 	5020	9540
+	- jamg‘arish usuli bo‘yicha 	5020	6230
+40	Dasturiy materiallar kassadan to‘lov yo‘li bilan olingan va kirim qilingan 	0430	5010	Xarid qilish dalolatnomasi, chiqim kassa orderi 
+41	Xarid qilingan qimmatli qog‘ozlar uchun naqd pul to‘langan; shu’ba va qaram xo‘jaliklarning ustav kapitaliga naqd pul berilganligi aks ettirilgan 	0610	5010	Chiqim kassa orderi, kassir hisoboti 
+42	Uzoq muddatli qarz naqd pul ko‘rinishida berilgan 	0930-0940	5010	Chiqim kassa orderi, kassir hisoboti 
+43	Kelgusi davr xarajatlari uchun naqd pul to‘langan 	3110-3190	5010	Chiqim kassa orderi, kassir hisoboti 
+44	Xodimlarning xizmat safari uchun bo‘nak berilgan 	4220	5010	Chiqim kassa orderi, kassir hisoboti 
+45	Umumxo‘jalik xarajatlari uchun xodimlarga bo‘nak berilgan 	4230	5010	Chiqim kassa orderi, kassir hisoboti 
+46	Mol yetkazib beruvchilarga bo‘nak naqd pul bilan to‘langan 	4310	5010	Chiqim kassa orderi, kassir hisoboti 
+47	Xodimlar kreditga tovarlar xarid qilganliklari uchun ularga naqd pul berilgan 	4710	5010	Chiqim kassa orderi, kassir hisoboti 
+48	Xodimlarga ssuda naqd pul bilan berilgan 	4720	5010	Chiqim kassa orderi, kassir hisoboti 
+49	Moddiy zararni qoplash uchun kassaga naqd pul kelib tushgan 	5010	4730	Inventarlash dalolatnomasi, chiqim kassa orderi, kassir hisoboti 
+50	Naqd pul qoldig‘i kassadan hisob-kitob schyotiga qaytarilgan 	5110	5010	Chiqim kassa orderi, kassir hisoboti 
+51	Naqd pul qoldig‘i kassadan valyuta schyotiga qaytarilgan 	5210	5020	Chiqim kassa orderi, kassir hisoboti 
+52	Naqd pul qoldig‘i kassadan bankdagi maxsus schyotga qaytarilgan 	5530	5010	Chiqim kassa orderi, kassir hisoboti 
+53	Kassada naqd pul kamomadi aks ettirilgan: 			Kassani inventarlash dalolatnomasi 
+	- kamomad summasiga 	5910	5010
+	- kamomad moddiy javobgar shaxsning hisobiga hisobdan chiqarilishi 	4730	5910
+54	Pul mablag‘larining inkassatorga topshirilganligi aks ettirilgan 	5710	5010	Chiqim kassa orderi, kassir hisoboti 
+55	Xarid qilinadigan qisqa muddatli qimmatli qog‘ozlar uchun naqd pul to‘langan 	5810	5010	Chiqim kassa orderi, kassir hisoboti 
+56	Qisqa muddatli qarz naqd pul bilan berilgan 	5820	5010	Chiqim kassa orderi, kassir hisoboti 
+57	Mol yetkazib beruvchilarga qarz kassa orqali naqd pul bilan to‘langan 	6010	5010	Chiqim kassa orderi, kassir hisoboti 
+58	Mol yetkazib beruvchilarga berilgan veksellar bo‘yicha qarz kassa orqali naqd pul bilan qoplangan 	6020	5010	Chiqim kassa orderi, kassir hisoboti 
+59	Xaridorlardan olingan bo‘naklar qaytarilgan 	6310	5010	Chiqim kassa orderi, kassir hisoboti 
+60	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlarining qarzlari naqd pul bilan qaytarilgan 	6110, 6120	5010	Chiqim kassa orderi, kassir hisoboti 
+61	Byudjet oldidagi qarz naqd pul bilan qoplangan 	6410	5010	Chiqim kassa orderi, kassir hisoboti 
+62	Sug‘urta va maqsadli davlat jamg‘armalari bo‘yicha to‘lovlar naqd pul bilan qoplangan 	6510, 6520	5010	Chiqim kassa orderi, kassir hisoboti 
+63	Ta’sischilarga dividendlar naqd pul bilan to‘langan 	6610	5010	Chiqim kassa orderi, kassir hisoboti 
+64	Mehnat haqi, ustamalar, qo‘shimcha to‘lovlar, mukofotlar berilgan 	6710	5010	To‘lov qaydnomasi, chiqim kassa orderi, kassir hisoboti 
+65	Deponentlangan mehnat haqi berilgan 	6720	5010	To‘lov qaydnomasi, chiqim kassa orderi, kassir hisoboti 
+66	Bankning qisqa muddatli krediti naqd pul bilan qoplangan 	6810	5010	Chiqim kassa orderi, kassir hisoboti 
+67	Qisqa muddatli qarzlar naqd pul bilan qoplangan 	6820	5010	Chiqim kassa orderi, kassir hisoboti 
+68	Qisqa muddatli obligasiyalar bo‘yicha qarz naqd pul bilan qoplangan 	6830	5010	Chiqim kassa orderi, kassir hisoboti 
+69	Qisqa muddatli veksellar bo‘yicha qarz naqd pul bilan qoplangan 	6840	5010	Chiqim kassa orderi, kassir hisoboti 
+70	Uzoq muddatli ijaraga olingan asosiy vositalardan foydalanganlik uchun ijaraga oluvchiga tegishli to‘lovlar va foizlar to‘langan 	6920, 6950	5010	Chiqim kassa orderi, ijara shartnomasi, majburiyat 
+71	Nafaqalar, ijro varaqalari bo‘yicha summalar, moddiy yordam berilgan 	6990	5010	Chiqim kassa orderi, kassir hisoboti 
+72	Ustav kapitaliga ulushlar naqd pul bilan berilgan 	6620	5010	Chiqim kassa orderi, kassir hisoboti 
+73	Sotib olingan xususiy aksiyalar uchun naqd pul to‘langan 	8610	5010	Chiqim kassa orderi, kassir hisoboti 
+74	Kassadan sarf-xarajat qilingan maqsadli mablag‘larning summasi hisobdan chiqarilgan 	8810-8890	5010	Chiqim kassa orderi, kassir hisoboti 
+75	Valyuta kassasi bo‘yicha manfiy kurs farqi aks ettirilgan: 			Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+	- hisobdan chiqarishning to‘g‘ri usuli bo‘yicha 	9620	5020
+	- jamg‘arish usuli bo‘yicha 	3290	5020

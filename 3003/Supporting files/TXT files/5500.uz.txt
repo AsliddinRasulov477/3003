@@ -1,0 +1,99 @@
+1	Pul mablag‘lari akkreditivga o‘tkazilgan 	5510	5110, 5210-5220 	Maxsus schyotdan bank ko‘chirmasi
+2	Hisob-kitoblarni amalga oshirish uchun chek daftarchasi ochilgan 	5520	5110	Chek daftarchasi, hisob-kitob schyotidan bank ko‘chirmasi 
+3	Uzoq muddatli qimmatli qog‘ozlar sotilishidan maxsus schyotga summa kelib tushgan 	5530	0610	Maxsus schyotdan bank ko‘chirmasi 
+4	Tayyor mahsulot, tovarlar, xizmatlar va ishlar sotilishidan maxsus schyotga tushum kelib tushgan 	5530	4010	Maxsus schyotdan bank ko‘chirmasi 
+5	Asosiy vositalar va boshqa aktivlar sotilishidan maxsus schyotga tushum kelib tushgan 	5530	4010, 4890	Maxsus schyotdan bank ko‘chirmasi 
+6	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan maxsus schyotga tushum kelib tushgan 	5530	4110, 4120	Maxsus schyotdan bank ko‘chirmasi 
+7	Boshqa tashkilotlarda ulushli ishtirok etganlik uchun daromadlar summalari kelib tushgan 	5530	4840	Maxsus schyotdan bank ko‘chirmasi 
+8	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan maxsus schyotga sotishdan tushum kelib tushgan 	5530	4110, 4120	Maxsus schyotdan bank ko‘chirmasi 
+9	Ishlatilmagan summalar hisobdor shaxslar tomonidan maxsus schyotga qaytarilgan 	5530	4220, 4230	Maxsus schyotdan bank ko‘chirmasi 
+10	Ilgari berilgan bo‘nak mol yetkazib beruvchi tomonidan qaytarilgan 	5530	4310-4330	Maxsus schyotdan bank ko‘chirmasi 
+11	Yanglish hisoblangan soliqlar byudjetdan qaytarilgan 	5530	4410	Maxsus schyotdan bank ko‘chirmasi 
+12	Yanglish hisoblangan summalar sug‘urta idoralari tomonidan qaytarilgan 	5530	4510, 4520	Maxsus schyotdan bank ko‘chirmasi
+13	Mehnatga layoqatsizlik varaqalari, pensiyalar, nafaqalarni to‘lash uchun Pensiya jamg‘armasidan summa maxsus schyotga kelib tushgan 	5530	4520	Maxsus schyotdan bank ko‘chirmasi 
+14	Ustav kapitaliga badal summalari maxsus schyotdan ta’sischilarga qaytarilgan 	5530	4610	Ta’sischilar majlisining bayonnomasi, maxsus schyotdan bank ko‘chirmasi 
+15	Tovarlar kreditga sotilishidan pul mablag‘lari kelib tushishi aks ettirilgan 	5530	4710	Maxsus schyotdan bank ko‘chirmasi 
+16	Xodimlarga berilgan ssuda maxsus schyotga qaytarilgan 	5530	4720	Maxsus schyotdan bank ko‘chirmasi 
+17	Moddiy zararni qoplash bo‘yicha xodimlarning qarzi maxsus schyotga to‘langan 	5530	4730	Maxsus schyotdan bank ko‘chirmasi 
+18	Moliyaviy ijara (lizing) shartlari bilan berilgan asosiy vositalar bo‘yicha ijaraga oluvchidan ijara to‘lovi kelib tushishi aks ettirilgan 	5110	4810	Maxsus schyotdan bank ko‘chirmasi 
+19	Qisqa muddatli ijara bo‘yicha qarzni qoplash uchun maxsus schyotga summa kelib tushgan 	5530	4820	Maxsus schyotdan bank ko‘chirmasi 
+20	Berilgan kreditlar va qarzlar bilan bog‘liq foizlar bo‘yicha qarzlarni qoplash uchun maxsus schyotga summa kelib tushgan 	5530	4830	Maxsus schyotdan bank ko‘chirmasi 
+21	Olinadigan dividendlar bo‘yicha qarzni qoplash uchun maxsus schyotga summa kelib tushgan 	5530	4840	Maxsus schyotdan bank ko‘chirmasi 
+22	Royalti bo‘yicha qarzni qoplash uchun maxsus schyotga summa kelib tushgan 	5530	4850	Maxsus schyotdan bank ko‘chirmasi 
+23	Mol yetkazib beruvchilar va pudratchilarga taqdim etilgan da’volar bo‘yicha qarz qoplanishi uchun summalar maxsus schyotga kelib tushgan 	5530	4860	Maxsus schyotdan bank ko‘chirmasi 
+24	Yanglish olingan summa maxsus schyotga qaytarilgan 	5530	4860	Maxsus schyotdan bank ko‘chirmasi 
+25	Boshqa debitorlar qarzlarini qoplash uchun maxsus schyotga summa kelib tushgan 	5530	4890	Maxsus schyotdan bank ko‘chirmasi 
+26	Qarzni qoplash uchun pul mablag‘lari kassadan maxsus schyotga topshirilgan 	5530	5010	Chiqim kassa orderi, kassir hisoboti, maxsus schyotdan bank ko‘chirmasi 
+27	Chet el valyutasini xarid qilish uchun, shuningdek korporativ kartochka ochish uchun mablag‘lar o‘tkazilgan 	5530	5110	To‘lov topshiriqnomasi, hisob-kitob schyotidan bank ko‘chirmasi 
+28	Sotilgan chet el valyutasining so‘mdagi ekvivalenti hisob-kitob schyotiga kiritilgan: 			Maxsus schyotdan bank ko‘chirmasi 
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan valyutaning qiymatiga 	5110	5530
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti bilan Markaziy bank kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti o‘rtasidagi musbat farq summasiga 	5510	9540
+	- sotish kuni valyuta bozorida bitim kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti bilan Markaziy bank kursi bo‘yicha sotilgan chet el valyutasining so‘mdagi ekvivalenti o‘rtasidagi manfiy farq summasiga 	9620	5530
+29	Bankdagi maxsus schyotni yopishda hisob-kitob schyotiga summa kelib tushgan 	5110	5530	Maxsus schyotdan bank ko‘chirmasi 
+30	Yo‘ldagi pul mablag‘lari maxsus schyotga tushgan 	5530	5710	Maxsus schyotdan bank ko‘chirmasi 
+31	Qisqa muddatli qimmatli qog‘ozlar sotilgan 	5530	5810	Maxsus schyotdan bank ko‘chirmasi 
+32	Qisqa muddatli investisiyalar tartibida ilgari taqdim etilgan qarz qaytarilgan 	5530	5830	Maxsus schyotdan bank ko‘chirmasi 
+33	Bankka qaytarilgan cheklar va akkreditivlar (ishlatilmagan) bo‘yicha summalar maxsus schyotga o‘tkazilgan 	5530	5510, 5520	Maxsus schyotdan bank ko‘chirmasi 
+34	Ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlaridan maxsus schyotga summa kelib tushgan 	5530	6110, 6120	Maxsus schyotdan bank ko‘chirmasi 
+35	Kechiktirilgan daromadlar (kelgusi davr daromadlari) tarkibidagi summalar maxsus schyotga kelib tushgan 	5530	6230	Maxsus schyotdan bank ko‘chirmasi 
+36	Olingan bo‘naklar summasi, shuningdek mahsulot qisman tayyorlanganligi uchun olingan to‘lov summalari aks ettirilgan 	5530	6310	Maxsus schyotdan bank ko‘chirmasi 
+37	Aksiyalarga obunachilardan ishtirokchilar depoziti ko‘rinishida bo‘nak olingan 	5530	6320	Maxsus schyotdan bank ko‘chirmasi 
+38	Bankning qisqa muddatli ssudasi maxsus schyotga kelib tushgan 	5530	6810	Kredit shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+39	Boshqa korxonaning qisqa muddatli ssudasi maxsus schyotga kelib tushgan 	5530	6820	Kredit shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+40	Qisqa muddatli obligasiyalar sotilishidan summa maxsus schyotga kelib tushgan 	5530	6830	Obligasiya kelishuvi, maxsus schyotdan bank ko‘chirmasi 
+41	Qisqa muddatli veksel bo‘yicha pul mablag‘lari maxsus schyotga kelib tushgan 	5530	6840	Kredit shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+42	Pul mablag‘lari maxsus schyotga yanglish kelib tushgan 	5530	6960	Maxsus schyotdan bank ko‘chirmasi 
+43	Bankning uzoq muddatli ssudasi maxsus schyotga kelib tushgan 	5530	7810	Kredit shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+44	Boshqa korxonaning uzoq muddatli ssudasi maxsus schyotga kelib tushgan 	5530	7820	Kredit shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+45	Uzoq muddatli obligasiyalar sotilishidan summa maxsus schyotga kelib tushgan 	5530	7830	Obligasiya kelishuvi, maxsus schyotdan bank ko‘chirmasi 
+46	Uzoq muddatli veksel hisobidan maxsus schyotga pul mablag‘lari kelib tushgan 	5530	7840	Uzoq muddatli veksel, maxsus schyotdan bank ko‘chirmasi 
+47	Ustav kapitaliga badal hisobiga ta’sischilardan pul mablag‘lari maxsus schyotga kelib tushgan 	5530	8310-8330	Aksiyalarga obuna daftari, maxsus schyotdan bank ko‘chirmasi 
+48	Maqsadli moliyalashtirish mablag‘lari maxsus schyotga kelib tushgan 	5530	8810-8890	Maxsus schyotdan bank ko‘chirmasi, maqsadli moliyalashtirish shartnomasi 
+49	Tekin qaytarilmaydigan moliyaviy yordam maxsus schyotga kelib tushgan 	5530	9390	Maxsus schyotdan bank ko‘chirmasi 
+50	Maxsus schyotdan uzoq muddatli qimmatli qog‘ozlar xarid qilingan 	0610	5530	Maxsus schyotdan bank ko‘chirmasi 
+51	Maxsus schyotdan shu’ba xo‘jalik jamiyatlariga investisiyalar aks ettirilgan 	0620	5530	Maxsus schyotdan bank ko‘chirmasi 
+52	Maxsus schyotdan qaram xo‘jalik jamiyatlariga investisiyalar aks ettirilgan 	0630	5530	Maxsus schyotdan bank ko‘chirmasi 
+53	Maxsus schyotdan chet el kapitali ishtirokidagi korxonalarga investisiyalar aks ettirilgan 	0640	5530	Maxsus schyotdan bank ko‘chirmasi 
+54	Kapital qo‘yilmalar bo‘yicha turli xarajatlar naqd pulsiz yo‘l bilan maxsus schyotdan to‘langan 	0810-0890	5530	Bildirgi, maxsus schyotdan bank ko‘chirmasi, to‘lov topshiriqnomasi 
+55	Maxsus schyotdan xodimlarga va boshqa korxonalarga uzoq muddatli kreditlar berilgan 	0930, 0940	5530	Kredit shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+56	Maxsus schyotdan operativ ijara bo‘yicha oldindan to‘lov o‘tkazilgan 	3110	5530	Ijara shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+57	Maxsus schyotdan xizmatlar uchun oldindan to‘lov o‘tkazilgan 	3120	5530	Shartnoma, maxsus schyotdan bank ko‘chirmasi 
+58	Maxsus schyotdan kelgusi davr boshqa xarajatlari uchun summa o‘tkazilgan 	3190	5530	Shartnoma, maxsus schyotdan bank ko‘chirmasi 
+59	Maxsus schyotdan ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlariga summa o‘tkazilgan 	4110-4120	5530	Maxsus schyotdan bank ko‘chirmasi 
+60	Maxsus schyotdan hisobdor shaxslarga bo‘naklar o‘tkazilgan 	4220, 4230	5530	Maxsus schyotdan bank ko‘chirmasi 
+61	Maxsus schyotdan mol yetkazib beruvchilar va pudratchilarga berilgan bo‘naklar summasi aks ettirilgan 	4310-4330	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+62	Maxsus schyotdan sug‘urta firmasiga sug‘urta bo‘yicha bo‘nak to‘lovlari o‘tkazilgan 	4510	5530	Maxsus schyotdan bank ko‘chirmasi 
+63	Maxsus schyotdan xodimlar tomonidan kreditga olingan tovarlar uchun summa o‘tkazilgan 	4710	5530	Maxsus schyotdan bank ko‘chirmasi 
+64	Maxsus schyotdan xodimlarga taqdim etilgan qisqa muddatli qarzlar o‘tkazilgan 	4720	5530	Maxsus schyotdan bank ko‘chirmasi 
+65	Maxsus schyotdan bank tomonidan yanglish summa olingan 	4860	5530	Maxsus schyotdan bank ko‘chirmasi 
+66	Ishlatilmagan akkreditivning qoldig‘i qaytarilgan 	5110	5510	Maxsus schyotdan bank ko‘chirmasi 
+67	Ishlatilmagan cheklarning qoldig‘i qaytarilgan 	5110	5520	Maxsus schyotdan bank ko‘chirmasi 
+68	Maxsus schyotdan ishlatilmagan mablag‘larning qoldig‘i qaytarilgan 	5110	5530	Maxsus schyotdan bank ko‘chirmasi 
+69	Maxsus schyotdan xarid qilingan yo‘llanmalar uchun summa to‘langan 	5610	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+70	Maxsus schyotdan bajarilgan ishlar uchun mol yetkazib beruvchilar va pudratchilar oldidagi qarz qoplangan 	6010	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+71	Maxsus schyotdan bajarilgan ishlar uchun mol yetkazib beruvchilarga va pudratchilarga berilgan veksellar bo‘yicha qarz qoplangan 	6020	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+72	Maxsus schyotdan ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlari oldidagi qarz qoplangan 	6110, 6120	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+73	Maxsus schyotdan xaridorlardan ilgari olingan bo‘naklar qaytarilgan 	6310	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+74	Maxsus schyotdan byudjetga ajratmalar va to‘lovlar bo‘yicha qarzlar summasi o‘tkazilgan (yil davomida va qo‘shimchalari) 	6410	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+75	Maxsus schyotdan molmulk sug‘urtasi bo‘yicha sug‘urta kompaniyasi oldidagi qarz qoplangan 	6510	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+76	Maxsus schyotdan maqsadli davlat jamg‘armalariga ajratmalar bo‘yicha qarz qoplangan 	6520	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+77	Maxsus schyotdan ta’sischilarga korxonada ishtirok etganligi uchun hisoblangan daromadlar (dividendlar) to‘langan 	6610	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi, ta’sischilar majlisining bayonnomasi 
+78	Ta’sischining badali pul mablag‘lari bilan qaytarilgan 	6620	5530	Ta’sischilar majlisining bayonnomasi, maxsus schyotdan bank ko‘chirmasi 
+79	Maxsus schyotdan banklarning qisqa muddatli kreditlari qoplangan 	6810	5530	Kredit shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+80	Maxsus schyotdan boshqa korxonalarning qisqa muddatli kreditlari qoplangan 	6820	5530	Kredit shartnomasi, maxsus schyotdan bank ko‘chirmasi 
+81	Maxsus schyotdan qisqa muddatli obligasiyalar qoplangan 	6830	5530	Obligasiya kelishuvi, maxsus schyotdan bank ko‘chirmasi 
+82	Maxsus schyotdan to‘lanadigan veksellar bo‘yicha qarz qoplangan 	6840	5530	To‘lanadigan veksel, maxsus schyotdan bank ko‘chirmasi 
+83	Maxsus schyotdan to‘lanadigan operativ ijara bo‘yicha qarz qoplangan 	6910	5530	To‘lanadigan veksel, maxsus schyotdan bank ko‘chirmasi 
+84	Maxsus schyotdan hisoblangan foizlar bo‘yicha qarz qoplangan 	6920	5530	Buxgalteriyaning hisob-kitob ma’lumotnomasi, maxsus schyotdan bank ko‘chirmasi 
+85	Maxsus schyotdan moliyaviy ijara (lizing) shartnomasiga muvofiq ijara to‘lovi bo‘yicha qarz qoplangan 	6920	5530	Buxgalteriyaning hisob-kitob ma’lumotnomasi, maxsus schyotdan bank ko‘chirmasi 
+86	Maxsus schyotdan hisoblangan royalti bo‘yicha qarz qoplangan 	6930	5530	Buxgalteriyaning hisob-kitob ma’lumotnomasi, maxsus schyotdan bank ko‘chirmasi 
+87	Maxsus schyotdan kafolatlar bo‘yicha qarz qoplangan 	6940	5530	Buxgalteriyaning hisob-kitob ma’lumotnomasi, maxsus schyotdan bank ko‘chirmasi 
+88	Maxsus schyotdan bankning uzoq muddatli kreditining joriy qismi va boshqa korxonalardan olingan kreditlar qoplangan 	6950	5530	Maxsus schyotdan bank ko‘chirmasi 
+89	Maxsus schyotdan ijaraga oluvchi tomonidan moliyaviy ijara (lizing) shartnomasi bo‘yicha ijaraga beruvchiga lozim bo‘lgan to‘lovlar to‘langan 	6950	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi, ijara to‘lovlarining jadvali 
+90	Maxsus schyotdan turli kreditorlar oldidagi qarzlar summasini qoplash uchun to‘lovlar to‘langan 	6990	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+91	Yanglish hisobga olingan summalar maxsus schyotdan qaytarilgan 	6960	5530	Maxsus schyotdan bank ko‘chirmasi 
+92	Maxsus schyotdan aksiyador (ishtirokchi)dan unga tegishli bo‘lgan aksiyalar (ulush) sotib olinishi aks ettirilgan 	8610	5530	Bildirgi, maxsus schyotdan bank ko‘chirmasi, to‘lov topshiriqnomasi 
+93	Maxsus schyotdan maqsadli moliyalashtirishdan foydalanilganligi aks ettirilgan 	8810-8890	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+94	Maxsus schyotdan tekinga qaytarilmaydigan moliyaviy yordam o‘tkazilgan 	9430	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+95	Maxsus schyotdan bank xizmati uchun summa o‘tkazilgan 	9430	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 
+96	Maxsus schyotdan qimmatli qog‘ozlarni chiqarish va tarqatish bo‘yicha xarajatlar to‘langan 	9630	5530	To‘lov topshiriqnomasi, maxsus schyotdan bank ko‘chirmasi 

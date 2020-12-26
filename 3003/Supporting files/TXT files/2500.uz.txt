@@ -1,0 +1,30 @@
+1	Ishlab chiqarishga, asbob-uskunalarga, ishlab chiqarish xonalariga va boshqalarga xizmat ko‘rsatadigan asosiy vositalar eskirishi hisoblangan 	2510	0220-0299	Asosiy vositalar eskirishining hisob-kitobi
+2	Ishlab chiqarishga, asbob-uskunalarga, ishlab chiqarish xonalariga va boshqalarga xizmat ko‘rsatish xarajatlariga tegishli nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	2510	0510-0590	Nomoddiy aktivlar amortizasiyasining hisob-kitobi 
+3	Ishlab chiqarishga, asbob-uskunalarga, xonalarga va boshqalarga xizmat ko‘rsatish uchun materiallar sarfxarajat qilingan 	2510	1010-1050, 1090 	Yukxat
+4	Ishlab chiqarishga xizmat ko‘rsatish uchun mo‘ljallangan inventar va xo‘jalik jihozlari hisobdan chiqarilgan 	2510	1080	Yukxat, buxgalteriyaning hisob-kitobi 
+5	Syexlarga xizmat ko‘rsatish uchun sarf-xarajat qilingan materiallar qiymatidagi farqlar hisobdan chiqarilgan (musbat son bilan yoki storno) 	2510	1610	Buxgalteriyaning hisob-kitobi 
+6	Korxonaning o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar syexlarga xizmat ko‘rsatish maqsadlari uchun berilgan (sinovlar, tajribalar o‘tkazish uchun) 	2510	2110	Yukxat, talabnoma 
+7	Yordamchi ishlab chiqarishlar xizmatlari syexlarga xizmat ko‘rsatish xarajatlariga hisobdan chiqarilgan (jumladan, ijaraga olingan asosiy vositalar ijaraga oluvchi hisobidan kapital ta’mirlangan) 	2510	2310	Yukxat, bajarilgan ishlar, xizmatlar dalolatnomasi, bildirgi 
+8	Kelgusi davr xarajatlarining tegishli qismi umumishlab chiqarish xarajatlariga hisobdan chiqarilgan (navbatdagi hisobot davri kelganda) 	2510	3110-3190	Buxgalteriya hisob-kitoblari 
+9	Tayyor mahsulotning bir qismi ishlab chiqarishga xizmat ko‘rsatish maqsadida o‘z ehtiyojlari uchun yo‘naltirilgan 	2510	2810	Yukxat
+10	Ayrim umumishlab chiqarish xarajatlari uchun kassa orqali naqd pul to‘langan 	2510	5010	Bildirgi
+11	Syexlarga xizmat ko‘rsatish bo‘yicha xarajatlar (umumishlab chiqarish xarajatlari) hisob-kitob yoki valyuta schyotidan to‘langan 	2510	5110, 5210	Shartnoma, hisobvaraq-faktura, bajarilgan ishlar, xizmatlar dalolatnomasi 
+12	Ishlab chiqarishga xizmat ko‘rsatish bo‘yicha mol yetkazib beruvchilarning xizmatlari (elektr energiyasi, suv, gaz, aloqa va b.) uchun schyotlari qabul qilingan 	2510	6010	Shartnoma, hisobvaraq-faktura 
+13	Ilgari taqdim etilgan va qondirilmagan da’vo summasi umumishlab chiqarish xarajatlariga hisobdan chiqarilgan 	2510	4860	Sud qarori, korxona rahbari qarori, buxgalteriyaning hisob-kitobi 
+14	Ishlab chiqarishga tegishli mol-mulkni sug‘urtalash hamda ishlab chiqarishga xizmat ko‘rsatish bilan band bo‘lgan xodimlarning shaxsiy sug‘urta bo‘yicha qarzlari aks ettirilgan 	2510	6510	Sug‘urta shartnomasi, buxgalteriyaning hisob-kitobi 
+15	Ishlab chiqarishga xizmat ko‘rsatish bilan band bo‘lgan xodimlarning mehnat haqidan majburiy sug‘urta (yagona ijtimoiy to‘lov) bo‘yicha qarzi aks ettirilgan 	2510	6520	Sug‘urta shartnomasi, buxgalteriyaning hisob-kitobi 
+16	Ishlab chiqarishga xizmat ko‘rsatish bilan band bo‘lgan xodimlarga mehnat haqi bo‘yicha xarajatlar hisoblangan 	2510	6710	Ish vaqti hisobining tabeli, buxgalteriyaning hisob-kitobi 
+17	Umumishlab chiqarishga oid asosiy vositalar bo‘yicha joriy ijara to‘lovi aks ettirilgan 	2510	6910	Ijara shartnomasi, hisobvaraq-faktura 
+18	Alohida balansga ajratilgan ichki bo‘linmalar tomonidan ishlab chiqarishga xizmat ko‘rsatish bo‘yicha xarajatlar (umumishlab chiqarish ehtiyojlari) aks ettirilgan 	2510	6110	Shartnoma, bajarilgan ishlar, xizmatlar dalolatnomasi, yukxat 
+19	Xizmat ko‘rsatish uchun mo‘ljallangan materiallar kamomadi, jumladan, tabiiy kamayish qiymati amaldagi qonunchilikka muvofiq aks ettirilgan (tannarx hisobiga) 	2510	1010, 2810, 2910 	Inventarlash dalolatnomasi, bildirgi, buxgalteriyaning hisob-kitobi 
+20	Umumishlab chiqarishga oid asosiy vositalarni ta’mirlash uchun rezerv barpo etilgan 	2510	8910	Buxgalteriyaning hisob-kitob-ma’lumotnomasi 
+21	Umumishlab chiqarishda band bo‘lgan xodimlarning mehnat ta’tiliga to‘lovni amalga oshirish uchun rezerv barpo etilgan 	2510	8910	Buxgalteriyaning hisob-kitob-ma’lumotnomasi 
+22	Ishlab chiqarishga xizmat ko‘rsatish uchun ilgari berilgan materiallarning ortiqchasi va qaytarilishi aks ettirilgan; umumishlab chiqarish xarajatlarining ulushi materiallar tannarxiga hisobdan chiqarilgan 	1010	2510	Inventarlash dalolatnomasi, bildirgi 
+23	Umumishlab chiqarish xarajatlari, bilvosita o‘zgaruvchan xarajatlar (ishlab chiqarish ustama xarajatlari) mahsulot tannarxiga kiritilgan 	2010	2510	Tannarx hisob-kitobi 
+24	Umumishlab chiqarish xarajatlarining tegishli ulushi o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar tannarxiga kiritilgan 	2110	2510	Tannarx hisob-kitobi 
+25	Yordamchi syexlarga xizmat ko‘rsatish bo‘yicha xarajatlar ular ishlari, xizmatlari tannarxiga kiritilgan 	2310	2510	Tannarx hisob-kitobi 
+26	Umumishlab chiqarish xarajatlarining bir qismi yaroqsizlikni tuzatish bo‘yicha xarajatlar summasiga kiritilgan 	2610	2510	Yaroqsizlik to‘g‘risidagi dalolatnoma 
+27	Ishlab chiqarishga xizmat ko‘rsatish bo‘yicha tegishli xarajatlar kelgusi davr xarajatlari tarkibida aks ettirilgan 	3110-3190	2510	Buxgalteriya hisob-kitoblari 
+28	Ilgari syexlarning xarajatlariga kiritilgan ishlab chiqarish bo‘yicha yo‘qotishlar (bekor turib qolishlar va b.)ning bir qismi qonunchilikka muvofiq aybdor shaxslarning mehnat haqidan ushlab qolingan 	6710	2510	Yo‘qotishlar to‘g‘risida dalolatnoma, mehnat shartnomasi, mehnat haqidan ushlab qolishlarning hisob-kitobi 
+29	Umumishlab chiqarish xarajatlari ulushi aybdor shaxslar zimmasiga yuklangan (bekor turib qolishlar va b.) 	4730	2510	Bildirgi, mehnat shartnomasi, buxgalteriya hisob-kitoblari 
+30	Umumishlab chiqarish xarajatlarining bir qismi zararga hisobdan chiqarilgan (tabiiy ofatlar, yong‘inlar va hokazo tufayli) 	9720	2510	Tabiiy ofatlar natijasida yo‘qotishlar to‘g‘risida dalolatnoma

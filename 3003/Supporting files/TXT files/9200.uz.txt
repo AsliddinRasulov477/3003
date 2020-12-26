@@ -1,0 +1,57 @@
+1	Chiqib ketgan asosiy vositalar ob’yektlarining boshlang‘ich qiymati aks ettirilgan (tugatish, sotish, ayirboshlash, ustav kapitaliga berish, tekinga berish, kamomadlar va yo‘qotishlar, ishtirokchining ta’sischilar tarkibidan chiqishi) 	9210	0110-0190	Asosiy vositalarning chiqib ketish dalolatnomasi
+2	Asosiy vositalarning boshlang‘ich qiymati lizingga beruvchining balansidan hisobdan chiqarilgan (moliyaviy ijara bo‘yicha) 	9210	0110-0190	Asosiy vositalarning chiqib ketish dalolatnomasi 
+3	Ulushli ishtirok etish hisobidan asbob-uskuna boshqa korxonaga berilgan 	9210	0110-0190	Asosiy vositalarning chiqib ketish dalolatnomasi 
+4	Chiqib ketgan asosiy vositalar bo‘yicha eskirish aks ettirilgan 	0210-0299	9210	Chiqib ketish dalolatnomasi, eskirishni hisoblash qaydnomasi 
+5	Yordamchi ishlab chiqarishlarning asosiy vositalar chiqib ketishi bilan bog‘liq xizmatlari va xarajatlari hisobdan chiqarilgan 	9210	2310	Bajarilgan ishlar dalolatnomasi, yukxat, talabnoma 
+6	Asosiy vositalar chiqib ketishi bo‘yicha operasiyalarda ishtirok etgan ishchilarga mehnat haqi hisoblangan 	9210	6710	Ish vaqtini, ishlab chiqarilgan mahsulotlarni hisobga olish tabeli 
+7	Asosiy vositalar chiqib ketishi bo‘yicha operasiyalarda ishtirok etgan ishchilarga mehnat haqi summalari bo‘yicha ijtimoiy sug‘urta va ta’minot bo‘yicha ajratmalar amalga oshirilgan 	9210	6520	Buxgalteriyaning hisob-kitobi 
+8	Asosiy vositalar chiqib ketishida ko‘rsatgan xizmatlari uchun boshqa korxonalar oldidagi qarz aks ettirilgan 	9210	6990	Bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+9	Asosiy vositalar ob’yektlarini moliyaviy ijaraga berishda vujudga kelgan kelgusi davr daromadlari hisobdan chiqarilgan (ijaraga beruvchining kelgusi daromadi) 	9210	6230, 7230	Asosiy vositalarni qabul qilish-topshirish dalolatnomasi 
+10	Foydalanishda bo‘lgan asosiy vositalar ob’yektlari moliyaviy ijaraning to‘liq muddatiga ijara to‘lovlari summasining kelib tushishi aks ettirilgan (ijaraga beruvchida) 	0920	9210	Qabul qilish-topshirish dalolatnomasi 
+11	Asosiy vositalar chiqib ketishidan qolgan materiallar kirim qilingan (ehtimoliy foydalanish bahosi bo‘yicha) 	1090	9210	Asosiy vositalarni tugatish dalolatnomasi 
+12	Asosiy vositalar tugatilishidan qolgan hamda ulardan inventar va xo‘jalik jihozlari kabi foydalanish mumkin bo‘lgan moddiy qiymatliklar kirim qilingan 	1080	9210	Yukxat (kirim orderi)
+13	Asosiy vositalar chiqib ketishidan naqd pul ko‘rinishidagi tushum aks ettirilgan 	5010	9210	Bank hisob-kitob schyotlaridan ko‘chirma 
+14	Asosiy vositalar chiqib ketishidan bankka kelib tushgan tushum aks ettirilgan (naqd pulsiz hisob-kitoblar) 	5110	9210	Bank hisob-kitob schyotlaridan ko‘chirma 
+15	Sotilgan asosiy vositalar uchun xaridorlarning qarzi aks ettirilgan 	4010, 4890	9210	Yukxat, qabul qilish-topshirish dalolatnomasi 
+16	Asosiy vositalar chiqib ketishi operasiyalari bo‘yicha ilgari olingan bo‘naklar o‘zaro hisob-kitob qilinganligi aks ettirilgan 	6310	9210	Yukxat, qabul qilish-topshirish dalolatnomasi 
+17	Asosiy vositalar korxona bo‘linmalariga sotilganligidan olingan daromad aks ettirilgan 	4110	9210	Shartnoma, qabul qilish-topshirish dalolatnomasi, yukxat 
+18	Asosiy vositalar chiqib ketishi bo‘yicha operasiyalardan bir oy uchun moliyaviy natija (foyda) aniqlangan va hisobdan chiqarilgan 	9210	9310	Buxgalteriyaning hisob-kitobi 
+19	Asosiy vositalar chiqib ketishi bo‘yicha operasiyalardan bir oy uchun moliyaviy natija (zarar) aniqlangan va hisobdan chiqarilgan 	9430	9210	Asosiy vositalarni tugatish dalolatnomasi 
+20	Boshlang‘ich qiymatning hisobdan chiqarilishi aks ettirilgan: 			Lizing shartnomasi, tugatish dalolatnomasi 
+	- lizing shartnomasi bo‘yicha olingan asosiy vositalarni lizing beruvchiga qaytarishda 	9210	0310
+	- lizing shartnomasi bo‘yicha olingan asosiy vositalarni obodonlashtirish uchun 	9210	0112
+	- lizing shartnomasiga muvofiq olingan asosiy vositalar bo‘yicha jamlangan eskirish summasiga 	0299 0212	9210
+	- lizing shartnomasiga muvofiq olingan asosiy vositalar bo‘yicha obodonlashtirish qiymatining lizingga beruvchi tomonidan qoplanadigan summasiga 	4890	9210
+	- lizing shartnomasiga muvofiq olingan asosiy vositalarning ob’yektini qayta baholash natijalari (saldo) summasiga 	8510	9210
+	- lizing to‘lovlari jadvali (tartibi) bo‘yicha qoplanmagan asosiy qarzning qoldiq summasiga: (joriy qismi) 	6950	9210
+    - lizing to‘lovlari jadvali (tartibi) bo‘yicha qoplanmagan asosiy qarzning qoldiq summasiga: (uzoq muddatli qismi) 	7910	9210
+	- lizing shartnomasiga muvofiq lizingga oluvchi tomonidan amalga oshiriladigan lizing shartnomasi bo‘yicha olingan asosiy vositalarni qaytarish (qayta montash qilish, transport orqali tashish va h.k.) bo‘yicha xarajatlar summasiga 	9210	1000, 6710, 6520
+	- lizing shartnomasiga muvofiq olingan asosiy vositalar qaytarilishidan olingan foyda summasiga 	9210	9310
+	- lizing shartnomasiga muvofiq olingan asosiy vositalar qaytarilishidan ko‘rilgan zarar summasiga 	9430	9210
+21	Lizing ob’yektlarining lizingga berilishi aks ettirilgan: 			Lizing shartnomasi
+	- aktiv sifatida tan olinadigan qiymatiga (debitorlik qarzi kabi) 	0290	9220
+	- lizing ob’yektlarining balans qiymatini hisobdan chiqarishda 	9220	0810-0890
+	- lizing ob’yektlarini qayta baholash natijalari (saldo) summasiga 	8510	9220
+	- lizing shartnomasi bo‘yicha lizing ob’yektlarini berishdan kechiktirilgan daromad vujudga kelganda 	9220	7230
+	- lizing shartnomasi bo‘yicha lizing ob’yektlarini berishdan kechiktirilgan xarajat vujudga kelganda 	0990	9220
+22	Chiqib ketgan nomoddiy aktivlar hisobdan chiqarilgan (sotish, tekinga berish va h.k.) 	9220	0410-0490	Nomoddiy aktivlarning chiqib ketish dalolatnomasi 
+23	Sotilgan nomoddiy va boshqa aktivlar uchun boshqa korxonalarning qarzi aks ettirilgan 	4010	9220	Qabul qilish-topshirish dalolatnomasi, hisobvaraq-faktura 
+24	Nomoddiy va boshqa aktivlar korxonaning bo‘linmalariga sotilgan 	4110	9220	Yukxat, qabul qilish-topshirish dalolatnomasi 
+25	Inventar va xo‘jalik jihozlari boshqa korxonalarga sotilgan 	9220	1080	Hisobvaraq-faktura 
+26	Chetga sotilgan turli materiallar hisobdan chiqarilgan 	9220	1010-1090	Hisobvaraq-faktura 
+27	Chetga chiqib ketgan materiallarning qiymatidagi farqlar hisobdan chiqarilgan 	9220	1610	Buxgalteriyaning hisob-kitobi 
+28	O‘stirishda va bo‘rdoqiga boqishda bo‘lgan hayvonlar sotilgan 	9220	1110, 1120	Hisobvaraq-faktura, chiqib ketish dalolatnomasi 
+29	Uzoq muddatli moliyaviy qo‘yilmalar sifatida hisobga olinadigan qimmatli qog‘ozlarning sotilishi (balans qiymati bo‘yicha) aks ettirilgan 	9220	0610	Shartnoma, qabul qilish-topshirish dalolatnomasi, yukxat 
+30	Qisqa muddatli moliyaviy qo‘yilmalar sifatida hisobga olinadigan obligasiyalar va boshqa qimmatli qog‘ozlarning sotilishi aks ettirilgan 	9220	5810	Shartnoma, qabul qilish-topshirish dalolatnomasi, yukxat 
+31	Boshqa aktivlar va qimmatli qog‘ozlar sotilishidan hisob-kitob va valyuta hisob-kitob schyotlariga tushum kelib tushgan 	5110, 5210	9220	Bank ko‘chirmalari 
+32	Sotib olinadigan aksiyalar mol-mulk berish yo‘li bilan to‘langan 	5810, 0610	9220	Qabul qilish-topshirish dalolatnomasi 
+33	Boshqa aktivlarning xaridorlaridan ilgari olingan bo‘naklarning o‘zaro hisob-kitob qilinishi aks ettirilgan 	6310	9220	Yukxat, qabul qilish-topshirish dalolatnomasi 
+34	Qimmatli qog‘ozlar sotib olingan (muddati bir yildan ortiq), korxona-sotuvchiga materiallarni berish yo‘li bilan to‘langan 	9220 (0610	1010-1090 9220)	Shartnoma, qabul qilish-topshirish dalolatnomasi, yukxat
+35	Boshqa korxonalarga qisqa muddatli qarzlar tartibida berilgan materiallar hisobdan chiqarilgan; sotib olingan qimmatli qog‘ozlar qiymati korxona-sotuvchiga materiallarni berish yo‘li bilan qoplangan 	9220 (5810	1010-1090 9220)	Shartnoma, yukxat
+36	Asosiy poda hayvonlarini boshqa korxonaning egaligiga berish yo‘li bilan uzoq muddatli moliyaviy qo‘yilmalar (muddati bir yildan ortiq) amalga oshirilgan (qimmatli qog‘ozlar sotib olingan) 	9220 (0610	1110 9220)	Shartnoma, yukxat
+37	Asosiy poda hayvonlarini boshqa korxonaning egaligiga berish ko‘rinishidagi qisqa muddatli moliyaviy qo‘yilmalar (muddati bir yildan kam) aks ettirilgan 	9220 (5810	1110 9220)	Shartnoma, yukxat
+38	Uzoq muddatli investisiyalar (qimmatli qog‘ozlarga) tartibida boshqa korxonalarga inventar va xo‘jalik jihozlari berilgan 	9220 (0610	1080 9220)	Shartnoma, yukxat
+39	Uzoq muddatli investisiyalar (qimmatli qog‘ozlarga) tartibida yordamchi syexlar tomonidan boshqa korxonalar uchun ishlar va xizmatlarning bir qismi amalga oshirilgan 	9220 (0610	2310 9220)	Shartnoma, bajarilgan ishlar dalolatnomasi 
+40	Qisqa muddatli investisiyalar (jumladan, qimmatli qog‘ozlarga) tartibida yordamchi syexlar tomonidan boshqa korxonalarga mahsulot berilgan va xizmatlar ko‘rsatilgan 	9220 (5810	2310 9220)	Shartnoma, bajarilgan ishlar dalolatnomasi 
+41	Hisobot davrida boshqa aktivlarni sotish va boshqa chiqib ketishidan olingan foyda aniqlangan va hisobdan chiqarilgan 	9220	9320	Buxgalteriyaning hisob-kitobi 
+42	Hisobot davrida boshqa aktivlarni sotish va boshqa chiqib ketishidan olingan zarar aniqlangan va hisobdan chiqarilgan 	9430	9220	Buxgalteriyaning hisob-kitobi 

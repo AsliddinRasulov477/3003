@@ -1,0 +1,3 @@
+1	Mas’ul saqlashdagi tovar-moddiy qiymatliklar hisob uchun qabul qilingan 	002	1	Yukxat
+2	Tovar-moddiy qiymatliklar egasiga qaytarilgan 	1	002	Yukxat
+3	Egalik huquqi korxonaga o‘tkazilgan 	1010-1090	6010	Hisobvaraq-faktura, yukxat 

@@ -1,0 +1,7 @@
+1	Komissiyaga va konsignasiyaga qabul qilingan tovar-moddiy qiymatliklar aks ettirilgan 	004	1	Yukxat
+2	Komissiyaga qabul qilingan tovarlarning sotilganlari hisobdan chiqarilgan 	1	004	Bildirgi
+3	Komissiyaga va konsignasiyaga olingan tovarlarning sotilishi aks ettirilgan: 			Komissiya shartnomasi, konsignasiya shartnomasi, bildirgi, hisobvaraq-faktura 
+	- komission taqdirlash summasiga 	4010	9030	
+	- konsignant yoki komissionerga o‘tkazilishi lozim bo‘lgan komission va konsignasion tovar qiymatiga 	4010	6990	
+	- komission taqdirlash summasidan aniqlanadigan QQS summasiga (QQS to‘lovchilari uchun) 	4010	6410	
+4	Komissioner, konsignator oldidagi qarz qoplangan 	6990	5110	Bank hisob-kitob schyotidan ko‘chirma 

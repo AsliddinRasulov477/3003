@@ -1,0 +1,27 @@
+1	Ortib jo‘natilgan tayyor mahsulot bo‘yicha xaridorlarga hisob-kitob hujjatlari taqdim etilgan summa aks ettirilgan 	4010	9010	Yukxat, tovartransport yukxati, hisobvaraq-faktura
+2	Ortib jo‘natilgan tovarlar bo‘yicha xaridorlarga hisob-kitob hujjatlari taqdim etilgan summa aks ettirilgan 	4010	9020	Yukxat, tovartransport yukxati, hisobvaraq-faktura 
+3	Ko‘rsatilgan xizmatlar, bajarilgan ishlar bo‘yicha xaridorlarga hisob-kitob hujjatlari taqdim etilgan summa aks ettirilgan 	4010	9030	Yukxat, tovartransport yukxati, hisobvaraq-faktura, bajarilgan ishlar dalolatnomasi 
+4	Ortib jo‘natilgan tayyor mahsulot bo‘yicha ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlariga hisob-kitob hujjatlari taqdim etilgan summa aks ettirilgan 	4110, 4120	9010	Yukxat, tovartransport yukxati, hisobvaraq-faktura 
+5	Ortib jo‘natilgan tovarlar bo‘yicha ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlariga hisob-kitob hujjatlari taqdim etilgan summa aks ettirilgan 	4110, 4120	9020	Yukxat, tovartransport yukxati, hisobvaraq-faktura 
+6	Ko‘rsatilgan xizmatlar, bajarilgan ishlar bo‘yicha ajratilgan bo‘linmalar, shu’ba va qaram xo‘jalik jamiyatlariga hisob-kitob hujjatlari taqdim etilgan summa aks ettirilgan 	4110, 4120	9030	Yukxat, tovartransport yukxati, hisobvaraq-faktura, bajarilgan ishlar dalolatnomasi 
+7	Tayyor mahsulot, tovar va xizmatlar naqd pulga sotilgan 	5010	9010, 9020, 9030	Kirim kassa orderi, kassa apparatining ko‘rsatkichlari 
+8	Mahsulot, ishlar va xizmatlar sotilganligi hisob-kitob schyotida aks ettirilgan (4010 schyotidan foydalanilmagan holda) 	5110, 5210, 5220	9010, 9020, 9030	Yukxat, bankning hisob-kitob va valyuta hisob-kitob schyotlaridan ko‘chirmalar 
+9	Tayyor mahsulot, tovarlar, ishlar va xizmatlar uzoq muddatli investisiyalar tartibida boshqa korxonalarga sotilgan (xarid qilingan qimmatli qog‘ozlar qiymatini qoplash uchun) 	0610	9010, 9020, 9030	Shartnoma, hisobvaraq-faktura, yukxat 
+10	Tayyor mahsulot, tovarlar, ishlar va xizmatlar qisqa muddatli moliyaviy qo‘yilmalar tartibida boshqa korxonalarga sotilgan (jumladan, xarid qilingan qimmatli qog‘ozlar) 	5810	9010, 9020, 9030	Shartnoma, hisobvaraq-faktura, yukxat 
+11	Tayyor mahsulot, tovarlar, ishlar va xizmatlar korxona xodimlariga kreditga sotilgan 	4710	9010, 9020, 9030	Shartnoma, hisobvaraq-faktura, yukxat 
+12	O‘z kapital qurilishiga berilgan mahsulot, ishlar va xizmatlarning qiymati tushum kabi aks ettirilgan 	0810-0890	9010, 9020, 9030	Berish uchun yukxat 
+13	Asosiy va yordamchi ishlab chiqarish syexlari tomonidan xizmat ko‘rsatuvchi xo‘jaliklar va ishlab chiqarishlarga berilgan mahsulot, ishlar va xizmatlarning qiymati tushum kabi aks ettirilgan 	2310, 2710	9010, 9020, 9030	Berish uchun yukxat (ichki ko‘chish) 
+14	Umumishlab chiqarish va umumxo‘jalik tavsifga ega turli xizmatlarning qiymati tushum kabi aks ettirilgan 	2510, 9410-9420	9030	Yukxat 
+15	Qayta hisob-kitoblar bo‘yicha joriy yilda xaridorlardan kelib tushgan summalar aks ettirilgan 	5110, 5210-5220	9010, 4010, 6410	Bank hisob-kitob schyotlaridan ko‘chirmalar, o‘zaro hisob-kitoblar bo‘yicha solishtirma dalolatnoma 
+16	Xaridorlardan olingan bo‘naklar hamda xaridorlar (buyurtmachilar)ga mahsulot va ishlar to‘liq tayyor bo‘lganda ular qisman tayyorligida olingan to‘lov o‘zaro hisob-kitob qilishda aks ettirilgan 	6310	9010, 9030	Yukxat, hisobvaraq-faktura, bajarilgan ishlar dalolatnomasi 
+17	Mahsulot, ishlar va xizmatlar (jumladan, maxsus kiyim-bosh) korxonaning o‘z xodimlariga mehnat haqi hisobidan sotilgan 	6710	9010-9030	Yukxat
+18	Tayyor mahsulot (ishlar, xizmatlar) bilan dividendlar to‘lanishi aks ettirilgan 	6610, 6620	9010, 9020, 9030	Yukxat, bajarilgan ishlar dalolatnomasi 
+19	Vositachilik, konsignasiya operasiyalari bo‘yicha mijozlardan olinishi lozim bo‘lgan komissiya haqi summasi aks ettirilgan 	4890	9010	Yukxat, buxgalteriyaning hisob-kitobi 
+20	Hisobot davri kelganda, ushbu davrga taalluqli kechiktirilgan daromadlar (bo‘nak tariqasida to‘langan xizmat va h.k.) summalari sotish hajmiga kiritilgan 	6230	9010, 9020, 9030	Bajarilgan ishlar dalolatnomasi 
+21	Tovarlar kreditga sotilganda ularning qaytishi aks ettirilgan 	9040	4010, 4110, 5110	Sotilgan tovarlarni topshirish dalolatnomasi 
+22	Xaridorlarga sotishdan va narxdan chegirmalar taqdim etilgan 	9050	4010, 4110	Buxgalteriyaning hisob-kitobi 
+23	Hisobot davrining oxirida 9040 "Sotilgan tovarlarning qaytishi" schyotining yopilishi 	9010, 9020, 9030 	9040	Buxgalteriyaning hisob-kitobi 
+24	Hisobot davrining oxirida 9050 "Xaridorlarga berilgan bo‘naklar" schyotining yopilishi 	9010, 9020, 9030 	9050	Buxgalteriyaning hisob-kitobi 
+25	Hisobot oyining oxirida 9010 "Tayyor mahsulotlarni sotishdan daromadlar" schyotining yopilishi 	9010	9910	Buxgalteriyaning hisob-kitobi 
+26	Hisobot oyining oxirida 9020 "Tovarlarni sotishdan daromadlar" schyotining yopilishi 	9020	9910	Buxgalteriyaning hisob-kitobi 
+27	Hisobot oyining oxirida 9030 "Ishlar bajarish va xizmatlar ko‘rsatishdan daromadlar" schyotining yopilishi 	9030	9910	Buxgalteriyaning hisob-kitobi

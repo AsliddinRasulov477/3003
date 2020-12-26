@@ -1,0 +1,4 @@
+1	O‘rnatish uchun qabul qilingan uskuna aks ettirilgan 	005	1	Yukxat
+2	O‘rnatish bo‘yicha xarajatlar aks ettirilgan 	2010, 2310, 2510, 9400 	1010, 6710, 6520 	Shartnoma, hisobvaraq-faktura, buxgalteriyaning hisob-kitobi 
+3	Uskunaning buyurtmachiga berilishi aks ettirilgan 	9130	2010, 2310	Bajarilgan ishlar dalolatnomasi 
+4	O‘rnatish uchun olingan uskuna hisobdan chiqarilgan 	1	005	Yukxat 

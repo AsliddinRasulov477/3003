@@ -1,0 +1,30 @@
+1	Asosiy ishlab chiqarishda foydalanilayotgan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	2010	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi
+2	Yordamchi ishlab chiqarishlarda foydalanilayotgan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	2310	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+3	Kapital qo‘yilmalarda foydalanilayotgan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	0810-0890	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+4	Umumishlab chiqarish maqsadlarida foydalanilayotgan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	2510	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+5	Xizmat ko‘rsatuvchi xo‘jaliklarda foydalanilayotgan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan: 			Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+	- birinchi variant 	2710	0510-0590
+	- ikkinchi variant 	9430	0510-0590
+6	Mahsulotlar va tovarlarni sotish maqsadlarida foydalanilayotgan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	9410	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+7	Ma’muriy maqsadlarda foydalanilayotgan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	9420	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+8	Yangi turdagi mahsulot ishlab chiqarish uchun mo‘ljallangan ishga tushirish ishlarida; seriyali yoki umumiy ishlab chiqarishga mo‘ljallanmagan yangi texnologik jarayonlarni o‘zlashtirishda xizmat ko‘rsatish; kon sanoati tarmoqlarida tayyorgarlik ishlarida foydalaniladigan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	9440	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+9	Grantlar va maqsadli moliyalashtirish bo‘yicha olingan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan: 			Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+	- birinchi variant 	8810-8890	0510-0590
+	- ikkinchi variant 	9430	0510-0590
+	- hisobot davrining oxirida xarajatlarni hisobdan chiqarish 	8810-8890	9430
+10	Nomoddiy aktivlarni qayta baholash natijasida ularning amortizasiyasi oshirilgan: 			Nomoddiy aktivlarni qayta baholash to‘g‘risida rahbar buyrug‘i, qo‘shimcha baholash yuzasidan hisob-kitob 
+	- oldingi davrlarda qo‘shimcha baholangan summa chegarasida 	8510	0510-0590
+	- oldingi davrlarda qo‘shimcha baholangan summadan yuqori bo‘lgan summaga 	9430	0510-0590
+11	Oldingi yillarda moliyaviy hisobotlar topshirilgandan keyin nomoddiy aktivlar amortizasiyasi kamroq summada hisoblanganligi holatlari aniqlanganda, xatolarni to‘g‘rilash natijasida nomoddiy aktivlar amortizasiyasi oshirilgan 	8710	0510-0590	Amortizasiyani oshirish bo‘yicha hisob-kitoblar, rahbar buyrug‘i 
+12	Moliyaviy hisobotlarni tayyorlashda aniqlangan joriy yil nomoddiy aktivlar amortizasiyasi summasi kam hisoblanganligi yuzasidan xatolar tuzatilgan 	Xarajat- larni hisobga oluvchi schyotlar 	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyaning hisob-kitobi 
+13	Nomoddiy aktivlar chiqib ketishi (sotilishi, tekinga berilishi)da jamlangan amortizasiya summalari hisobdan chiqarilgan 	0510-0590	9220	Oldi-sotdi shartnomasi, hisobvaraq-faktura, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+14	Oldingi yillarda amortizasiya uchun xarajatlar oshirib yuborilganligi holati aniqlanganda xatolarni tuzatish natijasida nomoddiy aktivlar amortizasiyasi kamaytirilgan 	0510-0590	8710	Amortizasiyani kamaytirish hisob-kitobi, rahbar buyrug‘i 
+15	Moliyaviy hisobotlarni tayyorlashda aniqlangan joriy yilda nomoddiy aktivlar amortizasiyasi summalari oshirilishidagi xatolar tuzatilgan 	0510-0590	Xarajat- larni hisobga oluvchi schyotlar 	Nomoddiy aktivlar amortizasiyasi hisob-kitobi 
+16	Nomoddiy aktivlarni qayta baholash natijasida (qiymati kamaytirilganda) ularning amortizasiyasi kamaytirilgan 	0510-0590	8510	Nomoddiy aktivlarni qayta baholash to‘g‘risida rahbar buyrug‘i, qiymat kamaytirilishi hisob-kitobi 
+17	Mahsulot tannarxiga hisobdan chiqarilmaydigan nomoddiy aktiv bo‘yicha amortizasiya hisoblangan 	9430	0510-0590	Amortizasiyani hisoblash bo‘yicha qaydnoma 
+18	Nomoddiy aktivlar sotilishida, hisobdan chiqarilishida va turli shartnomalarga muvofiq berilishida ularning qoldiq qiymatini aniqlash maqsadida ularning amortizasiya summasi qoplangan 	0510-0590	9220	Nomoddiy aktivlarni hisobdan chiqarish dalolatnomasi 
+19	Bosh tashkilot tomonidan shu’ba (qaram) tashkilotga berilgan nomoddiy aktivlar hisobdan chiqarilgan 	4110-4120	9220	Nomoddiy aktivlarni hisobdan chiqarish dalolatnomasi 
+20	Bosh tashkilotdan olingan nomoddiy aktivlar shu’ba (qaram) tashkilot tomonidan aks ettirilgan 	0410-0490	6110-6120	Nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+21	Hadya shartnomasi bo‘yicha nomoddiy aktivlarni berishda, amortizasiya summasining hisobdan chiqarilishi aks ettirilgan 	0510-0590	9220	Nomoddiy aktivlarni tekinga berish dalolatnomasi 
+22	Qishloq xo‘jaligi korxonasida ishlab chiqarishda foydalaniladigan moslama patenti bo‘yicha har oylik amortizasiya summasi belgilangan 	2010	0510	Nomoddiy aktivlar amortizasiyasini hisoblash qaydnomasi 
+23	Xo‘jalik faoliyatini daromadlar va xarajatlar smetasiga muvofiq amalga oshirayotgan notijorat tashkilotlarida nomoddiy aktivlar amortizasiyasi hisoblangan 	Xarajat- larni hisobga oluvchi schyotlar 	0500	Nomoddiy aktivlar amortizasiyasini hisoblash qaydnomasi

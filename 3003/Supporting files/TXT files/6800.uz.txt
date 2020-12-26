@@ -1,0 +1,42 @@
+1	Bankning qisqa muddatli krediti hisobiga olingan va o‘rnatiladigan asbob-uskuna kirim qilingan 	0710, 0720	6810	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi
+2	Bankning qisqa muddatli krediti hisobiga kapital qurilish bo‘yicha ishlar amalga oshirilgan 	0810	6810	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+3	Bankning qisqa muddatli krediti hisobiga asosiy vositalarni o‘rnatish va sozlash bo‘yicha ishlar amalga oshirilgan 	0820	6810	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+4	Bankning qisqa muddatli krediti hisobiga olingan materiallar kirim qilingan 	1010-1090	6810	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+5	Bankning qisqa muddatli krediti hisobiga olingan hayvonlar kirim qilingan 	1110, 1120	6810	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+6	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalanilgan holda bankning qisqa muddatli krediti hisobiga olingan materiallar kirim qilingan 	1510	6810	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+7	Bankning qisqa muddatli krediti hisobiga olingan tovarlar kirim qilingan 	2910-2990	6810	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+8	Bankning qisqa muddatli kreditlari hisob-kitob schyotiga olingan 	5110	6810	Kredit shartnomalari, to‘lov topshiriqnomasi, bank hisob-kitob schyotlaridan ko‘chirmalar 
+9	Bankning qisqa muddatli kreditlari valyuta schyotiga olingan 	5210, 5220	6810	Kredit shartnomalari, to‘lov topshiriqnomasi, bank valyuta schyotlaridan ko‘chirmalar 
+10	Kurs farqini aks ettirishning jamlash usuli bilan chet el valyutasida olingan qisqa muddatli bank kreditlari bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	6810	Kredit shartnomalari, to‘lov topshiriqnomasi, kurs farqining hisob-kitobi 
+11	Kurs farqini aks ettirishning to‘g‘ri usuli bilan chet el valyutasida olingan qisqa muddatli bank kreditlari bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	6810	Kredit shartnomalari, to‘lov topshiriqnomasi, kurs farqining hisob-kitobi 
+12	Kurs farqini aks ettirishning jamlash usuli bilan chet el valyutasida olingan qisqa muddatli bank kreditlari bo‘yicha musbat kurs farqi aks ettirilgan 	6810	6230	Kredit shartnomalari, to‘lov topshiriqnomasi, kurs farqining hisob-kitobi 
+13	Kurs farqini aks ettirishning to‘g‘ri usuli bilan chet el valyutasida olingan qisqa muddatli bank kreditlari bo‘yicha musbat kurs farqi aks ettirilgan 	6810	9540	Kredit shartnomalari, to‘lov topshiriqnomasi, kurs farqining hisob-kitobi 
+14	Kredit shartnomasiga muvofiq kreditga oid foizlar kredit bo‘yicha qarzlar tarkibiga kiritilgan 	9610	6810	Kredit shartnomasi, foizlar hisob-kitobi 
+15	Boshqa korxona tomonidan berilgan qisqa muddatli kredit hisobiga olingan o‘rnatiladigan asbob-uskuna kirim qilingan 	0710, 0720	6820	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+16	Boshqa korxonadan olingan qisqa muddatli kredit hisobiga kapital qurilish bo‘yicha ishlar amalga oshirilgan 	0810	6820	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+17	Boshqa korxonadan olingan qisqa muddatli kredit hisobiga asosiy vositalarni o‘rnatish va sozlash bo‘yicha ishlar amalga oshirilgan 	0820	6820	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+18	Boshqa korxonadan olingan qisqa muddatli kredit hisobiga olingan materiallar kirim qilingan 	1010-1090	6820	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+19	Boshqa korxonadan olingan qisqa muddatli kredit hisobiga olingan hayvonlar kirim qilingan 	1110, 1120	6820	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+20	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalanilgan holda boshqa korxonadan olingan qisqa muddatli kredit hisobiga olingan materiallar kirim qilingan 	1510	6820	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+21	Boshqa korxonadan olingan qisqa muddatli kredit hisobiga olingan tovarlar kirim qilingan 	2910	6820	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+22	Boshqa korxonadan olingan qisqa muddatli kreditlar hisob-kitob schyotiga kirim qilingan 	5110	6820	Kredit shartnomalari, to‘lov topshiriqnomasi, bank hisob-kitob schyotlaridan ko‘chirmalar 
+23	Boshqa korxonadan olingan qisqa muddatli kreditlar valyuta schyotiga kirim qilingan 	5210, 5220	6820	Kredit shartnomalari, to‘lov topshiriqnomasi, bank valyuta schyotlaridan ko‘chirmalar 
+24	Kurs farqini hisobga olishning jamlash usuli bilan boshqa korxonadan chet el valyutasida olingan qisqa muddatli kredit bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	6820	Kredit shartnomalari, to‘lov topshiriqnomasi, kurs farqining hisob-kitobi 
+25	Kurs farqini hisobga olishning to‘g‘ri usuli bilan boshqa korxonadan chet el valyutasida olingan qisqa muddatli kredit bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	6820	Kredit shartnomalari, to‘lov topshiriqnomasi, kurs farqining hisob-kitobi 
+26	Kurs farqini hisobga olishning jamlash usuli bilan boshqa korxonadan chet el valyutasida olingan qisqa muddatli kredit bo‘yicha musbat kurs farqi aks ettirilgan 	6820	6230	Kredit shartnomalari, to‘lov topshiriqnomasi, kurs farqining hisob-kitobi 
+27	Kurs farqini hisobga olishning to‘g‘ri usuli bilan boshqa korxonadan chet el valyutasida olingan qisqa muddatli kredit bo‘yicha musbat kurs farqi aks ettirilgan 	6820	9540	Kredit shartnomalari, to‘lov topshiriqnomasi, kurs farqining hisob-kitobi 
+28	Kredit shartnomasiga muvofiq kredit bo‘yicha foizlar qarzlar tarkibiga kiritilgan 	9610	6820	Kredit shartnomalari, foizlar hisob-kitobi 
+29	To‘lanadigan schyotlar qisqa muddatli qarzlar hisobidan qoplangan 	6010	6820	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi 
+30	Uzoq muddatli qarz bo‘yicha uzoq muddatli qarzning joriy qismga o‘tkazilishi aks ettirilgan 	7820	6820	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+31	To‘lanadigan qisqa muddatli obligasiyalar chiqarilganligi uchun naqd pul olingan 	5010	6830	Kirim kassa orderi, kassir hisoboti 
+32	To‘lanadigan qisqa muddatli obligasiyalar chiqarilganligi uchun hisob-kitob schyotiga summalar olingan 	5110	6830	Bank hisob-kitob schyotlaridan ko‘chirmalar 
+33	To‘lanadigan qisqa muddatli obligasiyalar chiqarilganligi uchun valyuta schyotiga summalar olingan 	5210, 5220	6830	Bank valyuta schyotlaridan ko‘chirmalar 
+34	To‘lanadigan qisqa muddatli obligasiyalar chiqarilganligi uchun maxsus hisob-kitob schyotiga summalar olingan 	5530	6830	Bank maxsus hisob-kitob schyotlaridan ko‘chirmalar 
+35	Kurs farqini aks ettirishning jamlash usuli bilan chet el valyutasida ifodalangan to‘lanadigan obligasiyalar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	6830	Kredit shartnomalari, kurs farqini belgilash hisob-kitobi, kurs farqining hisob-kitobi 
+36	Kurs farqini aks ettirishning to‘g‘ri usuli bilan chet el valyutasida ifodalangan to‘lanadigan obligasiyalar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	6830	Kredit shartnomalari, kurs farqini belgilash hisob-kitobi, kurs farqining hisob-kitobi 
+37	Kurs farqini aks ettirishning jamlash usuli bilan to‘lanadigan obligasiyalar bo‘yicha musbat kurs farqi aks ettirilgan 	6830	6230	Kredit shartnomalari, to‘lov topshiriqnomalari, kurs farqining hisob-kitobi 
+38	Kurs farqini aks ettirishning to‘g‘ri usuli bilan to‘lanadigan obligasiyalar bo‘yicha musbat kurs farqi aks ettirilgan 	6830	9540	Kredit shartnomalari, to‘lov topshiriqnomalari, kurs farqining hisob-kitobi 
+39	To‘lanadigan obligasiyalar bo‘yicha uzoq muddatli qarzning joriy qismga o‘tkazilishi aks ettirilgan 	7830	6830	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+40	Qisqa muddatli veksel bo‘yicha summalar hisob-kitob schyotiga o‘tkazilgan 	5110	6840	Veksel, hisob-kitob schyotidan ko‘chirma 
+41	To‘lanadigan veksel bo‘yicha summalar qaytarilgan 	6840	5110	Veksel, hisob-kitob schyotidan ko‘chirma 
+42	Veksel bo‘yicha uzoq muddatli qarzning joriy qismga o‘tkazilishi aks ettirilgan 	7840	6840	Buxgalteriyaning hisob-kitob ma’lumotnomasi 

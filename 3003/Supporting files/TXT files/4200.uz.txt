@@ -1,0 +1,35 @@
+1	Mehnat haqi hisobidan bo‘nak berilgan 	4210	5010	Hisob-kitob to‘lov qaydnomalari
+2	Xodimlarga kelgusidagi mehnat haqi hisobiga berilgan bo‘naklar ushlab qolingan 	6710	4210	Hisob-kitob to‘lov qaydnomalari 
+3	Hisobdor shaxslarga xizmat safarlari uchun kassadan so‘mda bo‘naklar berilgan 	4220	5010	Mehnat safari to‘g‘risida buyruq, bo‘nak hisob-kitobi, chiqim kassa orderi 
+4	Hisobdor shaxslarga xizmat safarlari uchun kassadan chet el valyutasida bo‘naklar berilgan 	4220	5020	Mehnat safari to‘g‘risida buyruq, bo‘nak hisob-kitobi, chiqim kassa orderi 
+5	Hisobdor shaxslarga xizmat safarlari uchun hisob-kitob schyotidan bo‘naklar berilgan 	4220	5110	Mehnat safari to‘g‘risida buyruq, bo‘nak hisob-kitobi, bank ko‘chirmalari 
+6	Hisobdor shaxslarga xizmat safarlari uchun valyuta schyotidan bo‘naklar berilgan 	4220	5210	Mehnat safari to‘g‘risida buyruq, bo‘nak hisob-kitobi, bank schyotlaridan ko‘chirmalar 
+7	Hisobdor shaxslarga xizmat safarlari uchun boshqa maxsus schyotlardan bo‘naklar berilgan 	4220	5530	Mehnat safari to‘g‘risida buyruq, bo‘nak hisob-kitobi, bank schyotlaridan ko‘chirmalar 
+8	Hisobdor shaxslarga turli umumxo‘jalik xarajatlarni amalga oshirish va boshqa maqsadlar uchun kassadan summalar berilgan 	4230	5010	Kassir hisoboti, chiqim kassa orderi 
+9	Hisobdor shaxslarga kassadan pul hujjatlari (turli markalar va boshqalar) berilgan 	4230	5010, 5020	Kassir hisoboti, chiqim kassa orderi 
+10	Olingan bo‘nakning ishlatilmagan summalari hisobdor shaxslar tomonidan kassaga qaytarilgan 	5010	4220, 4230, 4290	Kirim kassa orderi
+11	Olingan bo‘nakning ishlatilmagan valyuta summalari hisobdor shaxslar tomonidan kassaga qaytarilgan 	5020	4220, 4230, 4290	Kirim kassa orderi
+12	Ishlatilmagan hisobdor summalar xodimlar tomonidan hisob-kitob schyotiga qaytarilgan 	5110	4220, 4230	Bank schyotlaridan ko‘chirmalar 
+13	Ishlatilmagan hisobdor summalar xodimlar tomonidan valyuta schyotiga qaytarilgan 	5210	4220 4230	Bank schyotlaridan ko‘chirmalar 
+14	Hisobdor shaxslarga qishloq xo‘jalik mahsulotlari va hayvonlarni xarid qilish uchun bo‘naklar berilgan 	4230	5010	Bo‘nak hisob-kitobi
+15	Hisobdor shaxslar tomonidan hisobdorlik uchun pul hujjatlari olingan 	4290	5610	Ishonchnomaga asosan
+16	Xarid qilingan turli pul hujjatlari (markalar, yo‘llanmalar va b.) uchun hisobdor shaxslar tomonidan haq to‘langan 	5610	4290	Bo‘nak hisoboti
+17	Ishlatilmagan pul hujjatlari qaytarilgan 	5610	4290	Bo‘nak hisoboti
+18	Hisobdor shaxslar tomonidan o‘rnatiladigan uskunalarni xarid qilish bilan bog‘liq xarajatlar amalga oshirilgan 	0710	4220, 4290	Bo‘nak hisoboti
+19	Hisobdor shaxslar tomonidan kapital qo‘yilmalar bilan bog‘liq xarajatlar amalga oshirilgan 	0810	4220, 4290	Bo‘nak hisoboti
+20	Hisobdor shaxslar tomonidan materiallarni xarid qilish bilan bog‘liq xarajatlar amalga oshirilgan 	1010-1090	4220, 4290	Bo‘nak hisoboti
+21	Hisobdor shaxslar tomonidan inventar va xo‘jalik jihozlarini xarid qilish bilan bog‘liq xarajatlar amalga oshirilgan 	1080	4220, 4290	Bo‘nak hisoboti
+22	Hisobdor shaxslar tomonidan asosiy ishlab chiqarish bo‘yicha xarajatlar amalga oshirilgan 	2010	4230, 4290	Bo‘nak hisoboti
+23	Hisobdor shaxslar tomonidan yordamchi ishlab chiqarish bo‘yicha xarajatlar amalga oshirilgan 	2310	4230, 4290	Bo‘nak hisoboti
+24	Umumishlab chiqarish xarajatlari hisobdor shaxslar orqali amalga oshirilgan 	2510	4230, 4290	Bo‘nak hisoboti
+25	Hisobdor shaxslar tomonidan mahsulot yaroqsizligi bilan bog‘liq turli xarajatlar to‘langan 	2610	4230, 4290	Bo‘nak hisoboti
+26	Hisobdor shaxslar tomonidan tovarlarni xarid qilish bilan bog‘liq xarajatlar amalga oshirilgan 	2910	4220, 4290	Bo‘nak hisoboti
+27	Hisobdor shaxslar tomonidan investisiyalar bilan bog‘liq xarajatlar amalga oshirilgan 	0610, 5810	4220, 4290	Bo‘nak hisoboti
+28	Hisobdor shaxslar tomonidan davr xarajatlariga tegishli turli xarajatlar to‘langan 	9410, 9420, 9430	4230, 4290	Bo‘nak hisoboti
+29	Hisobdor shaxslar tomonidan kelgusi davr xarajatlariga tegishli turli xarajatlar va kelgusida soliq solinadigan bazadan chiqariladigan hisobot davriga tegishli xarajatlar to‘langan 	3190 9440	4290	Bo‘nak hisoboti
+30	Dargumon qarzlar bo‘yicha rezerv hisobidan xodimlarga berilgan bo‘naklar bo‘yicha umidsiz debitorlik qarzi hisobdan chiqarilgan 	4910	4210-4290	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+31	Xodimlarga berilgan bo‘naklar bo‘yicha umidsiz debitorlik qarzi zararga hisobdan chiqarilgan 	9430	4210-4290	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+32	Jamg‘arish usulida, chet el valyutasida berilgan hisobdor summalar bo‘yicha musbat kurs farqi aks ettirilgan 	4220	6230	Kurs farqining hisob-kitobi 
+33	Hisobdan chiqarishning to‘g‘ri usulida, chet el valyutasida berilgan hisobdor summalar bo‘yicha musbat kurs farqi aks ettirilgan 	4220	9540	Kurs farqining hisob-kitobi 
+34	Jamg‘arish usulida, chet el valyutasida berilgan hisobdor summalar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	4220	Kurs farqining hisob-kitobi 
+35	Hisobdan chiqarishning to‘g‘ri usulida, chet el valyutasida berilgan hisobdor summalar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	4220	Kurs farqining hisob-kitobi

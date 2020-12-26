@@ -1,0 +1,52 @@
+1	Sotuvchi korxonaga asosiy vositalarni mulk egaligiga berish yo‘li bilan qimmatli qog‘ozlar xarid qilingan 	0610 (9210	9210 0110-0190)	Qimmatli qog‘ozlarga obuna, hisobvaraq-faktura, asosiy vositalarni tugatish dalolatnomasi
+2	Sotuvchi korxonaga nomoddiy aktivlarni mulk egaligiga berish yo‘li bilan qimmatli qog‘ozlar xarid qilingan 	0610 (9220	9220 0410-0490)	Qimmatli qog‘ozlarga obuna, hisobvaraq-faktura, nomoddiy aktivlarni hisobdan chiqarish dalolatnomasi 
+3	Sotuvchi korxonaga o‘rnatiladigan uskunani mulk egaligiga berish yo‘li bilan qimmatli qog‘ozlar xarid qilingan 	0610 (9220	9210 0710-0720)	Qimmatli qog‘ozlarga obuna, hisobvaraq-faktura, uskunani qabul qilish-topshirish dalolatnomasi, yukxat 
+4	Sotuvchi korxonaga materiallarni mulk egaligiga berish yo‘li bilan qimmatli qog‘ozlar xarid qilingan 	0610 9220	9220 1010-1090	Qimmatli qog‘ozlarga obuna, hisobvaraq-faktura, yukxat 
+5	Sotuvchi korxonaga tayyor mahsulotni mulk egaligiga berish yo‘li bilan qimmatli qog‘ozlar xarid qilingan 	0610 9110	9010 2810	Qimmatli qog‘ozlarga obuna, hisobvaraq-faktura, yukxat 
+6	Sotuvchiga tovarlarni mulk egaligiga berish yo‘li bilan qimmatli qog‘ozlar xarid qilingan 	0610 9120	9020 2910	Qimmatli qog‘ozlarga obuna, hisobvaraq-faktura, yukxat 
+7	Uzoq muddatli investisiyalar sifatida qimmatli qog‘ozlar tekinga olingan 	0610	8530	Hadya shartnomasi, yukxat 
+8	Qimmatli qog‘ozlarning xarid va nominal qiymati o‘rtasidagi farq (nominal qiymati xarid qiymatidan yuqori) aks ettirilgan 	0610	9560	Guvohnoma, qimmatli qog‘ozlarga obuna, hisobvaraq-faktura 
+9	Yil oxirida qimmatli qog‘ozlarning xarid va nominal qiymati o‘rtasidagi farq (xarid qiymatidan yuqori) aks ettirilgan 	9690	0610	Guvohnoma, qimmatli qog‘ozlarga obuna, hisobvaraq-faktura 
+10	Hisobga olinmagan va inventarlash natijasida aniqlangan qimmatli qog‘ozlar kirim qilingan 	0610	9390	Inventarlash dalolatnomasi 
+11	Boshqa korxonalarning qimmatli qog‘ozlari xarid qilingan 	0610	Pul mablag‘- larini hisobga oluvchi schyotlar 	Qimmatli qog‘ozlarga obuna, qimmatli qog‘ozlarga egalik qilish to‘g‘risida guvohnoma 
+12	Brokerga investisiyalar xaridi bo‘yicha komission haq hisoblangan 	0610	6990	Vositachi korxona bilan shartnoma, hisobvaraq-faktura, ko‘rsatilgan xizmatlar dalolatnomasi 
+13	Xususiylashtirilgan korxona muddati uzaytirilishi sharti bilan xarid qilinganligi uchun kreditorlik qarzi aks ettirilgan 	0610	6820 va (yoki) 7820	Oldi-sotdi shartnomasi, kredit shartnomasi 
+14	Muvaffaqiyatli kimoshdi savdosi (tanlov)dan keyin garov summasi hisobga olingan 	0610	9590	Kimoshdi savdosida ishtirok etish shartnomasi, garov hisobvaraq-fakturasi 
+15	Qisqa muddatli moliyaviy qo‘yilmalar muddati oshganligi munosabati bilan uzoq muddatli investisiyalarga o‘tkazilgan 	0610	5810-5890	Investisiyalar muddatlarini uzaytirish to‘g‘risidagi qaror 
+16	Korxonaning ustav kapitaliga ta’sischilar tomonidan ulushlar sifatida taqdim etilgan qimmatli qog‘ozlarning qiymatini aks ettirilgan 	0610	4610	Ustav, ta’sis shartnomasi 
+17	Aksiyalar uchun to‘lov sifatida kelib tushgan qimmatli qog‘ozlar qiymati (yangi tashkil etilgan aksiyadorlik jamiyatining ustav kapitalini shakllantirishda) aks ettirilgan 	0610	4610	Ustav, ta’sis shartnomasi 
+18	Korxona tomonidan qimmatli qog‘ozlarga tegishli huquqlar o‘tganligi to‘g‘risida guvohnoma olingan 	0610	6990, 7920	Guvohnoma, qimmatli qog‘ozlarga obuna 
+19	Foizlar to‘lanishi o‘rtasidagi davrda uzoq muddatli qimmatli qog‘ozlar xarid qilingan: 			Qimmatli qog‘ozlarga obuna, hisobvaraq-faktura, yukxat 
+	- xarid qilish qiymatiga 	0610	5110
+	- oxirgi foizlar hisoblangan payt bilan xarid qilingan sana o‘rtasidagi davrda to‘langan foizlar summasiga 	4890	5110
+20	Uzoq muddatli investisiyalarni qayta baholash natijasida ular qo‘shimcha baholangan 	0610	8510	Qayta baholashni o‘tkazish to‘g‘risidagi rahbar buyrug‘i, hisob-kitob 
+21	Uzoq muddatli investisiyalarni qayta baholash natijasida ularning qiymati pasaytirilgan: 			Qayta baholashni o‘tkazish to‘g‘risidagi rahbar buyrug‘i, hisob-kitob 
+	- oldingi davrda qo‘shimcha baholangan summa chegarasida 	8510	0610
+	- oldingi davrda qo‘shimcha baholangan summa chegarasidan yuqori summaga 	9690	0610
+22	Investisiyalardan olingan dividendlarni hisobga olish aks ettirilgan: 			Dividendlarni to‘lash to‘g‘risidagi qaror, dividendlardan daromad solig‘i 
+	- qiymat usulida: (dividendlarni e’lon qilish) 	4840	9520
+    - qiymat usulida: (dividendlarni olish) 	5110	4840
+	- ulushli ishtirok etish usulida: (sof foydani e’lon qilish) 	0610	9520
+    - ulushli ishtirok etish usulida: (dividentlarni e’lon qilish) 	4840	0610
+    - ulushli ishtirok etish usulida: (dividendlarni olish) 	5110	4840
+23	Chet el valyutasidagi uzoq muddatli investisiyalar bilan bog‘liq operasiyalar bo‘yicha kurs farqlari yil davomida aks ettirilgan: 			Qimmatli qog‘ozlar kursi o‘zgarganligi to‘g‘risidagi axborot
+	- jamg‘arish usuli bo‘yicha: (musbat) 	0610	6230
+    - jamg‘arish usuli bo‘yicha: (manfiy) 	3290	0610
+	- bevosita hisobdan chiqarish usuli bo‘yicha: (musbat) 	0610	9540
+    - bevosita hisobdan chiqarish usuli bo‘yicha: (manfiy) 	9620	0610
+24	Uzoq muddatli investisiyalarning hisobdan chiqarilishi aks ettirilgan:		 	Ustav, ta’sis shartnomasi, uyushmalashtirilgan korxonalar bilan kelishuvlar, qaram jamiyatlar bilan kelishuvlar 
+	- shu’ba korxonalarga 	0620	0110-0190, 0410-0490, 1010-1090, 1110, 2110, 2810, 2910-2920, 5010-5020, 5110, 5210-5220
+	- qo‘shma korxonalarga 	0630	0110-0190, 0410-0490, 1010-1090, 1110, 2110, 2810, 2910-2920, 5010-5020, 5110, 5210-5220
+	- uyushmalashtirilgan korxonalarga 	0640	0110-0190, 0410-0490, 1010-1090, 1110, 2110, 2810, 2910-2920, 5010-5020, 5110, 5210-5220
+	- qaram korxonalarga 	0650	0110-0190, 0410-0490, 1010-1090, 1110, 2110, 2810, 2910-2920, 5010-5020, 5110, 5210-5220
+25	Uzoq muddatli investisiyalar sifatida hisobga olingan qimmatli qog‘ozlar qoplanishi (sotib olinishi) aks ettirilgan 	5110-5210 9220	9220 0610	Rahbar buyrug‘i
+26	Uzoq muddatli investisiyalar sifatida hisobga olingan qimmatli qog‘ozlarni sotish aks ettirilgan 	5110-5120 9220	9220 0610	Hisobvaraq-faktura, shartnoma 
+27	Muddati qisqartirilishi (bir yildan uzoq bo‘lgan muddatdan bir yildan kam bo‘lgan muddatga) munosabati bilan uzoq muddatli investisiyalar qisqa muddatli moliyaviy qo‘yilmalarga o‘tkazilgan 	5810-5890	0610	Qimmatli qog‘ozlarning saqlash muddatini o‘zgartirish to‘g‘risidagi qaror 
+28	Inventarlash natijasida uzoq muddatli investisiyalar kamomadi aniqlangan: 			Solishtirma qaydnoma, inventarlash dalolatnomasi, rahbar buyrug‘i 
+	- uzoq muddatli investisiyalarni nominal (balans) qiymati bo‘yicha hisobdan chiqarishda 	9220	0610-0690
+	- uzoq muddatli investisiyalar kamomadidan ko‘rilgan zarar summasiga 	5910	9220
+	- moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb tan olinganda, bunda baholash natijasida yetishmayotgan uzoq muddatli investisiyalarning bozor qiymati (undiriladigan summa) uzoq muddatli investisiyalarning kamomadidan ko‘rilgan zarardan yuqori bo‘lgan taqdirda: (uzoq muddatli investisiyalar kamomadidan ko‘rilgan zarar summasiga) 	4730	5910
+    - moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb tan olinganda, bunda baholash natijasida yetishmayotgan uzoq muddatli investisiyalarning bozor qiymati (undiriladigan summa) uzoq muddatli investisiyalarning kamomadidan ko‘rilgan zarardan yuqori bo‘lgan taqdirda: (aybdor yoki moddiy javobgar shaxslardan undirilishi lozim bo‘lgan yetishmayotgan uzoq muddatli investisiyalarning bozor qiymati bilan uzoq muddatli investisiyalarning kamomadidan zarar o‘rtasidagi farq summasiga) 	4730	9320
+	- moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb tan olinganda, bunda baholash natijasida yetishmayotgan uzoq muddatli investisiyalarning bozor qiymati (undiriladigan summa) uzoq muddatli investisiyalarning kamomadidan ko‘rilgan zarardan past bo‘lgan taqdirda: (aybdor yoki moddiy javobgar shaxslardan undirilishi lozim bo‘lgan yetishmayotgan uzoq muddatli investisiyalarning bozor qiymati bilan uzoq muddatli investisiyalarning kamomadidan zarar o‘rtasidagi farq summasiga) 	9430	5910
+    - moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb tan olinganda, bunda baholash natijasida yetishmayotgan uzoq muddatli investisiyalarning bozor qiymati (undiriladigan summa) uzoq muddatli investisiyalarning kamomadidan ko‘rilgan zarardan past bo‘lgan taqdirda: (uzoq muddatli investisiyalar kamomadidan ko‘rilgan zarar summasiga) 	4730	5910
+	- kamomadning aniq aybdorlari aniqlanmaganda yoki moddiy javobgar shaxslardan undirish imkoniyati bo‘lmaganda uzoq muddatli investisiyalar kamomadidan ko‘rilgan zarar moliyaviy natijalarga o‘tkaziladi 	9430	5910	

@@ -1,0 +1,19 @@
+1	Hisobot davri yakunlangandan keyin 9010 "Tayyor mahsulotni sotishdan daromadlar" schyoti yopilgan 	9010	9910	Buxgalteriyaning hisob-kitobi 
+2	Hisobot davri yakunlangandan keyin 9020 "Tovarlarni sotishdan daromadlar" schyoti yopilgan 	9020	9910	Buxgalteriyaning hisob-kitobi 
+3	Hisobot davri yakunlangandan keyin 9030 "Bajarilgan ishlar va ko‘rsatilgan xizmatlardan olingan daromadlar" schyoti yopilgan 	9030	9910	Buxgalteriyaning hisob-kitobi 
+4	Hisobot davri yakunlangandan keyin 9110 "Sotilgan tayyor mahsulot tannarxi" schyoti yopilgan 	9910	9110	Buxgalteriyaning hisob-kitobi 
+5	Hisobot davri yakunlangandan keyin 9120 "Sotilgan tovarlarning tannarxi" schyoti yopilgan 	9910	9120	Buxgalteriyaning hisob-kitobi 
+6	Hisobot davri yakunlangandan keyin 9130 "Bajarilgan ishlar va ko‘rsatilgan xizmatlar tannarxi" schyoti yopilgan 	9910	9130	Buxgalteriyaning hisob-kitobi 
+7	Hisobot davri yakunlangandan keyin 9140 "Davriy hisobda TMZlarni sotib olish/xarid qilish" schyoti yopilgan 	9910	9140	Buxgalteriyaning hisob-kitobi 
+8	Hisobot davri yakunlangandan keyin 9150 "Davriy hisobda TMZlar bo‘yicha tuzatishlar" schyoti yopilgan: 			Buxgalteriyaning hisob-kitobi
+	- birinchi variant 	9910	9150
+	- ikkinchi variant 	9150	9910
+9	Hisobot davri yakunlangandan keyin asosiy faoliyatdan boshqa daromadlarni hisobga oluvchi schyotlar yopilgan 	9310-9390	9910	Buxgalteriyaning hisob-kitobi 
+10	Hisobot davri yakunlangandan keyin davr xarajatlarini hisobga oluvchi schyotlar yopilgan 	9910	9410, 9420, 9430, 9440 	Buxgalteriyaning hisob-kitobi 
+11	Hisobot davri yakunlangandan keyin moliyaviy faoliyatdan daromadlarni hisobga oluvchi schyotlar yopilgan 	9510-9590	9910	Buxgalteriyaning hisob-kitobi 
+12	Hisobot davri yakunlangandan keyin moliyaviy faoliyatdan xarajatlarni hisobga oluvchi schyotlar yopilgan 	9910	9610-9690	Buxgalteriyaning hisob-kitobi 
+13	Hisobot davri yakunlangandan keyin 9710 "Favquloddagi foydalar" schyoti yopilgan 	9710	9910	Buxgalteriyaning hisob-kitobi 
+14	Hisobot davri yakunlangandan keyin 9720 "Favquloddagi zararlar" schyoti yopilgan 	9910	9720	Buxgalteriyaning hisob-kitobi 
+15	Hisobot yili yakunlangandan keyin soliqlar va boshqa majburiy to‘lovlarni to‘lash uchun foydadan foydalanishni hisobga oluvchi schyotlarning debeti bo‘yicha hisobga olingan summalar 9910 "Yakuniy moliyaviy natija" schyotining debetiga o‘tkazilgan 	9910	9810-9820	Buxgalteriyaning hisob-kitobi 
+16	Hisobot davrining oxirida sof foyda hisobdan chiqarilgan 	9910	8710	Buxgalteriyaning hisob-kitobi 
+17	Hisobot davrining oxirida korxona faoliyatidan ko‘rilgan zarar hisobdan chiqarilgan 	8710	9910	Buxgalteriyaning hisob-kitobi 

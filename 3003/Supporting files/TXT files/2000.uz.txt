@@ -1,0 +1,67 @@
+1	Mahsulotlarni ishlab chiqarish (ishlarni bajarish, xizmatlar ko‘rsatish)da bevosita ishtirok etadigan asosiy vositalar bo‘yicha amortizasiya hisoblangan 	2010	0210-0290	Asosiy vositalar bo‘yicha amortizasiyani hisoblash qaydnomasi
+2	Mahsulotlarni ishlab chiqarish (ishlarni bajarish, xizmatlar ko‘rsatish)da bevosita ishtirok etadigan moliyaviy ijara (lizing) shartnomasi bo‘yicha olingan asosiy vositalar bo‘yicha amortizasiya hisoblangan 	2010	0299	Asosiy vositalar bo‘yicha amortizasiyani hisoblash qaydnomasi
+3	Ishlab chiqarishga mo‘ljallangan mol-mulk bo‘yicha gudvill (firma qiymatini) nomoddiy aktivi summasini hisobdan chiqarish bilan bog‘liq xarajatlar aks ettirilgan 	2010	0480	Gudvillni hisobdan chiqarish hisob-kitobi 
+4	Ishlab chiqarish jarayonida qatnashuvchi xodimlarga vaqtinchalik mehnat qobiliyatini yo‘qotish, homiladorlik va tug‘ish bo‘yicha nafaqalarni to‘lash bilan bog‘liq xarajatlar aks ettirilgan 	2010	6710	Nafaqalar hisob-kitobi 
+5	Mahsulotlarni ishlab chiqarish (ishlarni bajarish, xizmatlar ko‘rsatish)ga taalluqli nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	2010	0510-0590	Nomoddiy aktivlar bo‘yicha amortizasiyani hisoblash hisob-kitobi 
+6	Mahsulotlarni ishlab chiqarish, ishlarni bajarish, xizmatlar ko‘rsatish uchun materiallar sarf-xarajati hisobdan chiqarilgan 	2010	1010-1090	Yukxat, hisobdan chiqarish dalolatnomasi, bajarilgan ishlar dalolatnomasi 
+7	Chorvachilik mahsulotini olish uchun hayvonlar qiymati hisobdan chiqarilgan 	2010	1110	Hayvonlar va parrandalar chiqib ketishi (so‘yilishi, nobud bo‘lishi) bo‘yicha dalolatnoma, chiqim yukxati 
+8	Inventar va xo‘jalik jihozlari asosiy ishlab chiqarish ehtiyojlari uchun hisobdan chiqarilgan 	2010	1080	Yukxat, hisobdan chiqarish dalolatnomasi, buxgalteriyaning hisob-kitobi 
+9	Materiallar qiymatidagi farqlar tegishli ulushi bo‘yicha asosiy ishlab chiqarishga hisobdan chiqarilgan (storno yoki qo‘shimcha yozuv) 	2010	1610	Buxgalteriyaning hisob-kitobi
+10	Qayta ishlash uchun asosiy ishlab chiqarish syexlariga berilgan o‘zida ishlab chiqarilgan yarim tayyor mahsulotlar qiymati hisobga olingan 	2010	2110	Talabnomayukxat, hisobdan chiqarish dalolatnomasi 
+11	Yordamchi syexlar xarajatlari asosiy ishlab chiqarish mahsulotlari va xizmatlari tannarxiga kiritilgan 	2010	2310	Tannarxning hisob-kitobi 
+12	Umumishlab chiqarish xarajatlari asosiy ishlab chiqarish mahsulotlari va xizmatlari tannarxiga kiritilgan 	2010	2510	Umumishlab chiqarish xarajatlari taqsimlanishi qaydnomasi 
+13	Yaroqsizlikdan yo‘qotishlar; yaroqsiz mahsulot qaytarilishi bo‘yicha xarajatlar asosiy ishlab chiqarish mahsulotlari va xizmatlari tannarxiga kiritilgan 	2010	2610	Yaroqsizlik to‘g‘risida dalolatnoma, buxgalteriyaning hisob-kitobi 
+14	Ilgari kelgusi davr xarajatlari kabi aks ettirilgan xarajatlarning tegishli ulushi mahsulot tannarxiga kiritilgan 	2010	3110-3190	Buxgalteriyaning hisob-kitobi 
+15	Tayyor mahsulot asosiy ishlab chiqarish ehtiyojlari uchun sarf-xarajat qilingan; kirim qilingan tayyor mahsulot (qayta ishlov berish uchun va h.k.) ombordan syexga qaytarilgan 	2010	2810	Yukxat, hisobdan chiqarish dalolatnomasi 
+16	Xarid qilinadigan va butlovchi materiallar asosiy ishlab chiqarish ehtiyojlari uchun berilgan 	2010	1020	Talabnomayukxat 
+17	Tovarlar qayta ishlab chiqarish uchun berilgan 	2010	2910	Talabnomayukxat 
+18	Mahsulotlar (ishlar, xizmatlar) tannarxiga bevosita olib borilgan turli xarajatlar naqd pul bilan to‘langan 	2010	5010-5020	Cheklar, chiptalar, xarajatlarni naqd pul to‘lovi orqali amalga oshirgan shaxslarning hisobotlari 
+19	Banklardagi hisob-kitob varag‘i yoki valyuta schyotlari, shuningdek banklardagi maxsus schyotlar orqali to‘langan va asosiy ishlab chiqarish xarajatlariga olib borilgan turli bevosita xarajatlar aks ettirilgan 	2010	5110, 5210-5220, 5510-5530 	Bank schyotlaridan ko‘chirma, buxgalteriyaning hisob-kitobi
+20	Ishlab chiqarish uchun bevosita syexlarga kelib tushgan moddiy qiymatliklar va ko‘rsatilgan xizmatlar uchun mol yetkazib beruvchilar schyotlari qabul qilingan 	2010	6010	Shartnomalar, hisobvaraq-fakturalar, yukxatlar 
+21	Qondirilmagan da’vo summasi asosiy ishlab chiqarish mahsuloti, ishlar yoki xizmatlar tannarxiga kiritilgan 	2010	4860	Hisobdan chiqarish dalolatnomasi, da’vo hujjatlari 
+22	Majburiy mulkiy va shaxsiy sug‘urta bo‘yicha xarajatlar summasi (sug‘urta tashkilotlaridan qarzlar) asosiy ishlab chiqarish xarajatlariga kiritilgan 	2010	6510	Buxgalteriyaning hisob-kitobi 
+23	Asosiy ishlab chiqarish mahsuloti, ishlari yoki xizmatlarining tannarxiga kiritiladigan byudjetdan tashqari jamg‘armalarga to‘lanadigan summalar aks ettirilgan 	2010	6520	Buxgalteriyaning hisob-kitobi
+24	Asosiy ishlab chiqarish xodimlariga ijtimoiy sug‘urta va mehnat haqini to‘lash bo‘yicha ta’minlash uchun ajratmalar amalga oshirilgan 	2010	6520	Buxgalteriyaning hisob-kitobi 
+25	Asosiy ishlab chiqarish xodimlariga mehnat haqi to‘lash bo‘yicha summalar hisoblangan 	2010	6710	Buxgalteriyaning hisob-kitobi 
+26	Hisobdor shaxslar tomonidan asosiy ishlab chiqarish bo‘yicha amalga oshirilgan xarajatlar aks ettirilgan: 			Hisobdor shaxslarning hisobotlari, buxgalteriyaning hisob-kitobi 
+	- ularga bo‘nak berilgan bo‘lsa 	2010	4230
+	- ularga bo‘nak berilmagan bo‘lsa 	2010	6970
+27	Asosiy ishlab chiqarish bilan bog‘liq xizmat safari xarajatlari hisobdor shaxslarning bo‘nak hisobotlariga muvofiq asosiy ishlab chiqarish xarajatlariga hisobdan chiqarilgan: 			Hisobdor shaxslarning hisobotlari, buxgalteriyaning hisob-kitobi 
+	- ularga bo‘nak berilgan bo‘lsa 	2010	4220
+	- ularga bo‘nak berilmagan bo‘lsa 	2010	6970
+28	Mahsulot ishlab chiqarilishi bilan bog‘liq asosiy vositalarning operativ ijarasi bo‘yicha ijara haqi summasi aks ettirilgan 	2010	6910	Ijara to‘lovi shartnomasi, hisobvaraq-faktura, ijara to‘lovi bo‘yicha hisob-kitob 
+29	Asosiy ishlab chiqarish syexlariga xizmatlar ko‘rsatilganligi uchun turli korxonalarga qarzlar aks ettirilgan (mahsulot ishlab chiqarish bo‘yicha va boshqalar) 	2010	6990	Shartnomalar, bajarilgan ishlar (xizmatlar) bo‘yicha solishtirma dalolatnomalar 
+30	Alohida balansga ajratilgan ichki bo‘linmalarning asosiy ishlab chiqarish ehtiyojlari uchun amalga oshirgan xarajatlari aks ettirilgan 	2010	6110	Yukxatlar, hisobdan chiqarish dalolatnomalari, buxgalteriyaning hisob-kitoblari 
+31	Asosiy ishlab chiqarish bilan bog‘liq asosiy vositalarni ta’mirlash uchun rezerv barpo etilgan 	2010	8910	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+32	Asosiy ishlab chiqarish bilan bog‘liq ishchilarning mehnat ta’tilini to‘lash bo‘yicha rezerv barpo etilgan 	2010	8910	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+33	Asosiy ishlab chiqarish bilan bog‘liq xodimlarga ko‘p yil mehnat qilganligi uchun taqdirlash haqini to‘lash bo‘yicha rezerv barpo etilgan 	2010	8910	Buxgalteriyaning hisob-kitob ma’lumotnomasi 
+34	Asosiy syexlarda aniqlangan tugallanmagan ishlab chiqarishning ortiqchalari kirim qilingan (kamomaddan ortiq bo‘lgan summada) 	2010	9390	Inventarlash dalolatnomasi 
+35	Moddiy qiymatliklar bo‘yicha kamomad (jumladan, tabiiy yo‘qotish) qiymati qonunchilikka muvofiq asosiy ishlab chiqarish xarajatlariga kiritilgan 	2010	5910	Inventarlash dalolatnomasi, buxgalteriyaning hisob-kitoblari 
+36	Tugallanmagan mahsulot (yarim tayyor mahsulot)ning bir qismi, shuningdek asosiy syexlar tomonidan ko‘rsatilgan xizmatlar uzoq muddatli moliyaviy qo‘yilmalar tartibida (xarid qilingan qimmatli qog‘ozlar qiymatini qoplash uchun) boshqa korxonalarga berilgan: 			Shartnoma, yukxat, hisobvaraq-fakturalar
+	- ularning tannarxiga 	9220	2010, 2110
+	- o‘tkazib berish qiymatiga 	0610, 5810	9220
+	- o‘tkazish qiymati tannarxdan ortiq bo‘lganda 	9220	9320
+	- o‘tkazish qiymati tannarxdan past bo‘lganda 	9430	9220
+37	O‘z kapital qurilishi uchun bajarilgan ishlar, xizmatlarning haqiqiy tannarxi hisobdan chiqarilgan 	9220, 0810	2010, 9220	Bajarilgan ishlarni, ko‘rsatilgan xizmatlarni qabul qilish dalolatnomasi 
+38	Asosiy ishlab chiqarishdan (asosiy syexlardan) materiallar qaytarilganligi aks ettirilgan; o‘zida ishlab chiqarilgan materiallar, shuningdek qaytariladigan chiqindilar kirim qilingan 	1010-1090	2010	Yukxat, qabul qilish dalolatnomasi 
+39	Hayvonlarni o‘stirish va bo‘rdoqiga boqish bo‘yicha xarajatlar hayvonlar tannarxiga kiritilgan (vaznining qo‘shilishi, o‘sishi); hayvonlardan olingan nasl aks ettirilgan 	1110	2010	Buxgalteriyaning hisob-kitoblari 
+40	Ilgari asosiy ishlab chiqarish xarajatlariga hisobdan chiqarilgan inventar va xo‘jalik jihozlarining qaytarilishi aks ettirilgan; o‘zida ishlab chiqarilgan inventar va xo‘jalik jihozlari kirim qilingan 	1080	2010	Yukxat
+41	Tugallanmagan mahsulot qayta baholanishi aks ettirilgan: 			Korxona rahbariyatining qarori, buxgalteriya hisob-kitobi 
+	- bahosi oshirilganda 	2010	9390
+	- bahosi pasaytirilganda 	9430	2010
+42	O‘zida ishlab chiqarilgan yarim tayyor mahsulotlar operasiyalararo omborlarga kirim qilingan (yarim tayyor mahsulot varianti) 	2110	2010	Yukxat
+43	Asosiy ishlab chiqarishda aniqlangan va tuzatib bo‘lmaydigan yaroqsizliklardan yo‘qotishlar hisobdan chiqarilgan 	2610	2010	Yaroqsizlik to‘g‘risida dalolatnoma, buxgalteriya hisob-kitobi 
+44	Xizmat ko‘rsatuvchi ishlab chiqarishlarga va xo‘jaliklarga, o‘zining qurilishiga va hokazolarga berilgan asosiy ishlab chiqarish mahsulotlari va xizmatlar qiymati tushum sifatida aks ettirilgan 	9110-9130 0810, 2310 	2010, 9010-9030 	Yukxat
+45	Mahsulotlar (ishlar va xizmatlar) ishlab chiqarilishi amaldagi tannarxi bo‘yicha aks ettirilgan 	2810	2010	Yukxat, buxgalteriya hisob-kitobi
+46	Savdo va ta’minot tashkilotlarida va korxonalarda o‘zida ishlab chiqarilgan (qayta ishlov berilgan va h.k.) tovarlar kirim qilingan 	2910	2010	Yukxat
+47	Maqsadli moliyalashtirish mablag‘lari hisobiga bajarilgan ishlar, ko‘rsatilgan xizmatlarning amaldagi tannarxi hisobdan chiqarilgan 	8810-8890	2010	Maqsadli moliyalashtirish shartnomasi, bajarilgan ishlar dalolatnomasi 
+48	Asosiy syexlar tomonidan bajarilgan ishlar yoki ko‘rsatilgan xizmatlar sotilishi aks ettirilgan; buyurtmachi tomonidan tugallangan va ishlarning bosqichi qabul qilinganligi bo‘yicha xarajatlar summasi hisobdan chiqarilgan 	9110-9130	2010	Shartnoma, bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura 
+49	Asosiy ishlab chiqarish syexlaridan turli qiymatliklar (detallar va h.k.) tekinga berilishi aks ettirilgan 	9430	2010	Berish to‘g‘risida qaror (buyruq), yukxat, hisobvaraq-faktura 
+50	Tugallanmagan mahsulot (yarim tayyor mahsulot)ning bir qismi qisqa muddatli investisiya (qimmatli qog‘ozlarning qiymatini qoplash) tartibida boshqa korxonalarga berilgan 	9110-9130 5810	2010, 2110 9010-9030 	Shartnoma, yukxat, hisobvaraq-faktura 
+51	Alohida balansga ajratilgan ichki bo‘linmalar uchun bajarilgan ishlar va ko‘rsatilgan xizmatlar tannarxi hisobdan chiqarilgan (yarim tayyor mahsulotsiz variant) 	9110-9130 4110	2010 9010-9030 	Bajarilgan ishlar dalolatnomasi, hisobvaraq-faktura, buxgalteriyaning hisob-kitoblari 
+52	Bekor qilingan ishlab chiqarish buyurtmalari bo‘yicha xarajatlar; tayyor mahsulot bermagan ishlab chiqarish bo‘yicha xarajatlar hisobdan chiqarilgan 	9430	2010	Qaror (buyruq), buxgalteriyaning hisob-kitoblari 
+53	Tabiiy ofatlar, yong‘inlar va hokazolar natijasida tugallanmagan ishlab chiqarishdan yo‘qotishlar hisobdan chiqarilgan 	9720	2010	Yo‘qotishlar to‘g‘risida dalolatnoma, buxgalteriyaning hisob-kitoblari
+54	Asosiy ishlab chiqarishda tovar-moddiy qiymatliklarning aniqlangan kamomadi aks ettirilgan: 			Inventarlash dalolatnomasi
+	- haqiqiy tannarxi bo‘yicha 	5910	2010
+	- kamomadni moddiy javobgar shaxsning aybi bilan hisobdan chiqarishda 	4730	5910
+	- kamomadni tabiiy kamayish yoki aybdor shaxslar aniqlanmagan taqdirda hisobdan chiqarishda 	9430	5910

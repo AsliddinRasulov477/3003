@@ -1,0 +1,6 @@
+1	To‘lashga qobiliyatsiz debitorlarning qarzi to‘g‘ri olib borish usuli bilan zararga hisobdan chiqarilgan 	9430	4010-4890	Da’vo hujjatlari, Xo‘jalik sudining hujjatlari, rahbar buyrug‘i
+2	To‘lashga qobiliyatsiz debitorlarning qarzi dargumon qarzlar bo‘yicha rezerv hisobidan zararga hisobdan chiqarilgan 	4910	4010-4890	Da’vo hujjatlari, Xo‘jalik sudining hujjatlari, rahbar buyrug‘i 
+3	To‘lashga qobiliyatsiz debitorlarning qarzi hisobga qabul qilingan 	007	1	Yukxat
+4	Zararga hisobdan chiqarilgan qarz summalarini qoplash hisobiga kelib tushgan summalar aks ettirilgan 	5010, 5110, 5210	9390	Kirim kassa orderi, bank hisob-kitob schyotidan ko‘chirma 
+5	To‘lov kelib tushishi munosabati bilan qarz hisobdan chiqarilgan 	1	007	Yukxat 
+6	Besh yil o‘tishi munosabati bilan qarz hisobdan chiqarilgan 	1	007	Yukxat 

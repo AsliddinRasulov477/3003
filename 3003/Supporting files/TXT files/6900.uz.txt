@@ -1,0 +1,85 @@
+1	Ishlab chiqarish asosiy vositalarining operativ ijarasi bo‘yicha qarz hisoblangan 	2010	6910	Operativ ijara shartnomasi, hisobvaraq-faktura
+2	Yordamchi ishlab chiqarish syexlarida ishlatilayotgan asosiy vositalarning operativ ijarasi bo‘yicha qarz hisoblangan 	2310	6910	Operativ ijara shartnomasi, hisobvaraq-faktura 
+3	Umumishlab chiqarish maqsadlarida ishlatilayotgan asosiy vositalarning operativ ijarasi bo‘yicha qarz hisoblangan 	2510	6910	Operativ ijara shartnomasi, hisobvaraq-faktura 
+4	Mahsulotlarni, tovarlarni sotish bilan bog‘liq bo‘lgan asosiy vositalarning operativ ijarasi bo‘yicha qarz hisoblangan 	9410	6910	Operativ ijara shartnomasi, hisobvaraq-faktura 
+5	Ma’muriy maqsadlarda ishlatilayotgan asosiy vositalarning operativ ijarasi bo‘yicha qarz hisoblangan 	9420	6910	Operativ ijara shartnomasi, hisobvaraq-faktura 
+6	Operativ ijara bo‘yicha qarz hisob-kitob schyotidan qoplangan 	6910	5110	Operativ ijara shartnomasi, hisobvaraq-faktura 
+7	Qisqa muddatli va uzoq muddatli kredit bo‘yicha hisoblangan foizlar kapital qurilishning boshlang‘ich qiymatiga kiritilgan 	0810	6920	Foizlarning turlari bo‘yicha hisob-kitobi 
+8	Qisqa muddatli va uzoq muddatli kredit bo‘yicha hisoblangan foizlar nomoddiy aktivlarning boshlang‘ich qiymatiga kiritilgan 	0830	6920	Foizlarning turlari bo‘yicha hisob-kitobi 
+9	Qisqa muddatli va uzoq muddatli kredit bo‘yicha foizlar hisoblangan 	9610	6920	Foizlarning turlari bo‘yicha hisob-kitobi 
+10	Kurs farqini hisobga olishning jamlash usuli bilan chet el valyutasida ifodalangan hisoblangan foizlar bo‘yicha manfiy kurs farqi aks ettirilgan 	3290	6920	Kredit shartnomalari, kurs farqini aniqlash bo‘yicha hisob-kitoblar 
+11	Kurs farqini hisobga olishning to‘g‘ri usuli bilan chet el valyutasida ifodalangan hisoblangan foizlar bo‘yicha manfiy kurs farqi aks ettirilgan 	9620	6920	Kredit shartnomalari, kurs farqini aniqlash bo‘yicha hisob-kitoblar 
+12	Kurs farqini hisobga olishning jamlash usuli bilan chet el valyutasida ifodalangan hisoblangan foizlar bo‘yicha musbat kurs farqi aks ettirilgan 	6920	6230	Kredit shartnomalari, to‘lov topshiriqnomalari, kurs farqi hisob-kitobi 
+13	Kurs farqini hisobga olishning to‘g‘ri usuli bo‘yicha chet el valyutasida ifodalangan hisoblangan foizlar bo‘yicha musbat kurs farqi aks ettirilgan 	6920	9540	Kredit shartnomalari, to‘lov topshiriqnomalari, kurs farqi hisob-kitobi 
+14	Foizlar bo‘yicha qarzlarni to‘lash aks ettirilgan 	6920	5110	Bank schyotlaridan ko‘chirmalar 
+15	Royalti va gonorarlar bo‘yicha qarzlar hisoblangan 	9430	6930	Shartnoma, qarzlarni turlari va oluvchilar bo‘yicha hisoblashning hisob-kitobi 
+16	Royalti va gonorarlarni to‘lash aks ettirilgan 	6930	5110	Bank ko‘chirmasi 
+17	Kafolatli xizmat ko‘rsatish bo‘yicha qarz hisoblangan 	9410	6940	Chipta, kafolatli xizmat ko‘rsatish taloni 
+18	Kafolatli xizmat ko‘rsatish bo‘yicha amaldagi xarajatlar hisobdan chiqarilgan 	6940	1010-1090, 6710, 6990	Chipta, moddiy qiymatliklarni, mehnat haqini hisobga olish qaydnomasi 
+19	Bankning uzoq muddatli krediti bo‘yicha qarzning joriy qismi ajratilgan 	7810	6950	Qarzni hisobdan chiqarish hisob-kitobi 
+20	Boshqa korxonadan olingan uzoq muddatli qarz bo‘yicha qarzning joriy qismi ajratilgan 	7820	6950	Qarzni hisobdan chiqarish hisob-kitobi 
+21	Moliyaviy ijara (lizing) bo‘yicha qarzning joriy qismi ajratilgan 	7910	6950	Moliyaviy ijara (lizing) bo‘yicha qarzni hisobdan chiqarish hisob-kitobi 
+22	Moliyaviy ijara (lizing) bo‘yicha qarz qoplangan 	6950	5110	Bank schyotlaridan ko‘chirmalar 
+23	Uzoq muddatli kredit bo‘yicha qarz qoplangan 	6950	5110	Bank schyotlaridan ko‘chirmalar 
+24	Yetkazib berilgan o‘rnatiladigan asbob-uskunaga oid aniqlangan narxlarning, tariflarning nomutanosibligi, schyotlardagi yanglish yozuvlar bo‘yicha (to‘lov uchun qabul qilingandan keyin) da’volar taqdim qilingan 	0710, 0720	6960	Da’vo hujjatlari, hisobvaraq-faktura, yukxat 
+25	Kapital qurilish bo‘yicha hajmlarni oshirish, ilgari olingan schyotlardagi narxlarning nomutanosibligi va arifmetik xatolar (to‘lov uchun qabul qilingandan keyin) natijasida taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan 	0810-0890	6960	Da’vo hujjatlari, hisobvaraq-faktura, yukxat 
+26	Ilgari olingan asosiy vositalar bo‘yicha hajmlarni oshirish, olingan schyotlardagi narxlarning nomutanosibligi va arifmetik xatolar natijasida taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan 	0820	6960	Da’vo hujjatlari, hisobvaraq-faktura, yukxat 
+27	Ilgari olingan nomoddiy aktivlar bo‘yicha hajmlarni oshirish, olingan schyotlardagi narxlarning nomutanosibligi va arifmetik xatolar natijasida taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan 	0830	6960	Da’vo hujjatlari, hisobvaraq-faktura, yukxat 
+28	Materiallarga oid schyotlardagi narxlarning nomutanosibligi va arifmetik xatolar, sifat pastligi, tabiiy kamayish me’yorlaridan ortiq kamomadlar natijasida (yo‘lda) taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan 	1010-1090	6960	Da’vo hujjatlari, hisobvaraq-faktura, yukxat 
+29	Hayvonlar, shuningdek o‘stirishdagi va bo‘rdoqiga boqishdagi hayvonlar bo‘yicha schyotlardagi (to‘lov uchun qabul qilingandan va to‘lov olingandan keyin) narxlarning nomutanosibligi va arifmetik xatolar natijasida taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan 	1110, 1120	6960	Da’vo hujjatlari, hisobvaraq-faktura, yukxat 
+30	Yetkazib berilgan inventar va xo‘jalik jihozlari bo‘yicha, schyotlardagi narxlarning nomutanosibligi va arifmetik xatolar natijasida taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan 	1080	6960	Da’vo hujjatlari, hisobvaraq-faktura, yukxat 
+31	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalanilgan holda kamomadlar, schyotlardagi xatolar, me’yorlardan ortiq yo‘qotishlar, sifati yuzasidan va hokazolar natijasida taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan 	1510	6960	Da’vo hujjatlari, hisobvaraq-faktura, yukxat 
+32	Yaroqsizlikdan yo‘qotishlar bo‘yicha qarz aks ettirilgan 	2610	6960	Yaroqsizlik to‘g‘risida xabarnoma, sud qaroridan ko‘chirma, yaroqsizlikni baholash qaydnomasi 
+33	Da’vo tariqasida korxonaga taqdim etilgan asosiy ishlab chiqarishdagi yo‘qotishlar bo‘yicha qarz aks ettirilgan 	2010	6960	Da’vo hujjatlari 
+34	Da’vo tariqasida korxonaga taqdim etilgan yordamchi ishlab chiqarishdagi yo‘qotishlar bo‘yicha qarz aks ettirilgan 	2310	6960	Da’vo hujjatlari 
+35	Da’vo tariqasida korxonaga taqdim etilgan xizmat ko‘rsatuvchi xo‘jaliklardagi yo‘qotishlar bo‘yicha qarz aks ettirilgan 	2710	6960	Da’vo hujjatlari 
+36	Xarid qilingan tovarlar summalari bo‘yicha aniqlangan xatolar (syexlarda va h.k.); yo‘lda belgilangan me’yorlardan ortiq kamayishlar; sifatiga nomutanosibligi natijasida taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan 	2910-2990	6960	Da’vo hujjatlari 
+37	Moddiy qiymatliklarni kirim qilish paytida xaridorlar tomonidan taqdim etilgan da’volar bo‘yicha qarz aks ettirilgan (xatolar, yo‘ldagi kamomadlar, sifatiga nomutanosibligi va h.k. bo‘yicha) 	9430	6960	Da’vo hujjatlari, hisobvaraq-faktura, tovar-transport yukxati 
+38	Shartnoma shartlari bajarilmaganligi natijasida jarima, penya va boqimonda summalari (Xo‘jalik sudi tomonidan tan olingan yoki belgilangan miqdorlarda) bo‘yicha qarz aks ettirilgan 	9430	6960	Tijorat dalolatnomasi, shartnoma, sud qarori 
+39	Asosiy ishlab chiqarishga taalluqli xarajatlar uchun hisobdor shaxslarga qarz aks ettirilgan 	2010	6970	Bo‘nak hisobotlari
+40	Yordamchi ishlab chiqarishga taalluqli xarajatlar uchun hisobdor shaxslarga qarz aks ettirilgan 	2310	6970	Bo‘nak hisobotlari
+41	Umumishlab chiqarishga taalluqli xarajatlar uchun hisobdor shaxslarga qarz aks ettirilgan 	2510	6970	Bo‘nak hisobotlari
+42	Mahsulot yaroqsizligi munosabati bilan (yaroqsiz mahsulotni qaytarish hamda olib kelish va hokazolar) turli xarajatlarni to‘lash uchun hisobdor shaxslarga qarz aks ettirilgan 	2610	6970	Bo‘nak hisobotlari, berilgan bo‘naklarni hisobga oluvchi qaydnoma 
+43	Xizmat ko‘rsatuvchi xo‘jaliklarga taalluqli xarajatlar uchun hisobdor shaxslarga qarz aks ettirilgan 	2710	6970	Bo‘nak hisobotlari
+44	Ayrim tovarlarni xarid qilganligi uchun hisobdor shaxslarga qarz aks ettirilgan 	2910-2990	6970	Bo‘nak hisobotlari, berilgan bo‘naklarni hisobga olish qaydnomasi 
+45	Kelgusi davr xarajatlariga taalluqli xarajatlar uchun hisobdor shaxslarga qarz aks ettirilgan 	3190	6970	Bo‘nak hisobotlari
+46	Mahsulotni yetkazib berish va sotish (transport va hokazolar); xuddi shuning o‘zi savdo va hokazo korxonalarda (turli chiqimlar) xarajatlar uchun hisobdor shaxslarga qarz aks ettirilgan 	9410	6970	Bo‘nak hisobotlari, berilgan bo‘naklarni hisobga oluvchi qaydnoma 
+47	Ma’muriy maqsadlar bilan bog‘liq xarajatlar uchun hisobdor shaxslarga qarz aks ettirilgan 	9420	6970	Bo‘nak hisobotlari, berilgan bo‘naklarni hisobga oluvchi qaydnoma 
+48	Tabiiy ofatlar, yong‘inlar va hokazolarning oldini olish yoki oqibatlarini bartaraf etish bilan bog‘liq turli xarajatlarni to‘lash uchun hisobdor shaxslarga qarz aks ettirilgan 	9720	6970	Buyruq, inventarlash komissiyasining qarori, bo‘nak hisobotlari 
+49	Maqsadli moliyalashtirish va maqsadli tushumlar hisobidan turli xaridlar va xarajatlar uchun hisobdor shaxslarga qarz aks ettirilgan 	8810-8890	6970	Kassa hisobotlari, bank schyotlaridan ko‘chirmalar, bo‘nak hisoboti 
+50	Hisobdor summalar bo‘yicha qarz kassa orqali to‘langan 	6970	5010	Chiqim kassa orderi, kassir hisoboti 
+51	Hisobdor summalar bo‘yicha qarz hisob-kitob schyoti orqali qoplangan 	6970	5110	Bank hisob-kitob schyotlaridan ko‘chirmalar 
+52	Hisobdor summalar bo‘yicha qarz maxsus hisob-kitob schyoti orqali qoplangan 	6970	5530	Bank maxsus hisob-kitob schyotlaridan ko‘chirmalar 
+53	Boshqa shaxslardan uzoq muddatli qimmatli qog‘ozlar xarid qilingan 	0610	6990	Yukxat
+54	O‘rnatiladigan asbobuskunani yetkazib berish bo‘yicha ko‘rsatilgan xizmatlari uchun turli kreditorlarga qarz aks ettirilgan 	0710, 0720	6990	Hisobvaraq-faktura, yukxat 
+55	Kapital qurilish uchun turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan 	0810	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+56	Asosiy vositalarni xarid qilishda turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	0820	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+57	Nomoddiy aktivlarni xarid qilish bo‘yicha xizmatlar uchun turli kreditorlarga qarz aks ettirilgan 	0830	6990	Hisobvaraq-faktura, yukxat 
+58	Materiallarni xarid qilishda turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	1010-1090	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+59	Hayvonlarni xarid qilishda turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va hokazolar) 	1110, 1120	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+60	1510 "Materiallarni tayyorlash va xarid qilish" schyotidan foydalanilgan holda materiallarni xarid qilishda turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	1510	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+61	Asosiy ishlab chiqarish uchun turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	2010	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+62	Yordamchi ishlab chiqarish uchun turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	2310	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+63	Umumishlab chiqarish ehtiyojlari uchun turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va hokazolar) 	2510	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+64	Yaroqsizlikni tuzatish uchun turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	2610	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+65	Xizmat ko‘rsatuvchi xo‘jaliklar uchun turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	2710	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+66	Tovarlarni xarid qilishda turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	2910, 2990	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+67	Tovarlarni xarid qilishda turli tashkilotlar va korxonalar tomonidan kelgusi davr xarajatlariga kiritiladigan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	3190	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+68	Boshqa shaxslardan pul ekvivalentlari kelib tushishi aks ettirilgan 	5610	6990	Yukxat 
+69	Boshqa shaxslardan pul o‘tkazmalari kelib tushishi aks ettirilgan 	5710	6990	Yukxat 
+70	Boshqa shaxslardan qisqa muddatli qimmatli qog‘ozlar xarid qilingan 	5810	6990	Yukxat 
+71	Mehnat haqidan xonadonda istiqomat qilganligi va kommunal xizmatlari uchun to‘lovlar; ijro varaqalari bo‘yicha ushlab qolingan to‘lovlar summalari aks ettirilgan 	6710	6990	Hisoblangan mehnat haqidan ushlab qolishlarni hisobga olish qaydnomasi, ijro varaqalari 
+72	Asosiy vositalar chiqib ketishida turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	9210	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+73	Boshqa aktivlar chiqib ketishida turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	9220	6990	Hisobvaraq-faktura, tovar-transport yukxati
+74	Tayyor mahsulotlarni va tovarlarni sotishda turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	9410	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+75	Ma’muriy maqsadlar uchun turli tashkilotlar va korxonalar tomonidan xizmatlar ko‘rsatilgan (transport xizmatlari va h.k.) 	9420	6990	Hisobvaraq-faktura, tovar-transport yukxati 
+76	Maslahat, axborot va auditorlik xizmatlari ko‘rsatilganligi uchun schyotlar olingan 	9430	6990	Hisobvaraq-faktura, bajarilgan ishlar dalolatnomasi 
+77	Sud chiqimlari aks ettirilgan 	9430	6990	Da’vo hujjatlari 
+78	Boshqa korxonalarga to‘lanadigan jarimalar summalari aks ettirilgan 	9430	6990	Korxona rahbari tomonidan tasdiqlangan hisobdan chiqarish dalolatnomasi 
+79	Madaniy-ma’rifiy muassasalar va sog‘lomlashtirish oromgohlarini ushlab turish bo‘yicha turli korxonalar tomonidan ko‘rsatilgan xizmatlar aks ettirilgan 	9430	6990	Hisobvaraq-faktura, yukxat 
+80	Xarid qilingan aksiyalarni saqlash uchun depozitariylar oldidagi qarz hisoblangan 	9690	6990	Shartnoma 
+81	Ilgari hisoblangan rezervlar hisobidan amalga oshirilgan xarajatlar uchun turli korxonalarga qarz aks ettirilgan 	8910	6990	Hisobvaraq-faktura 
+82	Maqsadli mablag‘lar hisobidan xarajatlarni amalga oshirishda turli tashkilotlar, korxonalar va shaxslarning xizmatlari bo‘yicha qarz aks ettirilgan 	8810-8890	6990	Hisobvaraq-faktura 
+83	Moddiy qiymatliklar, ko‘rsatilgan xizmatlar, bajarilgan ishlar uchun turli kreditorlarga to‘lovlar amalga oshirilgan 	6990	5110	Bank hisob-kitob schyotlaridan ko‘chirma 
+84	Savdolarda ishtirok etish uchun birja mijozlaridan garov summalari olingan 	5010 5110 5210	0990	Shartnomalar, bank hisob-kitob schyotlaridan ko‘chirma 
+85	Savdolarda ishtirok etish uchun garov summalari mijozlarga qaytarilgan 	6990	5110	Shartnomalar, bank hisob-kitob schyotlaridan ko‘chirma 

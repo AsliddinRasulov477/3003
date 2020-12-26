@@ -1,0 +1,69 @@
+1	Xaridordan uzoq muddatli veksel olingan 	0910	9010	Shartnoma, olingan veksel, hisobvaraq-faktura, tovar-transport yukxati 
+2	Berilayotgan ob’yekt ilgari ishlatilmagan taqdirda, moliyaviy ijara ob’yektining ijarachi (lizingga beruvchi)ga o‘tkazilishi aks ettirilgan: 			Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+	- ijaraga beruvchi (lizingga beruvchi)ning buxgalteriya hisobida aktiv sifatida (debitorlik qarzi kabi) tan olinadigan qiymat bo‘yicha 	0920	9220
+	- moliyaviy ijara ob’yektining balans qiymatini hisobdan chiqarishda 	9220	(0800)
+	- moliyaviy ijara ob’yektini qayta baholash natijalari (saldo) summasiga 	8510	9220
+	- moliyaviy ijara ob’yektini berish natijasida kechiktirilgan daromadlar yuzaga kelganda 	9220	7230
+	- moliyaviy ijara ob’yektini berish natijasida kechiktirilgan xarajatlar yuzaga kelganda 	0990	9220
+3	Berilayotgan ob’yekt ilgari ishlatilgan, ya’ni asosiy vositalar tarkibida bo‘lgan taqdirda, moliyaviy ijara ob’yektining ijarachiga berilishi aks ettirilgan: 			Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+	- ijaraga beruvchining buxgalteriya hisobida aktiv sifatida (debitorlik qarzi kabi) tan olinadigan qiymat bo‘yicha 	0920	9210
+	- moliyaviy ijara ob’yektining boshlang‘ich (tiklanish) qiymatini hisobdan chiqarishda 	9210	(0100)
+	- moliyaviy ijara ob’yektining jamlangan eskirishini hisobdan chiqarishda 	(0200)	9210
+	- ijaraga beruvchining moliyaviy ijara ob’yektini yetkazib berish va uni belgilangan maqsadda foydalanish uchun yaroqli holatga keltirish bilan bog‘liq xarajatlari hisobga olingan holda 	9210	(1000), (6700), (6500) va b.
+	- moliyaviy ijara ob’yektini qayta baholash natijalari (saldo) summasiga 	8510	9210
+	- moliyaviy ijara ob’yektini berish natijasida kechiktirilgan daromadlar yuzaga kelganda 	9210	7230
+	- moliyaviy ijara ob’yektini berish natijasida kechiktirilgan xarajatlar yuzaga kelganda 	0990	9210
+4	Moliyaviy ijara shartnomasi bo‘yicha moliyaviy ijara ob’yektini berish natijasida yuzaga keladigan kechiktirilgan daromadlar va xarajatlarning hisobdan chiqarilishi aks ettirilgan: 			Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+	- ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, moliyaviy ijara ob’yektini berish natijasida yuzaga keladigan uzoq muddatli kechiktirilgan daromadlarning joriy qismini o‘tkazishda 	7230	6230
+	- moliyaviy ijara ob’yektini berish natijasida yuzaga keladigan kechiktirilgan daromadlar joriy qismi summasini hisobot davri mobaynida moliyaviy natijalarga bir me’yorda hisobdan chiqarishda 	6230	9390
+	- ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, moliyaviy ijara ob’yektini berish natijasida yuzaga keladigan uzoq muddatli kechiktirilgan xarajatlarning joriy qismini o‘tkazishda 	3290	0990
+	- moliyaviy ijara ob’yektini berish natijasida yuzaga keladigan kechiktirilgan xarajatlar joriy qismi summasini hisobot davri mobaynida moliyaviy natijalarga bir me’yorda hisobdan chiqarishda 	9430	3290
+5	Asosiy faoliyati molmulkni moliyaviy ijaraga taqdim etishdan iborat bo‘lgan korxonalar tomonidan ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, joriy hisobot davriga tegishli ijaraga beruvchi (lizing beruvchi)ning hisoblangan daromad summasi aks ettirilgan 	4010	9030	Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+6	Asosiy faoliyati molmulkni moliyaviy ijaraga taqdim etishdan iborat bo‘lmagan korxonalar tomonidan ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, joriy hisobot davriga tegishli ijaraga beruvchi (lizing beruvchi)ning hisoblangan daromad summasi aks ettirilgan 	4830	9550	Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+7	Asosiy faoliyati molmulkni moliyaviy ijaraga taqdim etishdan iborat bo‘lgan korxonalar tomonidan ijaraga oluvchi (lizingga oluvchi)dan ijara (lizing) to‘lovlari kelib tushishi bo‘yicha operasiyalar aks ettirilgan: 			Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+	- ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, moliyaviy ijara bo‘yicha olish uchun uzoq muddatli to‘lovlarning joriy qismini o‘tkazish 	4810	0920
+	- moliyaviy ijara shartnomasi bo‘yicha ijaraga oluvchi (lizingga oluvchi)dan pul mablag‘lari kelib tushishi 	Pul mablag‘- larini hisobga oluvchi schyotlar 	4810, 4010
+	- ijaraga oluvchi (lizingga oluvchi)dan, ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, to‘lov muddati kelmagan ijara (lizing) to‘lovlari bo‘yicha bo‘nak kelib tushishi 	Pul mablag‘- larini hisobga oluvchi schyotlar 	6390
+	- ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, to‘lov muddati kelganda, ijaraga oluvchi (lizingga oluvchi)dan ilgari olingan bo‘naklarni hisobga olish 	6390	4810, 4010
+8	Asosiy faoliyati mol-mulkni moliyaviy ijaraga taqdim etishdan iborat bo‘lmagan korxonalar tomonidan ijaraga oluvchi (lizingga oluvchi)dan ijara (lizing) to‘lovlari kelib tushishi bo‘yicha operasiyalar aks ettirilgan: 			Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+	- ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, moliyaviy ijara bo‘yicha olish uchun uzoq muddatli to‘lovlarning joriy qismini o‘tkazish 	4810	0920
+	- moliyaviy ijara shartnomasi bo‘yicha ijaraga oluvchi (lizingga oluvchi)dan pul mablag‘lari kelib tushishi 	4810	4830
+	- ijaraga oluvchi (lizingga oluvchi)dan, ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, to‘lov muddati kelmagan ijara (lizing) to‘lovlari bo‘yicha bo‘nak kelib tushishi 	Pul mablag‘- larini hisobga oluvchi schyotlar 	6390
+	- ijara (lizing) to‘lovlari jadvali (tartibi)ga muvofiq, to‘lov muddati kelganda, ijaraga oluvchi (lizingga oluvchi)dan ilgari olingan bo‘naklarni hisobga olish 	6390	4810, 4830
+9	Moliyaviy ijara shartnomasi tugaganidan so‘ng, ijaraga oluvchi (lizingga oluvchi) tomonidan moliyaviy ijara ob’yektining qaytarilishi aks ettirilgan: 			Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+	- moliyaviy ijara shartnomasiga muvofiq, moliyaviy ijara ob’yektining to‘lanmagan qiymati summasiga 	(0800)	4810
+	- ijaraga oluvchi (lizingga oluvchi) tomonidan amalga oshirilgan moliyaviy ijara ob’yektini yaxshilash bo‘yicha xarajatlar o‘rni to‘ldirilishining ijarachi (lizingga beruvchi) tomonidan tan olinishi 	(0800)	(6900)
+	- moliyaviy ijara shartnomasiga muvofiq, ijarachi (lizingga beruvchi) tomonidan amalga oshiriladigan moliyaviy ijara ob’yektlarining qaytarilishi (buzilishi, transport orqali tashilishi va h.k.) bo‘yicha xarajatlar summasiga 	9430	(6700), (6500)
+	- ijaraga oluvchi (lizingga oluvchi) tomonidan amalga oshirilgan moliyaviy ijara ob’yektini yaxshilash bo‘yicha xarajatlar o‘rnini to‘ldirish uchun pul mablag‘lari o‘tkazilishi 	(6900)	Pul mablag‘- larini hisobga oluvchi schyotlar
+10	Ijaraga oluvchi (lizingga oluvchi) tomonidan moliyaviy ijara ob’yektining muddatdan oldin qaytarilishi aks ettirilgan: 			Moliyaviy ijara shartnomasi, qabul qilishtopshirish dalolatnomasi 
+	- moliyaviy ijara shartnomasiga muvofiq, moliyaviy ijara tugatilgan sanada mazkur ob’yektning to‘lanmagan qiymati summasiga 	4810	0920
+	- ijaraga oluvchi (lizingga oluvchi) tomonidan amalga oshirilgan moliyaviy ijara ob’yektini yaxshilash bo‘yicha xarajatlar o‘rni to‘ldirilishi ijarachi (lizingga beruvchi) tomonidan tan olinganda 	(0800)	(6900)
+	- moliyaviy ijara ob’yektini berish natijasida yuzaga kelgan kechiktirilgan daromadlar qoldiq summasining moliyaviy natijalarga hisobdan chiqarilishi 	6230, 7230	9390
+	- moliyaviy ijara ob’yektini berish natijasida yuzaga kelgan kechiktirilgan xarajatlar qoldiq summasining moliyaviy natijalarga hisobdan chiqarilishi 	9430	3290, 0990
+	- moliyaviy ijara shartnomasiga muvofiq, ijarachi (lizingga beruvchi) tomonidan amalga oshiriladigan moliyaviy ijara ob’yektlarining qaytarilishi (buzilishi, transport orqali tashilishi va h.k.) bo‘yicha xarajatlar summasiga 	9430	(6700), (6500) va b.
+	- ijaraga oluvchi (lizingga oluvchi) tomonidan amalga oshirilgan moliyaviy ijara ob’yektini yaxshilash bo‘yicha xarajatlar o‘rnini to‘ldirish uchun pul mablag‘lari o‘tkazilishi 	(6900)	Pul mablag‘- larini hisobga oluvchi schyotlar
+11	Tovar-moddiy boyliklarni yetkazib berish, ishlarni bajarish, xizmatlarni ko‘rsatish, boshqa aktivlarni yetkazib berish uchun berilgan bo‘naklarning uzoq muddatli qismi aks ettirilgan 	0930	5110, 5210-5220, 5510-5530 	To‘lov topshiriqnoma (talabnoma)si, bank schyotlaridan ko‘chirma 
+12	Har yil boshida tegishli summaning tovarmoddiy boyliklarni yetkazib berish, ishlarni bajarish, xizmatlarni ko‘rsatish, boshqa aktivlarni yetkazib berish uchun berilgan bo‘naklarning uzoq muddatli qismidan joriy qismiga o‘tkazilishi aks ettirilgan 	4310, 3110, 3120, 3190	0940	To‘lov topshiriqnoma (talabnoma)si, bank schyotlaridan ko‘chirma, o‘tkazish uchun hisob-kitob 
+13	Yuklab jo‘natilgan tovarlar, tayyor mahsulot, bajarilgan ishlar, ko‘rsatilgan xizmatlar va boshqa aktivlar uchun to‘lov bank tomonidan kafolatlangan, xaridorlar va buyurtmachilardan olingan veksellarning uzoq muddatli qismi aks ettirilgan 	0910	4010	Hisobvaraq-faktura, to‘lov talabnomasi, tovar-transport yukxati 
+14	Har oyda tovarlar, tayyor mahsulot va boshqa aktivlar, bajarilgan ishlar va ko‘rsatilgan xizmatlar uchun olingan veksellarning uzoq muddatli qismini joriy qismiga o‘tkazish aks ettirilgan 	4020	0910	Hisobvaraq-faktura, to‘lov talabnomasi, tovar-transport yukxati, uzoq muddatli qismidan joriy qismiga o‘tkazish uchun hisob-kitob 
+15	O‘zining alohida bo‘linmalaridan olinadigan schyotlarning uzoq muddatli qismi aks ettirilgan 	0940	Aktiv- larning turli schyotlari 	Hisobvaraq-faktura, to‘lov talabnomasi, tovar-transport yukxati 
+16	Har oyda bo‘linmalardan olinadigan schyotlarni uzoq muddatli qismidan joriy qismiga o‘tkazish aks ettirilgan 	4110	0940	Hisobvaraq-faktura, to‘lov talabnomasi, tovar-transport yukxati, uzoq muddatli qismidan joriy qismiga o‘tkazish uchun hisob-kitob 
+17	Kelgusi davrlar hisobiga ijara to‘lovlari aks ettirilgan 	0990	5110	Moliyaviy ijara shartnomasi, to‘lov topshiriqnomasi 
+18	Kelgusi davrlar hisobiga abonent to‘lovlari aks ettirilgan 	0990	5110	Shartnomalar, to‘lov topshiriqnomasi 
+19	Har oyda kechiktirilgan xarajatlarning uzoq muddatli qismini joriy qismiga o‘tkazish aks ettirilgan 	3110, 3120, 3190 	0990	O‘tkazish uchun hisob-kitob, xizmatlar bajarilganligini tasdiqlovchi chipta 
+20	Kelgusi davr xarajatlari tegishli qismida joriy davrlar xarajatlari kabi aks ettirilgan 	2010, 2310, 2510, 9420, 9430 	0990, 3110, 3120, 3190 	O‘tkazish uchun hisob-kitob, xizmatlar bajarilganligini tasdiqlovchi chipta 
+21	Vaqtinchalik farqlar bo‘yicha kechiktirilgan foyda solig‘i aks ettirilgan 	0950	6410	Soliq hisob-kitobi 
+22	Har oyda kechiktirilgan foyda solig‘ining tegishli summasi uzoq muddatli qismidan joriy qismiga o‘tkazilishi aks ettirilgan 	3210	0950	Soliq hisob-kitobi, o‘tkazish uchun hisob-kitob 
+23	Vaqtinchalik farqlar bo‘yicha kechiktirilgan daromad solig‘ining tegishli qismi kamaytirilgan 	6410	3210	Soliq hisob-kitobi, o‘tkazish uchun hisob-kitob 
+24	Obligasiyalar chegirma bilan sotilganligi aks ettirilgan 	0960	7830	Obligasiya kelishuvi, hisob-kitobma’lumotnoma 
+25	Uzoq muddatli kechiktirilgan xarajatlarning joriy qismiga o‘tkazilishi aks ettirilgan 	3220	0960	Obligasiya kelishuvi, hisob-kitobma’lumotnoma 
+26	Kechiktirilgan xarajatlarning joriy qismi hisobdan chiqarilgan 	9610	3220	Obligasiya kelishuvi, hisob-kitobma’lumotnoma 
+27	Kreditga sotilgan tovarlar bo‘yicha qarzning uzoq muddatli qismi aks ettirilgan 	0990	9010, 9020	Kredit shartnomasi 
+28	Har oyda kreditga sotilgan tovarlar bo‘yicha qarzning tegishli summasini uzoq muddatli qismidan joriy qismiga o‘tkazish aks ettirilgan 	4710	0990	Kredit shartnomasi, o‘tkazish uchun hisob-kitob 
+29	Berilgan qarzlar bo‘yicha qarzning uzoq muddatli qismi aks ettirilgan 	0990	5100	Qarz shartnomasi, bank ko‘chirmasi 
+30	Har oyda berilgan qarzlar bo‘yicha qarzning uzoq muddatli qismini joriy qismiga o‘tkazish aks ettirilgan 	4720	0990	Qarz shartnomasi, o‘tkazish uchun hisob-kitob 
+31	Moddiy zararni qoplash bo‘yicha qarzning uzoq muddatli qismi aks ettirilgan 	0990	5910	Inventarlash ro‘yxati, solishtirma qaydnoma, inventarlash komissiyasining bayonnomasi 
+32	Har oyda moddiy zararni qoplash bo‘yicha qarzning tegishli summasini uzoq muddatli qismidan joriy qismga o‘tkazish aks ettirilgan 	4730	0990	Inventarlash ro‘yxati, solishtirma qaydnoma, inventarlash komissiyasining bayonnomasi, o‘tkazish uchun hisob-kitob 
+33	Har oyda boshqa shaxslar tomonidan qarzning tegishli summasini uzoq muddatli qismidan joriy qismga o‘tkazish aks ettirilgan 	4890	0990	Xizmatlar ko‘rsatish shartnomasi, hisobvaraq-faktura, o‘tkazish uchun hisob-kitob 
+34	Olingan kreditlar hisobidan bo‘nak o‘tkazilgan 	0940	7810	Hisobvaraq-faktura, tovar-transport yukxati, to‘lov topshiriqnomasi, bank ko‘chirmasi 
+35	Moliyaviy ijara shartnomasi bo‘yicha moliyaviy ijara ob’yektlarini o‘tkazishdan kechiktirilgan xarajat summasining qoldig‘i moliyaviy natijalarga hisobdan chiqarilgan 	9430	0990	Moliyaviy ijara shartnomasi, to‘lovlar hisob-kitobi 

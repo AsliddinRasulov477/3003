@@ -1,0 +1,93 @@
+1	Nomoddiy aktivlar ob’yektlarining ichki harakati qayd etilgan 	0410-0490	0410-0490	Nomoddiy aktivlarning ichki harakati yuzasidan yukxatlari
+2	Boshlang‘ich qiymati (amaldagi tannarxi) bo‘yicha xarid qilingan nomoddiy aktivlar balansga qabul qilingan 	0410-0490	0830	Oldi-sotdi shartnomasi, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+3	Korxonaning o‘zida barpo etilgan nomoddiy aktivlar amaldagi tannarx bo‘yicha balansga qabul qilingan 	0410-0490	0830	Ilmiy-tadqiqot ishlanmalari dasturlari, loyiha-smeta hujjatlari, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+4	Ustav kapitaliga badal sifatida olingan yoki aksiyalar obunasini to‘lash hisobiga nomoddiy aktivlar balansga qabul qilingan 	0410-0490	4610	Ta’sis shartnomasi, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+5	Unitar korxona tomonidan unga davlat hokimiyati organi tomonidan biriktirilgan molmulk tarkibidagi nomoddiy aktivlar olingan 	0410-0490	8330	Ustav, ta’sis shartnomasi, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+6	Tekinga olingan nomoddiy aktivlar ekspert baholanishi bo‘yicha balansga qabul qilingan 	0410-0490	8530	Tekinga berish (hadya) shartnomasi, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+7	Grant yoki boshqa maqsadli tushumlar bo‘yicha olingan nomoddiy aktivlar balansga qabul qilingan 	0410-0490	8810-8890	Grant bo‘yicha yoki maqsadli foydalanish uchun berish shartnomasi, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+8	Ajratilgan bo‘linmalar yoki shu’ba va qaram xo‘jalik jamiyatlaridan olingan nomoddiy aktivlar balansga qabul qilingan 	0410-0490	6110-6120	Oldi-sotdi shartnomasi, nomoddiy aktivlarni qabul qilishtopshirish dalolatnomasi 
+9	Inventarlash natijasida hisobga olinmagan (ortiqcha) nomoddiy aktivlar aniqlangan 	0410-0490	9390	Nomoddiy aktivlarni inventarlash natijalarining solishtirma qaydnomasi, inventarlash natijalarini hisobga olish qaydnomasi, rahbar buyrug‘i 
+10	Korxona xarid qilinganda uning xarid qiymati balans qiymatidan ortiq bo‘lganligi (musbat ishchanlik obro‘si - gudvill) aks ettirilgan 	0480	6990	Korxonani xarid qilish dalolatnomasi, buxgalteriyaning hisob-kitob ma’lumotnomasi 
+11	Qayta baholash natijasida nomoddiy aktivlar balans qiymatining oshishi (qo‘shimcha baholanishi) aks ettirilgan 	0410-0490	8510	Nomoddiy aktivlarni qayta baholashni o‘tkazish to‘g‘risida rahbar buyrug‘i, ma’lumotnomahisob-kitob 
+12	Nomoddiy aktivlar tugatilishi munosabati bilan hisobdan chiqarilishi aks ettirilgan: 			Hisobdan chiqarish to‘g‘risida rahbar buyrug‘i, nomoddiy aktivlarni tugatish dalolatnomasi 
+	- nomoddiy aktivlarning boshlang‘ich qiymatini hisobdan chiqarishda 	9220	0410-0490
+	- nomoddiy aktivlarning jamlangan amortizasiyasini hisobdan chiqarishda 	0510-0590	9220
+	- tugatish bilan bog‘liq xarajatlar summasiga 	9220	1000, 6710, 6520
+	- rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan nomoddiy aktivlar ob’yektini qayta baholash natijalarining (saldo) summasiga 	8510	9220
+	- nomoddiy aktivlar tugatilishidan olingan foyda summasiga 	9220	9320
+	- nomoddiy aktivlar tugatilishidan ko‘rilgan zarar summasiga 	9430	9220
+13	Nomoddiy aktivlar sotilishi munosabati bilan hisobdan chiqarilishi aks ettirilgan: 			Nomoddiy aktivlarni oldi-sotdi shartnomasi, hisobvaraq-faktura, rahbar buyrug‘i, nomoddiy aktivlarni tugatish dalolatnomasi 
+	- nomoddiy aktivlar sotilgan qiymati summasiga 	4010	9220
+	- QQS hisoblangan bo‘lsa 	9220	6410
+	- nomoddiy aktivlarning boshlang‘ich qiymati hisobdan chiqarilganda 	9220	0410-0490
+	- nomoddiy aktivlarning jamlangan amortizasiyasi hisobdan chiqarilganda 	0510-0590	9220
+	- sotish bo‘yicha xarajatlar summasiga 	9220	1000, 6710, 6520, 6990
+	- rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan ushbu nomoddiy aktivlar ob’yektini qayta baholash natijalari (saldo) summasiga 	8510	9220
+	- nomoddiy aktivlar sotilishidan olingan foyda summasiga 	9220	9320
+	- nomoddiy aktivlar sotilishidan ko‘rilgan zarar summasiga 	9430	9220
+14	Nomoddiy aktivlar ayirboshlash shartnomasi bo‘yicha ayirboshlanganligi munosabati bilan chiqib ketishi aks ettirilgan: 			Nomoddiy aktivlarni ayirboshlash shartnomasi, hisobvaraq-faktura, rahbar buyrug‘i, nomoddiy aktivlarni tugatish dalolatnomasi 
+	- nomoddiy aktivlarning boshlang‘ich qiymati hisobdan chiqarilganda 	9220	0410-0490
+	- nomoddiy aktivlarning jamlangan amortizasiyasi hisobdan chiqarilganda 	0510-0590	9220
+	- qo‘shimcha to‘lov amalga oshirilmagan holda ayirboshlashga olingan nomoddiy aktiv ob’yekti berilayotgan shunga o‘xshash nomoddiy aktivning qoldiq qiymati yoki shunga o‘xshash bo‘lmagan nomoddiy aktivning joriy qiymati bo‘yicha kirim qilinganda 	0410-0490	9220
+	- pul mablag‘lari yoki ularning ekvivalentlari qo‘shimcha to‘lovlari orqali ayirboshlash yo‘li bilan olingan nomoddiy aktivlar ob’yekti kirim qilinganda: (berilgan nomoddiy aktiv qiymatining qoldiq (joriy) qiymati summasiga) 	0410-0490	9220
+    - pul mablag‘lari yoki ularning ekvivalentlari qo‘shimcha to‘lovlari orqali ayirboshlash yo‘li bilan olingan nomoddiy aktivlar ob’yekti kirim qilinganda: (ayirboshlash natijasida vujudga kelgan kreditorlik qarzi summasiga) 	0410-0490	6990
+	- pul mablag‘lari yoki ularning ekvivalentlari olinishi orqali ayirboshlash yo‘li bilan olingan nomoddiy aktivlar ob’yekti kirim qilinganda: (berilgan nomoddiy aktivning qoldiq qiymatiga) 	0410-0490	9220
+    - pul mablag‘lari yoki ularning ekvivalentlari olinishi orqali ayirboshlash yo‘li bilan olingan nomoddiy aktivlar ob’yekti kirim qilinganda: (olinadigan pul mablag‘lari va ularning ekvivalentlari summalariga) 	4890	9220
+	- nomoddiy aktivlarning ayirboshlashdagi xarajatlar summasiga 	9220	1000, 6710, 6520
+	- rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan ushbu nomoddiy aktivlar ob’yektini qayta baholash natijalari (saldo) summasiga 	8510	9220
+	- QQS hisoblangan bo‘lsa 	9220	6410
+	- nomoddiy aktivlar ayirbosh qilinganda olingan foyda summasiga 	9220	9320
+	- nomoddiy aktivlar ayirbosh qilinganda ko‘rilgan zarar summasiga 	9430	9220
+15	Nomoddiy aktivlar tekinga berilganligi munosabati bilan chiqib ketishi aks ettirilgan: 			Nomoddiy aktivlarni tekinga berish dalolatnomasi, hisobvaraq-faktura, amortizasiyani hisoblash qaydnomasi 
+	- nomoddiy aktivlarning boshlang‘ich qiymati hisobdan chiqarilganda 	9220	0410-0490
+	- nomoddiy aktivlarning jamg‘arilgan amortizasiyasi hisobdan chiqarilganda 	0510-0590	9220
+	- QQS hisoblanganda 	9220	6410
+	- rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan nomoddiy aktivlar ob’yektini qayta baholash natijalari (saldosi) summasiga 	8510	9220
+	- nomoddiy aktivlar tekinga berilgandan olingan foyda summasiga 	9220	9320
+	- nomoddiy aktivlar tekinga berilgandan ko‘rilgan zarar summasiga 	9430	9220
+16	Nomoddiy aktivlar ustav kapitaliga ulush sifatida berilishi munosabati bilan chiqarilishi aks ettirilgan: 			Ta’sischilarning kelishuv bayonnomasi, nomoddiy aktivlarni tugatish dalolatnomasi 
+	- ta’sis shartnomasiga muvofiq belgilangan qiymati bo‘yicha 	0610-0690	9220
+	- nomoddiy aktivlarning boshlang‘ich qiymati hisobdan chiqarilganda 	9220	0410-0490
+	- nomoddiy aktivlarning jamlangan amortizasiyasi hisobdan chiqarilganda 	0510-0590	9220
+	- nomoddiy aktivlar ustav kapitaliga ulush sifatida berilishi bilan bog‘liq xarajatlar summasiga 	9220	1000, 6710, 6520, 6990
+	- rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan nomoddiy aktivlar ob’yektini qayta baholash natijalari (saldosi) summasiga 	8510	9220
+	- nomoddiy aktivlar ustav kapitaliga ulush sifatida berilishidan olingan foyda summasiga 	9220	9320
+	- nomoddiy aktivlar ustav kapitaliga ulush sifatida berilishidan ko‘rilgan zarar summasiga 	9430	9220
+17	Ta’sischi yuridik shaxs ishtirokchilari tarkibidan chiqarilganda, u bilan nomoddiy aktivlar yordamida hisob-kitob qilinishi munosabati bilan nomoddiy aktivlarning hisobdan chiqarilishi aks ettirilgan: 			Ta’sischilarning kelishuv bayonnomasi, nomoddiy aktivlarni tugatish dalolatnomasi 
+	- chiqib ketayotgan ishtirokchilarning ulushlari bo‘yicha hisob-kitoblarni amalga oshirish uchun nomoddiy aktivlar berishda: (chiqib ketayotgan ishtirokchilarning ulushlari bo‘yicha qarzlari summasiga) 	6620	9220
+    - chiqib ketayotgan ishtirokchilarning ulushlari bo‘yicha hisob-kitoblarni amalga oshirish uchun nomoddiy aktivlar berishda: (chiqib ketayotgan ishtirokchilar tomonidan berilayotgan nomoddiy aktivlar qiymati va ularning ulushlari bo‘yicha qarzlar summasi o‘rtasidagi farq kabi aniqlanadigan chiqib ketayotgan ishtirokchilar tomonidan qoplanadigan summaga) 	4890	9220
+	- QQS hisoblangan bo‘lsa 	9220	6410
+	- nomoddiy aktivlarning boshlang‘ich qiymatini hisobdan chiqarishda 	9220	0410-0490
+	- nomoddiy aktivlarning jamlangan amortizasiyasini hisobdan chiqarishda 	0510-0590	9220
+	- rezerv kapitalini hisobga oluvchi schyotlarda hisobga olinadigan nomoddiy aktivlar ob’yektini qayta baholash natijalari (saldosi) summasiga 	8510	9220
+	- ta’sischi yuridik shaxs ishtirokchilari tarkibidan chiqarilganida u bilan nomoddiy aktivlar bilan hisob-kitob qilinishi munosabati bilan nomoddiy aktivlar hisobdan chiqarilishi natijasida olingan foyda summasiga 	9220	9320
+	- ta’sischi yuridik shaxs ishtirokchilari tarkibidan chiqarilganida u bilan nomoddiy aktivlar bilan hisob-kitob qilinishi munosabati bilan nomoddiy aktivlar hisobdan chiqarilishi natijasida ko‘rilgan zarar summasiga 	9430	9220
+18	Kamomad yoki yo‘qotish aniqlanganligi munosabati bilan nomoddiy aktivlar hisobdan chiqarilishi aks ettirilgan: 			Nomoddiy aktivlarni inventarlash natijalari bo‘yicha solishtirma qaydnoma, inventarlash natijalarini hisobga oluvchi qaydnoma, rahbar buyrug‘i 
+	- nomoddiy aktiv kamomadining boshlang‘ich qiymatini hisobdan chiqarishda 	9220	0410-0490
+	- nomoddiy aktivning kamomadi bo‘yicha hisoblangan amortizasiyani hisobdan chiqarishda 	0510-0590	9220
+	- nomoddiy aktivning kamomadi chiqarilishi bo‘yicha ko‘rilgan zarar (qoldiq qiymati) summasiga 	5910	9220
+	- moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb tan olinganda, bunda baholash natijasida kamomad bo‘lgan nomoddiy aktivning bozor qiymati (undirilishi lozim bo‘lgan summa) kamomad bo‘lgan nomoddiy aktiv chiqarilishidan (qoldiq qiymatidan) ko‘rilgan zarardan yuqori bo‘lgan taqdirda: (nomoddiy aktivning kamomadi (qoldiq qiymati) chiqarilishidan ko‘rilgan zarar summasiga) 	4730	5910
+    - moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb tan olinganda, bunda baholash natijasida kamomad bo‘lgan nomoddiy aktivning bozor qiymati (undirilishi lozim bo‘lgan summa) kamomad bo‘lgan nomoddiy aktiv chiqarilishidan (qoldiq qiymatidan) ko‘rilgan zarardan yuqori bo‘lgan taqdirda: (aybdor shaxslardan yoki moddiy javobgar shaxslardan nomoddiy aktivlar kamomadining undirilishi lozim bo‘lgan nomoddiy aktivlar kamomadining bozor qiymati va chiqarilishi (qoldiq qiymati)dan ko‘rilgan zarar summasi o‘rtasidagi farq summasiga) 	4730	9320
+	- moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb tan olinganda, bunda baholash natijasida kamomad bo‘lgan nomoddiy aktivning bozor qiymati (undirilishi lozim bo‘lgan summa) kamomad bo‘lgan nomoddiy aktiv chiqarilishidan (qoldiq qiymatidan) ko‘rilgan zarardan kam bo‘lgan taqdirda: (aybdor shaxslardan yoki moddiy javobgar shaxslardan nomoddiy aktivlar kamomadining undirilishi lozim bo‘lgan bozor qiymati va nomoddiy aktivlar kamomadining chiqarilishi (qoldiq qiymati)dan ko‘rilgan zarar summasi o‘rtasidagi farq summasiga) 	9430	5910
+    - moddiy javobgar shaxs (yoki boshqa xodim) aybdor deb tan olinganda, bunda baholash natijasida kamomad bo‘lgan nomoddiy aktivning bozor qiymati (undirilishi lozim bo‘lgan summa) kamomad bo‘lgan nomoddiy aktiv chiqarilishidan (qoldiq qiymatidan) ko‘rilgan zarardan kam bo‘lgan taqdirda: (nomoddiy aktivning kamomadi (qoldiq qiymati) chiqarilishidan ko‘rilgan zarar summasiga) 	4730	5910
+	- kamomadning aniq aybdorlari aniqlanmagan yoki moddiy javobgar shaxslardan undirish imkoniyati bo‘lmagan taqdirda: (nomoddiy aktivning kamomadi (qoldiq qiymati) hisobdan chiqarilishidan ko‘rilgan zarar summasiga) 	9430	5910
+19	Nomoddiy aktivlarni qayta baholash natijasida qiymati kamaytirilgan: 			Nomoddiy aktivlarni qayta baholash to‘g‘risida rahbar buyrug‘i, ma’lumotnomahisob-kitob 
+	- nomoddiy aktivlar ob’yektining oldingi davrlarda qo‘shimcha baholanishi chegarasida uning boshlang‘ich qiymatini kamaytirish summasiga 	8510	0410-0490
+	- eskirishga tuzatish kiritish summasiga 	0510-0590	8510
+	- nomoddiy aktivlar ob’yekti qiymatini kamaytirish summasining qo‘shimcha baholash summasidan ko‘proq bo‘lgan summasiga 	9430	0410-0490
+20	Gudvillning har oydagi hisobdan chiqarilishi aks ettirilgan 	2010, 9420	0480	Gudvillni hisobdan chiqarish hisob-kitobi 
+21	Boshqa tashkilotlar va shaxslardan xarid qilingan nomoddiy aktivlar kirim qilingan 	0830, 0490	6990, 0830	Qabul qilishtopshirish dalolatnomasi, rahbar buyrug‘i 
+22	Korxona tomonidan reklama moslamasidan uzoq muddatga foydalanish huquqi xarid qilingan 	0830, 0490	6990, 0830	Qabul qilishtopshirish dalolatnomasi, rahbar buyrug‘i 
+23	Nashriyotda jismoniy shaxsdan xarid qilingan qo‘lyozmaga mutlaq mualliflik huquqi to‘g‘risida shartnoma imzolangan 	0830, 0470	6990, 0830	Qabul qilishtopshirish dalolatnomasi, rahbar buyrug‘i
+24	Korxona tomonidan u ishlab chiqqan buxgalteriya hisobini shaxsiy kompyuterda yuritish dasturi rasmiy ravishda ro‘yxatdan o‘tkazilganligi to‘g‘risida guvohnoma olingan 	0830, 0430	6990, 0830	Qabul qilishtopshirish dalolatnomasi, rahbar buyrug‘i 
+25	Mulkiy qisqa muddatli qarzlarni qoplash hisobiga nomoddiy aktivlar olingan 	0830, 0490	5830, 0830	Qarz shartnomasi, qabul qilish-topshirish dalolatnomasi, rahbar buyrug‘i 
+26	Bosh korxonadan olingan nomoddiy aktivlar shu’ba (qaram) tashkilot tomonidan kirim qilingan 	0830, 0410-0490	6120, 0830	Qabul qilishtopshirish dalolatnomasi, rahbar buyrug‘i 
+27	Shu’ba (qaram) tashkilot tomonidan qaytarilgan nomoddiy aktivlar bosh tashkilot tomonidan hisobga olingan 	0410-0490	4110, 4120	Qabul qilishtopshirish dalolatnomasi, rahbar buyrug‘i 
+28	Ishonchli boshqaruvchi tomonidan boshqaruvchi ta’sischi tomonidan nomoddiy aktivlar ishonchli boshqaruvga olingan (balans baholanishi bo‘yicha) 	0410-0490	6110	Qabul qilishtopshirish dalolatnomasi, rahbar buyrug‘i 
+29	Boshqa tashkilotlar va shaxslardan nomoddiy aktivlar tekinga olingan 	0410-0490	8530	Hadya shartnomasi, qabul qilish-topshirish dalolatnomasi, rahbar buyrug‘i 
+30	Nomoddiy aktivlar tabiiy ofat natijasida yo‘qotilgan: 			Nomoddiy aktivlarni hisobdan chiqarish dalolatnomasi 
+	- boshlang‘ich qiymatiga 	9220	0410, 0490	
+	- jamlangan amortizasiya summasiga 	0500	9220	
+	- qoldiq qiymatiga 	9720	9220	
+31	Xarid qilingan qimmatli qog‘ozlarni to‘lash evaziga nomoddiy aktivlarning qoldiq qiymati bo‘yicha berilishi rasmiylashtirilgan 	0610, 5810	9220	Nomoddiy aktivlarning chiqib ketishi to‘g‘risida dalolatnoma 
+32	Inventarlash paytida aniqlangan nomoddiy aktivlarning hisobga olinmagan ob’yektlari bozor qiymati bo‘yicha kirim qilingan 	0410-0490	9390	Nomoddiy aktivlarni inventarlash dalolatnomasi 

@@ -1,0 +1,2 @@
+1	Byudjetga to‘lovning har bir turi bo‘yicha hisoblangan bo‘shagan mablag‘lar summasi aks ettirilgan 	013	1	Buxgalteriyaning hisob-kitob ma’lumotnomasi
+2	Imtiyozli davr tugagandan keyin soliqqa tortishdan ozod etilgan bo‘shagan mablag‘lar summasi hisobdan chiqarilgan 	1	013	Buxgalteriyaning hisob-kitob ma’lumotnomasi 

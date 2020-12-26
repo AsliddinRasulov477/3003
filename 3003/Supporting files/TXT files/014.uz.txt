@@ -1,0 +1,2 @@
+1	Inventar va xo‘jalik jihozlari foydalanish uchun berilgan 	014	1	Yukxat
+2	Yaroqsiz holatga kelganligi munosabati bilan inventar va xo‘jalik jihozlari kelgusi foydalanishdan (ishlatishdan) hisobdan chiqarilgan 	1	014	Hisobdan chiqarish dalolatnomasi

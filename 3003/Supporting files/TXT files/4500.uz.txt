@@ -1,0 +1,6 @@
+1	Mol-mulk va xodimlar sug‘urtasi bo‘yicha bo‘naklar o‘tkazilgan 	4510	5110	Buxgalteriya hisob-kitoblari, bank schyotlaridan ko‘chirmalar 
+2	Maqsadli davlat jamg‘armalariga to‘lovlar bo‘yicha bo‘naklar o‘tkazilgan 	4520	5110	Buxgalteriya hisob-kitoblari, bank schyotlaridan ko‘chirmalar 
+3	Mol-mulk va xodimlar sug‘urtasi to‘lovlari bo‘yicha yakuniy hisob-kitoblar aks ettirilgan 	6510	4510	Buxgalteriya hisob-kitoblari 
+4	Maqsadli davlat jamg‘armalariga to‘lovlar bo‘yicha yakuniy hisob-kitoblar aks ettirilgan 	6520	4520	Buxgalteriya hisob-kitoblari 
+5	Maqsadli davlat jamg‘armalariga bo‘nak to‘lovlari va sug‘urta bo‘yicha umidsiz debitorlik qarzi dargumon qarzlar bo‘yicha rezerv hisobidan hisobdan chiqarilgan 	4910	4510-4520	Solishtirma dalolatnoma, Xo‘jalik sudining qarori 
+6	Maqsadli davlat jamg‘armalariga bo‘nak to‘lovlari va sug‘urta bo‘yicha umidsiz debitorlik qarzi zararga hisobdan chiqarilgan 	9430	4510-4520	Solishtirma dalolatnoma, Xo‘jalik sudining qarori

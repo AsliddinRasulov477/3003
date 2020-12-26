@@ -1,0 +1,68 @@
+1	Savdo maqsadlarida va tayyor mahsulotni sotish uchun ishlatiladigan asosiy vositalar bo‘yicha amortizasiya hisoblangan 	9410	0210-0299	Amortizasiyani hisoblash qaydnomasi
+2	Savdo jarayonida ishlatiladigan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	9410	0510-0590	Amortizasiyani hisoblash qaydnomasi 
+3	Tovarlar uchun idishlar sarf-xarajat qilingan 	9410	1060	Yukxat
+4	Savdoda tashish, saqlash va sotish vaqtida tovarlar yo‘qotilishi hisobdan chiqarilgan 	9410	2910	Tovarlarni hisobdan chiqarish dalolatnomasi 
+5	Mahsulot va tovarlarni sotish bilan bog‘liq xizmat safari xarajatlari aks ettirilgan 	9410	4220, 4230	Bo‘nak hisoboti 
+6	Da’volar bo‘yicha undirilmaydigan summalar sotish bo‘yicha xarajatlarga hisobdan chiqarilgan 	9410	4860	Da’vo hujjatlari, rahbar buyrug‘i 
+7	Tayyor mahsulotni, tovarlarni ortib jo‘natish bo‘yicha transport xarajatlari aks ettirilgan 	9410	6010, 6990	Transport yukxati, hisobvaraq-faktura 
+8	Chet tashkilotlar reklama va marketing xizmatlari ko‘rsatgan 	9410	6010, 6990	Bajarilgan ishlar dalolatnomasi 
+9	Tushum inkassasiya qilingani uchun haq hisoblangan 	9410	6990	Bajarilgan ishlar dalolatnomasi 
+10	Savdo mol-mulkini ixtiyoriy sug‘urta qilish bo‘yicha sug‘urta mukofoti hisoblangan 	9410	6510	Buxgalteriyaning hisob-kitobi 
+11	Mahsulot va tovarlarni sotish bilan bog‘liq xodimlarning mehnat haqidan yagona ijtimoiy to‘lov hisoblangan 	9410	6520	Buxgalteriyaning hisob-kitobi
+12	Mahsulot va tovarlarni sotish bilan bog‘liq xodimlarga mehnat haqi hisoblangan 	9410	6710	Mehnat haqi hisoblangan qaydnoma 
+13	Mahsulot, tovarlarni saqlash, shuningdek omborlar va do‘konlar ijarasi uchun ijara haqi hisoblangan 	9410	6910	Shartnoma, hisobvaraq-faktura 
+14	Ma’muriy maqsadlardagi (mahsulot ishlab chiqarish bilan bevosita bog‘liq bo‘lmagan) asosiy vositalar bo‘yicha eskirish hisoblangan 	9420	0210-0299	Amortizasiyani hisoblash qaydnomasi 
+15	Ma’muriy maqsadlardagi nomoddiy aktivlar bo‘yicha eskirish hisoblangan 	9420	0510-0590	Amortizasiyani hisoblash qaydnomasi 
+16	Ma’muriy ehtiyojlar uchun materiallar sarf-xarajat qilingan 	9420	1010-1090	Materiallarni hisobdan chiqarish dalolatnomasi 
+17	Ma’muriy ehtiyojlar uchun inventar va xo‘jalik jihozlari sarf-xarajat qilingan 	9420	1080	Inventar va xo‘jalik jihozlarini hisobdan chiqarish dalolatnomasi 
+18	Materiallar bo‘yicha hisob baholaridagi farqlar hisobdan chiqarilgan 	9420	1610	Hisobdan chiqarish dalolatnomasi, talabnomalar 
+19	Xizmat safari va vakillik xarajatlari aks ettirilgan 	9420	4220, 4230	Bo‘nak hisoboti 
+20	Ma’muriy xodimlar va mol-mulkning ixtiyoriy sug‘urtasi bo‘yicha hisoblashlar amalga oshirilgan 	9420	6510	Shartnoma, sug‘urta polisi 
+21	Boshqaruv xodimlarining ijtimoiy sug‘urtasiga ajratmalar amalga oshirilgan 	9420	6520	Mehnat haqi bo‘yicha hisob-kitob qaydnomasi 
+22	Boshqaruv xodimlariga mehnat haqi hisoblangan 	9420	6710	Mehnat haqi bo‘yicha hisob-kitob qaydnomasi 
+23	Ma’muriy xonalarning ijarasi uchun ijara haqi hisoblangan 	9420	6910	Shartnoma, hisobvaraq-faktura 
+24	Xizmat yengil avtotransportining va xizmat mikroavtobusining ta’minoti, yollanishi va ijarasi uchun xarajatlar aks ettirilgan 	9420	6990	Shartnoma, buxgalteriyaning hisob-kitobi 
+25	Aloqa xizmatlari, axborot markazlari, energiya va suv iste’mol qilinganligi, boshqa ma’muriy ehtiyojlar uchun hisobvaraq-fakturalar olingan 	9420	6010	Shartnoma, chipta, hisobvaraq-faktura, hisoblagichlar ko‘rsatkichlari to‘g‘risida ma’lumotnoma 
+26	Transport xizmati uchun hisobvaraq-fakturalar olingan 	9420	6010	Hisobvaraq-faktura, transport yukxati 
+27	Yuqori organlar yoki xo‘jalik yurituvchi sub’yektlar birlashmalari boshqaruv apparatini ushlab turish uchun ajratmalar amalga oshirilgan 	9420	6990	Buxgalteriyaning hisob-kitobi 
+28	Aybdor shaxslarni aniqlash imkoniyati bo‘lmagan taqdirda yo‘qotishlar va kamomadlar aks ettirilgan 	9430	1010-1090, 2810, 2910- 2990 	Inventarlash dalolatnomasi, texnologik xaritalar 
+29	Dargumon qarzlar bo‘yicha rezerv hisoblangan 	9430	4910	Buxgalteriyaning hisob-kitobi 
+30	Bank, auditorlik va konsalting xizmatlari uchun haq hisoblangan 	9430	6990	Shartnoma, bajarilgan ishlar dalolatnomasi 
+31	Asosiy vositalarni sotish va boshqa chiqib ketishidan ko‘rilgan zarar aks ettirilgan 	9430	9210	Buxgalteriyaning hisob-kitobi 
+32	Boshqa aktivlarni sotish va boshqa chiqib ketishidan ko‘rilgan zarar aks ettirilgan 	9430	9220	Buxgalteriyaning hisob-kitobi 
+33	Mol-mulk, yagona yer, yer qa’ridan, suv resurslaridan foydalanganlik uchun soliqlar hisoblangan 	9430	6410	Buxgalteriyaning hisob-kitobi, soliqlar bo‘yicha ma’lumotnoma 
+34	Soliq organlarining qarori bo‘yicha jarima hisoblangan 	9430	6410	DSI qarori 
+35	Korxona balansidagi oliy o‘quv yurtlarini ushlab turish uchun xarajatlar aks ettirilgan 	9430	6110	Shartnoma 
+36	Korxona xodimlariga berilgan dam olish uylari va oromgohlarga yo‘llanmalarning haqi to‘langan 	9430	5110	Bank hisob-kitob schyotlaridan ko‘chirmalar 
+37	Bekor qilingan buyurtmalar bo‘yicha xarajatlar hisobdan chiqarilgan 	9430	2010	Shartnomani bekor qilish 
+38	Oldingi yillardagi operasiyalar bo‘yicha zararlar hisobdan chiqarilgan 	9430	4010, 4110, 4210, 4610- 4690, 4810- 4890 	Buxgalteriyaning hisob-kitobi 
+39	Xo‘jalik shartnomalariga rioya qilinmaganligi uchun jarimalar hisoblangan 	9430	4860 6960	Shartnoma, Xo‘jalik sudining qarori 
+40	Mahalliy transportdan foydalanish uchun yo‘l haqi hujjatlari to‘langan 	9430	5110	Buyruq, to‘lov topshiriqnomasi 
+41	Bir marotabalik moddiy yordam to‘langan 	9430	5010	Chiqim orderi 
+42	Tayyor mahsulot, tovarmoddiy zaxiralarning bahosi arzonlashtirilgan 	9430	1010-1090 2810	Arzonlashtirish dalolatnomasi, solishtirma qaydnoma 
+43	Kadrlarni tayyorlash va qayta tayyorlash uchun xarajatlar aks ettirilgan 	9430	6990	Shartnomalar, hisobvaraq-fakturalar, bajarilgan ishlar dalolatnomalari 
+44	Ishlab chiqarish jarayoni bilan bog‘liq bo‘lmagan mol-mulk bo‘yicha gudvillning nomoddiy aktivlari summalari (firma narxlari)ni hisobdan chiqarish bilan bog‘liq xarajatlar aks ettirilgan 	9430	0480	Gudvillni hisobdan chiqarish hisob-kitobi 
+45	Boshqaruv xodimlariga va ishlab chiqarish jarayonida qatnashmaydigan boshqa ishchilarga to‘lovlar, vaqtinchalik ishga yaroqsizlik, xomiladorlik va tug‘ishlar bo‘yicha nafaqalar bilan bog‘liq xarajatlar aks ettirilgan 	9430	6710	Nafaqalar hisob-kitobi 
+46	Yangi buyum turlarini ishlab chiqarish uchun mo‘ljallangan ishga tushirish ishlarida; turkumli yoki ommaviy ishlab chiqarish uchun mo‘ljallanmagan yangi texnologik jarayonlar o‘zlashtirilishiga xizmat ko‘rsatishda; kon sanoati sohalaridagi tayyorlov ishlarida ishlatiladigan o‘zining asosiy vositalari bo‘yicha har oyda eskirish summasi hisoblangan 	9440	0210-0299	Asosiy vositalar bo‘yicha eskirish hisob-kitobi 
+47	Yangi buyum turlarini ishlab chiqarish uchun mo‘ljallangan ishga tushirish ishlarida; turkumli yoki ommaviy ishlab chiqarish uchun mo‘ljallanmagan yangi texnologik jarayonlar o‘zlashtirilishiga xizmat ko‘rsatishda; kon sanoati sohalaridagi tayyorlov ishlarida foydalaniladigan nomoddiy aktivlar bo‘yicha har oyda eskirish summasi hisoblangan 	9440	0510-0590	Nomoddiy aktivlar amortizasiyasining hisob-kitobi 
+48	Xizmat ko‘rsatuvchi xo‘jaliklarda ishlatiladigan va operativ ijaraga berilgan o‘zining asosiy vositalari bo‘yicha har oyda eskirish summasi hisoblangan 	9430	0210-0299	Asosiy vositalar bo‘yicha eskirish hisob-kitobi 
+49	Ijtimoiy jabhada band bo‘lgan xodimlarning mehnat haqi bo‘yicha xarajatlar aks ettirilgan 	9430	6710	Ish vaqtini hisobga olish tabeli 
+50	Xizmat ko‘rsatuvchi xo‘jaliklarda ishlatiladigan nomoddiy aktivlar bo‘yicha amortizasiya hisoblangan 	9430	0510-0590	Nomoddiy aktivlar amortizasiyasining hisob-kitobi 
+51	Xizmat ko‘rsatuvchi xo‘jaliklarga yordamchi ishlab chiqarishlar, chetdagi tashkilotlar tomonidan ko‘rsatilgan iste’mol qilingan xizmatlar qiymati aks ettirilgan 	9430	2310, 6990	Yukxat, talabnoma, hisobvaraq-faktura 
+52	Hisobot davrining oxirida davr xarajatlari hisobdan chiqarilgan 	9910	9410, 9420, 9430, 9440 	Buxgalteriyaning hisob-kitobi 
+53 	Buxgalterga otpuska hisoblandi 	9420	6710	Ish haqi hisoblash xujjatlari tabel
+54 	Buxgalterga mukofot hisobland 	9420	6710	Ish haqi hisoblash xujjatlari
+55 	Yollanma ishchilarga mahsulot qadoqlashda ishlgani uchun ish haqi hisoblandi 	9420	6990	Mehnat haqi vedomosti,bajarilgan ish xajmi dalolatnomasi
+56 	Reklama tayorlagani uchun ortiqcha o'tkazilgan summa qaytarildi 	6990	9410	Schyot faktura, shartnoma
+57 	Farrroshga ish haqi hisoblandi 	9420	6710	Mehnat haqi vedomosti,bajarilgan ish xajmi dalolatnomasi
+58 	Asosiy vositaga mol mulk solig'i hisoblandi 	9430	6410	Asosiy vositani qabul qilish dalolatnomasi, soliqlar bo'yicha ma'lumotnoma
+59 	Soliq organlari qaroriga ko'ra jarima hisoblandi 	9430	6410	Soliqlar bo'yicha ma'lumotnoma, DSI qarori
+60 	Ma'muriy bino uchun ijara hisoblandi 	9420	6910	Shartnomalar , schyot faktura
+61 	Oldingi yillar uchun olinadigan schotlar bo'yicha zarar hisoblandi 	9430	4010	Shartnomalar, buxgalteriya xujjatlari
+62 	TMZ larning bahosi arzonlashtirildi 	9430	1010	Dalolatnoma, akt
+63 	Xo'jalik shartnomalariga rioya qilmaganligi uchun jarima hisoblandi 	9430	6990	Shartnomalar, dalolatnoma
+64 	Bekor qilingan shartnomalar uchun buyurtmalar hisobdan chiqarildi 	9430	2010	Shartnomalar
+65 	Qurilishda xom ashyo etishmagan kunlari ishchi bo'sh qolgan paytda hisoblangan ish haqiga 	9430	6710	Dalolatnoma, bajarilgan ish hajmi hisob kitobi
+66 	Ishlab chiqarishda xom ashyo etishmagan kunlari ishchi bo'sh qolgan paytda hisoblangan ish haqiga 	9430	6710	Dalolatnoma, bajarilgan ish hajmi hisob kitobi
+67 	Qurilishda xom ashyo etishmagan kunlari ishchi bo'sh qolgan paytda hisoblangan ijtimoiy soliq summasiga 	9430	6520	Shartnomalar, dalolatnoma, hisoblangan ish haqi qaydnomasi
+68 	Ishlab chiqarishda xom ashyo etishmagan kunlari ishchi bo'sh qolgan paytda hisoblangan ijtimoiy soliq summasiga 	9430	6520	Shartnomalar, dalolatnoma, hisoblangan ish haqi qaydnomasi

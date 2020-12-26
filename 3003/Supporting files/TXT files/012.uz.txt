@@ -1,0 +1,2 @@
+1	Kelgusi davrlarda soliq solinadigan bazadan chiqariladigan xarajatlar hisob uchun qabul qilingan 	012	1	Buxgalteriyaning hisob-kitob ma’lumotnomasi
+2	Vaqtning tegishli muddati o‘tgandan keyin soliq solinadigan baza xarajatlar summasiga kamaytirilgan 	1	012	Buxgalteriyaning hisob-kitob ma’lumotnomasi 

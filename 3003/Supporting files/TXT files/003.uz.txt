@@ -1,0 +1,4 @@
+1	Qayta ishlov berish uchun qabul qilingan tovar-moddiy qiymatliklar aks ettirilgan 	003	1	Yukxat
+2	Qayta ishlov berish bo‘yicha xarajatlar aks ettirilgan 	2010, 2310, 2510, 9400 	1010, 6710, 6520 	Shartnoma, hisobvaraq-faktura, buxgalteriyaning hisob-kitobi 
+3	Mahsulotning buyurtmachiga berilishi aks ettirilgan 	9130	2010, 2310	Bajarilgan ishlar dalolatnomasi 
+4	Qayta ishlov berish uchun qabul qilingan tovar-moddiy qiymatliklar hisobdan chiqarilgan 	1	003	Yukxat 
